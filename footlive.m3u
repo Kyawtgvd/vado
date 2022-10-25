@@ -1,8 +1,8 @@
-#EXTINF:-1tvg-logo="https://images.app.goo.gl/Ajtm6sifWyYjnXtd6"group-title="Sport HD",USA Network (scale)
+#EXTINF:-1tvg-logo="https://i0.wp.com/logotaglines.com/wp-content/uploads/2022/04/USA-Network-Logo-Tagline-Slogan-Owner.jpg?w=640&ssl=1"group-title="Sport HD",USA Network (scale)
 http://user.scalecdn.co:8080/live/mediahost247/9005e2c50a/3694.ts
-#EXTINF:-1tvg-logo="https://images.app.goo.gl/N3jzFFvToR3xLsXx7"group-title="Sport HD",Sky Sport Main Event (new abc)
+#EXTINF:-1tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSTO_j4yxdiQ62tFhfcRLn0LQPKkLoubKgmZ0IlSbOBIgz5GvEVf_Z93rE&s=10"group-title="Sport HD",Sky Sport Main Event (new abc)
 http://abc123.digital:8080/live/total/STq2brTYSq/428298.ts
-#EXTINF:-1tvg-logo="https://images.app.goo.gl/B3poBaio23ZUzFKh9"group-title="Myanmar Tv",Mahar
+#EXTINF:-1tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS4KYikrXEbKpRGOmH3AvhXLPeHovFrRbqXs2RIdkBwuNFuFvTUgrqDGZ8&s=10"group-title="Myanmar Tv",Mahar
 https://tv.mahar.live/mahar/website.stream/playlist.m3u8
-#EXTINF:-1tvg-logo="https://images.app.goo.gl/yiRyaXDSjFFV4AQk9"group-title="Myanmar Tv",Channel 7
+#EXTINF:-1tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQb8Rl2VF9UQZF63c2xGzqiRIdOC8YRQKFCwg&usqp=CAU"group-title="Myanmar Tv",Channel 7
 https://foreveralive1-a.akamaihd.net/db889d68019848c5b303610afdae3190/ap-southeast-1/6057949479001/profile_2/chunklist.m3u8
