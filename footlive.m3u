@@ -1,7 +1,7 @@
 #EXTINF:-1group-title="Sport HD",USA Network FHD (scale)
 http://user.scalecdn.co:8080/live/mediahost247/9005e2c50a/3694.ts
-#EXTINF:-1group-title="Sport HD",Sky Sport Premier League FHD (abc)
-http://abc123.digital:8080/live/Legend/QmdhPq6Sb9/428320.ts
+#EXTINF:-1group-title="Sport HD",Sky Sport Premier League (new abc)
+http://abc123.digital:8080/live/total/STq2brTYSq/428320.ts
 #EXTINF:-1group-title="Myanmar Tv",Mahar
 https://tv.mahar.live/mahar/website.stream/playlist.m3u8
 #EXTINF:-1group-title="Myanmar Tv",Channel 7
