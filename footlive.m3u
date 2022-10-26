@@ -1,7 +1,5 @@
 #EXTINF:-1tvg-logo="https://i0.wp.com/logotaglines.com/wp-content/uploads/2022/04/USA-Network-Logo-Tagline-Slogan-Owner.jpg?w=640&ssl=1"group-title="Sport HD",USA Network (scale)
 http://user.scalecdn.co:8080/live/mediahost247/9005e2c50a/3694.ts
-#EXTINF:-1tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSTO_j4yxdiQ62tFhfcRLn0LQPKkLoubKgmZ0IlSbOBIgz5GvEVf_Z93rE&s=10"group-title="Sport HD",Sky Sport Main Event (new abc)
-http://abc123.digital:8080/live/total/STq2brTYSq/428298.ts
 #EXTINF:-1tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQb8Rl2VF9UQZF63c2xGzqiRIdOC8YRQKFCwg&usqp=CAU"group-title="Myanmar Tv",Channel 7
 https://foreveralive1-a.akamaihd.net/db889d68019848c5b303610afdae3190/ap-southeast-1/6057949479001/profile_2/chunklist.m3u8
 #EXTINF:-1tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR_w0al7qRegm4CSimoiY5EbgAFVkCKhywyFfWgFuqtD2h_VKqc4N2bfjM&s=10"group-title="Myanmar Tv",MNTV
@@ -41,3 +39,7 @@ https://webudi.openhd.lol/lb/premium38/index.m3u8
 #EXTINF:-1tvg-logo="https://i.goalzz.com/?i=o%2Fh%2F1%2F214%2Fbein-sports-english-1.png"group-title="Sport HD",Bein Sport 2 English🏅
 #EXTVLCOPT:http-referrer=https://streamservicehd.click/premiumtv/livetvon.php?id=90
 https://webudi.openhd.lol/lb/premium90/index.m3u8
+#EXTINF:-1tvg-logo="https://static.wikia.nocookie.net/logaekranowe/images/6/69/Eleven1ekr2018-19.png/revision/latest/scale-to-width-down/1991?cb=20211228183748&path-prefix=pl"group-title="Sport HD",Eleven Sport 1
+http://user.scalecdn.co:8080/live/Oliverjones_212/e399551dc9/925.ts
+#EXTINF:-1tvg-logo="https://ocdn.eu/ptv2-images/logo-migrated/eleven-sports-2.png"group-title="Sport HD",Eleven Sport 2
+http://user.scalecdn.co:8080/live/Oliverjones_212/e399551dc9/923.ts
