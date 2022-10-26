@@ -12,3 +12,23 @@ https://foreveralive1-a.akamaihd.net/7cbf965de49a4f308eb64b980e690a38/ap-southea
 https://foreveralive1-a.akamaihd.net/327fbb9692d74b8a9fd35e75359fa826/ap-southeast-1/6057949479001/profile_2/chunklist.m3u8
 #EXTINF:-1tvg-logo="https://assets.bein.com/mena/sites/3/2015/06/beIN_SPORTS1_ENGLISH_Digital_Mono.png"group-title="Sport HD",Bein Sport 1 English (scale)
 http://user.scalecdn.co:8080/live/mediahost247/9005e2c50a/548627.ts
+#EXTINF:-1tvg-logo="https://www.nicepng.com/png/detail/213-2133982_sky-sports-logo-png.png"group-title="Sport HD",Sky Sport Premier League🏅
+#EXTVLCOPT:http-referrer=https://streamservicehd.click/premiumtv/livetvon.php?id=130
+https://webudi.openhd.lol/lb/premium130/index.m3u8
+#EXTINF:-1tvg-logo="https://assets.bein.com/mena/sites/3/2015/06/beIN_SPORTS1_ENGLISH_Digital_Mono.png"group-title="Sport HD",Bein Sport 1 English🏅
+#EXTVLCOPT:http-referrer=https://streamservicehd.click/premiumtv/livetvon.php?id=61
+https://webudi.openhd.lol/lb/premium61/index.m3u8
+#EXTINF:-1tvg-logo="https://s3-eu-west-1.amazonaws.com/static.media.info/l/o/1/1539.1647384977.png"group-title="Sport HD",BT Sport 1🏅
+#EXTVLCOPT:http-referrer=https://streamservicehd.click/premiumtv/livetvon.php?id=31
+https://webudi.openhd.lol/lb/premium31/index.m3u8
+#EXTINF:-1tvg-logo="https://s3-eu-west-1.amazonaws.com/static.media.info/l/o/1/1540.1647385004.png"group-title="Sport HD",BT Sport 2🏅
+#EXTVLCOPT:http-referrer=https://streamservicehd.click/premiumtv/livetvon.php?id=32
+https://webudi.openhd.lol/lb/premium32/index.m3u8
+#EXTINF:-1tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/fb/BT_Sport_3.svg/revision/latest?cb=20191227182642"group-title="Sport HD",BT Sport 3🏅
+#EXTVLCOPT:http-referrer=https://streamservicehd.click/premiumtv/livetvon.php?id=33
+https://webudi.openhd.lol/lb/premium33/index.m3u8
+#EXTINF:-1tvg-logo="https://s3-eu-west-1.amazonaws.com/static.media.info/l/o/1/1491.1659387051.png"group-title="Sport HD",BT Sport 4 ESPN🏅
+#EXTVLCOPT:http-referrer=https://streamservicehd.click/premiumtv/livetvon.php?id=34
+https://webudi.openhd.lol/lb/premium34/index.m3u8
+#EXTINF:-1tvg-logo="https://play-lh.googleusercontent.com/EvzFsHzdsO_B0U97VR9hyJday6GsjZg84BqX_vOSM9Cm6-Kn2iYDEmGSafYvItKhWT0"group-title="Myanmar Tv",Mahar
+https://tv.mahar.live/mahar/website.stream/playlist.m3u8
