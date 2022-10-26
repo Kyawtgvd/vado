@@ -32,3 +32,12 @@ https://webudi.openhd.lol/lb/premium33/index.m3u8
 https://webudi.openhd.lol/lb/premium34/index.m3u8
 #EXTINF:-1tvg-logo="https://play-lh.googleusercontent.com/EvzFsHzdsO_B0U97VR9hyJday6GsjZg84BqX_vOSM9Cm6-Kn2iYDEmGSafYvItKhWT0"group-title="Myanmar Tv",Mahar
 https://tv.mahar.live/mahar/website.stream/playlist.m3u8
+#EXTINF:-1tvg-logo="https://static.wikia.nocookie.net/youtube/images/8/84/USA_Network.jpg/revision/latest?cb=20201105181343"group-title="Sport HD",USA Network🏅
+#EXTVLCOPT:http-referrer=https://streamservicehd.click/premiumtv/livetvon.php?id=27
+https://webui.openhd.lol/lb/wiki27/index.m3u8
+#EXTINF:-1tvg-logo="https://ia800803.us.archive.org/32/items/SkySportsMainEvent_201708/sky%20sports%20main%20event.png"group-title="Sport HD",Sky Sport Main Event🏅
+#EXTVLCOPT:http-referrer=https://streamservicehd.click/premiumtv/livetvon.php?id=38
+https://webudi.openhd.lol/lb/premium38/index.m3u8
+#EXTINF:-1tvg-logo="https://i.goalzz.com/?i=o%2Fh%2F1%2F214%2Fbein-sports-english-1.png"group-title="Sport HD",Bein Sport 2 English🏅
+#EXTVLCOPT:http-referrer=https://streamservicehd.click/premiumtv/livetvon.php?id=90
+https://webudi.openhd.lol/lb/premium90/index.m3u8
