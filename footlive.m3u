@@ -39,7 +39,9 @@ https://webudi.openhd.lol/lb/premium38/index.m3u8
 #EXTINF:-1tvg-logo="https://i.goalzz.com/?i=o%2Fh%2F1%2F214%2Fbein-sports-english-1.png"group-title="Sport HD",Bein Sport 2 English🏅
 #EXTVLCOPT:http-referrer=https://streamservicehd.click/premiumtv/livetvon.php?id=90
 https://webudi.openhd.lol/lb/premium90/index.m3u8
-#EXTINF:-1tvg-logo="https://static.wikia.nocookie.net/logaekranowe/images/6/69/Eleven1ekr2018-19.png/revision/latest/scale-to-width-down/1991?cb=20211228183748&path-prefix=pl"group-title="Sport HD",Eleven Sport 1
+#EXTINF:-1tvg-logo="https://static.wikia.nocookie.net/logaekranowe/images/6/69/Eleven1ekr2018-19.png/revision/latest/scale-to-width-down/1991?cb=20211228183748&path-prefix=pl"group-title="Sport HD",Eleven Sport 1 (scale)
 http://user.scalecdn.co:8080/live/Oliverjones_212/e399551dc9/925.ts
-#EXTINF:-1tvg-logo="https://ocdn.eu/ptv2-images/logo-migrated/eleven-sports-2.png"group-title="Sport HD",Eleven Sport 2
+#EXTINF:-1tvg-logo="https://ocdn.eu/ptv2-images/logo-migrated/eleven-sports-2.png"group-title="Sport HD",Eleven Sport 2 (scale)
 http://user.scalecdn.co:8080/live/Oliverjones_212/e399551dc9/923.ts
+#EXTINF:-1tvg-logo="https://www.nicepng.com/png/detail/213-2133982_sky-sports-logo-png.png"group-title="Sport HD",Sky Sport Premier League (scale)
+http://user.scalecdn.co:8080/live/Oliverjones_212/e399551dc9/2181.ts
