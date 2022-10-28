@@ -43,5 +43,27 @@ https://webudi.openhd.lol/lb/premium90/index.m3u8
 http://user.scalecdn.co:8080/live/Oliverjones_212/e399551dc9/925.ts
 #EXTINF:-1tvg-logo="https://ocdn.eu/ptv2-images/logo-migrated/eleven-sports-2.png"group-title="Sport HD",Eleven Sport 2 (scale)
 http://user.scalecdn.co:8080/live/Oliverjones_212/e399551dc9/923.ts
-#EXTINF:-1tvg-logo="https://www.nicepng.com/png/detail/213-2133982_sky-sports-logo-png.png"group-title="Sport HD",Sky Sport Premier League (scale)
-http://user.scalecdn.co:8080/live/Oliverjones_212/e399551dc9/2181.ts
+#EXTINF:-1group-title="Sport HD",Sky Sport Main Event HEVC (tee) 💠
+http://teeveetv.one:2052/live/jasonevansline/0jyvB88Sj6/749489.ts
+#EXTINF:-1group-title="Sport HD",Sky Sport Premier League HEVC (tee) 💠
+http://teeveetv.one:2052/live/jasonevansline/0jyvB88Sj6/749505.ts
+#EXTINF:-1group-title="Sport HD",BT Sport 1 HEVC (tee) 💠
+http://teeveetv.one:2052/live/jasonevansline/0jyvB88Sj6/992606.ts
+#EXTINF:-1group-title="Sport HD",BT Sport 2 HEVC (tee)
+http://teeveetv.one:2052/live/jasonevansline/0jyvB88Sj6/992607.ts
+#EXTINF:-1group-title="Sport HD",BT Sport 3 HEVC (tee)
+http://teeveetv.one:2052/live/jasonevansline/0jyvB88Sj6/992608.ts
+#EXTINF:-1group-title="Sport HD",BT Sport 4 HEVC (tee)
+http://teeveetv.one:2052/live/jasonevansline/0jyvB88Sj6/992609.ts
+#EXTINF:-1group-title="Sport HD",Now HK Premier Sport 1 (tee)
+http://teeveetv.one:2052/live/jasonevansline/0jyvB88Sj6/754587.ts
+#EXTINF:-1group-title="Sport HD",Peacock NBC Sport (tee)
+http://teeveetv.one:2052/live/jasonevansline/0jyvB88Sj6/992752.ts
+#EXTINF:-1group-title="Sport HD",Peacock Premier League (tee)
+http://teeveetv.one:2052/live/jasonevansline/0jyvB88Sj6/992753.ts
+#EXTINF:-1group-title="Sport HD",Astro Super Sport 3 (tee)
+http://teeveetv.one:2052/live/jasonevansline/0jyvB88Sj6/1001263.ts
+#EXTINF:-1group-title="Sport HD",Star Sport Select 1 (tee)
+http://teeveetv.one:2052/live/jasonevansline/0jyvB88Sj6/998885.ts
+#EXTINF:-1group-title="Sport HD",USA Network (tee) 💠
+http://teeveetv.one:2052/live/jasonevansline/0jyvB88Sj6/973494.ts
