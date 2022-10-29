@@ -21,6 +21,8 @@ http://teeveetv.one:2052/live/syntax/MKlaiuUcj2/191858.ts
 #EXTVLCOPT:http-referrer=https://streamservicehd.click/premiumtv/livetvon.php?id=90
 https://webudi.openhd.lol/lb/premium90/index.m3u8
 
+#EXTINF:-1group-title="Sport HD",Sky Sport Main Event 50fps (tee antu) 🏵
+http://teeveetv.one:2052/live/AnTuKdIreCts647479/VUF6kK3DnyPS/749489.ts
 #EXTINF:-1group-title="Sport HD",Sky Sport Main Event 50fps (login) 🏵
 http://login.boxlion.nl:80/live/Cinegold569/9gsGrbWDDLfdg498/13899.ts
 #EXTINF:-1group-title="Sport HD",Sky Sport Main Event HEVC (tee) 💠
@@ -28,6 +30,8 @@ http://teeveetv.one:2052/live/jasonevansline/0jyvB88Sj6/749489.ts
 #EXTINF:-1tvg-logo="https://ia800803.us.archive.org/32/items/SkySportsMainEvent_201708/sky%20sports%20main%20event.png"group-title="Sport HD",Sky Sport Main Event (from web) 🏅
 #EXTVLCOPT:http-referrer=https://streamservicehd.click/premiumtv/livetvon.php?id=38
 https://webudi.openhd.lol/lb/premium38/index.m3u8
+#EXTINF:-1group-title="Sport HD",Sky Sport Premier League 50fps (tee antu)
+http://teeveetv.one:2052/live/AnTuKdIreCts647479/VUF6kK3DnyPS/749505.ts 🏵
 #EXTINF:-1group-title="Sport HD",Sky Sport Premier League HEVC (tee) 💠
 http://teeveetv.one:2052/live/jasonevansline/0jyvB88Sj6/749505.ts
 #EXTINF:-1tvg-logo="https://www.nicepng.com/png/detail/213-2133982_sky-sports-logo-png.png"group-title="Sport HD",Sky Sport Premier League (from web) 🏅
@@ -40,6 +44,8 @@ http://teeveetv.one:2052/live/syntax/MKlaiuUcj2/749505.ts
 http://login.boxlion.nl:80/live/Cinegold569/9gsGrbWDDLfdg498/13902.ts
 #EXTINF:-1group-title="Sport HD",BT Sport 1 50fps (tee syntax) 🏵
 http://teeveetv.one:2052/live/syntax/MKlaiuUcj2/992606.ts
+#EXTINF:-1group-title="Sport HD",BT Sport 1 (tee antu)
+http://teeveetv.one:2052/live/AnTuKdIreCts647479/VUF6kK3DnyPS/753794.ts
 #EXTINF:-1tvg-logo="https://s3-eu-west-1.amazonaws.com/static.media.info/l/o/1/1539.1647384977.png"group-title="Sport HD",BT Sport 1 (from web) 🏅
 #EXTVLCOPT:http-referrer=https://streamservicehd.click/premiumtv/livetvon.php?id=31
 https://webudi.openhd.lol/lb/premium31/index.m3u8
