@@ -7,12 +7,16 @@ http://login.boxlion.nl:80/live/Cinegold569/9gsGrbWDDLfdg498/15833.ts
 https://webui.openhd.lol/lb/wiki27/index.m3u8
 #EXTINF:-1group-title="Sport HD",USA Network (tee) 💠
 http://teeveetv.one:2052/live/jasonevansline/0jyvB88Sj6/973494.ts
+#EXTINF:-1group-title="Sport HD",USA Network 50fps (tee syntax) 🏵
+http://teeveetv.one:2052/live/syntax/MKlaiuUcj2/973494.ts
 
 #EXTINF:-1tvg-logo="https://assets.bein.com/mena/sites/3/2015/06/beIN_SPORTS1_ENGLISH_Digital_Mono.png"group-title="Sport HD",Bein Sport 1 English (scale) 🏵
 http://user.scalecdn.co:8080/live/mediahost247/9005e2c50a/548627.ts
 #EXTINF:-1tvg-logo="https://assets.bein.com/mena/sites/3/2015/06/beIN_SPORTS1_ENGLISH_Digital_Mono.png"group-title="Sport HD",Bein Sport 1 English (from web) 🏅
 #EXTVLCOPT:http-referrer=https://streamservicehd.click/premiumtv/livetvon.php?id=61
 https://webudi.openhd.lol/lb/premium61/index.m3u8
+#EXTINF:-1group-title="Sport HD",Bein Sport 1 English (tee syntax)
+http://teeveetv.one:2052/live/syntax/MKlaiuUcj2/191858.ts
 #EXTINF:-1tvg-logo="https://i.goalzz.com/?i=o%2Fh%2F1%2F214%2Fbein-sports-english-1.png"group-title="Sport HD",Bein Sport 2 English (from web) 🏅
 #EXTVLCOPT:http-referrer=https://streamservicehd.click/premiumtv/livetvon.php?id=90
 https://webudi.openhd.lol/lb/premium90/index.m3u8
@@ -29,9 +33,13 @@ http://teeveetv.one:2052/live/jasonevansline/0jyvB88Sj6/749505.ts
 #EXTINF:-1tvg-logo="https://www.nicepng.com/png/detail/213-2133982_sky-sports-logo-png.png"group-title="Sport HD",Sky Sport Premier League (from web) 🏅
 #EXTVLCOPT:http-referrer=https://streamservicehd.click/premiumtv/livetvon.php?id=130
 https://webudi.openhd.lol/lb/premium130/index.m3u8
+#EXTINF:-1group-title="Sport HD",Sky Sport Premier League (tee syntax) 💠
+http://teeveetv.one:2052/live/syntax/MKlaiuUcj2/749505.ts
 
 #EXTINF:-1group-title="Sport HD",BT Sport 1 50fps (login) 🏵
 http://login.boxlion.nl:80/live/Cinegold569/9gsGrbWDDLfdg498/13902.ts
+#EXTINF:-1group-title="Sport HD",BT Sport 1 50fps (tee syntax) 🏵
+http://teeveetv.one:2052/live/syntax/MKlaiuUcj2/992606.ts
 #EXTINF:-1tvg-logo="https://s3-eu-west-1.amazonaws.com/static.media.info/l/o/1/1539.1647384977.png"group-title="Sport HD",BT Sport 1 (from web) 🏅
 #EXTVLCOPT:http-referrer=https://streamservicehd.click/premiumtv/livetvon.php?id=31
 https://webudi.openhd.lol/lb/premium31/index.m3u8
@@ -60,6 +68,10 @@ http://user.scalecdn.co:8080/live/Oliverjones_212/e399551dc9/925.ts
 #EXTINF:-1tvg-logo="https://ocdn.eu/ptv2-images/logo-migrated/eleven-sports-2.png"group-title="Sport HD",Eleven Sport 2 (scale)
 http://user.scalecdn.co:8080/live/Oliverjones_212/e399551dc9/923.ts
 
+#EXTINF:-1group-title="Sport HD",Peacock 1 50fps (tee syntax) 💠
+http://teeveetv.one:2052/live/syntax/MKlaiuUcj2/992739.ts
+#EXTINF:-1group-title="Sport HD",Hub Premier 1 50fps (tee syntax) 💠
+http://teeveetv.one:2052/live/syntax/MKlaiuUcj2/1019032.ts
 #EXTINF:-1group-title="Sport HD",Now HK Premier Sport 1 (tee) 💠
 http://teeveetv.one:2052/live/jasonevansline/0jyvB88Sj6/754587.ts
 #EXTINF:-1group-title="Sport HD",Peacock NBC Sport (tee) 
@@ -72,6 +84,8 @@ http://tv.trexiptv.com:80/play/live.php?mac=00:1A:79:06:57:CD&stream=946250&exte
 http://teeveetv.one:2052/live/jasonevansline/0jyvB88Sj6/998885.ts
 #EXTINF:-1group-title="Sport HD",Star Sport Select 2 (trex) 💠
 http://tv.trexiptv.com:80/play/live.php?mac=00:1A:79:06:57:CD&stream=946251&extension=ts&play_token=gVr2S1fRTG
+#EXTINF:-1group-title="Sport HD",Star Sport Select 2 (tee syntax)
+http://teeveetv.one:2052/live/syntax/MKlaiuUcj2/998856.ts
 #EXTINF:-1group-title="Sport HD",USA TUDN (scale)
 http://user.scalecdn.co:8080/live/mediahost247/9005e2c50a/553262.ts
 
