@@ -1,69 +1,87 @@
-#EXTINF:-1tvg-logo="https://i0.wp.com/logotaglines.com/wp-content/uploads/2022/04/USA-Network-Logo-Tagline-Slogan-Owner.jpg?w=640&ssl=1"group-title="Sport HD",USA Network (scale)
+#EXTINF:-1tvg-logo="https://i0.wp.com/logotaglines.com/wp-content/uploads/2022/04/USA-Network-Logo-Tagline-Slogan-Owner.jpg?w=640&ssl=1"group-title="Sport HD",USA Network (scale) 🏵
 http://user.scalecdn.co:8080/live/mediahost247/9005e2c50a/3694.ts
-#EXTINF:-1tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQb8Rl2VF9UQZF63c2xGzqiRIdOC8YRQKFCwg&usqp=CAU"group-title="Myanmar Tv",Channel 7
-https://foreveralive1-a.akamaihd.net/db889d68019848c5b303610afdae3190/ap-southeast-1/6057949479001/profile_2/chunklist.m3u8
-#EXTINF:-1tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR_w0al7qRegm4CSimoiY5EbgAFVkCKhywyFfWgFuqtD2h_VKqc4N2bfjM&s=10"group-title="Myanmar Tv",MNTV
-http://l1-xl1.myanmarnet.com/relay/mntv/ch1/stream.m3u8
-#EXTINF:-1tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSmeq5ZK8WWmKgxOJBWK5DvcQ8v9I-svDe1scDd_8bMnJWu6ATMWVq-IKTt&s=10"group-title="Myanmar Tv",Mrtv 4
-https://foreveralive1-a.akamaihd.net/7cbf965de49a4f308eb64b980e690a38/ap-southeast-1/6057949479001/profile_2/chunklist.m3u8
-#EXTINF:-1tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQfTcmjtKKbhihNW_9eB2iKfaForAlXA2jjMiBGIqSeTwrpF0nkHbqOL5I&s=10"group-title="Myanmar Tv",Maharbawdi
-https://foreveralive1-a.akamaihd.net/327fbb9692d74b8a9fd35e75359fa826/ap-southeast-1/6057949479001/profile_2/chunklist.m3u8
-#EXTINF:-1tvg-logo="https://assets.bein.com/mena/sites/3/2015/06/beIN_SPORTS1_ENGLISH_Digital_Mono.png"group-title="Sport HD",Bein Sport 1 English (scale)
-http://user.scalecdn.co:8080/live/mediahost247/9005e2c50a/548627.ts
-#EXTINF:-1tvg-logo="https://www.nicepng.com/png/detail/213-2133982_sky-sports-logo-png.png"group-title="Sport HD",Sky Sport Premier League🏅
-#EXTVLCOPT:http-referrer=https://streamservicehd.click/premiumtv/livetvon.php?id=130
-https://webudi.openhd.lol/lb/premium130/index.m3u8
-#EXTINF:-1tvg-logo="https://assets.bein.com/mena/sites/3/2015/06/beIN_SPORTS1_ENGLISH_Digital_Mono.png"group-title="Sport HD",Bein Sport 1 English🏅
-#EXTVLCOPT:http-referrer=https://streamservicehd.click/premiumtv/livetvon.php?id=61
-https://webudi.openhd.lol/lb/premium61/index.m3u8
-#EXTINF:-1tvg-logo="https://s3-eu-west-1.amazonaws.com/static.media.info/l/o/1/1539.1647384977.png"group-title="Sport HD",BT Sport 1🏅
-#EXTVLCOPT:http-referrer=https://streamservicehd.click/premiumtv/livetvon.php?id=31
-https://webudi.openhd.lol/lb/premium31/index.m3u8
-#EXTINF:-1tvg-logo="https://s3-eu-west-1.amazonaws.com/static.media.info/l/o/1/1540.1647385004.png"group-title="Sport HD",BT Sport 2🏅
-#EXTVLCOPT:http-referrer=https://streamservicehd.click/premiumtv/livetvon.php?id=32
-https://webudi.openhd.lol/lb/premium32/index.m3u8
-#EXTINF:-1tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/fb/BT_Sport_3.svg/revision/latest?cb=20191227182642"group-title="Sport HD",BT Sport 3🏅
-#EXTVLCOPT:http-referrer=https://streamservicehd.click/premiumtv/livetvon.php?id=33
-https://webudi.openhd.lol/lb/premium33/index.m3u8
-#EXTINF:-1tvg-logo="https://s3-eu-west-1.amazonaws.com/static.media.info/l/o/1/1491.1659387051.png"group-title="Sport HD",BT Sport 4 ESPN🏅
-#EXTVLCOPT:http-referrer=https://streamservicehd.click/premiumtv/livetvon.php?id=34
-https://webudi.openhd.lol/lb/premium34/index.m3u8
-#EXTINF:-1tvg-logo="https://play-lh.googleusercontent.com/EvzFsHzdsO_B0U97VR9hyJday6GsjZg84BqX_vOSM9Cm6-Kn2iYDEmGSafYvItKhWT0"group-title="Myanmar Tv",Mahar
-https://tv.mahar.live/mahar/website.stream/playlist.m3u8
-#EXTINF:-1tvg-logo="https://static.wikia.nocookie.net/youtube/images/8/84/USA_Network.jpg/revision/latest?cb=20201105181343"group-title="Sport HD",USA Network🏅
+#EXTINF:-1group-title="Sport HD",USA Network (login) 🏵
+http://login.boxlion.nl:80/live/Cinegold569/9gsGrbWDDLfdg498/15833.ts
+#EXTINF:-1tvg-logo="https://static.wikia.nocookie.net/youtube/images/8/84/USA_Network.jpg/revision/latest?cb=20201105181343"group-title="Sport HD",USA Network (from web) 🏅
 #EXTVLCOPT:http-referrer=https://streamservicehd.click/premiumtv/livetvon.php?id=27
 https://webui.openhd.lol/lb/wiki27/index.m3u8
-#EXTINF:-1tvg-logo="https://ia800803.us.archive.org/32/items/SkySportsMainEvent_201708/sky%20sports%20main%20event.png"group-title="Sport HD",Sky Sport Main Event🏅
-#EXTVLCOPT:http-referrer=https://streamservicehd.click/premiumtv/livetvon.php?id=38
-https://webudi.openhd.lol/lb/premium38/index.m3u8
-#EXTINF:-1tvg-logo="https://i.goalzz.com/?i=o%2Fh%2F1%2F214%2Fbein-sports-english-1.png"group-title="Sport HD",Bein Sport 2 English🏅
+#EXTINF:-1group-title="Sport HD",USA Network (tee) 💠
+http://teeveetv.one:2052/live/jasonevansline/0jyvB88Sj6/973494.ts
+
+#EXTINF:-1tvg-logo="https://assets.bein.com/mena/sites/3/2015/06/beIN_SPORTS1_ENGLISH_Digital_Mono.png"group-title="Sport HD",Bein Sport 1 English (scale) 🏵
+http://user.scalecdn.co:8080/live/mediahost247/9005e2c50a/548627.ts
+#EXTINF:-1tvg-logo="https://assets.bein.com/mena/sites/3/2015/06/beIN_SPORTS1_ENGLISH_Digital_Mono.png"group-title="Sport HD",Bein Sport 1 English (from web) 🏅
+#EXTVLCOPT:http-referrer=https://streamservicehd.click/premiumtv/livetvon.php?id=61
+https://webudi.openhd.lol/lb/premium61/index.m3u8
+#EXTINF:-1tvg-logo="https://i.goalzz.com/?i=o%2Fh%2F1%2F214%2Fbein-sports-english-1.png"group-title="Sport HD",Bein Sport 2 English (from web) 🏅
 #EXTVLCOPT:http-referrer=https://streamservicehd.click/premiumtv/livetvon.php?id=90
 https://webudi.openhd.lol/lb/premium90/index.m3u8
-#EXTINF:-1tvg-logo="https://static.wikia.nocookie.net/logaekranowe/images/6/69/Eleven1ekr2018-19.png/revision/latest/scale-to-width-down/1991?cb=20211228183748&path-prefix=pl"group-title="Sport HD",Eleven Sport 1 (scale)
+
+#EXTINF:-1group-title="Sport HD",Sky Sport Main Event 50fps (login) 🏵
+http://login.boxlion.nl:80/live/Cinegold569/9gsGrbWDDLfdg498/13899.ts
+#EXTINF:-1group-title="Sport HD",Sky Sport Main Event HEVC (tee) 💠
+http://teeveetv.one:2052/live/jasonevansline/0jyvB88Sj6/749489.ts
+#EXTINF:-1tvg-logo="https://ia800803.us.archive.org/32/items/SkySportsMainEvent_201708/sky%20sports%20main%20event.png"group-title="Sport HD",Sky Sport Main Event (from web) 🏅
+#EXTVLCOPT:http-referrer=https://streamservicehd.click/premiumtv/livetvon.php?id=38
+https://webudi.openhd.lol/lb/premium38/index.m3u8
+#EXTINF:-1group-title="Sport HD",Sky Sport Premier League HEVC (tee) 💠
+http://teeveetv.one:2052/live/jasonevansline/0jyvB88Sj6/749505.ts
+#EXTINF:-1tvg-logo="https://www.nicepng.com/png/detail/213-2133982_sky-sports-logo-png.png"group-title="Sport HD",Sky Sport Premier League (from web) 🏅
+#EXTVLCOPT:http-referrer=https://streamservicehd.click/premiumtv/livetvon.php?id=130
+https://webudi.openhd.lol/lb/premium130/index.m3u8
+
+#EXTINF:-1group-title="Sport HD",BT Sport 1 50fps (login) 🏵
+http://login.boxlion.nl:80/live/Cinegold569/9gsGrbWDDLfdg498/13902.ts
+#EXTINF:-1tvg-logo="https://s3-eu-west-1.amazonaws.com/static.media.info/l/o/1/1539.1647384977.png"group-title="Sport HD",BT Sport 1 (from web) 🏅
+#EXTVLCOPT:http-referrer=https://streamservicehd.click/premiumtv/livetvon.php?id=31
+https://webudi.openhd.lol/lb/premium31/index.m3u8
+#EXTINF:-1group-title="Sport HD",BT Sport 1 HEVC (tee) 💠
+http://teeveetv.one:2052/live/jasonevansline/0jyvB88Sj6/992606.ts
+#EXTINF:-1tvg-logo="https://s3-eu-west-1.amazonaws.com/static.media.info/l/o/1/1540.1647385004.png"group-title="Sport HD",BT Sport 2 (from web) 🏅
+#EXTVLCOPT:http-referrer=https://streamservicehd.click/premiumtv/livetvon.php?id=32
+https://webudi.openhd.lol/lb/premium32/index.m3u8
+#EXTINF:-1group-title="Sport HD",BT Sport 2 HEVC (tee)
+http://teeveetv.one:2052/live/jasonevansline/0jyvB88Sj6/992607.ts
+#EXTINF:-1tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/fb/BT_Sport_3.svg/revision/latest?cb=20191227182642"group-title="Sport HD",BT Sport 3 (from web) 🏅
+#EXTVLCOPT:http-referrer=https://streamservicehd.click/premiumtv/livetvon.php?id=33
+https://webudi.openhd.lol/lb/premium33/index.m3u8
+#EXTINF:-1group-title="Sport HD",BT Sport 3 HEVC (tee)
+http://teeveetv.one:2052/live/jasonevansline/0jyvB88Sj6/992608.ts
+#EXTINF:-1tvg-logo="https://s3-eu-west-1.amazonaws.com/static.media.info/l/o/1/1491.1659387051.png"group-title="Sport HD",BT Sport 4 ESPN (from web) 🏅
+#EXTVLCOPT:http-referrer=https://streamservicehd.click/premiumtv/livetvon.php?id=34
+https://webudi.openhd.lol/lb/premium34/index.m3u8
+#EXTINF:-1group-title="Sport HD",BT Sport 4 HEVC (tee)
+http://teeveetv.one:2052/live/jasonevansline/0jyvB88Sj6/992609.ts
+
+#EXTINF:-1group-title="Sport HD",Eleven Sport 1 (login) 🏵
+http://login.boxlion.nl:80/live/Cinegold569/9gsGrbWDDLfdg498/14548.ts
+#EXTINF:-1tvg-logo="https://static.wikia.nocookie.net/logaekranowe/images/6/69/Eleven1ekr2018-19.png/revision/latest/scale-to-width-down/1991?cb=20211228183748&path-prefix=pl"group-title="Sport HD",Eleven Sport 1 (scale) 🏵
 http://user.scalecdn.co:8080/live/Oliverjones_212/e399551dc9/925.ts
 #EXTINF:-1tvg-logo="https://ocdn.eu/ptv2-images/logo-migrated/eleven-sports-2.png"group-title="Sport HD",Eleven Sport 2 (scale)
 http://user.scalecdn.co:8080/live/Oliverjones_212/e399551dc9/923.ts
-#EXTINF:-1group-title="Sport HD",Sky Sport Main Event HEVC (tee) 💠
-http://teeveetv.one:2052/live/jasonevansline/0jyvB88Sj6/749489.ts
-#EXTINF:-1group-title="Sport HD",Sky Sport Premier League HEVC (tee) 💠
-http://teeveetv.one:2052/live/jasonevansline/0jyvB88Sj6/749505.ts
-#EXTINF:-1group-title="Sport HD",BT Sport 1 HEVC (tee) 💠
-http://teeveetv.one:2052/live/jasonevansline/0jyvB88Sj6/992606.ts
-#EXTINF:-1group-title="Sport HD",BT Sport 2 HEVC (tee)
-http://teeveetv.one:2052/live/jasonevansline/0jyvB88Sj6/992607.ts
-#EXTINF:-1group-title="Sport HD",BT Sport 3 HEVC (tee)
-http://teeveetv.one:2052/live/jasonevansline/0jyvB88Sj6/992608.ts
-#EXTINF:-1group-title="Sport HD",BT Sport 4 HEVC (tee)
-http://teeveetv.one:2052/live/jasonevansline/0jyvB88Sj6/992609.ts
-#EXTINF:-1group-title="Sport HD",Now HK Premier Sport 1 (tee)
+
+#EXTINF:-1group-title="Sport HD",Now HK Premier Sport 1 (tee) 💠
 http://teeveetv.one:2052/live/jasonevansline/0jyvB88Sj6/754587.ts
-#EXTINF:-1group-title="Sport HD",Peacock NBC Sport (tee)
+#EXTINF:-1group-title="Sport HD",Peacock NBC Sport (tee) 
 http://teeveetv.one:2052/live/jasonevansline/0jyvB88Sj6/992752.ts
 #EXTINF:-1group-title="Sport HD",Peacock Premier League (tee)
 http://teeveetv.one:2052/live/jasonevansline/0jyvB88Sj6/992753.ts
-#EXTINF:-1group-title="Sport HD",Astro Super Sport 3 (tee)
-http://teeveetv.one:2052/live/jasonevansline/0jyvB88Sj6/1001263.ts
+#EXTINF:-1group-title="Sport HD",Star Sport Select 1 (trex) 💠
+http://tv.trexiptv.com:80/play/live.php?mac=00:1A:79:06:57:CD&stream=946250&extension=ts&play_token=d9QOJBdCma
 #EXTINF:-1group-title="Sport HD",Star Sport Select 1 (tee)
 http://teeveetv.one:2052/live/jasonevansline/0jyvB88Sj6/998885.ts
-#EXTINF:-1group-title="Sport HD",USA Network (tee) 💠
-http://teeveetv.one:2052/live/jasonevansline/0jyvB88Sj6/973494.ts
+#EXTINF:-1group-title="Sport HD",Star Sport Select 2 (trex) 💠
+http://tv.trexiptv.com:80/play/live.php?mac=00:1A:79:06:57:CD&stream=946251&extension=ts&play_token=gVr2S1fRTG
+#EXTINF:-1group-title="Sport HD",USA TUDN (scale)
+http://user.scalecdn.co:8080/live/mediahost247/9005e2c50a/553262.ts
+
+#EXTINF:-1tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQfTcmjtKKbhihNW_9eB2iKfaForAlXA2jjMiBGIqSeTwrpF0nkHbqOL5I&s=10"group-title="Myanmar Tv",Maharbawdi
+https://foreveralive1-a.akamaihd.net/327fbb9692d74b8a9fd35e75359fa826/ap-southeast-1/6057949479001/profile_2/chunklist.m3u8
+#EXTINF:-1tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQb8Rl2VF9UQZF63c2xGzqiRIdOC8YRQKFCwg&usqp=CAU"group-title="Myanmar Tv",Channel 7
+https://foreveralive1-a.akamaihd.net/db889d68019848c5b303610afdae3190/ap-southeast-1/6057949479001/profile_2/chunklist.m3u8
+#EXTINF:-1tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSmeq5ZK8WWmKgxOJBWK5DvcQ8v9I-svDe1scDd_8bMnJWu6ATMWVq-IKTt&s=10"group-title="Myanmar Tv",Mrtv 4
+https://foreveralive1-a.akamaihd.net/7cbf965de49a4f308eb64b980e690a38/ap-southeast-1/6057949479001/profile_2/chunklist.m3u8
+#EXTINF:-1tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR_w0al7qRegm4CSimoiY5EbgAFVkCKhywyFfWgFuqtD2h_VKqc4N2bfjM&s=10"group-title="Myanmar Tv",MNTV
+http://l1-xl1.myanmarnet.com/relay/mntv/ch1/stream.m3u8
+#EXTINF:-1tvg-logo="https://play-lh.googleusercontent.com/EvzFsHzdsO_B0U97VR9hyJday6GsjZg84BqX_vOSM9Cm6-Kn2iYDEmGSafYvItKhWT0"group-title="Myanmar Tv",Mahar
+https://tv.mahar.live/mahar/website.stream/playlist.m3u8
