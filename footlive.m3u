@@ -105,3 +105,50 @@ https://foreveralive1-a.akamaihd.net/7cbf965de49a4f308eb64b980e690a38/ap-southea
 http://l1-xl1.myanmarnet.com/relay/mntv/ch1/stream.m3u8
 #EXTINF:-1tvg-logo="https://play-lh.googleusercontent.com/EvzFsHzdsO_B0U97VR9hyJday6GsjZg84BqX_vOSM9Cm6-Kn2iYDEmGSafYvItKhWT0"group-title="Myanmar Tv",Mahar
 https://tv.mahar.live/mahar/website.stream/playlist.m3u8
+
+#EXTINF:-1group-title="Sport HD",USA Network (dns)
+http://dns.k4livetv.com:8080/live/Cliente10gbits10gbits/9AAeRqFgps/409319.ts
+#EXTINF:-1group-title="Sport HD",USA Universo (dns)
+http://dns.k4livetv.com:8080/live/Cliente10gbits10gbits/9AAeRqFgps/302790.ts
+#EXTINF:-1group-title="Sport HD",USA Univision NY (dns)
+http://dns.k4livetv.com:8080/live/Cliente10gbits10gbits/9AAeRqFgps/302817.ts
+#EXTINF:-1group-title="Sport HD",USA Unimas NY (dns)
+http://dns.k4livetv.com:8080/live/Cliente10gbits10gbits/9AAeRqFgps/302833.ts
+#EXTINF:-1group-title="Sport HD",USA TUDN (dns)
+http://dns.k4livetv.com:8080/live/Cliente10gbits10gbits/9AAeRqFgps/408217.ts
+#EXTINF:-1group-title="Sport HD",BT Sport 1 50fps (perfect)
+http://channels.toysntrends.co.uk:80/play/lTpWLJCcSwv59pDR6I-ME5DWJatIviWfn2IKRch0BxmNj4TBfiDgDpr1qQYarXJE0LDCqo-JSfwFDDAYMvFVcvjoHL9kzfd_pWhbtdHCkKQ?ext=.ts
+#EXTINF:-1group-title="Sport HD",BT Sport 2 50fps (perfect)
+http://channels.toysntrends.co.uk:80/play/lTpWLJCcSwv59pDR6I-ME5DWJatIviWfn2IKRch0Bxn-bEPrCsGvZKSCSNTTq5vHX6pnLc2X6TQkbvIYunJL_vKATyUQQ0ofIL7UiF9spRk?ext=.ts
+#EXTINF:-1group-title="Sport HD",BT Sport 3 50fps (perfect)
+http://channels.toysntrends.co.uk:80/play/lTpWLJCcSwv59pDR6I-ME5DWJatIviWfn2IKRch0Bxmv0CCbSDBIsq7Ftdb3_3ygU9yMYSg55dcwjqcInfKXReILp2yRa1FybsxyYvlqX2c?ext=.ts
+#EXTINF:-1group-title="Sport HD",BT Sport 4 50fps (perfect)
+http://channels.toysntrends.co.uk:80/play/lTpWLJCcSwv59pDR6I-ME5DWJatIviWfn2IKRch0BxnjPdfYi_YzYlbDSsFsRFyxAbRl55rHijbQFcePym5PNwFaRWrDgp5J2GsqfjMed-8?ext=.ts
+#EXTINF:-1group-title="Sport HD",Sky Sport Main Event 50fps (perfect)
+http://channels.toysntrends.co.uk:80/play/lTpWLJCcSwv59pDR6I-ME5DWJatIviWfn2IKRch0BxnszPqbIi63jG8_tBbN8pWj9mMf2sECgevwUDFh1QamTu_Rql-tp_ghdpQKVmRtc4g?ext=.ts
+#EXTINF:-1group-title="Sport HD",Sky Sport Premier League 50fps (perfect)
+http://channels.toysntrends.co.uk:80/play/lTpWLJCcSwv59pDR6I-ME5DWJatIviWfn2IKRch0Bxn2IKCVN17OuoFX76IXm4COuiaYOyz5SBHVOgJk9UUufyjL31jjZXdJcjSCPm_8h-Y?ext=.ts
+#EXTINF:-1group-title="Sport HD",USA Network East 50fps (divine)
+http://divine.ddns.me:8080/live/2oiazsCf5E/ZOSwbDzk2D/867.ts
+#EXTINF:-1group-title="Sport HD",USA Network West 50fps (divine)
+http://divine.ddns.me:8080/live/2oiazsCf5E/ZOSwbDzk2D/1361.ts
+#EXTINF:-1group-title="Sport HD",USA Universo (divine)
+http://divine.ddns.me:8080/live/2oiazsCf5E/ZOSwbDzk2D/929.ts
+#EXTINF:-1group-title="Sport HD",USA TUDN (divine)
+http://divine.ddns.me:8080/live/2oiazsCf5E/ZOSwbDzk2D/913.ts
+#EXTINF:-1group-title="Sport HD",BT Sport 1 (divine)
+http://divine.ddns.me:8080/live/2oiazsCf5E/ZOSwbDzk2D/2001.ts
+#EXTINF:-1group-title="Sport HD",BT Sport 2 (divine)
+http://divine.ddns.me:8080/live/2oiazsCf5E/ZOSwbDzk2D/2000.ts
+#EXTINF:-1group-title="Sport HD",BT Sport 3 (divine)
+http://divine.ddns.me:8080/live/2oiazsCf5E/ZOSwbDzk2D/1999.ts
+#EXTINF:-1group-title="Sport HD",BT Sport 4 (divine)
+http://divine.ddns.me:8080/live/2oiazsCf5E/ZOSwbDzk2D/1998.ts
+#EXTINF:-1group-title="Sport HD",Sky Sport Premier League (divine)
+http://divine.ddns.me:8080/live/2oiazsCf5E/ZOSwbDzk2D/2125.ts
+#EXTINF:-1group-title="Sport HD",Sky Sport Main Event (divine)
+http://divine.ddns.me:8080/live/2oiazsCf5E/ZOSwbDzk2D/2131.ts
+#EXTINF:-1group-title="Sport HD",Star Sport Select 1 (robsre)
+http://robsrewards.xyz:8880/play/live.php?mac=00:1A:79:AA:E7:EB&stream=862747&extension=ts&play_token=dhRyImmMNC
+#EXTINF:-1group-title="Sport HD",Star Sport Select 2 (robsre)
+http://robsrewards.xyz:8880/play/live.php?mac=00:1A:79:AA:E7:EB&stream=862748&extension=ts&play_token=KqwWEPWlUd
