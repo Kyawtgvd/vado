@@ -11,19 +11,9 @@ https://webui.openhd.lol/lb/wiki27/index.m3u8
 http://teeveetv.one:2052/live/jasonevansline/0jyvB88Sj6/973494.ts
 #EXTINF:-1group-title="USA Sport",USA Network 50fps (tee syntax) 🏵
 http://teeveetv.one:2052/live/syntax/MKlaiuUcj2/973494.ts
-#EXTINF:-1group-title="USA Sport",USA Network (dns)
-http://dns.k4livetv.com:8080/live/Cliente10gbits10gbits/9AAeRqFgps/409319.ts
-#EXTINF:-1group-title="USA Sport",USA Universo (dns)
-http://dns.k4livetv.com:8080/live/Cliente10gbits10gbits/9AAeRqFgps/302790.ts
-#EXTINF:-1group-title="USA Sport",USA Univision NY (dns)
-http://dns.k4livetv.com:8080/live/Cliente10gbits10gbits/9AAeRqFgps/302817.ts
-#EXTINF:-1group-title="USA Sport",USA Unimas NY (dns)
-http://dns.k4livetv.com:8080/live/Cliente10gbits10gbits/9AAeRqFgps/302833.ts
-#EXTINF:-1group-title="USA Sport",USA TUDN (dns)
-http://dns.k4livetv.com:8080/live/Cliente10gbits10gbits/9AAeRqFgps/408217.ts
-#EXTINF:-1group-title="USA Sport",USA Network East 50fps (divine)
+#EXTINF:-1group-title="USA Sport",USA Network East 50fps (divine) 🏵
 http://divine.ddns.me:8080/live/2oiazsCf5E/ZOSwbDzk2D/867.ts
-#EXTINF:-1group-title="USA Sport",USA Network West 50fps (divine)
+#EXTINF:-1group-title="USA Sport",USA Network West 50fps (divine) 🏵
 http://divine.ddns.me:8080/live/2oiazsCf5E/ZOSwbDzk2D/1361.ts
 #EXTINF:-1group-title="USA Sport",USA Universo (divine)
 http://divine.ddns.me:8080/live/2oiazsCf5E/ZOSwbDzk2D/929.ts
