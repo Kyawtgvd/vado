@@ -2,6 +2,8 @@
 http://user.scalecdn.co:8080/live/mediahost247/9005e2c50a/3694.ts
 #EXTINF:-1group-title="USA Sport",USA Network (login) 🏵
 http://login.boxlion.nl:80/live/Cinegold569/9gsGrbWDDLfdg498/15833.ts
+#EXTINF:-1group-title="USA Sport",USA Network UHD (scale oliver) 🏵
+http://user.scalecdn.co:8080/live/Oliverjones_212/e399551dc9/3694.ts
 #EXTINF:-1tvg-logo="https://static.wikia.nocookie.net/youtube/images/8/84/USA_Network.jpg/revision/latest?cb=20201105181343"group-title="USA Sport",USA Network (from web) 🏅
 #EXTVLCOPT:http-referrer=https://streamservicehd.click/premiumtv/livetvon.php?id=27
 https://webui.openhd.lol/lb/wiki27/index.m3u8
@@ -123,6 +125,19 @@ http://teeveetv.one:2052/live/jasonevansline/0jyvB88Sj6/998885.ts
 http://tv.trexiptv.com:80/play/live.php?mac=00:1A:79:06:57:CD&stream=946251&extension=ts&play_token=gVr2S1fRTG
 #EXTINF:-1group-title="Star Sport",Star Sport Select 2 (tee syntax)
 http://teeveetv.one:2052/live/syntax/MKlaiuUcj2/998856.ts
+
+#EXTINF:-1group-title="Astro Sport",Astro Super Sport 1 (tee)
+http://teeveetv.one:2052/live/jasonevansline/0jyvB88Sj6/1003861.ts
+#EXTINF:-1group-title="Astro Sport",Astro Super Sport 2 (tee)
+http://teeveetv.one:2052/live/jasonevansline/0jyvB88Sj6/1003862.ts
+#EXTINF:-1group-title="Astro Sport",Astro Super Sport 3 (tee) 💠
+http://teeveetv.one:2052/live/jasonevansline/0jyvB88Sj6/1003863.ts
+#EXTINF:-1group-title="Astro Sport",Astro Super Sport 1 (tee syntax)
+http://teeveetv.one:2052/live/syntax/MKlaiuUcj2/1003861.ts
+#EXTINF:-1group-title="Astro Sport",Astro Super Sport 2 (tee syntax)
+http://teeveetv.one:2052/live/syntax/MKlaiuUcj2/1003862.ts
+#EXTINF:-1group-title="Astro Sport",Astro Super Sport 3 (tee syntax) 💠
+http://teeveetv.one:2052/live/syntax/MKlaiuUcj2/1003863.ts
 
 #EXTINF:-1group-title="Other Sport",Eleven Sport 1 (login) 🏵
 http://login.boxlion.nl:80/live/Cinegold569/9gsGrbWDDLfdg498/14548.ts
