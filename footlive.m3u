@@ -156,3 +156,18 @@ https://foreveralive1-a.akamaihd.net/7cbf965de49a4f308eb64b980e690a38/ap-southea
 http://l1-xl1.myanmarnet.com/relay/mntv/ch1/stream.m3u8
 #EXTINF:-1tvg-logo="https://play-lh.googleusercontent.com/EvzFsHzdsO_B0U97VR9hyJday6GsjZg84BqX_vOSM9Cm6-Kn2iYDEmGSafYvItKhWT0"group-title="Myanmar Tv",Mahar
 https://tv.mahar.live/mahar/website.stream/playlist.m3u8
+
+#EXTINF:-1tvg-logo="https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQnck4Tev3_QRDXnz-wag0MBAQ7C9J2FDYF9dj0nVhr5rvD-a42"group-title="Movie",Paw of furry (2022)
+https://www.googleapis.com/drive/v3/files/1qTHVc6c-b6D-pIBsBQfzx0UaDZqM7Gci?alt=media&key=AIzaSyCW2txvD6L9lgW__ylEYwtaBZW1ZJTrn9E
+#EXTINF:-1tvg-logo="https://m.media-amazon.com/images/M/MV5BYzZkOGUwMzMtMTgyNS00YjFlLTg5NzYtZTE3Y2E5YTA5NWIyXkEyXkFqcGdeQXVyMjkwOTAyMDU@._V1_.jpg"group-title="Movie",Black Adam (2022)
+https://www.googleapis.com/drive/v3/files/1qy9j7XdNsoM3f6mCeDz_BbLRf2vbrZrh?alt=media&key=AIzaSyCW2txvD6L9lgW__ylEYwtaBZW1ZJTrn9E
+#EXTINF:-1tvg-logo="https://photos.hancinema.net/photos/photo1539829.jpg"group-title="Movie",Confidential Assignment 2 (2022)
+https://www.googleapis.com/drive/v3/files/17Rq2_0qWWfQTtXphGf6UL4z6I_KDeD8-?alt=media&key=AIzaSyCW2txvD6L9lgW__ylEYwtaBZW1ZJTrn9E
+#EXTINF:-1tvg-logo="https://media-cache.cinematerial.com/p/500x/bcexvash/1-nenokkadine-indian-movie-poster.jpg?v=1456407601"group-title="Movie",Nenokkadine (2014)
+https://www.googleapis.com/drive/v3/files/1VMIVceEdQhXudYcq8gn3YQ23wSDMfqKB?alt=media&key=AIzaSyCW2txvD6L9lgW__ylEYwtaBZW1ZJTrn9E
+#EXTINF:-1tvg-logo="https://m.media-amazon.com/images/M/MV5BMjE1NDMxMjI0OV5BMl5BanBnXkFtZTcwMjQyMDExOQ@@._V1_.jpg"group-title="Movie",Jack the Gaint Slayer (2013)
+https://www.googleapis.com/drive/v3/files/11Rke6LDjCo77JIsuJ_lq_ieLzLLZQGoB?alt=media&key=AIzaSyCW2txvD6L9lgW__ylEYwtaBZW1ZJTrn9E
+#EXTINF:-1tvg-logo="https://images.fandango.com/ImageRenderer/0/0/redesign/static/img/default_poster.png/0/images/masterrepository/Fandango/219467/Kingdom_400x600.jpg"group-title="Movie",Kingdom (2019)
+https://www.googleapis.com/drive/v3/files/1PIDA5gT4r_A5Z8lkvuGsRlgcHWt-tHr9?alt=media&key=AIzaSyCW2txvD6L9lgW__ylEYwtaBZW1ZJTrn9E
+#EXTINF:-1tvg-logo="https://image.tmdb.org/t/p/original/aHdxKDX36NOEYE2NyAyP7ThuAcm.jpg"group-title="Movie",Red Dawn (2012)
+https://www.googleapis.com/drive/v3/files/1LfMCAKfaXIFzfhetvdyMAPVQgfwZoYlg?alt=media&key=AIzaSyCW2txvD6L9lgW__ylEYwtaBZW1ZJTrn9E
