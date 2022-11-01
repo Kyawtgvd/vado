@@ -24,6 +24,8 @@ http://user.scalecdn.co:8080/live/mediahost247/9005e2c50a/553262.ts
 
 #EXTINF:-1tvg-logo="https://assets.bein.com/mena/sites/3/2015/06/beIN_SPORTS1_ENGLISH_Digital_Mono.png"group-title="Bein Sport",Bein Sport 1 English (scale) 🏵
 http://user.scalecdn.co:8080/live/mediahost247/9005e2c50a/548627.ts
+#EXTINF:-1group-title="Sport HD",Bein Sport 1 English 50fps (xtra) 🏵
+http://xtratexxx.dimapro.xyz:8080/live/vipteste/ey6eJaKbbn/91123.ts
 #EXTINF:-1tvg-logo="https://assets.bein.com/mena/sites/3/2015/06/beIN_SPORTS1_ENGLISH_Digital_Mono.png"group-title="Bein Sport",Bein Sport 1 English (from web) 🏅
 #EXTVLCOPT:http-referrer=https://streamservicehd.click/premiumtv/livetvon.php?id=61
 https://webudi.openhd.lol/lb/premium61/index.m3u8
@@ -103,10 +105,6 @@ http://divine.ddns.me:8080/live/2oiazsCf5E/ZOSwbDzk2D/1999.ts
 #EXTINF:-1group-title="BT Sport",BT Sport 4 (divine)
 http://divine.ddns.me:8080/live/2oiazsCf5E/ZOSwbDzk2D/1998.ts
 
-#EXTINF:-1group-title="Star Sport",Star Sport Select 1 (robsre)
-http://robsrewards.xyz:8880/play/live.php?mac=00:1A:79:AA:E7:EB&stream=862747&extension=ts&play_token=dhRyImmMNC
-#EXTINF:-1group-title="Star Sport",Star Sport Select 2 (robsre)
-http://robsrewards.xyz:8880/play/live.php?mac=00:1A:79:AA:E7:EB&stream=862748&extension=ts&play_token=KqwWEPWlUd
 #EXTINF:-1group-title="Star Sport",Star Sport Select 1 (trex) 💠
 http://tv.trexiptv.com:80/play/live.php?mac=00:1A:79:06:57:CD&stream=946250&extension=ts&play_token=d9QOJBdCma
 #EXTINF:-1group-title="Star Sport",Star Sport Select 1 (tee)
