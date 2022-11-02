@@ -7,6 +7,8 @@ http://user.scalecdn.co:8080/live/Oliverjones_212/e399551dc9/3694.ts
 #EXTINF:-1tvg-logo="https://static.wikia.nocookie.net/youtube/images/8/84/USA_Network.jpg/revision/latest?cb=20201105181343"group-title="USA Sport",USA Network (from web) 🏅
 #EXTVLCOPT:http-referrer=https://streamservicehd.click/premiumtv/livetvon.php?id=27
 https://webui.openhd.lol/lb/wiki27/index.m3u8
+#EXTINF:-1group-title="USA Sport",USA Network 50fps (securepoint) 🏵
+http://n2086.securepoint.io:25461/live/airball/airball/53307.ts
 #EXTINF:-1group-title="USA Sport",USA Network (tee) 💠
 http://teeveetv.one:2052/live/jasonevansline/0jyvB88Sj6/973494.ts
 #EXTINF:-1group-title="USA Sport",USA Network 50fps (tee syntax) 🏵
@@ -24,11 +26,13 @@ http://user.scalecdn.co:8080/live/mediahost247/9005e2c50a/553262.ts
 
 #EXTINF:-1tvg-logo="https://assets.bein.com/mena/sites/3/2015/06/beIN_SPORTS1_ENGLISH_Digital_Mono.png"group-title="Bein Sport",Bein Sport 1 English (scale) 🏵
 http://user.scalecdn.co:8080/live/mediahost247/9005e2c50a/548627.ts
-#EXTINF:-1group-title="Sport HD",Bein Sport 1 English 50fps (xtra) 🏵
+#EXTINF:-1group-title="Bein Sport",Bein Sport 1 English 50fps (xtra) 🏵
 http://xtratexxx.dimapro.xyz:8080/live/vipteste/ey6eJaKbbn/91123.ts
 #EXTINF:-1tvg-logo="https://assets.bein.com/mena/sites/3/2015/06/beIN_SPORTS1_ENGLISH_Digital_Mono.png"group-title="Bein Sport",Bein Sport 1 English (from web) 🏅
 #EXTVLCOPT:http-referrer=https://streamservicehd.click/premiumtv/livetvon.php?id=61
 https://webudi.openhd.lol/lb/premium61/index.m3u8
+#EXTINF:-1group-title="Bein Sport"Bein Sport 1 English (securepoint) 💠
+http://n2086.securepoint.io:25461/live/airball/airball/56341.ts
 #EXTINF:-1group-title="Bein Sport",Bein Sport 1 English (tee syntax)
 http://teeveetv.one:2052/live/syntax/MKlaiuUcj2/191858.ts
 #EXTINF:-1tvg-logo="https://i.goalzz.com/?i=o%2Fh%2F1%2F214%2Fbein-sports-english-1.png"group-title="Bein Sport",Bein Sport 2 English (from web) 🏅
@@ -114,6 +118,12 @@ http://tv.trexiptv.com:80/play/live.php?mac=00:1A:79:06:57:CD&stream=946251&exte
 #EXTINF:-1group-title="Star Sport",Star Sport Select 2 (tee syntax)
 http://teeveetv.one:2052/live/syntax/MKlaiuUcj2/998856.ts
 
+#EXTINF:-1group-title="Astro Sport",Astro Super Sport 1 50fps (secure point)
+http://n2086.securepoint.io:25461/live/airball/airball/197514.ts
+#EXTINF:-1group-title="Astro Sport",Astro Super Sport 2 50fps (secure point)
+http://n2086.securepoint.io:25461/live/airball/airball/197515.ts
+#EXTINF:-1group-title="Astro Sport",Astro Super Sport 3 50fps (secure point) 💠
+http://n2086.securepoint.io:25461/live/airball/airball/197516.ts
 #EXTINF:-1group-title="Astro Sport",Astro Super Sport 1 (tee)
 http://teeveetv.one:2052/live/jasonevansline/0jyvB88Sj6/1003861.ts
 #EXTINF:-1group-title="Astro Sport",Astro Super Sport 2 (tee)
@@ -126,6 +136,22 @@ http://teeveetv.one:2052/live/syntax/MKlaiuUcj2/1003861.ts
 http://teeveetv.one:2052/live/syntax/MKlaiuUcj2/1003862.ts
 #EXTINF:-1group-title="Astro Sport",Astro Super Sport 3 (tee syntax) 💠
 http://teeveetv.one:2052/live/syntax/MKlaiuUcj2/1003863.ts
+
+#EXTINF:-1group-title="Sport HD 720p",Sky Sport Premier League (securepoint)
+http://n2086.securepoint.io:25461/live/airball/airball/53986.ts
+#EXTINF:-1group-title="Sport HD 720p",Sky Sport Main Event (securepoint)
+http://n2086.securepoint.io:25461/live/airball/airball/53982.ts
+#EXTINF:-1group-title="Sport HD 720p",USA Network (from web)
+#EXTVLCOPT:http-referrer=http://maxsports.site/fb-epl/
+http://185.53.89.183/hls/M1.m3u8
+#EXTINF:-1group-title="Sport HD 720p",BT Sport 1 (securepoint)
+http://n2086.securepoint.io:25461/live/airball/airball/53850.ts
+#EXTINF:-1group-title="Sport HD 720p",BT Sport 2 (securepoint)
+http://n2086.securepoint.io:25461/live/airball/airball/53851.ts
+#EXTINF:-1group-title="Sport HD 720p",BT Sport 3 (securepoint)
+http://n2086.securepoint.io:25461/live/airball/airball/53852.ts
+#EXTINF:-1group-title="Sport HD 720p",BT Sport 4 (securepoint)
+http://n2086.securepoint.io:25461/live/airball/airball/53853.ts
 
 #EXTINF:-1group-title="Other Sport",Eleven Sport 1 (login) 🏵
 http://login.boxlion.nl:80/live/Cinegold569/9gsGrbWDDLfdg498/14548.ts
