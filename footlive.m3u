@@ -9,7 +9,7 @@ http://user.scalecdn.co:8080/live/Oliverjones_212/e399551dc9/3694.ts
 https://webui.openhd.lol/lb/wiki27/index.m3u8
 #EXTINF:-1group-title="USA Sport",USA Network (securepoint) 🏵
 http://n2086.securepoint.io:25461/live/airball/airball/53307.ts
-#EXTINF:-1group-title="USA Sport",USA Network (tee) 💠
+#EXTINF:-1group-title="USA Sport",USA Network (tee) 
 http://teeveetv.one:2052/live/jasonevansline/0jyvB88Sj6/973494.ts
 #EXTINF:-1group-title="USA Sport",USA Network (tee syntax) 🏵
 http://teeveetv.one:2052/live/syntax/MKlaiuUcj2/973494.ts
@@ -39,29 +39,35 @@ http://sniperstv.vip:8080/live/egymummy_Azqdlqsd/skypeexchange_IKHDQ/34025.ts
 https://webudi.openhd.lol/lb/premium61/index.m3u8
 #EXTINF:-1group-title="Bein Sport",Bein Sport 1 English (tee syntax)
 http://teeveetv.one:2052/live/syntax/MKlaiuUcj2/191858.ts
-#EXTINF:-1group-title="Bein Sport",Bein Sport 1 English (securepoint) 💠
+#EXTINF:-1group-title="Bein Sport",Bein Sport 1 English (securepoint) 
 http://n2086.securepoint.io:25461/live/airball/airball/56341.ts
 #EXTINF:-1tvg-logo="https://i.goalzz.com/?i=o%2Fh%2F1%2F214%2Fbein-sports-english-1.png"group-title="Bein Sport",Bein Sport 2 English (from web) 🏅
 #EXTVLCOPT:http-referrer=https://streamservicehd.click/premiumtv/livetvon.php?id=90
 https://webudi.openhd.lol/lb/premium90/index.m3u8
+#EXTINF:-1group-title="Bein Sport",Bein Sport 1 English (tvt) 🏵
+http://tvt3.xyz:2095/play/live.php?mac=00:1A:79:00:04:02&stream=94453&extension=ts&play_token=MFvTXPqeV2
+#EXTINF:-1group-title="Bein Sport",Bein Sport 2 English (tvt) 🏵
+http://tvt3.xyz:2095/play/live.php?mac=00:1A:79:00:04:02&stream=94449&extension=ts&play_token=7xA0nLy5YR
+#EXTINF:-1group-title="Bein Sport",Bein Sport 3 English (tvt) 🏵
+http://tvt3.xyz:2095/play/live.php?mac=00:1A:79:00:04:02&stream=94445&extension=ts&play_token=lIoB2Jdn6G
 
 #EXTINF:-1group-title="Sky Sport",Sky Sport Main Event (tee antu) 🏵
 http://teeveetv.one:2052/live/AnTuKdIreCts647479/VUF6kK3DnyPS/749489.ts
 #EXTINF:-1group-title="Sky Sport",Sky Sport Main Event (login) 🏵
 http://login.boxlion.nl:80/live/Cinegold569/9gsGrbWDDLfdg498/13899.ts
-#EXTINF:-1group-title="Sky Sport",Sky Sport Main Event (tee) 💠
+#EXTINF:-1group-title="Sky Sport",Sky Sport Main Event (tee) 
 http://teeveetv.one:2052/live/jasonevansline/0jyvB88Sj6/749489.ts
 #EXTINF:-1tvg-logo="https://ia800803.us.archive.org/32/items/SkySportsMainEvent_201708/sky%20sports%20main%20event.png"group-title="Sky Sport",Sky Sport Main Event (from web) 🏅
 #EXTVLCOPT:http-referrer=https://streamservicehd.click/premiumtv/livetvon.php?id=38
 https://webudi.openhd.lol/lb/premium38/index.m3u8
 #EXTINF:-1group-title="Sky Sport",Sky Sport Premier League (tee antu) 🏵 
 http://teeveetv.one:2052/live/AnTuKdIreCts647479/VUF6kK3DnyPS/749505.ts 
-#EXTINF:-1group-title="Sky Sport",Sky Sport Premier League (tee) 💠
+#EXTINF:-1group-title="Sky Sport",Sky Sport Premier League (tee) 
 http://teeveetv.one:2052/live/jasonevansline/0jyvB88Sj6/749505.ts
 #EXTINF:-1tvg-logo="https://www.nicepng.com/png/detail/213-2133982_sky-sports-logo-png.png"group-title="Sky Sport",Sky Sport Premier League (from web) 🏅
 #EXTVLCOPT:http-referrer=https://streamservicehd.click/premiumtv/livetvon.php?id=130
 https://webudi.openhd.lol/lb/premium130/index.m3u8
-#EXTINF:-1group-title="Sky Sport",Sky Sport Premier League (tee syntax) 💠
+#EXTINF:-1group-title="Sky Sport",Sky Sport Premier League (tee syntax) 
 http://teeveetv.one:2052/live/syntax/MKlaiuUcj2/749505.ts
 #EXTINF:-1group-title="Sky Sport",Sky Sport Premier League (divine)
 http://divine.ddns.me:8080/live/2oiazsCf5E/ZOSwbDzk2D/2125.ts
@@ -71,6 +77,10 @@ http://divine.ddns.me:8080/live/2oiazsCf5E/ZOSwbDzk2D/2131.ts
 http://channels.toysntrends.co.uk:80/play/lTpWLJCcSwv59pDR6I-ME5DWJatIviWfn2IKRch0BxnszPqbIi63jG8_tBbN8pWj9mMf2sECgevwUDFh1QamTu_Rql-tp_ghdpQKVmRtc4g?ext=.ts
 #EXTINF:-1group-title="Sky Sport",Sky Sport Premier League (perfect)
 http://channels.toysntrends.co.uk:80/play/lTpWLJCcSwv59pDR6I-ME5DWJatIviWfn2IKRch0Bxn2IKCVN17OuoFX76IXm4COuiaYOyz5SBHVOgJk9UUufyjL31jjZXdJcjSCPm_8h-Y?ext=.ts
+#EXTINF:-1group-title="Sky Sport",Sky Sport Main Event (tvt) 🏵
+http://tvt3.xyz:2095/play/live.php?mac=00:1A:79:00:04:02&stream=37073&extension=ts&play_token=sCJrZR3Zu6
+#EXTINF:-1group-title="Sky Sport",Sky Sport Premier League (tvt) 🏵
+http://tvt3.xyz:2095/play/live.php?mac=00:1A:79:00:04:02&stream=37069&extension=ts&play_token=N9otAxGf8c
 
 #EXTINF:-1group-title="BT Sport",BT Sport 1 (login) 🏵
 http://login.boxlion.nl:80/live/Cinegold569/9gsGrbWDDLfdg498/13902.ts
@@ -81,7 +91,7 @@ http://teeveetv.one:2052/live/AnTuKdIreCts647479/VUF6kK3DnyPS/753794.ts
 #EXTINF:-1tvg-logo="https://s3-eu-west-1.amazonaws.com/static.media.info/l/o/1/1539.1647384977.png"group-title="BT Sport",BT Sport 1 (from web) 🏅
 #EXTVLCOPT:http-referrer=https://streamservicehd.click/premiumtv/livetvon.php?id=31
 https://webudi.openhd.lol/lb/premium31/index.m3u8
-#EXTINF:-1group-title="BT Sport",BT Sport 1 (tee) 💠
+#EXTINF:-1group-title="BT Sport",BT Sport 1 (tee) 
 http://teeveetv.one:2052/live/jasonevansline/0jyvB88Sj6/992606.ts
 #EXTINF:-1tvg-logo="https://s3-eu-west-1.amazonaws.com/static.media.info/l/o/1/1540.1647385004.png"group-title="BT Sport",BT Sport 2 (from web) 🏅
 #EXTVLCOPT:http-referrer=https://streamservicehd.click/premiumtv/livetvon.php?id=32
@@ -114,39 +124,71 @@ http://divine.ddns.me:8080/live/2oiazsCf5E/ZOSwbDzk2D/2000.ts
 http://divine.ddns.me:8080/live/2oiazsCf5E/ZOSwbDzk2D/1999.ts
 #EXTINF:-1group-title="BT Sport",BT Sport 4 (divine)
 http://divine.ddns.me:8080/live/2oiazsCf5E/ZOSwbDzk2D/1998.ts
+#EXTINF:-1group-title="BT Sport",BT Sport 1 (tvt) 🏵
+http://tvt3.xyz:2095/play/live.php?mac=00:1A:79:00:04:02&stream=9850&extension=ts&play_token=JlFQQQV7IW
+#EXTINF:-1group-title="BT Sport",BT Sport 2 (tvt) 🏵
+http://tvt3.xyz:2095/play/live.php?mac=00:1A:79:00:04:02&stream=9848&extension=ts&play_token=DjafsAAwys
+#EXTINF:-1group-title="BT Sport",BT Sport 3 (tvt) 🏵
+http://tvt3.xyz:2095/play/live.php?mac=00:1A:79:00:04:02&stream=9846&extension=ts&play_token=bGoYIRbfW4
+#EXTINF:-1group-title="BT Sport",BT Sport 4 (tvt) 🏵
+http://tvt3.xyz:2095/play/live.php?mac=00:1A:79:00:04:02&stream=23657&extension=ts&play_token=xhLflrH07a
 
+#EXTINF:-1group-title="Star Sport",Star Sport Select 1 (tvt) 🏵
+http://tvt3.xyz:2095/play/live.php?mac=00:1A:79:00:04:02&stream=438235&extension=ts&play_token=c8Qv5myvG9
+#EXTINF:-1group-title="Star Sport",Star Sport Select 2 (tvt) 🏵
+http://tvt3.xyz:2095/play/live.php?mac=00:1A:79:00:04:02&stream=438236&extension=ts&play_token=oyhV95zaNF
 #EXTINF:-1group-title="Star Sport",Star Sport Select 1 (netsport)
 http://netsports.tk:80/live/QwD49DZz9J/L6YRnFiUMt/71487.ts
 #EXTINF:-1group-title="Star Sport",Star Sport Select 2 (netsport)
 http://netsports.tk:80/live/QwD49DZz9J/L6YRnFiUMt/71488.ts
-#EXTINF:-1group-title="Star Sport",Star Sport Select 1 (trex) 💠
+#EXTINF:-1group-title="Star Sport",Star Sport Select 1 (trex) 
 http://tv.trexiptv.com:80/play/live.php?mac=00:1A:79:06:57:CD&stream=946250&extension=ts&play_token=d9QOJBdCma
 #EXTINF:-1group-title="Star Sport",Star Sport Select 1 (tee)
 http://teeveetv.one:2052/live/jasonevansline/0jyvB88Sj6/998885.ts
-#EXTINF:-1group-title="Star Sport",Star Sport Select 2 (trex) 💠
+#EXTINF:-1group-title="Star Sport",Star Sport Select 2 (trex) 
 http://tv.trexiptv.com:80/play/live.php?mac=00:1A:79:06:57:CD&stream=946251&extension=ts&play_token=gVr2S1fRTG
 #EXTINF:-1group-title="Star Sport",Star Sport Select 2 (tee syntax)
 http://teeveetv.one:2052/live/syntax/MKlaiuUcj2/998856.ts
+
+#EXTINF:-1group-title="Hub Premier Sport",Hub Premier 1 (tvt)
+http://tvt3.xyz:2095/play/live.php?mac=10:27:BE:3d:63:1c&stream=348097&extension=ts&play_token=pCWqD5VyDG
+#EXTINF:-1group-title="Hub Premier Sport",Hub Premier 2 (tvt)
+http://tvt3.xyz:2095/play/live.php?mac=00:1A:79:00:04:02&stream=348098&extension=ts&play_token=iIva5VcOzk
+#EXTINF:-1group-title="Hub Premier Sport",Hub Premier 3 (tvt)
+http://tvt3.xyz:2095/play/live.php?mac=00:1A:79:00:04:02&stream=348099&extension=ts&play_token=Cb93L81CQD
+#EXTINF:-1group-title="Hub Premier Sport",Hub Premier 4 (tvt)
+http://tvt3.xyz:2095/play/live.php?mac=00:1A:79:00:04:02&stream=348100&extension=ts&play_token=SvUk20O92U
+#EXTINF:-1group-title="Hub Premier Sport",Hub Premier 5 (tvt)
+http://tvt3.xyz:2095/play/live.php?mac=00:1A:79:00:04:02&stream=348101&extension=ts&play_token=3IifQAY1xF
+
+#EXTINF:-1group-title="4K UHD",Now HK Premier Sport (tvt) 4K
+http://tvt3.xyz:2095/play/live.php?mac=00:1A:79:00:04:02&stream=117957&extension=ts&play_token=AbdVvv7KCM
+#EXTINF:-1group-title="4K UHD",Astro Super Sport (tvt) 4K
+http://tvt3.xyz:2095/play/live.php?mac=00:1A:79:00:04:02&stream=348094&extension=ts&play_token=FzoklzfqN1
 
 #EXTINF:-1group-title="Astro Sport",Astro Super Sport 1 (secure point)
 http://n2086.securepoint.io:25461/live/airball/airball/197514.ts
 #EXTINF:-1group-title="Astro Sport",Astro Super Sport 2 (secure point)
 http://n2086.securepoint.io:25461/live/airball/airball/197515.ts
-#EXTINF:-1group-title="Astro Sport",Astro Super Sport 3 (secure point) 💠
+#EXTINF:-1group-title="Astro Sport",Astro Super Sport 3 (secure point) 
 http://n2086.securepoint.io:25461/live/airball/airball/197516.ts
 #EXTINF:-1group-title="Astro Sport",Astro Super Sport 1 (tee)
 http://teeveetv.one:2052/live/jasonevansline/0jyvB88Sj6/1003861.ts
 #EXTINF:-1group-title="Astro Sport",Astro Super Sport 2 (tee)
 http://teeveetv.one:2052/live/jasonevansline/0jyvB88Sj6/1003862.ts
-#EXTINF:-1group-title="Astro Sport",Astro Super Sport 3 (tee) 💠
+#EXTINF:-1group-title="Astro Sport",Astro Super Sport 3 (tee) 
 http://teeveetv.one:2052/live/jasonevansline/0jyvB88Sj6/1003863.ts
 #EXTINF:-1group-title="Astro Sport",Astro Super Sport 1 (tee syntax)
 http://teeveetv.one:2052/live/syntax/MKlaiuUcj2/1003861.ts
 #EXTINF:-1group-title="Astro Sport",Astro Super Sport 2 (tee syntax)
 http://teeveetv.one:2052/live/syntax/MKlaiuUcj2/1003862.ts
-#EXTINF:-1group-title="Astro Sport",Astro Super Sport 3 (tee syntax) 💠
+#EXTINF:-1group-title="Astro Sport",Astro Super Sport 3 (tee syntax) 
 http://teeveetv.one:2052/live/syntax/MKlaiuUcj2/1003863.ts
 
+#EXTINF:-1group-title="Sport HD 720p",True Premier Football 1 (tvt) 🏵
+http://tvt3.xyz:2095/play/live.php?mac=00:1A:79:00:04:02&stream=115758&extension=ts&play_token=ZleOAq2r3y
+#EXTINF:-1group-title="Sport HD 720p",True Premier Football 2 (tvt) 🏵
+http://tvt3.xyz:2095/play/live.php?mac=00:1A:79:00:04:02&stream=115762&extension=ts&play_token=f15SJHghJH
 #EXTINF:-1group-title="Sport HD 720p",Sky Sport Premier League (securepoint)
 http://n2086.securepoint.io:25461/live/airball/airball/53986.ts
 #EXTINF:-1group-title="Sport HD 720p",Sky Sport Main Event (securepoint)
@@ -177,7 +219,7 @@ http://login.boxlion.nl:80/live/Cinegold569/9gsGrbWDDLfdg498/14548.ts
 http://user.scalecdn.co:8080/live/Oliverjones_212/e399551dc9/925.ts
 #EXTINF:-1tvg-logo="https://ocdn.eu/ptv2-images/logo-migrated/eleven-sports-2.png"group-title="Other Sport",Eleven Sport 2 (scale)
 http://user.scalecdn.co:8080/live/Oliverjones_212/e399551dc9/923.ts
-#EXTINF:-1group-title="Other Sport",Now HK Premier Sport 1 (tee) 💠
+#EXTINF:-1group-title="Other Sport",Now HK Premier Sport 1 (tee) 
 http://teeveetv.one:2052/live/jasonevansline/0jyvB88Sj6/754587.ts
 #EXTINF:-1group-title="Other Sport",Peacock NBC Sport (tee) 
 http://teeveetv.one:2052/live/jasonevansline/0jyvB88Sj6/992752.ts
