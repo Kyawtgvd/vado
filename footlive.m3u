@@ -173,6 +173,19 @@ http://tvt3.xyz:2095/play/live.php?mac=00:1A:79:00:04:02&stream=117957&extension
 #EXTINF:-1group-title="4K UHD",Astro Super Sport (tvt) 4K
 http://tvt3.xyz:2095/play/live.php?mac=00:1A:79:00:04:02&stream=348094&extension=ts&play_token=FzoklzfqN1
 
+#EXTINF:-1group-title="Super Sport",Super Sport Premier League (from web)🏅
+#EXTVLCOPT:http-referrer=https://streamservicehd.click/premiumtv/livetvon.php?id=414
+https://webudi.openhd.lol/lb/premium414/index.m3u8
+#EXTINF:-1group-title="Super Sport",Super Sport Laliga (from web)🏅
+#EXTVLCOPT:http-referrer=https://streamservicehd.click/premiumtv/livetvon.php?id=415
+https://webudi.openhd.lol/lb/premium415/index.m3u8
+#EXTINF:-1group-title="Super Sport",Super Sport Football (from web)🏅
+#EXTVLCOPT:http-referrer=https://streamservicehd.click/premiumtv/livetvon.php?id=56
+https://webudi.openhd.lol/lb/premium56/index.m3u8
+#EXTINF:-1group-title="Super Sport",Super Sport Maximo (from web)🏅
+#EXTVLCOPT:http-referrer=https://streamservicehd.click/premiumtv/livetvon.php?id=572
+https://webudi.openhd.lol/lb/premium572/index.m3u8
+
 #EXTINF:-1group-title="Astro Sport",Astro Super Sport 1 (tee)
 http://teeveetv.one:2052/live/jasonevansline/0jyvB88Sj6/1003861.ts
 #EXTINF:-1group-title="Astro Sport",Astro Super Sport 2 (tee)
@@ -191,6 +204,32 @@ http://n2086.securepoint.io:25461/live/airball/airball/197514.ts
 http://n2086.securepoint.io:25461/live/airball/airball/197515.ts
 #EXTINF:-1group-title="Astro Sport",Astro Super Sport 3 (secure point) 
 http://n2086.securepoint.io:25461/live/airball/airball/197516.ts
+
+#EXTINF:-1group-title="Other Sport",Eleven Sport 1 (login) 🏵
+http://login.boxlion.nl:80/live/Cinegold569/9gsGrbWDDLfdg498/14548.ts
+#EXTINF:-1tvg-logo="https://static.wikia.nocookie.net/logaekranowe/images/6/69/Eleven1ekr2018-19.png/revision/latest/scale-to-width-down/1991?cb=20211228183748&path-prefix=pl"group-title="Other Sport",Eleven Sport 1 (scale) 🏵
+http://user.scalecdn.co:8080/live/Oliverjones_212/e399551dc9/925.ts
+#EXTINF:-1tvg-logo="https://ocdn.eu/ptv2-images/logo-migrated/eleven-sports-2.png"group-title="Other Sport",Eleven Sport 2 (scale)
+http://user.scalecdn.co:8080/live/Oliverjones_212/e399551dc9/923.ts
+#EXTINF:-1group-title="Other Sport",Eleven Sport 1 (from web)🏅
+#EXTVLCOPT:http-referrer=https://streamservicehd.click/premiumtv/livetvon.php?id=455
+https://webudi.openhd.lol/lb/premium455/index.m3u8
+#EXTINF:-1group-title="Other Sport",Eleven Sport 2 (from web)🏅
+#EXTVLCOPT:http-referrer=https://streamservicehd.click/premiumtv/livetvon.php?id=456
+https://webudi.openhd.lol/lb/premium456/index.m3u8
+#EXTINF:-1group-title="Other Sport",Now HK Premier Sport 1 (tee) 
+http://teeveetv.one:2052/live/jasonevansline/0jyvB88Sj6/754587.ts
+#EXTINF:-1group-title="Other Sport",Peacock NBC Sport (tee) 
+http://teeveetv.one:2052/live/jasonevansline/0jyvB88Sj6/992752.ts
+#EXTINF:-1group-title="Other Sport",Peacock Premier League (tee)
+http://teeveetv.one:2052/live/jasonevansline/0jyvB88Sj6/992753.ts
+
+#EXTINF:-1group-title="RMC Sport",RMC Sport 1 (ott indz)
+http://ott.indz.xyz:25461/live/Jad/Jad/31328.ts
+#EXTINF:-1group-title="RMC Sport",RMC Sport 2 (ott indz)
+http://ott.indz.xyz:25461/live/Jad/Jad/31329.ts
+#EXTINF:-1group-title="RMC Sport",RMC Sport 3 (ott indz)
+http://ott.indz.xyz:25461/live/Jad/Jad/31330.ts
 
 #EXTINF:-1group-title="Sport HD 720p",True Premier Football 1 (tvt) 🏵
 http://tvt3.xyz:2095/play/live.php?mac=00:1A:79:00:04:02&stream=115758&extension=ts&play_token=ZleOAq2r3y
@@ -219,31 +258,6 @@ http://ott.indz.xyz:25461/live/Jad/Jad/10544.ts
 http://ott.indz.xyz:25461/live/Jad/Jad/10586.ts
 #EXTINF:-1group-title="Sport HD 720p",Bein Sport 1 English (line365)
 http://line.365tv.xyz:8060/live/HomeTV/ffdgbr564646hghngytrtt/101944.ts
-
-#EXTINF:-1group-title="Other Sport",Eleven Sport 1 (login) 🏵
-http://login.boxlion.nl:80/live/Cinegold569/9gsGrbWDDLfdg498/14548.ts
-#EXTINF:-1tvg-logo="https://static.wikia.nocookie.net/logaekranowe/images/6/69/Eleven1ekr2018-19.png/revision/latest/scale-to-width-down/1991?cb=20211228183748&path-prefix=pl"group-title="Other Sport",Eleven Sport 1 (scale) 🏵
-http://user.scalecdn.co:8080/live/Oliverjones_212/e399551dc9/925.ts
-#EXTINF:-1tvg-logo="https://ocdn.eu/ptv2-images/logo-migrated/eleven-sports-2.png"group-title="Other Sport",Eleven Sport 2 (scale)
-http://user.scalecdn.co:8080/live/Oliverjones_212/e399551dc9/923.ts
-#EXTINF:-1group-title="Other Sport",Eleven Sport 1 (from web)🏅
-#EXTVLCOPT:http-referrer=https://streamservicehd.click/premiumtv/livetvon.php?id=455
-https://webudi.openhd.lol/lb/premium455/index.m3u8
-#EXTINF:-1group-title="Other Sport",Eleven Sport 2 (from web)🏅
-#EXTVLCOPT:http-referrer=https://streamservicehd.click/premiumtv/livetvon.php?id=456
-https://webudi.openhd.lol/lb/premium456/index.m3u8
-#EXTINF:-1group-title="Other Sport",Now HK Premier Sport 1 (tee) 
-http://teeveetv.one:2052/live/jasonevansline/0jyvB88Sj6/754587.ts
-#EXTINF:-1group-title="Other Sport",Peacock NBC Sport (tee) 
-http://teeveetv.one:2052/live/jasonevansline/0jyvB88Sj6/992752.ts
-#EXTINF:-1group-title="Other Sport",Peacock Premier League (tee)
-http://teeveetv.one:2052/live/jasonevansline/0jyvB88Sj6/992753.ts
-#EXTINF:-1group-title="RMC Sport",RMC Sport 1 (ott indz)
-http://ott.indz.xyz:25461/live/Jad/Jad/31328.ts
-#EXTINF:-1group-title="RMC Sport",RMC Sport 2 (ott indz)
-http://ott.indz.xyz:25461/live/Jad/Jad/31329.ts
-#EXTINF:-1group-title="RMC Sport",RMC Sport 3 (ott indz)
-http://ott.indz.xyz:25461/live/Jad/Jad/31330.ts
 
 #EXTINF:-1tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQfTcmjtKKbhihNW_9eB2iKfaForAlXA2jjMiBGIqSeTwrpF0nkHbqOL5I&s=10"group-title="Myanmar Tv",Maharbawdi
 https://foreveralive1-a.akamaihd.net/327fbb9692d74b8a9fd35e75359fa826/ap-southeast-1/6057949479001/profile_2/chunklist.m3u8
