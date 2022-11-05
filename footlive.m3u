@@ -172,7 +172,7 @@ http://tvt3.xyz:2095/play/live.php?mac=00:1A:79:00:04:02&stream=348101&extension
 http://tvt3.xyz:2095/play/live.php?mac=00:1A:79:00:04:02&stream=117957&extension=ts&play_token=AbdVvv7KCM
 #EXTINF:-1group-title="4K UHD",Astro Super Sport (tvt) 4K
 http://tvt3.xyz:2095/play/live.php?mac=00:1A:79:00:04:02&stream=348094&extension=ts&play_token=FzoklzfqN1
-#EXTINF:-1group-title="4K UHD",Now HK Premier Sport 2 (tvt) 4K
+#EXTINF:-1group-title="4K UHD",Hub Premier Sport (tvt) 4K
 http://tvt3.xyz:2095/play/live.php?mac=00:1A:79:00:04:02&stream=348096&extension=ts&play_token=zpHQS3jtnW
 #EXTINF:-1group-title="4K UHD",Now HK Premier Sport (tee syntax) 4K
 http://teeveetv.one:2052/live/syntax/MKlaiuUcj2/754596.ts
