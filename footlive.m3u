@@ -200,6 +200,12 @@ https://webudi.openhd.lol/lb/premium56/index.m3u8
 #EXTVLCOPT:http-referrer=https://streamservicehd.click/premiumtv/livetvon.php?id=572
 https://webudi.openhd.lol/lb/premium572/index.m3u8
 
+#EXTINF:-1group-title="Astro Sport",Astro Super Sport 1 (secure point)
+http://n2086.securepoint.io:25461/live/airball/airball/197514.ts
+#EXTINF:-1group-title="Astro Sport",Astro Super Sport 2 (secure point)
+http://n2086.securepoint.io:25461/live/airball/airball/197515.ts
+#EXTINF:-1group-title="Astro Sport",Astro Super Sport 3 (secure point) 
+http://n2086.securepoint.io:25461/live/airball/airball/197516.ts
 #EXTINF:-1group-title="Astro Sport",Astro Super Sport 1 (tee)
 http://teeveetv.one:2052/live/jasonevansline/0jyvB88Sj6/1003861.ts
 #EXTINF:-1group-title="Astro Sport",Astro Super Sport 2 (tee)
@@ -212,12 +218,6 @@ http://teeveetv.one:2052/live/syntax/MKlaiuUcj2/1003861.ts
 http://teeveetv.one:2052/live/syntax/MKlaiuUcj2/1003862.ts
 #EXTINF:-1group-title="Astro Sport",Astro Super Sport 3 (tee syntax) 
 http://teeveetv.one:2052/live/syntax/MKlaiuUcj2/1003863.ts
-#EXTINF:-1group-title="Astro Sport",Astro Super Sport 1 (secure point)
-http://n2086.securepoint.io:25461/live/airball/airball/197514.ts
-#EXTINF:-1group-title="Astro Sport",Astro Super Sport 2 (secure point)
-http://n2086.securepoint.io:25461/live/airball/airball/197515.ts
-#EXTINF:-1group-title="Astro Sport",Astro Super Sport 3 (secure point) 
-http://n2086.securepoint.io:25461/live/airball/airball/197516.ts
 
 #EXTINF:-1group-title="Eleven Sport",Eleven Sport 1 (login) 🏵
 http://login.boxlion.nl:80/live/Cinegold569/9gsGrbWDDLfdg498/14548.ts
@@ -240,12 +240,6 @@ http://b1g.ooo:80/play/live.php?mac=00:1A:79:52:0f:87&stream=35915&extension=ts&
 http://teeveetv.one:2052/live/jasonevansline/0jyvB88Sj6/992752.ts
 #EXTINF:-1group-title="Other Sport",Peacock Premier League (tee)
 http://teeveetv.one:2052/live/jasonevansline/0jyvB88Sj6/992753.ts
-#EXTINF:-1group-title="Other Sport",RMC Sport 1 (ott indz)
-http://ott.indz.xyz:25461/live/Jad/Jad/31328.ts
-#EXTINF:-1group-title="Other Sport",RMC Sport 2 (ott indz)
-http://ott.indz.xyz:25461/live/Jad/Jad/31329.ts
-#EXTINF:-1group-title="Other Sport",RMC Sport 3 (ott indz)
-http://ott.indz.xyz:25461/live/Jad/Jad/31330.ts
 
 #EXTINF:-1group-title="Sport HD 720p",True Premier Football 1 (tvt) 🏵
 http://tvt3.xyz:2095/play/live.php?mac=00:1A:79:00:04:02&stream=115758&extension=ts&play_token=ZleOAq2r3y
@@ -266,12 +260,6 @@ http://n2086.securepoint.io:25461/live/airball/airball/53851.ts
 http://n2086.securepoint.io:25461/live/airball/airball/53852.ts
 #EXTINF:-1group-title="Sport HD 720p",BT Sport 4 (securepoint)
 http://n2086.securepoint.io:25461/live/airball/airball/53853.ts
-#EXTINF:-1group-title="Sport HD 720p",BT Sport 2 (ott indz)
-http://ott.indz.xyz:25461/live/Jad/Jad/10525.ts
-#EXTINF:-1group-title="Sport HD 720p",BT Sport 3 (ott indz)
-http://ott.indz.xyz:25461/live/Jad/Jad/10544.ts
-#EXTINF:-1group-title="Sport HD 720p",Sky Sport Premier league (ott indz)
-http://ott.indz.xyz:25461/live/Jad/Jad/10586.ts
 #EXTINF:-1group-title="Sport HD 720p",Bein Sport 1 English (line365)
 http://line.365tv.xyz:8060/live/HomeTV/ffdgbr564646hghngytrtt/101944.ts
 
