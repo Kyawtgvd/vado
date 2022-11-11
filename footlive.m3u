@@ -7,6 +7,10 @@ http://login.boxlion.nl:80/live/Cinegold569/9gsGrbWDDLfdg498/15833.ts
 https://webui.openhd.lol/lb/wiki27/index.m3u8
 #EXTINF:-1tvg-logo="https://static.wikia.nocookie.net/youtube/images/8/84/USA_Network.jpg/revision/latest?cb=20201105181343"group-title="USA Sport",USA Network (tee) 🏵
 http://teeveetv.one:2052/live/jasonevansline/0jyvB88Sj6/973494.ts
+#EXTINF:-1tvg-logo="https://i0.wp.com/logotaglines.com/wp-content/uploads/2022/04/USA-Network-Logo-Tagline-Slogan-Owner.jpg?w=640&ssl=1"group-title="USA Sport",USA Network (46.2) 🏵
+http://46.21.250.55:8080/live/alcespedsa12W446W36/bOSiQZF8q9/522318.ts
+#EXTINF:-1tvg-logo="https://www.usanetwork.com/generetic/images/usa-logo-og.png"group-title="USA Sport",USA Network (mains) 🏵
+http://mains.vip:2086/live/vodpan2log2g4/agd62g3j4lxy3er2fr33f5/242.ts
 #EXTINF:-1tvg-logo="https://i0.wp.com/logotaglines.com/wp-content/uploads/2022/04/USA-Network-Logo-Tagline-Slogan-Owner.jpg?w=640&ssl=1"group-title="USA Sport",USA Network (scale oliver) 
 http://user.scalecdn.co:8080/live/Oliverjones_212/e399551dc9/3694.ts
 #EXTINF:-1tvg-logo="https://www.usanetwork.com/generetic/images/usa-logo-og.png"group-title="USA Sport",USA Network (tee syntax) 
@@ -42,6 +46,8 @@ http://tvt3.xyz:2095/play/live.php?mac=00:1A:79:00:04:02&stream=94449&extension=
 #EXTINF:-1tvg-logo="https://i.goalzz.com/?i=o%2Fh%2F1%2F215%2Fbein-sports-english-1.png"group-title="Bein Sport",Bein Sport 3 English (tvt) 🏵
 http://tvt3.xyz:2095/play/live.php?mac=00:1A:79:00:04:02&stream=94445&extension=ts&play_token=lIoB2Jdn6G
 
+#EXTINF:-1tvg-logo="https://www.nicepng.com/png/detail/213-2133982_sky-sports-logo-png.png"group-title="Sky Sport",Sky Sport Premier League (scale) 🏵
+http://user.scalecdn.co:8080/live/mediahost247/9005e2c50a/2181.ts
 #EXTINF:-1tvg-logo="https://ia800803.us.archive.org/32/items/SkySportsMainEvent_201708/sky%20sports%20main%20event.png"group-title="Sky Sport",Sky Sport Main Event (tee antu) 🏵
 http://teeveetv.one:2052/live/AnTuKdIreCts647479/VUF6kK3DnyPS/749489.ts
 #EXTINF:-1tvg-logo="https://ia800803.us.archive.org/32/items/SkySportsMainEvent_201708/sky%20sports%20main%20event.png"group-title="Sky Sport",Sky Sport Main Event (login) 🏵
@@ -69,6 +75,8 @@ http://channels.toysntrends.co.uk:80/play/lTpWLJCcSwv59pDR6I-ME5DWJatIviWfn2IKRc
 #EXTINF:-1tvg-logo="https://www.nicepng.com/png/detail/213-2133982_sky-sports-logo-png.png"group-title="Sky Sport",Sky Sport Premier League (perfect)
 http://channels.toysntrends.co.uk:80/play/lTpWLJCcSwv59pDR6I-ME5DWJatIviWfn2IKRch0Bxn2IKCVN17OuoFX76IXm4COuiaYOyz5SBHVOgJk9UUufyjL31jjZXdJcjSCPm_8h-Y?ext=.ts
 
+#EXTINF:-1tvg-logo="https://s3-eu-west-1.amazonaws.com/static.media.info/l/o/1/1539.1647384977.png"group-title="BT Sport",BT Sport 1 (scale) 🏵
+http://user.scalecdn.co:8080/live/mediahost247/9005e2c50a/2337.ts
 #EXTINF:-1tvg-logo="https://s3-eu-west-1.amazonaws.com/static.media.info/l/o/1/1539.1647384977.png"group-title="BT Sport",BT Sport 1 (login) 🏵
 http://login.boxlion.nl:80/live/Cinegold569/9gsGrbWDDLfdg498/13902.ts
 #EXTINF:-1tvg-logo="https://s3-eu-west-1.amazonaws.com/static.media.info/l/o/1/1539.1647384977.png"group-title="BT Sport",BT Sport 1 (tee syntax) 🏵
