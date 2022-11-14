@@ -1,3 +1,48 @@
+#EXTINF:-1tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/BBC_One_logo_%28box_variant%29.svg/2560px-BBC_One_logo_%28box_variant%29.svg.png"group-title="World Cup🏆",BBC One (scale) 🏵
+http://user.scalecdn.co:8080/live/mediahost247/9005e2c50a/2359.ts
+#EXTINF:-1tvg-logo="https://seeklogo.com/images/B/bbc-one-logo-98B01EA893-seeklogo.com.png"group-title="World Cup🏆",BBC One (tvt) 🏵
+http://tvt3.xyz:2095/play/live.php?mac=00:1A:79:00:04:02&stream=11347&extension=ts&play_token=DoJ0X83Nno
+#EXTINF:-1tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/BBC_One_logo_%28box_variant%29.svg/2560px-BBC_One_logo_%28box_variant%29.svg.png"group-title="World Cup🏆",BBC One (shit) 
+http://shit.4theloveofdogs.net:8000/play/live.php?mac=00:1A:79:23:F5:A9&stream=18546&extension=ts&play_token=h4KGvRIUiJ
+#EXTINF:-1tvg-logo="https://seeklogo.com/images/B/bbc-one-logo-98B01EA893-seeklogo.com.png"group-title="World Cup🏆",BBC One (trex) 🏵
+http://tv.trexiptv.com:80/play/live.php?mac=00:1A:79:06:57:CD&stream=812049&extension=ts&play_token=t4HMg4KM5V
+#EXTINF:-1tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/BBC_One_logo_%28box_variant%29.svg/2560px-BBC_One_logo_%28box_variant%29.svg.png"group-title="World Cup🏆",BBC One (perfect) 
+http://channels.toysntrends.co.uk:80/play/lTpWLJCcSwv59pDR6I-ME5DWJatIviWfn2IKRch0BxkCFbK2tT1ykQ6plVxqurhCChtfUp8IQp263YseGIfeWUHMtD5yhsFrp1YFMGWjU9g?ext=.ts
+
+#EXTINF:-1tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d0/ITV_logo_2019.svg/1200px-ITV_logo_2019.svg.png"group-title="World Cup🏆",ITV 1 (tvt) 🏵
+http://tvt3.xyz:2095/play/live.php?mac=00:1A:79:00:04:02&stream=22815&extension=ts&play_token=erA1Gt6oyW
+#EXTINF:-1tvg-logo="https://www.itv.com/presscentre/sites/default/files/styles/card/public/itv_logo_blk_2.jpg?itok=XYFN-tQ_"group-title="World Cup🏆",ITV 1 (shit) 🏵
+http://shit.4theloveofdogs.net:8000/play/live.php?mac=00:1A:79:23:F5:A9&stream=18624&extension=ts&play_token=hdV9RQP4dG
+#EXTINF:-1tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d0/ITV_logo_2019.svg/1200px-ITV_logo_2019.svg.png"group-title="World Cup🏆",ITV 1 (trex) 🏵
+http://tv.trexiptv.com:80/play/live.php?mac=00:1A:79:06:57:CD&stream=111553&extension=ts&play_token=5BZ36hnkIf
+#EXTINF:-1tvg-logo="https://www.itv.com/presscentre/sites/default/files/styles/card/public/itv_logo_blk_2.jpg?itok=XYFN-tQ_"group-title="World Cup🏆",ITV 1 (perfect)
+http://channels.toysntrends.co.uk:80/play/lTpWLJCcSwv59pDR6I-ME5DWJatIviWfn2IKRch0BxmUX0rY6_GUu0Q_0i5Hq30Gh0lI7joJ2t3D4z9kIiTCzLwULNfG5sREnTHHV5I9AQo?ext=.ts
+
+#EXTINF:-1tvg-logo="https://topnet.ma/site/uploads/2021/Nov/08/SPORT%20TV%201%20Portugal.png"group-title="World Cup🏆",Sport Tv 1 (scale) 🏵
+http://user.scalecdn.co:8080/live/mediahost247/9005e2c50a/848.ts
+#EXTINF:-1tvg-logo="https://ia902308.us.archive.org/15/items/sport-tv-logo/SportTV-logo.png"group-title="World Cup🏆",Sport Tv 1 (tvt) 🏵
+http://tvt3.xyz:2095/play/live.php?mac=00:1A:79:00:04:02&stream=68988&extension=ts&play_token=wJPS0BYlFb
+#EXTINF:-1tvg-logo="https://topnet.ma/site/uploads/2021/Nov/08/SPORT%20TV%201%20Portugal.png"group-title="World Cup🏆",Sport Tv 1 (trex) 🏵
+http://tv.trexiptv.com:80/play/live.php?mac=00:1A:79:06:57:CD&stream=118447&extension=ts&play_token=jkXAYbioSE
+#EXTINF:-1tvg-logo="https://ia902308.us.archive.org/15/items/sport-tv-logo/SportTV-logo.png"group-title="World Cup🏆",Sport Tv 1 (perfect)
+http://channels.toysntrends.co.uk:80/play/lTpWLJCcSwv59pDR6I-ME5DWJatIviWfn2IKRch0Bxlio-e0wfcvGcpigi_WPX0pA_Umci7mib4fBl-kWSA6R0kTVsjtWD4IED6xC38ZZ80?ext=.ts
+
+#EXTINF:-1tvg-logo="https://foxsports-wordpress-www-prsupports-prod.s3.amazonaws.com/uploads/sites/2/2016/12/FS1-1040x585.jpg"group-title="World Cup🏆",Fox Sport 1 (scale)
+http://user.scalecdn.co:8080/live/mediahost247/9005e2c50a/2501.ts
+#EXTINF:-1tvg-logo="https://variety.com/wp-content/uploads/2013/03/fox-sports.jpg?w=681&h=349&crop=1"group-title="World Cup🏆",Fox Sport 1 (scale 2)
+http://user.scalecdn.co:8080/live/mediahost247/9005e2c50a/3732.ts
+#EXTINF:-1tvg-logo="https://foxsports-wordpress-www-prsupports-prod.s3.amazonaws.com/uploads/sites/2/2016/12/FS1-1040x585.jpg"group-title="World Cup🏆",Fox Sport 1 (shit)
+http://shit.4theloveofdogs.net:8000/play/live.php?mac=00:1A:79:23:F5:A9&stream=9703&extension=ts&play_token=iJRS6J2elA
+#EXTINF:-1tvg-logo="https://variety.com/wp-content/uploads/2013/03/fox-sports.jpg?w=681&h=349&crop=1"group-title="World Cup🏆",Fox Sport 1 (trex)
+http://tv.trexiptv.com:80/play/live.php?mac=00:1A:79:06:57:CD&stream=984950&extension=ts&play_token=UHc6lZ5JG2
+#EXTINF:-1tvg-logo="https://foxsports-wordpress-www-prsupports-prod.s3.amazonaws.com/uploads/sites/2/2016/12/FS1-1040x585.jpg"group-title="World Cup🏆",Fox Sport 1 (perfect)
+http://channels.toysntrends.co.uk:80/play/lTpWLJCcSwv59pDR6I-ME5DWJatIviWfn2IKRch0BxniYwAob3o57-NswluCQU-2dKjsnDNlWizD4iBpKKkDiPaXAySWmCGbuIhj0ort5DU?ext=.ts
+
+#EXTINF:-1tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/RT%C3%89_logo.svg/2560px-RT%C3%89_logo.svg.png"group-title="World Cup🏆",UK RTE 1 (scale)
+http://user.scalecdn.co:8080/live/mediahost247/9005e2c50a/2217.ts
+#EXTINF:-1tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/1/11/RT%C3%892_logo.svg/1200px-RT%C3%892_logo.svg.png"group-title="World Cup🏆",UK RTE 2 (scale)
+http://user.scalecdn.co:8080/live/mediahost247/9005e2c50a/2219.ts
+
 #EXTINF:-1tvg-logo="https://i0.wp.com/logotaglines.com/wp-content/uploads/2022/04/USA-Network-Logo-Tagline-Slogan-Owner.jpg?w=640&ssl=1"group-title="USA Sport",USA Network (scale) 🏵
 http://user.scalecdn.co:8080/live/mediahost247/9005e2c50a/3694.ts
 #EXTINF:-1tvg-logo="https://www.usanetwork.com/generetic/images/usa-logo-og.png"group-title="USA Sport",USA Network (login) 🏵
