@@ -255,3 +255,17 @@ https://foreveralive1-a.akamaihd.net/7cbf965de49a4f308eb64b980e690a38/ap-southea
 http://l1-xl1.myanmarnet.com/relay/mntv/ch1/stream.m3u8
 #EXTINF:-1tvg-logo="https://play-lh.googleusercontent.com/EvzFsHzdsO_B0U97VR9hyJday6GsjZg84BqX_vOSM9Cm6-Kn2iYDEmGSafYvItKhWT0"group-title="Myanmar Tv",Mahar
 https://tv.mahar.live/mahar/website.stream/playlist.m3u8
+#EXTINF:-1tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS6pJ_jeQrawon4g39S4atgydXwKBirWcReLzKCqCv7&s"group-title="Myanmar Tv",YTV 
+http://183.89.246.119:8881/play/a081/index.m3u8
+#EXTINF:-1tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR1HtG5qE_1Qelw0XIvK5PQvVeABxe5Y7EPRDH32GAa&s"group-title="Myanmar Tv",5 Plus
+http://183.89.246.119:8881/play/a07w/index.m3u8
+#EXTINF:-1tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQwwJs2OLUMJqb_50vOLmGlIS-fGmjtFbQcRuuMyu4&s"group-title="Myanmar Tv",Channel K
+http://183.89.246.119:8881/play/a080/index.m3u8
+#EXTINF:-1tvg-logo="https://upload.wikimedia.org/wikipedia/en/0/0b/Channel_ME_Logo.jpg"group-title="Myanmar Tv",Channel ME 
+http://183.89.246.119:8881/play/a07t/index.m3u8
+#EXTINF:-1tvg-logo="https://upload.wikimedia.org/wikipedia/en/6/6e/Channel_9_Myanmar_Logo.jpg"group-title="Myanmar Tv",Channel 9 
+http://183.89.246.119:8881/play/a07y/index.m3u8
+#EXTINF:-1tvg-logo="https://mmtvchannels.com/wp-content/uploads/2022/02/Fortune-Channel.jpg"group-title="Myanmar Tv",Fortune TV
+http://183.89.246.119:8881/play/a082/index.m3u8
+#EXTINF:-1tvg-logo="https://w7.pngwing.com/pngs/855/470/png-transparent-m-net-movies-film-television-channel-others-miscellaneous-television-text.png"group-title="Myanmar Tv",MM Movie
+https://l1-xl1.myanmarnet.com/relay2/mcs/ch1/stream.m3u8
