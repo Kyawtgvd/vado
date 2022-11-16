@@ -105,6 +105,15 @@ http://tv.allkaicerteam.com:8080/live/@Chopo31/iDW6zUuJNr/4066.ts
 #EXTINF:-1tvg-logo="https://assets.bein.com/mena/sites/3/2015/06/beIN_SPORTS_MAX2_DIGITAL_Mono.png"group-title="World Cup🏆",Bein Sport Max 2 (allkai)
 http://tv.allkaicerteam.com:8080/live/@Chopo31/iDW6zUuJNr/4074.ts
 
+#EXTINF:-1tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/BBC_One_logo_%28box_variant%29.svg/2560px-BBC_One_logo_%28box_variant%29.svg.png"group-title="World Cup🏆",BBC One (from web)🏅7️⃣2️⃣0️⃣p
+#EXTVLCOPT:http-referrer=https://eplayer.click/
+https://webudi.openhd.lol/ddyx2/premium356/tracks-v1a1/mono.m3u8
+#EXTINF:-1tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d0/ITV_logo_2019.svg/1200px-ITV_logo_2019.svg.png"group-title="World Cup🏆",ITV 1 (from web)🏅7️⃣2️⃣0️⃣p
+#EXTVLCOPT:http-referrer=https://eplayer.click/
+https://webudi.openhd.lol/ddy1/premium350/tracks-v1a1/mono.m3u8
+#EXTINF:-1tvg-logo="https://foxsports-wordpress-www-prsupports-prod.s3.amazonaws.com/uploads/sites/2/2016/12/FS1-1040x585.jpg"group-title="World Cup🏆",Fox Sport 1 (from web)🏅7️⃣2️⃣0️⃣p
+#EXTVLCOPT:http-referrer=https://eplayer.click/
+https://webudi.openhd.lol/ddy1/premium39/tracks-v1a1/mono.m3u8
 #EXTINF:-1tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/BBC_One_logo_%28box_variant%29.svg/2560px-BBC_One_logo_%28box_variant%29.svg.png "group-title="World Cup🏆",BBC One (vaspro) 7️⃣2️⃣0️⃣p
 http://vasprodtv.ru:8080/live/Houngst20001/QE02A8R8WV4XHK3B/697.ts
 #EXTINF:-1tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d0/ITV_logo_2019.svg/1200px-ITV_logo_2019.svg.png"group-title="World Cup🏆",ITV 1 (vaspro) 7️⃣2️⃣0️⃣p
