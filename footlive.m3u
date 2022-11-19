@@ -12,6 +12,8 @@ http://46.21.250.55:8080/live/GO9IYYKCWE65245/3OoBj4HfWQ/516707.ts
 http://46.21.250.55:8080/live/alcespedsa12W446W36/bOSiQZF8q9/516707.ts
 #EXTINF:-1tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/BBC_One_logo_%28box_variant%29.svg/2560px-BBC_One_logo_%28box_variant%29.svg.png"group-title="World Cup🏆",BBC One (shit) 
 http://shit.4theloveofdogs.net:8000/play/live.php?mac=00:1A:79:23:F5:A9&stream=18546&extension=ts&play_token=h4KGvRIUiJ
+#EXTINF:-1tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/BBC_One_logo_%28box_variant%29.svg/2560px-BBC_One_logo_%28box_variant%29.svg.png"group-title="World Cup🏆",BBC One (ipro)
+http://kb007.xyz:80/2Zu5iyTO0U/eQURWPhPFe/76153?play_token=ZH1pYIfPT5
 #EXTINF:-1tvg-logo="https://seeklogo.com/images/B/bbc-one-logo-98B01EA893-seeklogo.com.png"group-title="World Cup🏆",BBC One (trex) 🏵
 http://tv.trexiptv.com:80/play/live.php?mac=00:1A:79:06:57:CD&stream=812049&extension=ts&play_token=t4HMg4KM5V
 #EXTINF:-1tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/BBC_One_logo_%28box_variant%29.svg/2560px-BBC_One_logo_%28box_variant%29.svg.png"group-title="World Cup🏆",BBC One (perfect) 
@@ -23,6 +25,8 @@ http://login.boxlion.nl:80/live/Cinegold569/9gsGrbWDDLfdg498/845.ts
 http://tvt3.xyz:2095/play/live.php?mac=00:1A:79:00:04:02&stream=22815&extension=ts&play_token=erA1Gt6oyW
 #EXTINF:-1tvg-logo="https://www.itv.com/presscentre/sites/default/files/styles/card/public/itv_logo_blk_2.jpg?itok=XYFN-tQ_"group-title="World Cup🏆",ITV 1 (shit) 🏵
 http://shit.4theloveofdogs.net:8000/play/live.php?mac=00:1A:79:23:F5:A9&stream=18624&extension=ts&play_token=hdV9RQP4dG
+#EXTINF:-1tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d0/ITV_logo_2019.svg/1200px-ITV_logo_2019.svg.png"group-title="World Cup🏆",ITV 1 (ipro)
+http://kb007.xyz:80/2Zu5iyTO0U/eQURWPhPFe/76149?play_token=yjGXwo1g2u
 #EXTINF:-1tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d0/ITV_logo_2019.svg/1200px-ITV_logo_2019.svg.png"group-title="World Cup🏆",ITV 1 (trex) 🏵
 http://tv.trexiptv.com:80/play/live.php?mac=00:1A:79:06:57:CD&stream=111553&extension=ts&play_token=5BZ36hnkIf
 #EXTINF:-1tvg-logo="https://www.itv.com/presscentre/sites/default/files/styles/card/public/itv_logo_blk_2.jpg?itok=XYFN-tQ_"group-title="World Cup🏆",ITV 1 (perfect)
@@ -90,9 +94,19 @@ http://vasprodtv.ru:8080/live/Houngst20001/QE02A8R8WV4XHK3B/689.ts
 #EXTINF:-1tvg-logo="https://ia902308.us.archive.org/15/items/sport-tv-logo/SportTV-logo.png"group-title="World Cup🏆",Sport Tv 1 (from web) 7️⃣2️⃣0️⃣p
 #EXTVLCOPT:http-referrer=https://www.dooballfree24hr.com/vast/vast.xml
 https://rr3-ic3d-ndjcs.huaweicdncloud.com/dooball2you/sporttv1/playlist.m3u8
+#EXTINF:-1tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/63/SSMaximoN.png/revision/latest/scale-to-width-down/330?cb=20190501082433"group-title="World Cup🏆",Super Sport Maximo 1 (ig.free) 7️⃣2️⃣0️⃣p🏅
+https://webudi.openhd.lol/lb/premium572/index.m3u8?|Referer=streamservicehd.click/premiumtv/livetvon.php?id=572
+#EXTINF:-1tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/ae/SSW.png/revision/latest/scale-to-width-down/250?cb=20190312152425"group-title="World Cup🏆",Super Sport Premier (ig.free) 7️⃣2️⃣0️⃣p🏅
+https://webudi.openhd.lol/lb/premium414/index.m3u8?|Referer=streamservicehd.click/premiumtv/livetvon.php?id=414
+#EXTINF:-1tvg-logo="https://i.goalzz.com/?i=o%2Fh%2F1%2F901%2Fsupersport-laliga-hd-1.png"group-title="World Cup🏆",Super Sport Laliga (ig.free) 7️⃣2️⃣0️⃣p🏅
+https://webudi.openhd.lol/lb/premium415/index.m3u8?|Referer=streamservicehd.click/premiumtv/livetvon.php?id=415
+#EXTINF:-1tvg-logo="https://www.thesportsdb.com/images/media/channel/tvlogo/7lxofw1656964140.png"group-title="World Cup🏆",Super Sport Football (ig.free) 7️⃣2️⃣0️⃣p
+https://webudi.openhd.lol/lb/premium56/index.m3u8?|Referer=streamservicehd.click/premiumtv/livetvon.php?id=56
+#EXTINF:-1tvg-logo="https://foxsports-wordpress-www-prsupports-prod.s3.amazonaws.com/uploads/sites/2/2016/12/FS1-1040x585.jpg"group-title="World Cup🏆",Fox Sport 1 (ig.free) 7️⃣2️⃣0️⃣p 
+http://89.187.175.143:80/3056/index.m3u8
 #EXTINF:-1tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/ae/SSW.png/revision/latest/scale-to-width-down/250?cb=20190312152425"group-title="World Cup🏆",Super Sport Premier (cdn) 7️⃣2️⃣0️⃣p
 https://cdn2.live4wap.tk/p.php?id=superpremier&e=.m3u8
-#EXTINF:-1tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/63/SSMaximoN.png/revision/latest/scale-to-width-down/330?cb=20190501082433"group-title="World Cup🏆",Super Sport Meximo (cdn) 7️⃣2️⃣0️⃣p
+#EXTINF:-1tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/63/SSMaximoN.png/revision/latest/scale-to-width-down/330?cb=20190501082433"group-title="World Cup🏆",Super Sport Maximo (cdn) 7️⃣2️⃣0️⃣p
 https://cdn2.live4wap.tk/p.php?id=supermeximo&e=.m3u8
 #EXTINF:-1tvg-logo="https://i.goalzz.com/?i=o%2Fh%2F1%2F901%2Fsupersport-laliga-hd-1.png"group-title="World Cup🏆",Super Sport Laliga (cdn) 7️⃣2️⃣0️⃣p
 https://cdn2.live4wap.tk/p.php?id=superlaliga&e=.m3u8
@@ -256,6 +270,16 @@ https://webudi.openhd.lol/lb/premium56/index.m3u8
 #EXTVLCOPT:http-referrer=https://streamservicehd.click/premiumtv/livetvon.php?id=572
 https://webudi.openhd.lol/lb/premium572/index.m3u8
 
+#EXTINF:-1tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/df/811.png/revision/latest?cb=20200929173213"group-title="Astro Sport",Astro Super Sport 1 (ig.free)🏅
+https://webudi.openhd.lol/lb/premium123/index.m3u8|referer=https://olacast.live/&User-Agent=Mozilla/5.0
+#EXTINF:-1tvg-logo="https://ia600804.us.archive.org/25/items/AstroSupersport2/astro%20supersport%202.png"group-title="Astro Sport",Astro Super Sport 2 (ig.free)🏅
+https://webudi.openhd.lol/lb/premium124/index.m3u8|referer=https://olacast.live/&User-Agent=Mozilla/5.0
+#EXTINF:-1tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/aa/813.png/revision/latest/scale-to-width-down/250?cb=20200929173928"group-title="Astro Sport",Astro Super Sport 3 (ig.free)🏅
+https://webudi.openhd.lol/lb/premium125/index.m3u8|referer=https://olacast.live/&User-Agent=Mozilla/5.0
+#EXTINF:-1tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/57/814.png/revision/latest/scale-to-width-down/250?cb=20200929174031"group-title="Astro Sport",Astro Super Sport 4 (ig.free)🏅
+https://webudi.openhd.lol/lb/premium126/index.m3u8|referer=https://olacast.live/&User-Agent=Mozilla/5.0
+#EXTINF:-1tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/c5/AstroSuperSport5.png/revision/latest?cb=20211002110810"group-title="Astro Sport",Astro Super Sport 5 (ig.free)🏅
+https://webudi.openhd.lol/lb/premium43/index.m3u8|referer=https://olacast.live/&User-Agent=Mozilla/5.0
 #EXTINF:-1tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/df/811.png/revision/latest?cb=20200929173213"group-title="Astro Sport",Astro Super Sport 1 (secure point)
 http://n2086.securepoint.io:25461/live/airball/airball/197514.ts
 #EXTINF:-1tvg-logo="https://ia600804.us.archive.org/25/items/AstroSupersport2/astro%20supersport%202.png"group-title="Astro Sport",Astro Super Sport 2 (secure point)
