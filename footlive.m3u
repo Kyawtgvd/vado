@@ -104,18 +104,6 @@ https://webudi.openhd.lol/lb/premium415/index.m3u8?|Referer=streamservicehd.clic
 https://webudi.openhd.lol/lb/premium56/index.m3u8?|Referer=streamservicehd.click/premiumtv/livetvon.php?id=56
 #EXTINF:-1tvg-logo="https://foxsports-wordpress-www-prsupports-prod.s3.amazonaws.com/uploads/sites/2/2016/12/FS1-1040x585.jpg"group-title="World Cup🏆",Fox Sport 1 (ig.free) 7️⃣2️⃣0️⃣p 
 http://89.187.175.143:80/3056/index.m3u8
-#EXTINF:-1tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/ae/SSW.png/revision/latest/scale-to-width-down/250?cb=20190312152425"group-title="World Cup🏆",Super Sport Premier (cdn) 7️⃣2️⃣0️⃣p
-https://cdn2.live4wap.tk/p.php?id=superpremier&e=.m3u8
-#EXTINF:-1tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/63/SSMaximoN.png/revision/latest/scale-to-width-down/330?cb=20190501082433"group-title="World Cup🏆",Super Sport Maximo (cdn) 7️⃣2️⃣0️⃣p
-https://cdn2.live4wap.tk/p.php?id=supermeximo&e=.m3u8
-#EXTINF:-1tvg-logo="https://i.goalzz.com/?i=o%2Fh%2F1%2F901%2Fsupersport-laliga-hd-1.png"group-title="World Cup🏆",Super Sport Laliga (cdn) 7️⃣2️⃣0️⃣p
-https://cdn2.live4wap.tk/p.php?id=superlaliga&e=.m3u8
-#EXTINF:-1tvg-logo="https://www.thesportsdb.com/images/media/channel/tvlogo/aitip41642604897.png"group-title="World Cup🏆",Super Sport Grandstand (cdn) 7️⃣2️⃣0️⃣p
-https://cdn2.live4wap.tk/p.php?id=supergrandstand&e=.m3u8
-#EXTINF:-1tvg-logo="https://www.thesportsdb.com/images/media/channel/tvlogo/7lxofw1656964140.png"group-title="World Cup🏆",Super Sport Football (cdn) 7️⃣2️⃣0️⃣p
-https://cdn2.live4wap.tk/p.php?id=superfootball&e=.m3u8
-#EXTINF:-1tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/c9/Fs1AU_HD.png/revision/latest?cb=20170407112832"group-title="World Cup🏆",Fox 501 (cdn) 7️⃣2️⃣0️⃣p
-https://cdn2.live4wap.tk/p.php?id=fox501&e1=.m3u8
 
 #EXTINF:-1tvg-logo="https://i0.wp.com/logotaglines.com/wp-content/uploads/2022/04/USA-Network-Logo-Tagline-Slogan-Owner.jpg?w=640&ssl=1"group-title="USA Sport",USA Network (scale) 🏵
 http://user.scalecdn.co:8080/live/mediahost247/9005e2c50a/3694.ts
