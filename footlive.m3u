@@ -55,6 +55,8 @@ http://user.scalecdn.co:8080/live/mediahost247/9005e2c50a/2501.ts
 http://user.scalecdn.co:8080/live/mediahost247/9005e2c50a/3732.ts
 #EXTINF:-1tvg-logo="https://variety.com/wp-content/uploads/2013/03/fox-sports.jpg?w=681&h=349&crop=1"group-title="World Cup🏆",Fox Sport 1 (46.1)
 http://46.21.250.55:8080/live/GO9IYYKCWE65245/3OoBj4HfWQ/522305.ts
+#EXTINF:-1tvg-logo="https://foxsports-wordpress-www-prsupports-prod.s3.amazonaws.com/uploads/sites/2/2016/12/FS1-1040x585.jpg"group-title="World Cup🏆",Fox Sport 1 (ig.free) 7️⃣2️⃣0️⃣p 
+https://webudi.openhd.lol/lb/premium39/index.m3u8?|Referer=https://eplayer.click/
 #EXTINF:-1tvg-logo="https://foxsports-wordpress-www-prsupports-prod.s3.amazonaws.com/uploads/sites/2/2016/12/FS1-1040x585.jpg"group-title="World Cup🏆",Fox Sport 1 (shit)
 http://shit.4theloveofdogs.net:8000/play/live.php?mac=00:1A:79:23:F5:A9&stream=9703&extension=ts&play_token=iJRS6J2elA
 #EXTINF:-1tvg-logo="https://variety.com/wp-content/uploads/2013/03/fox-sports.jpg?w=681&h=349&crop=1"group-title="World Cup🏆",Fox Sport 1 (trex)
@@ -102,7 +104,7 @@ https://webudi.openhd.lol/lb/premium414/index.m3u8?|Referer=streamservicehd.clic
 https://webudi.openhd.lol/lb/premium415/index.m3u8?|Referer=streamservicehd.click/premiumtv/livetvon.php?id=415
 #EXTINF:-1tvg-logo="https://www.thesportsdb.com/images/media/channel/tvlogo/7lxofw1656964140.png"group-title="World Cup🏆",Super Sport Football (ig.free) 7️⃣2️⃣0️⃣p
 https://webudi.openhd.lol/lb/premium56/index.m3u8?|Referer=streamservicehd.click/premiumtv/livetvon.php?id=56
-#EXTINF:-1tvg-logo="https://foxsports-wordpress-www-prsupports-prod.s3.amazonaws.com/uploads/sites/2/2016/12/FS1-1040x585.jpg"group-title="World Cup🏆",Fox Sport 1 (ig.free) 7️⃣2️⃣0️⃣p 
+#EXTINF:-1tvg-logo="https://foxsports-wordpress-www-prsupports-prod.s3.amazonaws.com/uploads/sites/2/2016/12/FS1-1040x585.jpg"group-title="World Cup🏆",Fox Sport 1 (89) 7️⃣2️⃣0️⃣p 
 http://89.187.175.143:80/3056/index.m3u8
 
 #EXTINF:-1tvg-logo="https://i0.wp.com/logotaglines.com/wp-content/uploads/2022/04/USA-Network-Logo-Tagline-Slogan-Owner.jpg?w=640&ssl=1"group-title="USA Sport",USA Network (scale) 🏵
