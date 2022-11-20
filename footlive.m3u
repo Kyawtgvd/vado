@@ -79,23 +79,6 @@ http://user.scalecdn.co:8080/live/mediahost247/9005e2c50a/2217.ts
 #EXTINF:-1tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/1/11/RT%C3%892_logo.svg/1200px-RT%C3%892_logo.svg.png"group-title="World Cup🏆",UK RTE 2 (scale)
 http://user.scalecdn.co:8080/live/mediahost247/9005e2c50a/2219.ts
 
-#EXTINF:-1tvg-logo="https://assets.bein.com/mena/sites/3/2015/06/beIN_SPORTS_MAX1_DIGITAL_Mono.png"group-title="World Cup🏆",Bein Sport Max 1 (sniper) 50fps 🏵
-http://sniperstv.vip:8080/live/CAFyScgh64vu/JzRcJNXdBMHw/124373.ts
-#EXTINF:-1tvg-logo="https://assets.bein.com/mena/sites/3/2015/06/beIN_SPORTS_MAX2_DIGITAL_Mono.png"group-title="World Cup🏆",Bein Sport Max 2 (sniper) 50fps 🏵
-http://sniperstv.vip:8080/live/CAFyScgh64vu/JzRcJNXdBMHw/124376.ts
-#EXTINF:-1tvg-logo="https://assets.bein.com/mena/sites/3/2015/06/beIN_SPORTS_MAX3_DIGITAL_Mono.png"group-title="World Cup🏆",Bein Sport Max 3 (sniper) 50fps 🏵
-http://sniperstv.vip:8080/live/CAFyScgh64vu/JzRcJNXdBMHw/124379.ts
-#EXTINF:-1tvg-logo="https://assets.bein.com/mena/sites/3/2015/06/beIN_SPORTS_MAX4_DIGITAL_Mono.png"group-title="World Cup🏆",Bein Sport Max 4 (sniper) 50fps 🏵
-http://sniperstv.vip:8080/live/CAFyScgh64vu/JzRcJNXdBMHw/124382.ts
-#EXTINF:-1tvg-logo="https://assets.bein.com/mena/sites/3/2015/06/beIN_SPORTS_MAX1_DIGITAL_Mono.png"group-title="World Cup🏆",Bein Sport Max 1* (allkai)
-http://tv.allkaicerteam.com:8080/live/@Chopo31/iDW6zUuJNr/4064.ts
-#EXTINF:-1tvg-logo="https://assets.bein.com/mena/sites/3/2015/06/beIN_SPORTS_MAX1_DIGITAL_Mono.png"group-title="World Cup🏆",Bein Sport Max 1 (allkai)
-http://tv.allkaicerteam.com:8080/live/@Chopo31/iDW6zUuJNr/4073.ts
-#EXTINF:-1tvg-logo="https://assets.bein.com/mena/sites/3/2015/06/beIN_SPORTS_MAX2_DIGITAL_Mono.png"group-title="World Cup🏆",Bein Sport Max 2* (allkai)
-http://tv.allkaicerteam.com:8080/live/@Chopo31/iDW6zUuJNr/4066.ts
-#EXTINF:-1tvg-logo="https://assets.bein.com/mena/sites/3/2015/06/beIN_SPORTS_MAX2_DIGITAL_Mono.png"group-title="World Cup🏆",Bein Sport Max 2 (allkai)
-http://tv.allkaicerteam.com:8080/live/@Chopo31/iDW6zUuJNr/4074.ts
-
 #EXTINF:-1tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/BBC_One_logo_%28box_variant%29.svg/2560px-BBC_One_logo_%28box_variant%29.svg.png"group-title="World Cup🏆",BBC One (from web)🏅7️⃣2️⃣0️⃣p
 #EXTVLCOPT:http-referrer=https://eplayer.click/
 https://webudi.openhd.lol/ddyx2/premium356/tracks-v1a1/mono.m3u8
