@@ -10,6 +10,9 @@ http://tvt3.xyz:2095/play/live.php?mac=00:1A:79:00:04:02&stream=11347&extension=
 http://46.21.250.55:8080/live/GO9IYYKCWE65245/3OoBj4HfWQ/516707.ts
 #EXTINF:-1tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/BBC_One_logo_%28box_variant%29.svg/2560px-BBC_One_logo_%28box_variant%29.svg.png"group-title="World Cup🏆",BBC One (46.2) 🏵
 http://46.21.250.55:8080/live/alcespedsa12W446W36/bOSiQZF8q9/516707.ts
+#EXTINF:-1tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/BBC_One_logo_%28box_variant%29.svg/2560px-BBC_One_logo_%28box_variant%29.svg.png"group-title="World Cup🏆",BBC One (from web)🏅
+#EXTVLCOPT:http-referrer=https://eplayer.click/
+https://webudi.openhd.lol/ddyx2/premium356/tracks-v1a1/mono.m3u8
 #EXTINF:-1tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/BBC_One_logo_%28box_variant%29.svg/2560px-BBC_One_logo_%28box_variant%29.svg.png"group-title="World Cup🏆",BBC One (shit) 
 http://shit.4theloveofdogs.net:8000/play/live.php?mac=00:1A:79:23:F5:A9&stream=18546&extension=ts&play_token=h4KGvRIUiJ
 #EXTINF:-1tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/BBC_One_logo_%28box_variant%29.svg/2560px-BBC_One_logo_%28box_variant%29.svg.png"group-title="World Cup🏆",BBC One (ipro)
@@ -31,6 +34,9 @@ http://tvpanel.one:80/live/anpoe6@aol.com/nhwljZFOz4/548868.ts
 http://login.boxlion.nl:80/live/Cinegold569/9gsGrbWDDLfdg498/845.ts
 #EXTINF:-1tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d0/ITV_logo_2019.svg/1200px-ITV_logo_2019.svg.png"group-title="World Cup🏆",ITV 1 (tvt) 🏵
 http://tvt3.xyz:2095/play/live.php?mac=00:1A:79:00:04:02&stream=22815&extension=ts&play_token=erA1Gt6oyW
+#EXTINF:-1tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d0/ITV_logo_2019.svg/1200px-ITV_logo_2019.svg.png"group-title="World Cup🏆",ITV 1 (from web)🏅
+#EXTVLCOPT:http-referrer=https://eplayer.click/
+https://webudi.openhd.lol/ddy1/premium350/tracks-v1a1/mono.m3u8
 #EXTINF:-1tvg-logo="https://www.itv.com/presscentre/sites/default/files/styles/card/public/itv_logo_blk_2.jpg?itok=XYFN-tQ_"group-title="World Cup🏆",ITV 1 (shit) 🏵
 http://shit.4theloveofdogs.net:8000/play/live.php?mac=00:1A:79:23:F5:A9&stream=18624&extension=ts&play_token=hdV9RQP4dG
 #EXTINF:-1tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d0/ITV_logo_2019.svg/1200px-ITV_logo_2019.svg.png"group-title="World Cup🏆",ITV 1 (ipro)
@@ -104,12 +110,6 @@ http://s2.famousiptv.com:8080/live/younessmesz234/YOUNESS1988/114679.ts
 #EXTINF:-1tvg-logo="https://assets.bein.com/mena/sites/3/2015/06/beIN_SPORTS_MAX4_DIGITAL_Mono.png"group-title="World Cup🏆",Bein Sport Max 4 Eng (s2) 720p 🏵
 http://s2.famousiptv.com:8080/live/younessmesz234/YOUNESS1988/114680.ts
 
-#EXTINF:-1tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/BBC_One_logo_%28box_variant%29.svg/2560px-BBC_One_logo_%28box_variant%29.svg.png"group-title="World Cup🏆",BBC One (from web)🏅7️⃣2️⃣0️⃣p
-#EXTVLCOPT:http-referrer=https://eplayer.click/
-https://webudi.openhd.lol/ddyx2/premium356/tracks-v1a1/mono.m3u8
-#EXTINF:-1tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d0/ITV_logo_2019.svg/1200px-ITV_logo_2019.svg.png"group-title="World Cup🏆",ITV 1 (from web)🏅7️⃣2️⃣0️⃣p
-#EXTVLCOPT:http-referrer=https://eplayer.click/
-https://webudi.openhd.lol/ddy1/premium350/tracks-v1a1/mono.m3u8
 #EXTINF:-1tvg-logo="https://foxsports-wordpress-www-prsupports-prod.s3.amazonaws.com/uploads/sites/2/2016/12/FS1-1040x585.jpg"group-title="World Cup🏆",Fox Sport 1 (from web)🏅7️⃣2️⃣0️⃣p
 #EXTVLCOPT:http-referrer=https://eplayer.click/
 https://webudi.openhd.lol/ddy1/premium39/tracks-v1a1/mono.m3u8
