@@ -1,11 +1,7 @@
 #EXTINF:-1tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/BBC_One_logo_%28box_variant%29.svg/2560px-BBC_One_logo_%28box_variant%29.svg.png"group-title="World Cup🏆",BBC One (stremio mrcs) 🏵
 http://mrcs2.live:8080/live/Chriss-tv/h6sH8YtQfau9/539675.ts
-#EXTINF:-1tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/BBC_One_logo_%28box_variant%29.svg/2560px-BBC_One_logo_%28box_variant%29.svg.png"group-title="World Cup🏆",BBC One (stremio tvx) 🏵
-http://www.tvxclnt.com:8080/live/tretvx2022/QP3J8nmeTvIZp82J/1234.ts
 #EXTINF:-1tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d0/ITV_logo_2019.svg/1200px-ITV_logo_2019.svg.png"group-title="World Cup🏆",ITV 1 (stremio mrcs) 🏵
 http://mrcs2.live:8080/live/Chriss-tv/h6sH8YtQfau9/539681.ts
-#EXTINF:-1tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d0/ITV_logo_2019.svg/1200px-ITV_logo_2019.svg.png"group-title="World Cup🏆",ITV 1 (stremio tvx) 🏵
-http://www.tvxclnt.com:8080/live/tretvx2022/QP3J8nmeTvIZp82J/1805.ts
 #EXTINF:-1tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d0/ITV_logo_2019.svg/1200px-ITV_logo_2019.svg.png"group-title="World Cup🏆",ITV 1 (stremio platinum) 🏵
 http://platinumxmedia.xyz:8080/live/@smarters2121/B8wDqaEt5qTe/104.ts
 #EXTINF:-1tvg-logo="https://ia902308.us.archive.org/15/items/sport-tv-logo/SportTV-logo.png"group-title="World Cup🏆",Sport Tv 1 (stremio humi) 🏵
