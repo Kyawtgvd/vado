@@ -1,9 +1,3 @@
-#EXTINF:-1tvg-logo="https://assets.bein.com/mena/sites/3/2015/06/beIN_SPORTS_MAX3_DIGITAL_Mono.png"group-title="World Cup🏆",Bein Sport Max 3 Eng (ourtv) FHD 50fps 🏵
-http://ourtv.live:8080/live/MediastarTV/MediastarTV/12305.ts
-#EXTINF:-1tvg-logo="https://assets.bein.com/mena/sites/3/2015/06/beIN_SPORTS_MAX4_DIGITAL_Mono.png"group-title="World Cup🏆",Bein Sport Max 4 Eng (ourtv) FHD 50fps 🏵
-http://ourtv.live:8080/live/MediastarTV/MediastarTV/12306.ts
-#EXTINF:-1tvg-logo="https://ia902308.us.archive.org/15/items/sport-tv-logo/SportTV-logo.png"group-title="World Cup🏆",Sport Tv 1 (goodtv) 🏵
-http://115319322366307818.nicene.xyz:80/play/vi1031409/2034853628/307818.ts
 #EXTINF:-1tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Rai_1_-_Logo_2016.svg/2560px-Rai_1_-_Logo_2016.svg.png"group-title="World Cup🏆",Rai 1 (197)
 http://197.26.19.140:8000/live/RQH29rxr8F/fTjzEdp8EF/423575.ts
 #EXTINF:-1tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Rai_1_-_Logo_2016.svg/2560px-Rai_1_-_Logo_2016.svg.png"group-title="World Cup🏆",Rai 1 (goodtv)
@@ -152,13 +146,11 @@ http://vasprodtv.ru:8080/live/Houngst20001/QE02A8R8WV4XHK3B/689.ts
 #EXTINF:-1tvg-logo="https://ia902308.us.archive.org/15/items/sport-tv-logo/SportTV-logo.png"group-title="World Cup🏆",Sport Tv 1 (from web) 7️⃣2️⃣0️⃣p
 #EXTVLCOPT:http-referrer=https://www.dooballfree24hr.com/vast/vast.xml
 https://rr3-ic3d-ndjcs.huaweicdncloud.com/dooball2you/sporttv1/playlist.m3u8
-#EXTINF:-1tvg-logo="https://foxsports-wordpress-www-prsupports-prod.s3.amazonaws.com/uploads/sites/2/2016/12/FS1-1040x585.jpg"group-title="World Cup🏆",Fox Sport 1 (89) 7️⃣2️⃣0️⃣p🏅
-http://89.187.175.143:80/3056/index.m3u8
 #EXTINF:-1tvg-logo="https://foxsports-wordpress-www-prsupports-prod.s3.amazonaws.com/uploads/sites/2/2016/12/FS1-1040x585.jpg"group-title="World Cup🏆",Fox Sport 1 (high) 7️⃣2️⃣0️⃣p 🏵
 http://higherpro.xyz:8080/live/restreambestlive/w4e7kFKr29Ya/50372.ts
 #EXTINF:-1tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/72/Astro_Arena.png"group-title="World Cup🏆",Astro Arena 1 (vaspro) 7️⃣2️⃣0️⃣p 🏵
 http://vasprodtv.ru:8080/live/Houngst20001/QE02A8R8WV4XHK3B/157485.ts
-#EXTINF:-1tvg-logo="https://i.goalzz.com/?i=o%2Fh%2F1%2F901%2Fsupersport-laliga-hd-1.png"group-title="World Cup🏆",Super Sport Laliga (higher) 7️⃣2️⃣0️⃣p 🏵
+#EXTINF:-1tvg-logo="https://i.goalzz.com/?i=o%2Fh%2F1%2F901%2Fsupersport-laliga-hd-1.png"group-title="World Cup🏆",Super Sport Laliga (high) 7️⃣2️⃣0️⃣p 🏵
 http://higherpro.xyz:8080/live/restreambestlive/w4e7kFKr29Ya/78533.ts
 #EXTINF:-1tvg-logo="https://www.thesportsdb.com/images/media/channel/tvlogo/7lxofw1656964140.png"group-title="World Cup🏆",Super Sport Football (vaspro) 7️⃣2️⃣0️⃣p
 http://vasprodtv.ru:8080/live/Houngst20001/QE02A8R8WV4XHK3B/38575.ts
