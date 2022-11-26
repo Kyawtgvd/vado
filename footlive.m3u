@@ -1,11 +1,19 @@
-#EXTINF:-1tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/BBC_One_logo_%28box_variant%29.svg/2560px-BBC_One_logo_%28box_variant%29.svg.png"group-title="World Cup🏆",BBC One (stremio mrcs) 🏵
-http://mrcs2.live:8080/live/Chriss-tv/h6sH8YtQfau9/539675.ts
-#EXTINF:-1tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d0/ITV_logo_2019.svg/1200px-ITV_logo_2019.svg.png"group-title="World Cup🏆",ITV 1 (stremio mrcs) 🏵
-http://mrcs2.live:8080/live/Chriss-tv/h6sH8YtQfau9/539681.ts
-#EXTINF:-1tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d0/ITV_logo_2019.svg/1200px-ITV_logo_2019.svg.png"group-title="World Cup🏆",ITV 1 (stremio platinum) 🏵
-http://platinumxmedia.xyz:8080/live/@smarters2121/B8wDqaEt5qTe/104.ts
-#EXTINF:-1tvg-logo="https://ia902308.us.archive.org/15/items/sport-tv-logo/SportTV-logo.png"group-title="World Cup🏆",Sport Tv 1 (stremio humi) 🏵
-http://humiptv.live:8080/live/pUCji8SsBk/dKD3S0hAaD/314.ts
+#EXTINF:-1tvg-logo="https://assets.bein.com/mena/sites/3/2015/06/beIN_SPORTS_MAX3_DIGITAL_Mono.png"group-title="World Cup🏆",Bein Sport Max 3 Eng (ourtv) FHD 50fps 🏵
+http://ourtv.live:8080/live/MediastarTV/MediastarTV/12305.ts
+#EXTINF:-1tvg-logo="https://assets.bein.com/mena/sites/3/2015/06/beIN_SPORTS_MAX4_DIGITAL_Mono.png"group-title="World Cup🏆",Bein Sport Max 4 Eng (ourtv) FHD 50fps 🏵
+http://ourtv.live:8080/live/MediastarTV/MediastarTV/12306.ts
+#EXTINF:-1tvg-logo="https://ia902308.us.archive.org/15/items/sport-tv-logo/SportTV-logo.png"group-title="World Cup🏆",Sport Tv 1 (goodtv) 🏵
+http://115319322366307818.nicene.xyz:80/play/vi1031409/2034853628/307818.ts
+#EXTINF:-1tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Rai_1_-_Logo_2016.svg/2560px-Rai_1_-_Logo_2016.svg.png"group-title="World Cup🏆",Rai 1 (197)
+http://197.26.19.140:8000/live/RQH29rxr8F/fTjzEdp8EF/423575.ts
+#EXTINF:-1tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Rai_1_-_Logo_2016.svg/2560px-Rai_1_-_Logo_2016.svg.png"group-title="World Cup🏆",Rai 1 (goodtv)
+http://115319322366311939.nicene.xyz:80/play/vi1031409/2034853628/311939.ts
+#EXTINF:-1tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Rai_2_-_Logo_2016.svg/2560px-Rai_2_-_Logo_2016.svg.png"group-title="World Cup🏆",Rai 2 (197)
+http://197.26.19.140:8000/live/RQH29rxr8F/fTjzEdp8EF/423576.ts
+#EXTINF:-1tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Rai_2_-_Logo_2016.svg/2560px-Rai_2_-_Logo_2016.svg.png"group-title="World Cup🏆",Rai 2 (goodtv) 720p
+http://115319322366311940.nicene.xyz:80/play/vi1031409/2034853628/311940.ts
+#EXTINF:-1tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRD5vvMBKbzhw6njvSN4XWX4I-CfExYPDO6mIHuN3EQ&s"group-title="World Cup🏆",Rai Sport (goodtv)
+http://115319322366311947.nicene.xyz:80/play/vi1031409/2034853628/311947.ts
 
 #EXTINF:-1tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/BBC_One_logo_%28box_variant%29.svg/2560px-BBC_One_logo_%28box_variant%29.svg.png"group-title="World Cup🏆",BBC One (scale) 🏵
 http://user.scalecdn.co:8080/live/mediahost247/9005e2c50a/2359.ts
