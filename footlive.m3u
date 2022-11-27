@@ -1,6 +1,6 @@
 #EXTINF:-1tvg-logo="https://ia902308.us.archive.org/15/items/sport-tv-logo/SportTV-logo.png"group-title="World Cup🏆",Sport Tv 1 (scale ol) 🏵
 http://user.scalecdn.co:8080/live/Oliverjones_212/e399551dc9/848.ts
-#EXTINF:-1tvg-logo="https://img.sport-tv-guide.live/images/stations/a188.png"group-title="World Cup🏆",TSN 1 (scale ol) 🏵
+#EXTINF:-1tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSL-jLP0YDsHVt_JFGE2hgd3trQoGVB6pbIUrtZwY0&s"group-title="World Cup🏆",TSN 1 (scale ol) 🏵
 http://user.scalecdn.co:8080/live/Oliverjones_212/e399551dc9/3146.ts
 #EXTINF:-1tvg-logo="https://foxsports-wordpress-www-prsupports-prod.s3.amazonaws.com/uploads/sites/2/2016/12/FS1-1040x585.jpg"group-title="World Cup🏆",Fox Sport 1 (scale ol1) 🏵
 http://user.scalecdn.co:8080/live/Oliverjones_212/e399551dc9/21824.ts
@@ -16,6 +16,10 @@ http://115319322366311939.nicene.xyz:80/play/vi1031409/2034853628/311939.ts
 http://197.26.19.140:8000/live/RQH29rxr8F/fTjzEdp8EF/423576.ts
 #EXTINF:-1tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Rai_2_-_Logo_2016.svg/2560px-Rai_2_-_Logo_2016.svg.png"group-title="World Cup🏆",Rai 2 (goodtv) 
 http://115319322366311940.nicene.xyz:80/play/vi1031409/2034853628/311940.ts
+#EXTINF:-1tvg-logo="https://ia902308.us.archive.org/15/items/sport-tv-logo/SportTV-logo.png"group-title="World Cup🏆",Sport Tv 1 (dooball)
+https://rr3-ic3d-ndjcs.huaweicdncloud.com/dooball2you/sporttv1/playlist.m3u8?|Referer=https://www.dooballfree24hr.com/vast/vast.xml
+#EXTINF:-1tvg-logo="https://static.wikia.nocookie.net/tvfanon6528/images/2/20/Digi_Sport_1_%282012-.n.v.%29.png/revision/latest?cb=20180919153840"group-title="World Cup🏆",Digi Sport 1 (dooball)
+https://rr3-ic3d-ndjcs.huaweicdncloud.com/dooball2you/digisport1/playlist.m3u8?|Referer=https://www.dooballfree24hr.com/vast/vast.xml
 
 #EXTINF:-1tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/BBC_One_logo_%28box_variant%29.svg/2560px-BBC_One_logo_%28box_variant%29.svg.png"group-title="World Cup🏆",BBC One (scale) 
 http://user.scalecdn.co:8080/live/mediahost247/9005e2c50a/2359.ts
@@ -127,9 +131,9 @@ http://s2.famousiptv.com:8080/live/younessmesz234/YOUNESS1988/114679.ts
 #EXTINF:-1tvg-logo="https://assets.bein.com/mena/sites/3/2015/06/beIN_SPORTS_MAX4_DIGITAL_Mono.png"group-title="World Cup🏆",Bein Sport Max 4 Eng (s2)
 http://s2.famousiptv.com:8080/live/younessmesz234/YOUNESS1988/114680.ts
 
-#EXTINF:-1tvg-logo="https://img.sport-tv-guide.live/images/stations/a188.png"group-title="World Cup🏆",TSN 1 (scale) 🏵
+#EXTINF:-1tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSL-jLP0YDsHVt_JFGE2hgd3trQoGVB6pbIUrtZwY0&s"group-title="World Cup🏆",TSN 1 (scale) 🏵
 http://user.scalecdn.co:8080/live/mediahost247/9005e2c50a/3146.ts
-#EXTINF:-1tvg-logo="https://img.sport-tv-guide.live/images/stations/a188.png"group-title="World Cup🏆",TSN 1 (n208) 
+#EXTINF:-1tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSL-jLP0YDsHVt_JFGE2hgd3trQoGVB6pbIUrtZwY0&s"group-title="World Cup🏆",TSN 1 (n208) 
 http://n2086.securepoint.io:25461/live/airball/airball/53805.ts
 
 #EXTINF:-1tvg-logo="https://foxsports-wordpress-www-prsupports-prod.s3.amazonaws.com/uploads/sites/2/2016/12/FS1-1040x585.jpg"group-title="World Cup🏆",Fox Sport 1 (from web)
