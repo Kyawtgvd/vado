@@ -8,7 +8,7 @@ http://user.scalecdn.co:8080/live/Oliverjones_212/e399551dc9/21824.ts
 http://user.scalecdn.co:8080/live/Oliverjones_212/e399551dc9/3645.ts
 #EXTINF:-1tvg-logo="https://foxsports-wordpress-www-prsupports-prod.s3.amazonaws.com/uploads/sites/2/2016/12/FS1-1040x585.jpg"group-title="World Cup🏆",Fox Sport 1 (scale ol3) 🏵
 http://user.scalecdn.co:8080/live/Oliverjones_212/e399551dc9/2501.ts
-#EXTINF:-1tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Rai_1_-_Logo_2016.svg/2560px-Rai_1_-_Logo_2016.svg.png"group-title="World Cup🏆",Rai 1 (197)
+#EXTINF:-1tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Rai_1_-_Logo_2016.svg/2560px-Rai_1_-_Logo_2016.svg.png"group-title="World Cup🏆",Rai 1 (197) 🏵
 http://197.26.19.140:8000/live/RQH29rxr8F/fTjzEdp8EF/423575.ts
 #EXTINF:-1tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Rai_1_-_Logo_2016.svg/2560px-Rai_1_-_Logo_2016.svg.png"group-title="World Cup🏆",Rai 1 (goodtv)
 http://115319322366311939.nicene.xyz:80/play/vi1031409/2034853628/311939.ts
@@ -16,16 +16,20 @@ http://115319322366311939.nicene.xyz:80/play/vi1031409/2034853628/311939.ts
 http://197.26.19.140:8000/live/RQH29rxr8F/fTjzEdp8EF/423576.ts
 #EXTINF:-1tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Rai_2_-_Logo_2016.svg/2560px-Rai_2_-_Logo_2016.svg.png"group-title="World Cup🏆",Rai 2 (goodtv) 
 http://115319322366311940.nicene.xyz:80/play/vi1031409/2034853628/311940.ts
-#EXTINF:-1tvg-logo="https://ia902308.us.archive.org/15/items/sport-tv-logo/SportTV-logo.png"group-title="World Cup🏆",Sport Tv 1 (dooball)
+#EXTINF:-1tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/TRT_1_logo_%282021-%29.svg/2560px-TRT_1_logo_%282021-%29.svg.png"group-title="World Cup🏆",TRT 1 (chboss) 🏵
+http://ch.bosstv.live:8080/live/Whq2rYu3w9Y6/u35MCc6TsUea/113425.ts
+#EXTINF:-1tvg-logo="https://assets.bein.com/mena/sites/3/2015/06/beIN_SPORTS_MAX3_DIGITAL_Mono.png"group-title="World Cup🏆",Bein Sport Max 3 Eng (chboss) 🏵
+http://ch.bosstv.live:8080/live/Whq2rYu3w9Y6/u35MCc6TsUea/286392.ts
+#EXTINF:-1tvg-logo="https://ia902308.us.archive.org/15/items/sport-tv-logo/SportTV-logo.png"group-title="World Cup🏆",Sport Tv 1 (dooball) 🏵
 https://rr3-ic3d-ndjcs.huaweicdncloud.com/dooball2you/sporttv1/playlist.m3u8?|Referer=https://www.dooballfree24hr.com/vast/vast.xml
-#EXTINF:-1tvg-logo="https://static.wikia.nocookie.net/tvfanon6528/images/2/20/Digi_Sport_1_%282012-.n.v.%29.png/revision/latest?cb=20180919153840"group-title="World Cup🏆",Digi Sport 1 (dooball)
+#EXTINF:-1tvg-logo="https://static.wikia.nocookie.net/tvfanon6528/images/2/20/Digi_Sport_1_%282012-.n.v.%29.png/revision/latest?cb=20180919153840"group-title="World Cup🏆",Digi Sport 1 (dooball) 🏵
 https://rr3-ic3d-ndjcs.huaweicdncloud.com/dooball2you/digisport1/playlist.m3u8?|Referer=https://www.dooballfree24hr.com/vast/vast.xml
 
 #EXTINF:-1tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/BBC_One_logo_%28box_variant%29.svg/2560px-BBC_One_logo_%28box_variant%29.svg.png"group-title="World Cup🏆",BBC One (scale) 
 http://user.scalecdn.co:8080/live/mediahost247/9005e2c50a/2359.ts
 #EXTINF:-1tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/BBC_One_logo_%28box_variant%29.svg/2560px-BBC_One_logo_%28box_variant%29.svg.png"group-title="World Cup🏆",BBC One (login) 
 http://login.boxlion.nl:80/live/Cinegold569/9gsGrbWDDLfdg498/850.ts
-#EXTINF:-1tvg-logo="https://seeklogo.com/images/B/bbc-one-logo-98B01EA893-seeklogo.com.png"group-title="World Cup🏆",BBC One (login 2) 🏵
+#EXTINF:-1tvg-logo="https://seeklogo.com/images/B/bbc-one-logo-98B01EA893-seeklogo.com.png"group-title="World Cup🏆",BBC One (login 2) 
 http://login.boxlion.nl:80/live/Cinegold569/9gsGrbWDDLfdg498/843.ts
 #EXTINF:-1tvg-logo="https://seeklogo.com/images/B/bbc-one-logo-98B01EA893-seeklogo.com.png"group-title="World Cup🏆",BBC One (tvt) 
 http://tvt3.xyz:2095/play/live.php?mac=00:1A:79:00:04:02&stream=11347&extension=ts&play_token=DoJ0X83Nno
