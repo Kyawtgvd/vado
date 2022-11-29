@@ -4,8 +4,12 @@ https://webudi.openhd.lol/lb/premium294/index.m3u8?|Referer=eplayer.click/
 https://webudi.openhd.lol/lb/premium413/index.m3u8?|Referer=eplayer.click/
 #EXTINF:-1tvg-logo="https://ia902308.us.archive.org/15/items/sport-tv-logo/SportTV-logo.png"group-title="World Cup🏆",Sport Tv 1 (daddyhd)🏅
 https://webudi.openhd.lol/lb/premium49/index.m3u8?|Referer=eplayer.click/
+#EXTINF:-1tvg-logo="https://www.thesportsdb.com/images/media/tvlogo/vpwuyu1470409212.png"group-title="World Cup🏆",Sport Tv 2 (dadyhd)🏅
+https://webudi.openhd.lol/lb/premium74/index.m3u8?|Referer=eplayer.click/
 #EXTINF:-1tvg-logo="https://img.sport-tv-guide.live/images/stations/a188.png"group-title="World Cup🏆",TSN 1 (dadyhd)🏅
 https://webudi.openhd.lol/lb/premium111/index.m3u8?|Referer=eplayer.click/
+#EXTINF:-1tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTjTXwh5MYmrAF1l0vO87wBFBZYjXXv7uB_Eoc4ZB-Ui41h0Z6DHrDl7qE&s=10"group-title="World Cup🏆",TSN 2 (dadyhd)🏅
+https://webudi.openhd.lol/lb/premium112/index.m3u8?|Referer=eplayer.click/
 #EXTINF:-1tvg-logo="https://foxsports-wordpress-www-prsupports-prod.s3.amazonaws.com/uploads/sites/2/2016/12/FS1-1040x585.jpg"group-title="World Cup🏆",Fox Sport 1 (dadyhd)🏅
 https://webudi.openhd.lol/lb/premium39/index.m3u8?|Referer=eplayer.click/
 #EXTINF:-1tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/TRT_1_logo_%282020-2021%29.svg/1200px-TRT_1_logo_%282020-2021%29.svg.png"group-title="World Cup🏆",TRT 1 (dadyhd)🏅
@@ -152,15 +156,11 @@ http://wayforward.xyz:25461/live/vod51545as/6G2Zasf0NYVS/53390.ts
 
 #EXTINF:-1tvg-logo="https://i0.wp.com/logotaglines.com/wp-content/uploads/2022/04/USA-Network-Logo-Tagline-Slogan-Owner.jpg?w=640&ssl=1"group-title="USA Sport",USA Network (scale) 🏵
 http://user.scalecdn.co:8080/live/mediahost247/9005e2c50a/3694.ts
-#EXTINF:-1tvg-logo="https://www.usanetwork.com/generetic/images/usa-logo-og.png"group-title="USA Sport",USA Network (login) 🏵
-http://login.boxlion.nl:80/live/Cinegold569/9gsGrbWDDLfdg498/15833.ts
 #EXTINF:-1tvg-logo="https://static.wikia.nocookie.net/youtube/images/8/84/USA_Network.jpg/revision/latest?cb=20201105181343"group-title="USA Sport",USA Network (from web)🏅
 #EXTVLCOPT:http-referrer=https://streamservicehd.click/premiumtv/livetvon.php?id=27
 https://webui.openhd.lol/lb/wiki27/index.m3u8
-#EXTINF:-1tvg-logo="https://i0.wp.com/logotaglines.com/wp-content/uploads/2022/04/USA-Network-Logo-Tagline-Slogan-Owner.jpg?w=640&ssl=1"group-title="USA Sport",USA Network (46.2) 🏵
+#EXTINF:-1tvg-logo="https://i0.wp.com/logotaglines.com/wp-content/uploads/2022/04/USA-Network-Logo-Tagline-Slogan-Owner.jpg?w=640&ssl=1"group-title="USA Sport",USA Network (46.2) 
 http://46.21.250.55:8080/live/alcespedsa12W446W36/bOSiQZF8q9/522318.ts
-#EXTINF:-1tvg-logo="https://i0.wp.com/logotaglines.com/wp-content/uploads/2022/04/USA-Network-Logo-Tagline-Slogan-Owner.jpg?w=640&ssl=1"group-title="USA Sport",USA Network (scale oliver) 
-http://user.scalecdn.co:8080/live/Oliverjones_212/e399551dc9/3694.ts
 #EXTINF:-1tvg-logo="https://st1.uvnimg.com/f2/30/64b3884646e7ba0bafb3a615d78b/1440x810-2x.png"group-title="USA Sport",TUDN (scale)
 http://user.scalecdn.co:8080/live/mediahost247/9005e2c50a/553262.ts
 #EXTINF:-1tvg-logo=" https://seeklogo.com/images/T/tudn-logo-5AD119A8E6-seeklogo.com.png"group-title="USA Sport",TUDN (from web)🏅
@@ -183,26 +183,24 @@ https://webudi.openhd.lol/lb/premium90/index.m3u8
 #EXTINF:-1tvg-logo="https://i.goalzz.com/?i=o%2Fh%2F1%2F215%2Fbein-sports-english-1.png"group-title="Bein Sport",Bein Sport 3 English (from web)🏅
 #EXTVLCOPT:http-referrer=https://streamservicehd.click/premiumtv/livetvon.php?id=46
 https://webudi.openhd.lol/ddy1/premium46/index.m3u8
-#EXTINF:-1tvg-logo="https://assets.bein.com/mena/sites/3/2015/06/beIN_SPORTS1_ENGLISH_Digital_Mono.png"group-title="Bein Sport",Bein Sport 1 English (tvt) 🏵
+#EXTINF:-1tvg-logo="https://assets.bein.com/mena/sites/3/2015/06/beIN_SPORTS1_ENGLISH_Digital_Mono.png"group-title="Bein Sport",Bein Sport 1 English (tvt) 
 http://tvt3.xyz:2095/play/live.php?mac=00:1A:79:00:04:02&stream=94453&extension=ts&play_token=MFvTXPqeV2
-#EXTINF:-1tvg-logo="https://i.goalzz.com/?i=o%2Fh%2F1%2F214%2Fbein-sports-english-1.png"group-title="Bein Sport",Bein Sport 2 English (tvt) 🏵
+#EXTINF:-1tvg-logo="https://i.goalzz.com/?i=o%2Fh%2F1%2F214%2Fbein-sports-english-1.png"group-title="Bein Sport",Bein Sport 2 English (tvt) 
 http://tvt3.xyz:2095/play/live.php?mac=00:1A:79:00:04:02&stream=94449&extension=ts&play_token=7xA0nLy5YR
-#EXTINF:-1tvg-logo="https://i.goalzz.com/?i=o%2Fh%2F1%2F215%2Fbein-sports-english-1.png"group-title="Bein Sport",Bein Sport 3 English (tvt) 🏵
+#EXTINF:-1tvg-logo="https://i.goalzz.com/?i=o%2Fh%2F1%2F215%2Fbein-sports-english-1.png"group-title="Bein Sport",Bein Sport 3 English (tvt) 
 http://tvt3.xyz:2095/play/live.php?mac=00:1A:79:00:04:02&stream=94445&extension=ts&play_token=lIoB2Jdn6G
 
 #EXTINF:-1tvg-logo="https://www.nicepng.com/png/detail/213-2133982_sky-sports-logo-png.png"group-title="Sky Sport",Sky Sport Premier League (scale) 🏵
 http://user.scalecdn.co:8080/live/mediahost247/9005e2c50a/2181.ts
-#EXTINF:-1tvg-logo="https://ia800803.us.archive.org/32/items/SkySportsMainEvent_201708/sky%20sports%20main%20event.png"group-title="Sky Sport",Sky Sport Main Event (login) 🏵
-http://login.boxlion.nl:80/live/Cinegold569/9gsGrbWDDLfdg498/13899.ts
 #EXTINF:-1tvg-logo="https://ia800803.us.archive.org/32/items/SkySportsMainEvent_201708/sky%20sports%20main%20event.png"group-title="Sky Sport",Sky Sport Main Event (from web)🏅
 #EXTVLCOPT:http-referrer=https://streamservicehd.click/premiumtv/livetvon.php?id=38
 https://webudi.openhd.lol/lb/premium38/index.m3u8 
 #EXTINF:-1tvg-logo="https://www.nicepng.com/png/detail/213-2133982_sky-sports-logo-png.png"group-title="Sky Sport",Sky Sport Premier League (from web)🏅
 #EXTVLCOPT:http-referrer=https://streamservicehd.click/premiumtv/livetvon.php?id=130
 https://webudi.openhd.lol/lb/premium130/index.m3u8
-#EXTINF:-1tvg-logo="https://ia800803.us.archive.org/32/items/SkySportsMainEvent_201708/sky%20sports%20main%20event.png"group-title="Sky Sport",Sky Sport Main Event (tvt) 🏵
+#EXTINF:-1tvg-logo="https://ia800803.us.archive.org/32/items/SkySportsMainEvent_201708/sky%20sports%20main%20event.png"group-title="Sky Sport",Sky Sport Main Event (tvt) 
 http://tvt3.xyz:2095/play/live.php?mac=00:1A:79:00:04:02&stream=37073&extension=ts&play_token=sCJrZR3Zu6
-#EXTINF:-1tvg-logo="https://www.nicepng.com/png/detail/213-2133982_sky-sports-logo-png.png"group-title="Sky Sport",Sky Sport Premier League (tvt) 🏵
+#EXTINF:-1tvg-logo="https://www.nicepng.com/png/detail/213-2133982_sky-sports-logo-png.png"group-title="Sky Sport",Sky Sport Premier League (tvt) 
 http://tvt3.xyz:2095/play/live.php?mac=00:1A:79:00:04:02&stream=37069&extension=ts&play_token=N9otAxGf8c
 #EXTINF:-1tvg-logo="https://ia800803.us.archive.org/32/items/SkySportsMainEvent_201708/sky%20sports%20main%20event.png"group-title="Sky Sport",Sky Sport Main Event (perfect)
 http://channels.toysntrends.co.uk:80/play/lTpWLJCcSwv59pDR6I-ME5DWJatIviWfn2IKRch0BxnszPqbIi63jG8_tBbN8pWj9mMf2sECgevwUDFh1QamTu_Rql-tp_ghdpQKVmRtc4g?ext=.ts
@@ -211,8 +209,6 @@ http://channels.toysntrends.co.uk:80/play/lTpWLJCcSwv59pDR6I-ME5DWJatIviWfn2IKRc
 
 #EXTINF:-1tvg-logo="https://s3-eu-west-1.amazonaws.com/static.media.info/l/o/1/1539.1647384977.png"group-title="BT Sport",BT Sport 1 (scale) 🏵
 http://user.scalecdn.co:8080/live/mediahost247/9005e2c50a/2337.ts
-#EXTINF:-1tvg-logo="https://s3-eu-west-1.amazonaws.com/static.media.info/l/o/1/1539.1647384977.png"group-title="BT Sport",BT Sport 1 (login) 🏵
-http://login.boxlion.nl:80/live/Cinegold569/9gsGrbWDDLfdg498/13902.ts
 #EXTINF:-1tvg-logo="https://s3-eu-west-1.amazonaws.com/static.media.info/l/o/1/1539.1647384977.png"group-title="BT Sport",BT Sport 1 (from web)🏅
 #EXTVLCOPT:http-referrer=https://streamservicehd.click/premiumtv/livetvon.php?id=31
 https://webudi.openhd.lol/lb/premium31/index.m3u8
@@ -225,13 +221,13 @@ https://webudi.openhd.lol/lb/premium33/index.m3u8
 #EXTINF:-1tvg-logo="https://s3-eu-west-1.amazonaws.com/static.media.info/l/o/1/1491.1659387051.png"group-title="BT Sport",BT Sport 4 ESPN (from web)🏅
 #EXTVLCOPT:http-referrer=https://streamservicehd.click/premiumtv/livetvon.php?id=34
 https://webudi.openhd.lol/lb/premium34/index.m3u8
-#EXTINF:-1tvg-logo="https://s3-eu-west-1.amazonaws.com/static.media.info/l/o/1/1539.1647384977.png"group-title="BT Sport",BT Sport 1 (tvt) 🏵
+#EXTINF:-1tvg-logo="https://s3-eu-west-1.amazonaws.com/static.media.info/l/o/1/1539.1647384977.png"group-title="BT Sport",BT Sport 1 (tvt) 
 http://tvt3.xyz:2095/play/live.php?mac=00:1A:79:00:04:02&stream=9850&extension=ts&play_token=JlFQQQV7IW
-#EXTINF:-1tvg-logo="https://s3-eu-west-1.amazonaws.com/static.media.info/l/o/1/1540.1647385004.png"group-title="BT Sport",BT Sport 2 (tvt) 🏵
+#EXTINF:-1tvg-logo="https://s3-eu-west-1.amazonaws.com/static.media.info/l/o/1/1540.1647385004.png"group-title="BT Sport",BT Sport 2 (tvt) 
 http://tvt3.xyz:2095/play/live.php?mac=00:1A:79:00:04:02&stream=9848&extension=ts&play_token=DjafsAAwys
-#EXTINF:-1tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/fb/BT_Sport_3.svg/revision/latest?cb=20191227182642"group-title="BT Sport",BT Sport 3 (tvt) 🏵
+#EXTINF:-1tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/fb/BT_Sport_3.svg/revision/latest?cb=20191227182642"group-title="BT Sport",BT Sport 3 (tvt) 
 http://tvt3.xyz:2095/play/live.php?mac=00:1A:79:00:04:02&stream=9846&extension=ts&play_token=bGoYIRbfW4
-#EXTINF:-1tvg-logo="https://s3-eu-west-1.amazonaws.com/static.media.info/l/o/1/1491.1659387051.png"group-title="BT Sport",BT Sport 4 (tvt) 🏵
+#EXTINF:-1tvg-logo="https://s3-eu-west-1.amazonaws.com/static.media.info/l/o/1/1491.1659387051.png"group-title="BT Sport",BT Sport 4 (tvt) 
 http://tvt3.xyz:2095/play/live.php?mac=00:1A:79:00:04:02&stream=23657&extension=ts&play_token=xhLflrH07a
 #EXTINF:-1tvg-logo="https://s3-eu-west-1.amazonaws.com/static.media.info/l/o/1/1539.1647384977.png"group-title="BT Sport",BT Sport 1 (perfect)
 http://channels.toysntrends.co.uk:80/play/lTpWLJCcSwv59pDR6I-ME5DWJatIviWfn2IKRch0BxmNj4TBfiDgDpr1qQYarXJE0LDCqo-JSfwFDDAYMvFVcvjoHL9kzfd_pWhbtdHCkKQ?ext=.ts
@@ -242,21 +238,15 @@ http://channels.toysntrends.co.uk:80/play/lTpWLJCcSwv59pDR6I-ME5DWJatIviWfn2IKRc
 #EXTINF:-1tvg-logo="https://s3-eu-west-1.amazonaws.com/static.media.info/l/o/1/1491.1659387051.png"group-title="BT Sport",BT Sport 4 (perfect)
 http://channels.toysntrends.co.uk:80/play/lTpWLJCcSwv59pDR6I-ME5DWJatIviWfn2IKRch0BxnjPdfYi_YzYlbDSsFsRFyxAbRl55rHijbQFcePym5PNwFaRWrDgp5J2GsqfjMed-8?ext=.ts
 
-#EXTINF:-1tvg-logo="https://www.dialog.lk/dialogdocroot/content/images/channel-highlights/sssd-1.jpg"group-title="Star Sport",Star Sport Select 1 (tvt) 🏵
+#EXTINF:-1tvg-logo="https://www.dialog.lk/dialogdocroot/content/images/channel-highlights/sssd-1.jpg"group-title="Star Sport",Star Sport Select 1 (tvt) 
 http://tvt3.xyz:2095/play/live.php?mac=00:1A:79:00:04:02&stream=438235&extension=ts&play_token=c8Qv5myvG9
-#EXTINF:-1tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/b6/SSS2.jpg/revision/latest?cb=20170728104438"group-title="Star Sport",Star Sport Select 2 (tvt) 🏵
+#EXTINF:-1tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/b6/SSS2.jpg/revision/latest?cb=20170728104438"group-title="Star Sport",Star Sport Select 2 (tvt) 
 http://tvt3.xyz:2095/play/live.php?mac=00:1A:79:00:04:02&stream=438236&extension=ts&play_token=oyhV95zaNF
 #EXTINF:-1tvg-logo="https://www.dialog.lk/dialogdocroot/content/images/channel-highlights/sssd-1.jpg"group-title="Star Sport",Star Sport Select 1 (trex) 
 http://tv.trexiptv.com:80/play/live.php?mac=00:1A:79:06:57:CD&stream=946250&extension=ts&play_token=d9QOJBdCma
 #EXTINF:-1tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/b6/SSS2.jpg/revision/latest?cb=20170728104438"group-title="Star Sport",Star Sport Select 2 (trex) 
 http://tv.trexiptv.com:80/play/live.php?mac=00:1A:79:06:57:CD&stream=946251&extension=ts&play_token=gVr2S1fRTG
 
-#EXTINF:-1tvg-logo="https://static.wikia.nocookie.net/logaekranowe/images/6/69/Eleven1ekr2018-19.png/revision/latest/scale-to-width-down/1991?cb=20211228183748&path-prefix=pl"group-title="Eleven Sport",Eleven Sport 1 (login) 🏵
-http://login.boxlion.nl:80/live/Cinegold569/9gsGrbWDDLfdg498/14548.ts
-#EXTINF:-1tvg-logo="https://static.wikia.nocookie.net/logaekranowe/images/6/69/Eleven1ekr2018-19.png/revision/latest/scale-to-width-down/1991?cb=20211228183748&path-prefix=pl"group-title="Eleven Sport",Eleven Sport 1 (scale) 🏵
-http://user.scalecdn.co:8080/live/Oliverjones_212/e399551dc9/925.ts
-#EXTINF:-1tvg-logo="https://ocdn.eu/ptv2-images/logo-migrated/eleven-sports-2.png"group-title="Eleven Sport",Eleven Sport 2 (scale)
-http://user.scalecdn.co:8080/live/Oliverjones_212/e399551dc9/923.ts
 #EXTINF:-1tvg-logo="https://static.wikia.nocookie.net/logaekranowe/images/6/69/Eleven1ekr2018-19.png/revision/latest/scale-to-width-down/1991?cb=20211228183748&path-prefix=pl"group-title="Eleven Sport",Eleven Sport 1 (from web)🏅
 #EXTVLCOPT:http-referrer=https://streamservicehd.click/premiumtv/livetvon.php?id=455
 https://webudi.openhd.lol/lb/premium455/index.m3u8
@@ -274,21 +264,6 @@ http://tvt3.xyz:2095/play/live.php?mac=00:1A:79:00:04:02&stream=348099&extension
 http://tvt3.xyz:2095/play/live.php?mac=00:1A:79:00:04:02&stream=348100&extension=ts&play_token=SvUk20O92U
 #EXTINF:-1tvg-logo="https://icdb.tv/images/f0a89ced41a91f16764275894d80a10f.jpg"group-title="Hub Premier Sport",Hub Premier 5 (tvt)
 http://tvt3.xyz:2095/play/live.php?mac=00:1A:79:00:04:02&stream=348101&extension=ts&play_token=3IifQAY1xF
-
-#EXTINF:-1tvg-logo="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch611_425_305"group-title="4K UHD",Now HK Premier Sport (tvt) 4K
-http://tvt3.xyz:2095/play/live.php?mac=00:1A:79:00:04:02&stream=117957&extension=ts&play_token=AbdVvv7KCM
-#EXTINF:-1tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/ac/Astro_SuperSport_UHD.png/revision/latest?cb=20220415221642"group-title="4K UHD",Astro Super Sport (tvt) 4K
-http://tvt3.xyz:2095/play/live.php?mac=00:1A:79:00:04:02&stream=348094&extension=ts&play_token=FzoklzfqN1
-#EXTINF:-1tvg-logo="https://assets.hardwarezone.com/img/2022/06/epl2.jpg"group-title="4K UHD",Hub Premier Sport (tvt) 4K
-http://tvt3.xyz:2095/play/live.php?mac=00:1A:79:00:04:02&stream=348096&extension=ts&play_token=zpHQS3jtnW
-#EXTINF:-1tvg-logo="https://sport-onthebox.com/wp-content/uploads/2017/06/JPG8.jpg"group-title="4K UHD",Sky Sport Main Event (woody) 4K
-http://sheriffwoody.in:80/live/Jeff1/Jeff1/1042160.ts
-#EXTINF:-1tvg-logo="https://sport-onthebox.com/wp-content/uploads/2017/06/JPG8.jpg"group-title="4K UHD",Sky Sports (woody) 4K
-http://sheriffwoody.in:80/live/Jeff1/Jeff1/1042158.ts
-#EXTINF:-1tvg-logo="https://cdn.mos.cms.futurecdn.net/BYJU4Pz5VAzECxQdekTQMQ.jpg"group-title="4K UHD",BT Sport Ultimate (woody) 4K
-http://sheriffwoody.in:80/live/Jeff1/Jeff1/1042157.ts
-#EXTINF:-1tvg-logo="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch611_425_305"group-title="4K UHD",Now HK Premier Sport (woody) 4K
-http://sheriffwoody.in:80/live/Jeff1/Jeff1/1042156.ts
 
 #EXTINF:-1tvg-logo="https://www.thesportsdb.com/images/media/channel/tvlogo/x5ja5w1659624783.png"group-title="Super Sport",Super Sport Premier League (from web)🏅
 #EXTVLCOPT:http-referrer=https://streamservicehd.click/premiumtv/livetvon.php?id=414
@@ -320,9 +295,9 @@ http://n2086.securepoint.io:25461/live/airball/airball/197515.ts
 #EXTINF:-1tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/aa/813.png/revision/latest/scale-to-width-down/250?cb=20200929173928"group-title="Astro Sport",Astro Super Sport 3 (secure point) 
 http://n2086.securepoint.io:25461/live/airball/airball/197516.ts
 
-#EXTINF:-1tvg-logo="https://cms.dmpcdn.com/livetv/2019/07/31/31682adb-c504-409d-b2ea-d43245491a9a_original.png"group-title="Sport HD 720p",True Premier Football 1 (tvt) 🏵
+#EXTINF:-1tvg-logo="https://cms.dmpcdn.com/livetv/2019/07/31/31682adb-c504-409d-b2ea-d43245491a9a_original.png"group-title="Sport HD 720p",True Premier Football 1 (tvt) 
 http://tvt3.xyz:2095/play/live.php?mac=00:1A:79:00:04:02&stream=115758&extension=ts&play_token=ZleOAq2r3y
-#EXTINF:-1tvg-logo="https://cms.dmpcdn.com/livetv/2019/07/31/afc53720-a686-4376-8ab3-a910f1821c0e_original.png"group-title="Sport HD 720p",True Premier Football 2 (tvt) 🏵
+#EXTINF:-1tvg-logo="https://cms.dmpcdn.com/livetv/2019/07/31/afc53720-a686-4376-8ab3-a910f1821c0e_original.png"group-title="Sport HD 720p",True Premier Football 2 (tvt) 
 http://tvt3.xyz:2095/play/live.php?mac=00:1A:79:00:04:02&stream=115762&extension=ts&play_token=f15SJHghJH
 #EXTINF:-1tvg-logo="https://www.nicepng.com/png/detail/213-2133982_sky-sports-logo-png.png"group-title="Sport HD 720p",Sky Sport Premier League (securepoint)
 http://n2086.securepoint.io:25461/live/airball/airball/53986.ts
