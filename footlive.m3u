@@ -46,6 +46,18 @@ http://mensstan.h1ott.com:80/play/live.php?mac=00:1A:79:23:25:61&stream=812049&e
 http://mensstan.h1ott.com:80/play/live.php?mac=00:1A:79:23:25:61&stream=1049166&extension=ts&play_token=Ox3wtqP6l1
 #EXTINF:-1tvg-logo="https://assets.bein.com/mena/sites/3/2015/06/beIN_SPORTS_MAX3_DIGITAL_Mono.png"group-title="World Cup🏆",Bein Sport Max 3 Eng 2 (mens) #vpn singapore
 http://mensstan.h1ott.com:80/play/live.php?mac=00:1A:79:23:25:61&stream=1049168&extension=ts&play_token=InuIqN7DEd
+#EXTINF:-1tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Rai_1_-_Logo_2016.svg/2560px-Rai_1_-_Logo_2016.svg.png"group-title="World Cup🏆",Rai 1 (n208)📍
+http://n2086.securepoint.io:25461/live/vod51545as/6G2Zasf0NYVS/62008.ts
+#EXTINF:-1tvg-logo="https://ia902308.us.archive.org/15/items/sport-tv-logo/SportTV-logo.png"group-title="World Cup🏆",Sport Tv 1 (ac)📍
+http://ac.traveliptv.nl:80/live/2023extree2034/34OAMg62EDgfgKbm0yOMdxds45/14550.ts
+#EXTINF:-1tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/BBC_One_logo_%28box_variant%29.svg/2560px-BBC_One_logo_%28box_variant%29.svg.png"group-title="World Cup🏆",BBC 1 (opweb)📍
+http://op.web24.live:8080/live/dampedmvp/uzaGQQVqSG/47590.ts
+#EXTINF:-1tvg-logo="https://variety.com/wp-content/uploads/2013/03/fox-sports.jpg?w=681&h=349&crop=1"group-title="World Cup🏆",FS1 (opweb)📍
+http://op.web24.live:8080/live/dampedmvp/uzaGQQVqSG/47588.ts
+#EXTINF:-1tvg-logo="https://ia902308.us.archive.org/15/items/sport-tv-logo/SportTV-logo.png"group-title="World Cup🏆",Sport Tv 1 (opweb) 4K📍
+http://op.web24.live:8080/live/dampedmvp/uzaGQQVqSG/63041.ts
+#EXTINF:-1tvg-logo="https://ia902308.us.archive.org/15/items/sport-tv-logo/SportTV-logo.png"group-title="World Cup🏆",Sport Tv 1 (opweb) FHD 50fps📍
+http://op.web24.live:8080/live/dampedmvp/uzaGQQVqSG/63042.ts
 #EXTINF:-1tvg-logo="https://variety.com/wp-content/uploads/2013/03/fox-sports.jpg?w=681&h=349&crop=1"group-title="World Cup🏆",Fox Sport 1 (n208) 
 http://n2086.securepoint.io:25461/live/airball/airball/234955.ts
 #EXTINF:-1tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/BBC_One_logo_%28box_variant%29.svg/2560px-BBC_One_logo_%28box_variant%29.svg.png"group-title="World Cup🏆",BBC One (bellive) 
