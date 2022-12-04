@@ -2,6 +2,14 @@
 https://webudi.openhd.lol/lb/premium294/index.m3u8?|Referer=eplayer.click/
 #EXTINF:-1tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSwPU7PqI2HhStHXpcbv_AdVE10MHl8WTHhHw&usqp=CAU"group-title="World Cup🏆",Super Sport World Cup Centre (dadyhd)🏅
 https://webudi.openhd.lol/lb/premium413/index.m3u8?|Referer=eplayer.click/
+#EXTINF:-1tvg-logo="https://www.citypng.com/public/uploads/preview/qatar-2022-fifa-world-cup-logo-hd-png-11649451618xooi1vfwgs.png"group-title="World Cup🏆",Astro WC 1 (d.server) 🏵
+http://daddyserver.com:8080/live/@s1entertainment/FDV3t2hZsj/146469.ts
+#EXTINF:-1tvg-logo="https://www.citypng.com/public/uploads/preview/qatar-2022-fifa-world-cup-logo-hd-png-11649451618xooi1vfwgs.png"group-title="World Cup🏆",Astro WC 2 (d.server) 
+http://daddyserver.com:8080/live/@s1entertainment/FDV3t2hZsj/146470.ts
+#EXTINF:-1tvg-logo="https://i.sonhaberler.com/storage/files/images/2021/06/16/trt-4k-fQV8.jpg"group-title="World Cup🏆",TRT 4K (d.server) 🏵 FHD HEVC
+http://daddyserver.com:8080/live/@s1entertainment/FDV3t2hZsj/379.ts
+#EXTINF:-1tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/TRT_1_logo_%282020-2021%29.svg/1200px-TRT_1_logo_%282020-2021%29.svg.png"group-title="World Cup🏆",TRT 1 (d.server) 🏵
+http://daddyserver.com:8080/live/@s1entertainment/FDV3t2hZsj/49321.ts
 #EXTINF:-1tvg-logo="https://ia902308.us.archive.org/15/items/sport-tv-logo/SportTV-logo.png"group-title="World Cup🏆",Sport Tv 1 (daddyhd)🏅
 https://webudi.openhd.lol/lb/premium49/index.m3u8?|Referer=eplayer.click/
 #EXTINF:-1tvg-logo="https://www.thesportsdb.com/images/media/tvlogo/vpwuyu1470409212.png"group-title="World Cup🏆",Sport Tv 2 (dadyhd)🏅
@@ -14,49 +22,41 @@ https://webudi.openhd.lol/lb/premium112/index.m3u8?|Referer=eplayer.click/
 https://webudi.openhd.lol/lb/premium39/index.m3u8?|Referer=eplayer.click/
 #EXTINF:-1tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/TRT_1_logo_%282020-2021%29.svg/1200px-TRT_1_logo_%282020-2021%29.svg.png"group-title="World Cup🏆",TRT 1 (dadyhd)
 https://webudi.openhd.lol/lb/premium2/index.m3u8?|Referer=eplayer.click/
-#EXTINF:-1tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTFT26xJimBndZKYdPV7EoD25joN0AtMCezJkFMbjTQ&s"group-title="World Cup🏆",Match! Tv (dadyhd)
+#EXTINF:-1tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTFT26xJimBndZKYdPV7EoD25joN0AtMCezJkFMbjTQ&s"group-title="World Cup🏆",Match! Tv (dadyhd) 🏵
 https://webudi.openhd.lol/lb/premium127/index.m3u8?|Referer=eplayer.click/
 #EXTINF:-1tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTHpX3uifdYk8nx2S3sYqBp-aErdxmnc6KCsw&usqp=CAU"group-title="World Cup🏆",Match! Football 1 (dadyhd)
 https://webudi.openhd.lol/lb/premium136/index.m3u8?|Referer=eplayer.click/
+#EXTINF:-1tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/BBC_One_logo_%28box_variant%29.svg/2560px-BBC_One_logo_%28box_variant%29.svg.png"group-title="World Cup🏆",BBC One (platinum) 
+http://platinumxmedia.xyz:8080/live/geniptvservice/beCLtjVyxqGN/285.ts
+#EXTINF:-1tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d0/ITV_logo_2019.svg/1200px-ITV_logo_2019.svg.png"group-title="World Cup🏆",ITV 1 (platinum) 
+http://platinumxmedia.xyz:8080/live/geniptvservice/beCLtjVyxqGN/104.ts
+#EXTINF:-1tvg-logo="https://ia902308.us.archive.org/15/items/sport-tv-logo/SportTV-logo.png"group-title="World Cup🏆",Sport Tv 1 (d.server) 🏵 FHD HEVC
+http://daddyserver.com:8080/live/@s1entertainment/FDV3t2hZsj/74113.ts
+#EXTINF:-1tvg-logo="https://www.thesportsdb.com/images/media/tvlogo/vpwuyu1470409212.png"group-title="World Cup🏆",Sport Tv 2 (d.server) 🏵 FHD HEVC
+http://daddyserver.com:8080/live/@s1entertainment/FDV3t2hZsj/74168.ts
+#EXTINF:-1tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/f4/Sports18.png/revision/latest?cb=20220415104510"group-title="World Cup🏆",Sport 18 (mens) #vpn singapore
+http://mensstan.h1ott.com/play/live.php?mac=00:1A:79:23:25:61&stream=1057246&extension=ts&play_token=M51bdBv7co
+#EXTINF:-1tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRb2uyEKPi1mtF-FdoN6zX1esiwkbPkJtarZIKAgnt_14C9jMBp7P6kD9P1&s=10"group-title="World Cup🏆",Super Sport 1 (mens) #vpn singapore
+http://mensstan.h1ott.com:80/play/live.php?mac=00:1A:79:23:25:61&stream=315174&extension=ts&play_token=thPvX5c3cz
+#EXTINF:-1tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d0/ITV_logo_2019.svg/1200px-ITV_logo_2019.svg.png"group-title="World Cup🏆",ITV 1 (mens) #vpn singapore
+http://mensstan.h1ott.com:80/play/live.php?mac=00:1A:79:23:25:61&stream=1036596&extension=ts&play_token=caFt7Y6jz5
+#EXTINF:-1tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/BBC_One_logo_%28box_variant%29.svg/2560px-BBC_One_logo_%28box_variant%29.svg.png"group-title="World Cup🏆",BBC One (mens) #vpn singapore
+http://mensstan.h1ott.com:80/play/live.php?mac=00:1A:79:23:25:61&stream=812049&extension=ts&play_token=qVikzqdQYa
+#EXTINF:-1tvg-logo="https://assets.bein.com/mena/sites/3/2015/06/beIN_SPORTS_MAX3_DIGITAL_Mono.png"group-title="World Cup🏆",Bein Sport Max 3 Eng 1 (mens) #vpn singapore
+http://mensstan.h1ott.com:80/play/live.php?mac=00:1A:79:23:25:61&stream=1049166&extension=ts&play_token=Ox3wtqP6l1
+#EXTINF:-1tvg-logo="https://assets.bein.com/mena/sites/3/2015/06/beIN_SPORTS_MAX3_DIGITAL_Mono.png"group-title="World Cup🏆",Bein Sport Max 3 Eng 2 (mens) #vpn singapore
+http://mensstan.h1ott.com:80/play/live.php?mac=00:1A:79:23:25:61&stream=1049168&extension=ts&play_token=InuIqN7DEd
 #EXTINF:-1tvg-logo="https://variety.com/wp-content/uploads/2013/03/fox-sports.jpg?w=681&h=349&crop=1"group-title="World Cup🏆",Fox Sport 1 (n208) 
 http://n2086.securepoint.io:25461/live/airball/airball/234955.ts
-#EXTINF:-1tvg-logo="https://www.citypng.com/public/uploads/preview/qatar-2022-fifa-world-cup-logo-hd-png-11649451618xooi1vfwgs.png"group-title="World Cup🏆",Astro WC 1 (daddy2) 🏵
-http://daddyserver.com:8080/live/@s1entertainment/FDV3t2hZsj/146469.ts
-#EXTINF:-1tvg-logo="https://www.citypng.com/public/uploads/preview/qatar-2022-fifa-world-cup-logo-hd-png-11649451618xooi1vfwgs.png"group-title="World Cup🏆",Astro WC 2 (daddy2) 🏵
-http://daddyserver.com:8080/live/@s1entertainment/FDV3t2hZsj/146470.ts
-#EXTINF:-1tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/BBC_One_logo_%28box_variant%29.svg/2560px-BBC_One_logo_%28box_variant%29.svg.png"group-title="World Cup🏆",BBC One (platinum) 🏵
-http://platinumxmedia.xyz:8080/live/geniptvservice/beCLtjVyxqGN/285.ts
-#EXTINF:-1tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d0/ITV_logo_2019.svg/1200px-ITV_logo_2019.svg.png"group-title="World Cup🏆",ITV 1 (platinum) 🏵
-http://platinumxmedia.xyz:8080/live/geniptvservice/beCLtjVyxqGN/104.ts
-#EXTINF:-1tvg-logo="https://ia902308.us.archive.org/15/items/sport-tv-logo/SportTV-logo.png"group-title="World Cup🏆",Sport Tv 1 (daddy2) 🏵 FHD HEVC
-http://daddyserver.com:8080/live/@s1entertainment/FDV3t2hZsj/74113.ts
-#EXTINF:-1tvg-logo="https://www.thesportsdb.com/images/media/tvlogo/vpwuyu1470409212.png"group-title="World Cup🏆",Sport Tv 2 (daddy2) 🏵 FHD HEVC
-http://daddyserver.com:8080/live/@s1entertainment/FDV3t2hZsj/74168.ts
-#EXTINF:-1tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/f4/Sports18.png/revision/latest?cb=20220415104510"group-title="World Cup🏆",Sport 18 (mens) 🏵 #vpn singapore
-http://mensstan.h1ott.com/play/live.php?mac=00:1A:79:23:25:61&stream=1057246&extension=ts&play_token=M51bdBv7co
-#EXTINF:-1tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRb2uyEKPi1mtF-FdoN6zX1esiwkbPkJtarZIKAgnt_14C9jMBp7P6kD9P1&s=10"group-title="World Cup🏆",Super Sport 1 (mens) 🏵 #vpn singapore
-http://mensstan.h1ott.com:80/play/live.php?mac=00:1A:79:23:25:61&stream=315174&extension=ts&play_token=thPvX5c3cz
-#EXTINF:-1tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d0/ITV_logo_2019.svg/1200px-ITV_logo_2019.svg.png"group-title="World Cup🏆",ITV 1 (mens) 🏵 #vpn singapore
-http://mensstan.h1ott.com:80/play/live.php?mac=00:1A:79:23:25:61&stream=1036596&extension=ts&play_token=caFt7Y6jz5
-#EXTINF:-1tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/BBC_One_logo_%28box_variant%29.svg/2560px-BBC_One_logo_%28box_variant%29.svg.png"group-title="World Cup🏆",BBC One (mens) 🏵 #vpn singapore
-http://mensstan.h1ott.com:80/play/live.php?mac=00:1A:79:23:25:61&stream=812049&extension=ts&play_token=qVikzqdQYa
-#EXTINF:-1tvg-logo="https://assets.bein.com/mena/sites/3/2015/06/beIN_SPORTS_MAX3_DIGITAL_Mono.png"group-title="World Cup🏆",Bein Sport Max 3 Eng 1 (mens) 🏵 #vpn singapore
-http://mensstan.h1ott.com:80/play/live.php?mac=00:1A:79:23:25:61&stream=1049166&extension=ts&play_token=Ox3wtqP6l1
-#EXTINF:-1tvg-logo="https://assets.bein.com/mena/sites/3/2015/06/beIN_SPORTS_MAX3_DIGITAL_Mono.png"group-title="World Cup🏆",Bein Sport Max 3 Eng 2 (mens) 🏵 #vpn singapore
-http://mensstan.h1ott.com:80/play/live.php?mac=00:1A:79:23:25:61&stream=1049168&extension=ts&play_token=InuIqN7DEd
-#EXTINF:-1tvg-logo="https://i.sonhaberler.com/storage/files/images/2021/06/16/trt-4k-fQV8.jpg"group-title="World Cup🏆",TRT 4K (daddy2) 🏵 FHD HEVC
-http://daddyserver.com:8080/live/@s1entertainment/FDV3t2hZsj/379.ts
-#EXTINF:-1tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/TRT_1_logo_%282020-2021%29.svg/1200px-TRT_1_logo_%282020-2021%29.svg.png"group-title="World Cup🏆",TRT 1 (daddy2) 🏵
-http://daddyserver.com:8080/live/@s1entertainment/FDV3t2hZsj/49321.ts
-#EXTINF:-1tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/BBC_One_logo_%28box_variant%29.svg/2560px-BBC_One_logo_%28box_variant%29.svg.png"group-title="World Cup🏆",BBC One (bellive) 🏵
+#EXTINF:-1tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/BBC_One_logo_%28box_variant%29.svg/2560px-BBC_One_logo_%28box_variant%29.svg.png"group-title="World Cup🏆",BBC One (bellive) 
 http://bellive.top:8080/live/121663552974613000/231663552974613/29900.ts
-#EXTINF:-1tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d0/ITV_logo_2019.svg/1200px-ITV_logo_2019.svg.png"group-title="World Cup🏆",ITV 1 (bellive) 🏵
+#EXTINF:-1tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d0/ITV_logo_2019.svg/1200px-ITV_logo_2019.svg.png"group-title="World Cup🏆",ITV 1 (bellive) 
 http://bellive.top:8080/live/121663552974613000/231663552974613/29808.ts
-#EXTINF:-1tvg-logo="https://variety.com/wp-content/uploads/2013/03/fox-sports.jpg?w=681&h=349&crop=1"group-title="World Cup🏆",Fox Sport 1 (bellive) 🏵
+#EXTINF:-1tvg-logo="https://variety.com/wp-content/uploads/2013/03/fox-sports.jpg?w=681&h=349&crop=1"group-title="World Cup🏆",Fox Sport 1 (bellive) 
 http://bellive.top:8080/live/121663552974613000/231663552974613/19499.ts
-#EXTINF:-1tvg-logo="https://img.sport-tv-guide.live/images/stations/a188.png"group-title="World Cup🏆",TSN 1 (bellive) 🏵
+#EXTINF:-1tvg-logo="https://img.sport-tv-guide.live/images/stations/a188.png"group-title="World Cup🏆",TSN 1 (bellive) 
 http://bellive.top:8080/live/121663552974613000/231663552974613/23731.ts
-#EXTINF:-1tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTjTXwh5MYmrAF1l0vO87wBFBZYjXXv7uB_Eoc4ZB-Ui41h0Z6DHrDl7qE&s=10"group-title="World Cup🏆",TSN 2 (bellive) 🏵
+#EXTINF:-1tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTjTXwh5MYmrAF1l0vO87wBFBZYjXXv7uB_Eoc4ZB-Ui41h0Z6DHrDl7qE&s=10"group-title="World Cup🏆",TSN 2 (bellive) 
 http://bellive.top:8080/live/121663552974613000/231663552974613/23732.ts
 
 #EXTINF:-1tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/BBC_One_logo_%28box_variant%29.svg/2560px-BBC_One_logo_%28box_variant%29.svg.png"group-title="World Cup🏆",BBC One (scale) 🏵
