@@ -52,10 +52,20 @@ http://webo.asia:80/play/live.php?mac=00:1A:79:2E:C0:A9&stream=233897&extension=
 http://webo.asia:80/play/live.php?mac=00:1A:79:2E:C0:A9&stream=233898&extension=ts&play_token=JJa7JV8TDR
 #EXTINF:-1tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/1/11/RT%C3%892_logo.svg/1200px-RT%C3%892_logo.svg.png"group-title="World Cup🏆",RTE 2 (webo) #test
 http://webo.asia:80/play/live.php?mac=00:1A:79:2E:C0:A9&stream=233899&extension=ts&play_token=Nk9ULt0Yo7
-#EXTINF:-1tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b8/Starhublogo.png"group-title="World Cup🏆",StarHub 1 (tvzon) #test
-http://212.102.58.188:80/hub_worldcup_1/index.m3u8?token=6ae4619596de251b53bbff096fa8ea16
-#EXTINF:-1tvg-logo="https://i.sonhaberler.com/storage/files/images/2021/06/16/trt-4k-fQV8.jpg"group-title="World Cup🏆",TRT 4K (tvzon) #test
-http://195.181.169.152:8080/TR_TRT_4K/index.m3u8?token=4b190044f8d87ee9339a8e0b1256d405
+#EXTINF:-1tvg-logo="https://www.citypng.com/public/uploads/preview/qatar-2022-fifa-world-cup-logo-hd-png-11649451618xooi1vfwgs.png"group-title="World Cup🏆",Bein Sport Max 3 Eng (185) #test
+http://185.243.7.108:80/play/live.php?mac=00:1A:79:e2:ce:78&stream=807985&extension=ts&play_token=DRfyX90Oy9
+#EXTINF:-1tvg-logo="https://www.citypng.com/public/uploads/preview/qatar-2022-fifa-world-cup-logo-hd-png-11649451618xooi1vfwgs.png"group-title="World Cup🏆",TF1 (185) #test
+http://185.243.7.108:80/play/live.php?mac=00:1A:79:e2:ce:78&stream=805280&extension=ts&play_token=9mZtYVaArn
+#EXTINF:-1tvg-logo="https://www.citypng.com/public/uploads/preview/qatar-2022-fifa-world-cup-logo-hd-png-11649451618xooi1vfwgs.png"group-title="World Cup🏆",RTP 1 (185) #test
+http://185.243.7.108:80/play/live.php?mac=00:1A:79:e2:ce:78&stream=805292&extension=ts&play_token=QtsqTKzIkg
+#EXTINF:-1tvg-logo="https://www.citypng.com/public/uploads/preview/qatar-2022-fifa-world-cup-logo-hd-png-11649451618xooi1vfwgs.png"group-title="World Cup🏆",Sport 18 (185) #test
+http://185.243.7.108:80/play/live.php?mac=00:1A:79:e2:ce:78&stream=811763&extension=ts&play_token=cWQwONIhFz
+#EXTINF:-1tvg-logo="https://www.citypng.com/public/uploads/preview/qatar-2022-fifa-world-cup-logo-hd-png-11649451618xooi1vfwgs.png"group-title="World Cup🏆",TRT 1 (185) #test
+http://185.243.7.108:80/play/live.php?mac=00:1A:79:e2:ce:78&stream=805294&extension=ts&play_token=Gqth9t5FIf
+#EXTINF:-1tvg-logo="https://www.citypng.com/public/uploads/preview/qatar-2022-fifa-world-cup-logo-hd-png-11649451618xooi1vfwgs.png"group-title="World Cup🏆",ITV 1 (185) #test
+http://185.243.7.108:80/play/live.php?mac=00:1A:79:e2:ce:78&stream=805277&extension=ts&play_token=1iME83k6Ni
+#EXTINF:-1tvg-logo="https://www.citypng.com/public/uploads/preview/qatar-2022-fifa-world-cup-logo-hd-png-11649451618xooi1vfwgs.png"group-title="World Cup🏆",VTV_6 (from web)🏅
+https://nvzoftzsvflivcf.vcdn.com.vn/vtv6/vtv6@high.m3u8
 
 #EXTINF:-1tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/BBC_One_logo_%28box_variant%29.svg/2560px-BBC_One_logo_%28box_variant%29.svg.png"group-title="World Cup🏆",BBC One (scale) 🏵
 http://user.scalecdn.co:8080/live/mediahost247/9005e2c50a/2359.ts
