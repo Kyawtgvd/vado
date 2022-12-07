@@ -1,3 +1,15 @@
+#EXTINF:-1tvg-logo="https://www.citypng.com/public/uploads/preview/qatar-2022-fifa-world-cup-logo-hd-png-11649451618xooi1vfwgs.png"group-title="World Cup🏆",Rai 1 (d.server2) 🏵
+http://daddyserver.com:8080/live/@CLMediastreams/UmjV6v3eC2/48986.ts
+#EXTINF:-1tvg-logo="https://www.citypng.com/public/uploads/preview/qatar-2022-fifa-world-cup-logo-hd-png-11649451618xooi1vfwgs.png"group-title="World Cup🏆",TRT 1 (d.server2) HEVC 🏵
+http://daddyserver.com:8080/live/@CLMediastreams/UmjV6v3eC2/120543.ts
+#EXTINF:-1tvg-logo="https://www.citypng.com/public/uploads/preview/qatar-2022-fifa-world-cup-logo-hd-png-11649451618xooi1vfwgs.png"group-title="World Cup🏆",TRT 4K (d.server2) HEVC 🏵
+http://daddyserver.com:8080/live/@CLMediastreams/UmjV6v3eC2/379.ts
+#EXTINF:-1tvg-logo="https://www.citypng.com/public/uploads/preview/qatar-2022-fifa-world-cup-logo-hd-png-11649451618xooi1vfwgs.png"group-title="World Cup🏆",Sport Tv 1 (d.server2) HEVC 🏵
+http://daddyserver.com:8080/live/@CLMediastreams/UmjV6v3eC2/74113.ts
+#EXTINF:-1tvg-logo="https://www.citypng.com/public/uploads/preview/qatar-2022-fifa-world-cup-logo-hd-png-11649451618xooi1vfwgs.png"group-title="World Cup🏆",BBC One (d.server2) 🏵
+http://daddyserver.com:8080/live/@CLMediastreams/UmjV6v3eC2/285.ts
+#EXTINF:-1tvg-logo="https://www.citypng.com/public/uploads/preview/qatar-2022-fifa-world-cup-logo-hd-png-11649451618xooi1vfwgs.png"group-title="World Cup🏆",ITV 1 (d.server2) 🏵
+http://daddyserver.com:8080/live/@CLMediastreams/UmjV6v3eC2/104.ts
 #EXTINF:-1tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSq9q4fIlJN0IniAclh42e5sUogUwnXeIzYcoN8cyqihfScoyuMAOK5Uklq&s=10"group-title="World Cup🏆",Astro FIFA World Cup (dadyhd)
 https://webudi.openhd.lol/lb/premium294/index.m3u8?|Referer=eplayer.click/
 #EXTINF:-1tvg-logo="https://vectorlogoseek.com/wp-content/uploads/2020/06/tsn-the-sports-network-vector-logo.png"group-title="World Cup🏆",TSN WC (dadyhd)
