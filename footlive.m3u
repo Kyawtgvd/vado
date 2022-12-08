@@ -1,3 +1,13 @@
+#EXTINF:-1tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/TRT_1_logo_%282020-2021%29.svg/1200px-TRT_1_logo_%282020-2021%29.svg.png"group-title="World Cup🏆",TRT 1 (from web) HEVC 🏵🏅
+https://ddc75c8a6akqr.cloudfront.net/v1/master/80dbfc318ab6b980679b32095ba497236de6d2f9/TRT-1/master.m3u8
+#EXTINF:-1tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/BBC_One_logo_%28box_variant%29.svg/2560px-BBC_One_logo_%28box_variant%29.svg.png"group-title="World Cup🏆",BBC 1 (from web) 🏵🏅
+https://uksono1-samsunguk.amagi.tv:443/playlist1080p.m3u8
+#EXTINF:-1tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/TRT_1_logo_%282020-2021%29.svg/1200px-TRT_1_logo_%282020-2021%29.svg.png"group-title="World Cup🏆",TRT 1 (x01) 🏵
+http://x01.live:8080/live/hikmetyazici/hikmetyazici250422/1843.ts
+#EXTINF:-1tvg-logo="https://www.trt.net.tr/_nuxt/img/trt-4k-televizyon-kanali.629ba7c.png"group-title="World Cup🏆",TRT 4K (x01) HEVC 🏵
+http://x01.live:8080/live/hikmetyazici/hikmetyazici250422/1842.ts
+#EXTINF:-1tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Rai_1_-_Logo_2016.svg/2560px-Rai_1_-_Logo_2016.svg.png"group-title="World Cup🏆",Rai 1 (x01) HEVC 🏵
+http://x01.live:8080/live/hikmetyazici/hikmetyazici250422/229921.ts
 #EXTINF:-1tvg-logo="https://www.citypng.com/public/uploads/preview/qatar-2022-fifa-world-cup-logo-hd-png-11649451618xooi1vfwgs.png"group-title="World Cup🏆",TRT 4K (d.server2) HEVC 🏵
 http://daddyserver.com:8080/live/@CLMediastreams/UmjV6v3eC2/379.ts
 #EXTINF:-1tvg-logo="https://www.citypng.com/public/uploads/preview/qatar-2022-fifa-world-cup-logo-hd-png-11649451618xooi1vfwgs.png"group-title="World Cup🏆",Sport Tv 1 (d.server2) HEVC 🏵
@@ -48,7 +58,7 @@ http://bellive.top:8080/live/121663552974613000/231663552974613/29900.ts
 http://bellive.top:8080/live/121663552974613000/231663552974613/29808.ts
 #EXTINF:-1tvg-logo="https://img.sport-tv-guide.live/images/stations/a188.png"group-title="World Cup🏆",TSN 1 (bellive) 
 http://bellive.top:8080/live/121663552974613000/231663552974613/23731.ts
-#EXTINF:-1tvg-logo="https://www.citypng.com/public/uploads/preview/qatar-2022-fifa-world-cup-logo-hd-png-11649451618xooi1vfwgs.png"group-title="World Cup🏆",VTV_6 (from web)🏅
+#EXTINF:-1tvg-logo="https://www.citypng.com/public/uploads/preview/qatar-2022-fifa-world-cup-logo-hd-png-11649451618xooi1vfwgs.png"group-title="World Cup🏆",VTV_6 (from web) 🏵🏅
 https://nvzoftzsvflivcf.vcdn.com.vn/vtv6/vtv6@high.m3u8
 #EXTINF:-1tvg-logo="https://assets.bein.com/mena/sites/3/2015/06/beIN_SPORTS_MAX3_DIGITAL_Mono.png"group-title="World Cup🏆",Bein Sport Max 3 Eng (d.server) HEVC 🏵
 http://daddyserver.com:8080/live/@s1entertainment/FDV3t2hZsj/146107.ts
@@ -71,7 +81,7 @@ http://vasprodtv.ru:8080/live/Houngst20001/QE02A8R8WV4XHK3B/1810.ts
 #EXTINF:-1tvg-logo="https://www.citypng.com/public/uploads/preview/qatar-2022-fifa-world-cup-logo-hd-png-11649451618xooi1vfwgs.png"group-title="World Cup🏆",Rai 1 (vaspro)
 http://vasprodtv.ru:8080/live/Houngst20001/QE02A8R8WV4XHK3B/898.ts
 
-#EXTINF:-1tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/BBC_One_logo_%28box_variant%29.svg/2560px-BBC_One_logo_%28box_variant%29.svg.png"group-title="World Cup🏆",BBC One (scale) 🏵
+#EXTINF:-1tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/BBC_One_logo_%28box_variant%29.svg/2560px-BBC_One_logo_%28box_variant%29.svg.png"group-title="World Cup🏆",BBC One (scale) 🏵🏅
 http://user.scalecdn.co:8080/live/mediahost247/9005e2c50a/2359.ts
 #EXTINF:-1tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/BBC_One_logo_%28box_variant%29.svg/2560px-BBC_One_logo_%28box_variant%29.svg.png"group-title="World Cup🏆",BBC One (from web)
 #EXTVLCOPT:http-referrer=https://eplayer.click/
