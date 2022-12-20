@@ -6,9 +6,13 @@ http://user.scalecdn.co:8080/live/mediahost247/9005e2c50a/3848.ts
 http://daddyserver.com:8080/live/@s1entertainment/FDV3t2hZsj/14713.ts
 #EXTINF:-1tvg-logo="https://i0.wp.com/logotaglines.com/wp-content/uploads/2022/04/USA-Network-Logo-Tagline-Slogan-Owner.jpg?w=640&ssl=1"group-title="USA Sport(EPL)",USA Network West (d.server) 🏵
 http://daddyserver.com:8080/live/@s1entertainment/FDV3t2hZsj/1122.ts
-#EXTINF:-1tvg-logo="https://static.wikia.nocookie.net/youtube/images/8/84/USA_Network.jpg/revision/latest?cb=20201105181343"group-title="USA Sport(EPL)",USA Network East (bellive) 🏵
+#EXTINF:-1tvg-logo="https://static.wikia.nocookie.net/youtube/images/8/84/USA_Network.jpg/revision/latest?cb=20201105181343"group-title="USA Sport(EPL)",USA Network East (tvpanel) 🏵
+http://tvpanel.one:80/live/anpoe6@aol.com/nhwljZFOz4/435934.ts
+#EXTINF:-1tvg-logo="https://i0.wp.com/logotaglines.com/wp-content/uploads/2022/04/USA-Network-Logo-Tagline-Slogan-Owner.jpg?w=640&ssl=1"group-title="USA Sport(EPL)",USA Network West (tvpanel) 🏵
+http://tvpanel.one:80/live/anpoe6@aol.com/nhwljZFOz4/433174.ts
+#EXTINF:-1tvg-logo="https://static.wikia.nocookie.net/youtube/images/8/84/USA_Network.jpg/revision/latest?cb=20201105181343"group-title="USA Sport(EPL)",USA Network East (bellive) 
 http://bellive.top:8080/live/121663552974613000/231663552974613/19401.ts
-#EXTINF:-1tvg-logo="https://static.wikia.nocookie.net/youtube/images/8/84/USA_Network.jpg/revision/latest?cb=20201105181343"group-title="USA Sport(EPL)",USA Network East (opplex) 🏵
+#EXTINF:-1tvg-logo="https://static.wikia.nocookie.net/youtube/images/8/84/USA_Network.jpg/revision/latest?cb=20201105181343"group-title="USA Sport(EPL)",USA Network East (opplex) 
 http://xtv.ooo:8080/live/Univision@RE/100Bangla/223349.ts
 #EXTINF:-1tvg-logo="https://static.wikia.nocookie.net/youtube/images/8/84/USA_Network.jpg/revision/latest?cb=20201105181343"group-title="USA Sport(EPL)",USA Network East (sin) 
 http://sinbox.pro:8080/live/casper01/H3g3gADDS2/154637.ts
@@ -33,82 +37,87 @@ http://user.scalecdn.co:8080/live/mediahost247/9005e2c50a/3696.ts
 #EXTINF:-1tvg-logo="https://cdnimg.spectrum.net/imageserver/image/default?providerId=NBC_UNIVERSO&productId=LMOD&sourceType=colorHybrid"group-title="USA Sport(EPL)",Universo (d.server)
 http://daddyserver.com:8080/live/@s1entertainment/FDV3t2hZsj/61036.ts
 
-#EXTINF:-1tvg-logo="https://assets.bein.com/mena/sites/3/2015/06/beIN_SPORTS1_ENGLISH_Digital_Mono.png"group-title="Bein Sport",Bein Sport 1 English (scale) 🏵
+#EXTINF:-1tvg-logo="https://assets.bein.com/mena/sites/3/2015/06/beIN_SPORTS1_ENGLISH_Digital_Mono.png"group-title="UK Bein Sport",Bein Sport 1 English (scale) 🏵
 http://user.scalecdn.co:8080/live/mediahost247/9005e2c50a/548627.ts
-#EXTINF:-1tvg-logo="https://i.goalzz.com/?i=o%2Fh%2F1%2F214%2Fbein-sports-english-1.png"group-title="Bein Sport",Bein Sport 2 English (scale) 🏵
+#EXTINF:-1tvg-logo="https://i.goalzz.com/?i=o%2Fh%2F1%2F214%2Fbein-sports-english-1.png"group-title="UK Bein Sport",Bein Sport 2 English (scale) 
 http://user.scalecdn.co:8080/live/mediahost247/9005e2c50a/548628.ts
-#EXTINF:-1tvg-logo="https://assets.bein.com/mena/sites/3/2015/06/beIN_SPORTS1_ENGLISH_Digital_Mono.png"group-title="Bein Sport",Bein Sport 1 English (d.server) 🏵
+#EXTINF:-1tvg-logo="https://assets.bein.com/mena/sites/3/2015/06/beIN_SPORTS1_ENGLISH_Digital_Mono.png"group-title="UK Bein Sport",Bein Sport 1 English (d.server) 🏵
 http://daddyserver.com:8080/live/@s1entertainment/FDV3t2hZsj/78527.ts
-#EXTINF:-1tvg-logo="https://i.goalzz.com/?i=o%2Fh%2F1%2F214%2Fbein-sports-english-1.png"group-title="Bein Sport",Bein Sport 2 English (d.server) 
+#EXTINF:-1tvg-logo="https://i.goalzz.com/?i=o%2Fh%2F1%2F214%2Fbein-sports-english-1.png"group-title="UK Bein Sport",Bein Sport 2 English (d.server) 
 http://daddyserver.com:8080/live/@s1entertainment/FDV3t2hZsj/78528.ts
-#EXTINF:-1tvg-logo="https://assets.bein.com/mena/sites/3/2015/06/beIN_SPORTS1_ENGLISH_Digital_Mono.png"group-title="Bein Sport",Bein Sport 1 English (bellive) 
+#EXTINF:-1tvg-logo="https://assets.bein.com/mena/sites/3/2015/06/beIN_SPORTS1_ENGLISH_Digital_Mono.png"group-title="UK Bein Sport",Bein Sport 1 English (bellive) 
 http://bellive.top:8080/live/121663552974613000/231663552974613/25113.ts
-#EXTINF:-1tvg-logo="https://i.goalzz.com/?i=o%2Fh%2F1%2F214%2Fbein-sports-english-1.png"group-title="Bein Sport",Bein Sport 2 English (bellive)
+#EXTINF:-1tvg-logo="https://i.goalzz.com/?i=o%2Fh%2F1%2F214%2Fbein-sports-english-1.png"group-title="UK Bein Sport",Bein Sport 2 English (bellive)
 http://bellive.top:8080/live/121663552974613000/231663552974613/25114.ts
-#EXTINF:-1tvg-logo="https://i.goalzz.com/?i=o%2Fh%2F1%2F215%2Fbein-sports-english-1.png"group-title="Bein Sport",Bein Sport 3 English (bellive)
+#EXTINF:-1tvg-logo="https://i.goalzz.com/?i=o%2Fh%2F1%2F215%2Fbein-sports-english-1.png"group-title="UK Bein Sport",Bein Sport 3 English (bellive)
 http://bellive.top:8080/live/121663552974613000/231663552974613/25115.ts
-#EXTINF:-1tvg-logo="https://assets.bein.com/mena/sites/3/2015/06/beIN_SPORTS1_ENGLISH_Digital_Mono.png"group-title="Bein Sport",Bein Sport 1 English (opplex)
+#EXTINF:-1tvg-logo="https://assets.bein.com/mena/sites/3/2015/06/beIN_SPORTS1_ENGLISH_Digital_Mono.png"group-title="UK Bein Sport",Bein Sport 1 English (opplex)
 http://xtv.ooo:8080/live/Univision@RE/100Bangla/222532.ts
-#EXTINF:-1tvg-logo="https://i.goalzz.com/?i=o%2Fh%2F1%2F214%2Fbein-sports-english-1.png"group-title="Bein Sport",Bein Sport 2 English (opplex)
+#EXTINF:-1tvg-logo="https://i.goalzz.com/?i=o%2Fh%2F1%2F214%2Fbein-sports-english-1.png"group-title="UK Bein Sport",Bein Sport 2 English (opplex)
 http://xtv.ooo:8080/live/Univision@RE/100Bangla/222534.ts
-#EXTINF:-1tvg-logo="https://i.goalzz.com/?i=o%2Fh%2F1%2F215%2Fbein-sports-english-1.png"group-title="Bein Sport",Bein Sport 3 English (opplex)
+#EXTINF:-1tvg-logo="https://i.goalzz.com/?i=o%2Fh%2F1%2F215%2Fbein-sports-english-1.png"group-title="UK Bein Sport",Bein Sport 3 English (opplex)
 http://xtv.ooo:8080/live/Univision@RE/100Bangla/222538.ts
-#EXTINF:-1tvg-logo="https://assets.bein.com/mena/sites/3/2015/06/beIN_SPORTS1_ENGLISH_Digital_Mono.png"group-title="Bein Sport",Bein Sport 1 English (tvt) 
+#EXTINF:-1tvg-logo="https://assets.bein.com/mena/sites/3/2015/06/beIN_SPORTS1_ENGLISH_Digital_Mono.png"group-title="UK Bein Sport",Bein Sport 1 English (tvt) 
 http://tvt3.xyz:2095/play/live.php?mac=00:1A:79:00:04:02&stream=94453&extension=ts&play_token=MFvTXPqeV2
-#EXTINF:-1tvg-logo="https://i.goalzz.com/?i=o%2Fh%2F1%2F214%2Fbein-sports-english-1.png"group-title="Bein Sport",Bein Sport 2 English (tvt) 
+#EXTINF:-1tvg-logo="https://i.goalzz.com/?i=o%2Fh%2F1%2F214%2Fbein-sports-english-1.png"group-title="UK Bein Sport",Bein Sport 2 English (tvt) 
 http://tvt3.xyz:2095/play/live.php?mac=00:1A:79:00:04:02&stream=94449&extension=ts&play_token=7xA0nLy5YR
-#EXTINF:-1tvg-logo="https://i.goalzz.com/?i=o%2Fh%2F1%2F215%2Fbein-sports-english-1.png"group-title="Bein Sport",Bein Sport 3 English (tvt) 
+#EXTINF:-1tvg-logo="https://i.goalzz.com/?i=o%2Fh%2F1%2F215%2Fbein-sports-english-1.png"group-title="UK Bein Sport",Bein Sport 3 English (tvt) 
 http://tvt3.xyz:2095/play/live.php?mac=00:1A:79:00:04:02&stream=94445&extension=ts&play_token=lIoB2Jdn6G
 
-#EXTINF:-1tvg-logo="https://ia800803.us.archive.org/32/items/SkySportsMainEvent_201708/sky%20sports%20main%20event.png"group-title="Sky Sport",Sky Sport Main Event (scale) 🏵
+#EXTINF:-1tvg-logo="https://ia800803.us.archive.org/32/items/SkySportsMainEvent_201708/sky%20sports%20main%20event.png"group-title="UK Sky Sport",Sky Sport Main Event (scale) 🏵
 http://user.scalecdn.co:8080/live/mediahost247/9005e2c50a/2185.ts
-#EXTINF:-1tvg-logo="https://www.nicepng.com/png/detail/213-2133982_sky-sports-logo-png.png"group-title="Sky Sport",Sky Sport Premier League (scale) 🏵
+#EXTINF:-1tvg-logo="https://www.nicepng.com/png/detail/213-2133982_sky-sports-logo-png.png"group-title="UK Sky Sport",Sky Sport Premier League (scale) 🏵
 http://user.scalecdn.co:8080/live/mediahost247/9005e2c50a/2181.ts
-#EXTINF:-1tvg-logo="https://ia800803.us.archive.org/32/items/SkySportsMainEvent_201708/sky%20sports%20main%20event.png"group-title="Sky Sport",Sky Sport Main Event (d.server) 🏵
+#EXTINF:-1tvg-logo="https://ia800803.us.archive.org/32/items/SkySportsMainEvent_201708/sky%20sports%20main%20event.png"group-title="UK Sky Sport",Sky Sport Main Event (d.server) 🏵
 http://daddyserver.com:8080/live/@s1entertainment/FDV3t2hZsj/143019.ts
-#EXTINF:-1tvg-logo="https://www.nicepng.com/png/detail/213-2133982_sky-sports-logo-png.png"group-title="Sky Sport",Sky Sport Premier League (d.server) 🏵
+#EXTINF:-1tvg-logo="https://www.nicepng.com/png/detail/213-2133982_sky-sports-logo-png.png"group-title="UK Sky Sport",Sky Sport Premier League (d.server) 🏵
 http://daddyserver.com:8080/live/@s1entertainment/FDV3t2hZsj/143021.ts
-#EXTINF:-1tvg-logo="https://ia800803.us.archive.org/32/items/SkySportsMainEvent_201708/sky%20sports%20main%20event.png"group-title="Sky Sport",Sky Sport Main Event (bellive) 🏵
+#EXTINF:-1tvg-logo="https://ia800803.us.archive.org/32/items/SkySportsMainEvent_201708/sky%20sports%20main%20event.png"group-title="UK Sky Sport",Sky Sport Main Event (tvpanel) 🏵
+http://tvpanel.one:80/live/anpoe6@aol.com/nhwljZFOz4/586759.ts
+#EXTINF:-1tvg-logo="https://www.nicepng.com/png/detail/213-2133982_sky-sports-logo-png.png"group-title="UK Sky Sport",Sky Sport Premier League (tvpanel) 🏵
+http://tvpanel.one:80/live/anpoe6@aol.com/nhwljZFOz4/586761.ts
+#EXTINF:-1tvg-logo="https://ia800803.us.archive.org/32/items/SkySportsMainEvent_201708/sky%20sports%20main%20event.png"group-title="UK Sky Sport",Sky Sport Main Event (bellive) 
 http://bellive.top:8080/live/121663552974613000/231663552974613/29678.ts
-#EXTINF:-1tvg-logo="https://www.nicepng.com/png/detail/213-2133982_sky-sports-logo-png.png"group-title="Sky Sport",Sky Sport Premier League (bellive) 🏵
+#EXTINF:-1tvg-logo="https://www.nicepng.com/png/detail/213-2133982_sky-sports-logo-png.png"group-title="UK Sky Sport",Sky Sport Premier League (bellive) 
 http://bellive.top:8080/live/121663552974613000/231663552974613/29676.ts
-#EXTINF:-1tvg-logo="https://ia800803.us.archive.org/32/items/SkySportsMainEvent_201708/sky%20sports%20main%20event.png"group-title="Sky Sport",Sky Sport Main Event (opplex) 
+#EXTINF:-1tvg-logo="https://ia800803.us.archive.org/32/items/SkySportsMainEvent_201708/sky%20sports%20main%20event.png"group-title="UK Sky Sport",Sky Sport Main Event (opplex) 
 http://xtv.ooo:8080/live/Univision@RE/100Bangla/222624.ts
-#EXTINF:-1tvg-logo="https://www.nicepng.com/png/detail/213-2133982_sky-sports-logo-png.png"group-title="Sky Sport",Sky Sport Premier League (opplex) 
+#EXTINF:-1tvg-logo="https://www.nicepng.com/png/detail/213-2133982_sky-sports-logo-png.png"group-title="UK Sky Sport",Sky Sport Premier League (opplex) 
 http://xtv.ooo:8080/live/Univision@RE/100Bangla/222625.ts
-#EXTINF:-1tvg-logo="https://ia800803.us.archive.org/32/items/SkySportsMainEvent_201708/sky%20sports%20main%20event.png"group-title="Sky Sport",Sky Sport Main Event (tvt) 
+#EXTINF:-1tvg-logo="https://ia800803.us.archive.org/32/items/SkySportsMainEvent_201708/sky%20sports%20main%20event.png"group-title="UK Sky Sport",Sky Sport Main Event (tvt) 
 http://tvt3.xyz:2095/play/live.php?mac=00:1A:79:00:04:02&stream=37073&extension=ts&play_token=sCJrZR3Zu6
-#EXTINF:-1tvg-logo="https://www.nicepng.com/png/detail/213-2133982_sky-sports-logo-png.png"group-title="Sky Sport",Sky Sport Premier League (tvt) 
+#EXTINF:-1tvg-logo="https://www.nicepng.com/png/detail/213-2133982_sky-sports-logo-png.png"group-title="UK Sky Sport",Sky Sport Premier League (tvt) 
 http://tvt3.xyz:2095/play/live.php?mac=00:1A:79:00:04:02&stream=37069&extension=ts&play_token=N9otAxGf8c
 
-#EXTINF:-1tvg-logo="https://img01.products.bt.co.uk/content/dam/bt/portal/images/logos/channel-logo/full-logo/2022/BTSPORT_1_2018_WHITE_RGB.png"group-title="BT Sport",BT Sport 1 (scale) 🏵
+#EXTINF:-1tvg-logo="https://img01.products.bt.co.uk/content/dam/bt/portal/images/logos/channel-logo/full-logo/2022/BTSPORT_1_2018_WHITE_RGB.png"group-title="UK BT Sport",BT Sport 1 (scale) 🏵
 http://user.scalecdn.co:8080/live/mediahost247/9005e2c50a/2337.ts
-#EXTINF:-1tvg-logo="https://img01.products.bt.co.uk/content/dam/bt/portal/images/logos/channel-logo/full-logo/2022/BTSPORT_2_2018_WHITE_RGB.png"group-title="BT Sport",BT Sport 2 (scale) 🏵
+#EXTINF:-1tvg-logo="https://img01.products.bt.co.uk/content/dam/bt/portal/images/logos/channel-logo/full-logo/2022/BTSPORT_2_2018_WHITE_RGB.png"group-title="UK BT Sport",BT Sport 2 (scale) 
 http://user.scalecdn.co:8080/live/mediahost247/9005e2c50a/2336.ts
-#EXTINF:-1tvg-logo="https://img01.products.bt.co.uk/content/dam/bt/portal/images/logos/channel-logo/full-logo/2022/BTSPORT_3_2018_WHITE_RGB.png"group-title="BT Sport",BT Sport 3 (scale)
+#EXTINF:-1tvg-logo="https://img01.products.bt.co.uk/content/dam/bt/portal/images/logos/channel-logo/full-logo/2022/BTSPORT_3_2018_WHITE_RGB.png"group-title="UK BT Sport",BT Sport 3 (scale)
 http://user.scalecdn.co:8080/live/mediahost247/9005e2c50a/2335.ts
-#EXTINF:-1tvg-logo="https://img01.products.bt.co.uk/content/dam/bt/portal/images/logos/channel-logo/full-logo/2022/BTSPORT_4_2022_WHITE_RGB.png"group-title="BT Sport",BT Sport 4 Espn (scale)
+#EXTINF:-1tvg-logo="https://img01.products.bt.co.uk/content/dam/bt/portal/images/logos/channel-logo/full-logo/2022/BTSPORT_4_2022_WHITE_RGB.png"group-title="UK BT Sport",BT Sport 4 Espn (scale)
 http://user.scalecdn.co:8080/live/mediahost247/9005e2c50a/2334.ts
-#EXTINF:-1tvg-logo="https://img01.products.bt.co.uk/content/dam/bt/portal/images/logos/channel-logo/full-logo/2022/BTSPORT_1_2018_WHITE_RGB.png"group-title="BT Sport",BT Sport 1 (tvt) 
+#EXTINF:-1tvg-logo="https://img01.products.bt.co.uk/content/dam/bt/portal/images/logos/channel-logo/full-logo/2022/BTSPORT_1_2018_WHITE_RGB.png"group-title="UK BT Sport",BT Sport 1 (tvpanel) 🏵
+http://tvpanel.one:80/live/anpoe6@aol.com/nhwljZFOz4/586781.ts
+#EXTINF:-1tvg-logo="https://img01.products.bt.co.uk/content/dam/bt/portal/images/logos/channel-logo/full-logo/2022/BTSPORT_2_2018_WHITE_RGB.png"group-title="UK BT Sport",BT Sport 2 (tvpanel)
+http://tvpanel.one:80/live/anpoe6@aol.com/nhwljZFOz4/586783.ts
+#EXTINF:-1tvg-logo="https://img01.products.bt.co.uk/content/dam/bt/portal/images/logos/channel-logo/full-logo/2022/BTSPORT_3_2018_WHITE_RGB.png"group-title="UK BT Sport",BT Sport 3 (tvpanel)
+http://tvpanel.one:80/live/anpoe6@aol.com/nhwljZFOz4/586785.ts
+#EXTINF:-1tvg-logo="https://img01.products.bt.co.uk/content/dam/bt/portal/images/logos/channel-logo/full-logo/2022/BTSPORT_4_2022_WHITE_RGB.png"group-title="UK BT Sport",BT Sport 4 Espn (tvpanel)
+http://tvpanel.one:80/live/anpoe6@aol.com/nhwljZFOz4/586787.ts
+#EXTINF:-1tvg-logo="https://img01.products.bt.co.uk/content/dam/bt/portal/images/logos/channel-logo/full-logo/2022/BTSPORT_1_2018_WHITE_RGB.png"group-title="UK BT Sport",BT Sport 1 (tvt) 
 http://tvt3.xyz:2095/play/live.php?mac=00:1A:79:00:04:02&stream=9850&extension=ts&play_token=JlFQQQV7IW
-#EXTINF:-1tvg-logo="https://img01.products.bt.co.uk/content/dam/bt/portal/images/logos/channel-logo/full-logo/2022/BTSPORT_2_2018_WHITE_RGB.png"group-title="BT Sport",BT Sport 2 (tvt) 
+#EXTINF:-1tvg-logo="https://img01.products.bt.co.uk/content/dam/bt/portal/images/logos/channel-logo/full-logo/2022/BTSPORT_2_2018_WHITE_RGB.png"group-title="UK BT Sport",BT Sport 2 (tvt) 
 http://tvt3.xyz:2095/play/live.php?mac=00:1A:79:00:04:02&stream=9848&extension=ts&play_token=DjafsAAwys
-#EXTINF:-1tvg-logo="https://img01.products.bt.co.uk/content/dam/bt/portal/images/logos/channel-logo/full-logo/2022/BTSPORT_3_2018_WHITE_RGB.png"group-title="BT Sport",BT Sport 3 (tvt) 
+#EXTINF:-1tvg-logo="https://img01.products.bt.co.uk/content/dam/bt/portal/images/logos/channel-logo/full-logo/2022/BTSPORT_3_2018_WHITE_RGB.png"group-title="UK BT Sport",BT Sport 3 (tvt) 
 http://tvt3.xyz:2095/play/live.php?mac=00:1A:79:00:04:02&stream=9846&extension=ts&play_token=bGoYIRbfW4
-#EXTINF:-1tvg-logo="https://img01.products.bt.co.uk/content/dam/bt/portal/images/logos/channel-logo/full-logo/2022/BTSPORT_4_2022_WHITE_RGB.png"group-title="BT Sport",BT Sport 4 Espn (tvt)
+#EXTINF:-1tvg-logo="https://img01.products.bt.co.uk/content/dam/bt/portal/images/logos/channel-logo/full-logo/2022/BTSPORT_4_2022_WHITE_RGB.png"group-title="UK BT Sport",BT Sport 4 Espn (tvt)
 http://tvt3.xyz:2095/play/live.php?mac=00:1A:79:00:04:02&stream=23657&extension=ts&play_token=xhLflrH07a
 
-#EXTINF:-1tvg-logo="https://www.dialog.lk/dialogdocroot/content/images/channel-highlights/sssd-1.jpg"group-title="Star Sport",Star Sport Select 1 (trex) 
+#EXTINF:-1tvg-logo="https://www.dialog.lk/dialogdocroot/content/images/channel-highlights/sssd-1.jpg"group-title="India Star Sport",Star Sport Select 1 (trex) 
 http://tv.trexiptv.com:80/play/live.php?mac=00:1A:79:06:57:CD&stream=946250&extension=ts&play_token=d9QOJBdCma
-#EXTINF:-1tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/b6/SSS2.jpg/revision/latest?cb=20170728104438"group-title="Star Sport",Star Sport Select 2 (trex) 
+#EXTINF:-1tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/b6/SSS2.jpg/revision/latest?cb=20170728104438"group-title="India Star Sport",Star Sport Select 2 (trex) 
 http://tv.trexiptv.com:80/play/live.php?mac=00:1A:79:06:57:CD&stream=946251&extension=ts&play_token=gVr2S1fRTG
-
-#EXTINF:-1tvg-logo="https://static.wikia.nocookie.net/logaekranowe/images/6/69/Eleven1ekr2018-19.png/revision/latest/scale-to-width-down/1991?cb=20211228183748&path-prefix=pl"group-title="Eleven Sport",Eleven Sport 1 (from web)🏅
-#EXTVLCOPT:http-referrer=https://streamservicehd.click/premiumtv/livetvon.php?id=455
-https://webudi.openhd.lol/lb/premium455/index.m3u8
-#EXTINF:-1tvg-logo="https://ocdn.eu/ptv2-images/logo-migrated/eleven-sports-2.png"group-title="Eleven Sport",Eleven Sport 2 (from web)🏅
-#EXTVLCOPT:http-referrer=https://streamservicehd.click/premiumtv/livetvon.php?id=456
-https://webudi.openhd.lol/lb/premium456/index.m3u8
 
 #EXTINF:-1tvg-logo="https://cms.dmpcdn.com/livetv/2019/07/31/31682adb-c504-409d-b2ea-d43245491a9a_original.png"group-title="Thai True Sport",True Premier Football 1 (tvt) 
 http://tvt3.xyz:2095/play/live.php?mac=00:1A:79:00:04:02&stream=115758&extension=ts&play_token=ZleOAq2r3y
