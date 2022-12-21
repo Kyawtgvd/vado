@@ -161,15 +161,27 @@ http://daddyserver.com:8080/live/@s1entertainment/FDV3t2hZsj/74168.ts
 #EXTINF:-1tvg-logo="https://ia902308.us.archive.org/15/items/sport-tv-logo/SportTV-logo.png"group-title="Portugal Sport(EPL)",Sport Tv 1 (tvpanel) 
 http://tvpanel.one:80/live/anpoe6@aol.com/nhwljZFOz4/579498.ts
 
-#EXTINF:-1tvg-logo="https://www.dialog.lk/dialogdocroot/content/images/channel-highlights/sssd-1.jpg"group-title="India Star Sport",Star Sport Select 1 (trex) 
+#EXTINF:-1tvg-logo="https://www.dialog.lk/dialogdocroot/content/images/channel-highlights/sssd-1.jpg"group-title="India Sport(EPL)",Star Sport Select 1 (trex) 
 http://tv.trexiptv.com:80/play/live.php?mac=00:1A:79:06:57:CD&stream=946250&extension=ts&play_token=d9QOJBdCma
-#EXTINF:-1tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/b6/SSS2.jpg/revision/latest?cb=20170728104438"group-title="India Star Sport",Star Sport Select 2 (trex) 
+#EXTINF:-1tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/b6/SSS2.jpg/revision/latest?cb=20170728104438"group-title="India Sport(EPL)",Star Sport Select 2 (trex) 
 http://tv.trexiptv.com:80/play/live.php?mac=00:1A:79:06:57:CD&stream=946251&extension=ts&play_token=gVr2S1fRTG
+#EXTINF:-1tvg-logo="https://www.dialog.lk/dialogdocroot/content/images/channel-highlights/sssd-1.jpg"group-title="India Sport(EPL)",Star Sport Select 1 (d.server)
+http://daddyserver.com:8080/live/@s1entertainment/FDV3t2hZsj/53378.ts
+#EXTINF:-1tvg-logo="https://www.dialog.lk/dialogdocroot/content/images/channel-highlights/sssd-1.jpg"group-title="India Sport(EPL)",Star Sport Select 1 (tvpanel)
+http://tvpanel.one:80/live/anpoe6@aol.com/nhwljZFOz4/553299.ts
+#EXTINF:-1tvg-logo="https://www.dialog.lk/dialogdocroot/content/images/channel-highlights/sssd-1.jpg"group-title="India Sport(EPL)",Star Sport Select 1 (opplex)
+http://xtv.ooo:8080/live/Univision@RE/100Bangla/167578.ts
+#EXTINF:-1tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/b6/SSS2.jpg/revision/latest?cb=20170728104438"group-title="India Sport(EPL)",Star Sport Select 2 (opplex)
+http://xtv.ooo:8080/live/Univision@RE/100Bangla/167579.ts
 
-#EXTINF:-1tvg-logo="https://cms.dmpcdn.com/livetv/2019/07/31/31682adb-c504-409d-b2ea-d43245491a9a_original.png"group-title="Thai True Sport",True Premier Football 1 (tvt) 
+#EXTINF:-1tvg-logo="https://cms.dmpcdn.com/livetv/2019/07/31/31682adb-c504-409d-b2ea-d43245491a9a_original.png"group-title="Thai Sport(EPL)",True Premier Football 1 (tvt) 
 http://tvt3.xyz:2095/play/live.php?mac=00:1A:79:00:04:02&stream=115758&extension=ts&play_token=ZleOAq2r3y
-#EXTINF:-1tvg-logo="https://cms.dmpcdn.com/livetv/2019/07/31/afc53720-a686-4376-8ab3-a910f1821c0e_original.png"group-title="Thai True Sport",True Premier Football 2 (tvt) 
+#EXTINF:-1tvg-logo="https://cms.dmpcdn.com/livetv/2019/07/31/afc53720-a686-4376-8ab3-a910f1821c0e_original.png"group-title="Thai Sport(EPL)",True Premier Football 2 (tvt) 
 http://tvt3.xyz:2095/play/live.php?mac=00:1A:79:00:04:02&stream=115762&extension=ts&play_token=f15SJHghJH
+#EXTINF:-1tvg-logo="https://cms.dmpcdn.com/livetv/2019/07/31/31682adb-c504-409d-b2ea-d43245491a9a_original.png"group-title="Thai Sport(EPL)",True Premier Football 1 (d.server)
+http://daddyserver.com:8080/live/@s1entertainment/FDV3t2hZsj/122885.ts
+#EXTINF:-1tvg-logo="https://cms.dmpcdn.com/livetv/2019/07/31/afc53720-a686-4376-8ab3-a910f1821c0e_original.png"group-title="Thai Sport(EPL)",True Premier Football 2 (d.server)
+http://daddyserver.com:8080/live/@s1entertainment/FDV3t2hZsj/122886.ts
 
 #EXTINF:-1tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQfTcmjtKKbhihNW_9eB2iKfaForAlXA2jjMiBGIqSeTwrpF0nkHbqOL5I&s=10"group-title="Myanmar Tv",Maharbawdi
 https://foreveralive1-a.akamaihd.net/327fbb9692d74b8a9fd35e75359fa826/ap-southeast-1/6057949479001/profile_2/chunklist.m3u8
