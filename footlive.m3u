@@ -1,45 +1,3 @@
-#EXTINF:-1tvg-logo="https://static.wikia.nocookie.net/youtube/images/8/84/USA_Network.jpg/revision/latest?cb=20201105181343"group-title="🎉Premier League Special",USA Network East (scale) 🏵 60fps
-http://user.scalecdn.co:8080/live/mediahost247/9005e2c50a/3694.ts
-#EXTINF:-1tvg-logo="https://static.wikia.nocookie.net/youtube/images/8/84/USA_Network.jpg/revision/latest?cb=20201105181343"group-title="🎉Premier League Special",USA Network East (d.server) 🏵 60fps
-http://daddyserver.com:8080/live/@s1entertainment/FDV3t2hZsj/14713.ts
-#EXTINF:-1tvg-logo="https://assets.bein.com/mena/sites/3/2015/06/beIN_SPORTS1_ENGLISH_Digital_Mono.png"group-title="🎉Premier League Special",Bein Sport 1 English (d.server) 🏵 50fps
-http://daddyserver.com:8080/live/@s1entertainment/FDV3t2hZsj/78527.ts
-#EXTINF:-1tvg-logo="https://assets.bein.com/mena/sites/3/2015/06/beIN_SPORTS1_ENGLISH_Digital_Mono.png"group-title="🎉Premier League Special",Bein Sport 1 English (scale) 🏵
-http://user.scalecdn.co:8080/live/mediahost247/9005e2c50a/548627.ts
-#EXTINF:-1tvg-logo="https://ia800803.us.archive.org/32/items/SkySportsMainEvent_201708/sky%20sports%20main%20event.png"group-title="🎉Premier League Special",Sky Sport Main Event (d.server) 🏵 50fps
-http://daddyserver.com:8080/live/@s1entertainment/FDV3t2hZsj/143019.ts
-#EXTINF:-1tvg-logo="https://www.nicepng.com/png/detail/213-2133982_sky-sports-logo-png.png"group-title="🎉Premier League Special",Sky Sport Premier League (d.server) 🏵 50fps
-http://daddyserver.com:8080/live/@s1entertainment/FDV3t2hZsj/143021.ts
-#EXTINF:-1tvg-logo="https://img01.products.bt.co.uk/content/dam/bt/portal/images/logos/channel-logo/full-logo/2022/BTSPORT_1_2018_WHITE_RGB.png"group-title="🎉Premier League Special",BT Sport 1 (scale) 🏵 50fps
-http://user.scalecdn.co:8080/live/mediahost247/9005e2c50a/2337.ts
-#EXTINF:-1tvg-logo="https://img01.products.bt.co.uk/content/dam/bt/portal/images/logos/channel-logo/full-logo/2022/BTSPORT_1_2018_WHITE_RGB.png"group-title="🎉Premier League Special",BT Sport 1 (d.server) 🏵 50fps
-http://daddyserver.com:8080/live/@s1entertainment/FDV3t2hZsj/55490.ts
-
-#EXTINF:-1tvg-logo="https://img01.products.bt.co.uk/content/dam/bt/portal/images/logos/channel-logo/full-logo/2022/BTSPORT_1_2018_WHITE_RGB.png"group-title="🎉Champion League Special",BT Sport 1 (scale) 🏵 50fps
-http://user.scalecdn.co:8080/live/mediahost247/9005e2c50a/2337.ts
-#EXTINF:-1tvg-logo="https://img01.products.bt.co.uk/content/dam/bt/portal/images/logos/channel-logo/full-logo/2022/BTSPORT_2_2018_WHITE_RGB.png"group-title="🎉Champion League Special",BT Sport 2 (scale) 🏵
-http://user.scalecdn.co:8080/live/mediahost247/9005e2c50a/2336.ts
-#EXTINF:-1tvg-logo="https://img01.products.bt.co.uk/content/dam/bt/portal/images/logos/channel-logo/full-logo/2022/BTSPORT_3_2018_WHITE_RGB.png"group-title="🎉Champion League Special",BT Sport 3 (scale) 🏵
-http://user.scalecdn.co:8080/live/mediahost247/9005e2c50a/2335.ts
-#EXTINF:-1tvg-logo="https://img01.products.bt.co.uk/content/dam/bt/portal/images/logos/channel-logo/full-logo/2022/BTSPORT_4_2022_WHITE_RGB.png"group-title="🎉Champion League Special",BT Sport 4 Espn (scale) 🏵
-http://user.scalecdn.co:8080/live/mediahost247/9005e2c50a/2334.ts
-#EXTINF:-1tvg-logo="https://img01.products.bt.co.uk/content/dam/bt/portal/images/logos/channel-logo/full-logo/2022/BTSPORT_1_2018_WHITE_RGB.png"group-title="🎉Champion League Special",BT Sport 1 (d.server) 🏵 50fps
-http://daddyserver.com:8080/live/@s1entertainment/FDV3t2hZsj/55490.ts
-#EXTINF:-1tvg-logo="https://img01.products.bt.co.uk/content/dam/bt/portal/images/logos/channel-logo/full-logo/2022/BTSPORT_2_2018_WHITE_RGB.png"group-title="🎉Champion League Special",BT Sport 2 (d.server) 🏵 50fps
-http://daddyserver.com:8080/live/@s1entertainment/FDV3t2hZsj/55491.ts
-#EXTINF:-1tvg-logo="https://img01.products.bt.co.uk/content/dam/bt/portal/images/logos/channel-logo/full-logo/2022/BTSPORT_3_2018_WHITE_RGB.png"group-title="🎉Champion League Special",BT Sport 3 (d.server) 🏵 50fps
-http://daddyserver.com:8080/live/@s1entertainment/FDV3t2hZsj/55492.ts
-#EXTINF:-1tvg-logo="https://img01.products.bt.co.uk/content/dam/bt/portal/images/logos/channel-logo/full-logo/2022/BTSPORT_4_2022_WHITE_RGB.png"group-title="🎉Champion League Special",BT Sport 4 Espn (d.server) 🏵 50fps
-http://daddyserver.com:8080/live/@s1entertainment/FDV3t2hZsj/55493.ts
-#EXTINF:-1tvg-logo="https://assets.bein.com/mena/sites/3/2015/06/beIN_SPORTS1_ENGLISH_Digital_Mono.png"group-title="🎉Champion League Special",Bein Sport 1 English (scale) 🏵
-http://user.scalecdn.co:8080/live/mediahost247/9005e2c50a/548627.ts
-#EXTINF:-1tvg-logo="https://i.goalzz.com/?i=o%2Fh%2F1%2F214%2Fbein-sports-english-1.png"group-title="🎉Champion League Special",Bein Sport 2 English (scale) 🏵
-http://user.scalecdn.co:8080/live/mediahost247/9005e2c50a/548628.ts
-#EXTINF:-1tvg-logo="https://assets.bein.com/mena/sites/3/2015/06/beIN_SPORTS1_ENGLISH_Digital_Mono.png"group-title="🎉Champion League Special",Bein Sport 1 English (d.server) 🏵 50fps
-http://daddyserver.com:8080/live/@s1entertainment/FDV3t2hZsj/78527.ts
-#EXTINF:-1tvg-logo="https://i.goalzz.com/?i=o%2Fh%2F1%2F214%2Fbein-sports-english-1.png"group-title="🎉Champion League Special",Bein Sport 2 English (d.server) 🏵 50fps
-http://daddyserver.com:8080/live/@s1entertainment/FDV3t2hZsj/78528.ts
-
 #EXTINF:-1tvg-logo="https://static.wikia.nocookie.net/youtube/images/8/84/USA_Network.jpg/revision/latest?cb=20201105181343"group-title="USA Sport(EPL)",USA Network East (scale) 🏵 
 http://user.scalecdn.co:8080/live/mediahost247/9005e2c50a/3694.ts
 #EXTINF:-1tvg-logo="https://i0.wp.com/logotaglines.com/wp-content/uploads/2022/04/USA-Network-Logo-Tagline-Slogan-Owner.jpg?w=640&ssl=1"group-title="USA Sport(EPL)",USA Network West (scale) 🏵
@@ -81,11 +39,11 @@ http://daddyserver.com:8080/live/@s1entertainment/FDV3t2hZsj/61036.ts
 
 #EXTINF:-1tvg-logo="https://assets.bein.com/mena/sites/3/2015/06/beIN_SPORTS1_ENGLISH_Digital_Mono.png"group-title="UK Bein Sport",Bein Sport 1 English (scale) 🏵
 http://user.scalecdn.co:8080/live/mediahost247/9005e2c50a/548627.ts
-#EXTINF:-1tvg-logo="https://i.goalzz.com/?i=o%2Fh%2F1%2F214%2Fbein-sports-english-1.png"group-title="UK Bein Sport",Bein Sport 2 English (scale) 
+#EXTINF:-1tvg-logo="https://i.goalzz.com/?i=o%2Fh%2F1%2F214%2Fbein-sports-english-1.png"group-title="UK Bein Sport",Bein Sport 2 English (scale) 🏵
 http://user.scalecdn.co:8080/live/mediahost247/9005e2c50a/548628.ts
 #EXTINF:-1tvg-logo="https://assets.bein.com/mena/sites/3/2015/06/beIN_SPORTS1_ENGLISH_Digital_Mono.png"group-title="UK Bein Sport",Bein Sport 1 English (d.server) 🏵 50fps
 http://daddyserver.com:8080/live/@s1entertainment/FDV3t2hZsj/78527.ts
-#EXTINF:-1tvg-logo="https://i.goalzz.com/?i=o%2Fh%2F1%2F214%2Fbein-sports-english-1.png"group-title="UK Bein Sport",Bein Sport 2 English (d.server) 50fps
+#EXTINF:-1tvg-logo="https://i.goalzz.com/?i=o%2Fh%2F1%2F214%2Fbein-sports-english-1.png"group-title="UK Bein Sport",Bein Sport 2 English (d.server) 50fps 🏵
 http://daddyserver.com:8080/live/@s1entertainment/FDV3t2hZsj/78528.ts
 #EXTINF:-1tvg-logo="https://assets.bein.com/mena/sites/3/2015/06/beIN_SPORTS1_ENGLISH_Digital_Mono.png"group-title="UK Bein Sport",Bein Sport 1 English (bellive) 
 http://bellive.top:8080/live/121663552974613000/231663552974613/25113.ts
@@ -130,7 +88,7 @@ http://xtv.ooo:8080/live/Univision@RE/100Bangla/222625.ts
 http://sinbox.pro:8080/live/casper01/H3g3gADDS2/119303.ts
 #EXTINF:-1tvg-logo="https://ia800803.us.archive.org/32/items/SkySportsMainEvent_201708/sky%20sports%20main%20event.png"group-title="UK Sky Sport",Sky Sport Main Event (sin)
 http://sinbox.pro:8080/live/casper01/H3g3gADDS2/124267.ts
-#EXTINF:-1tvg-logo="https://www.nicepng.com/png/detail/213-2133982_sky-sports-logo-png.png"group-title="UK Sky Sport",Sky Sport PL (sin)
+#EXTINF:-1tvg-logo="https://www.nicepng.com/png/detail/213-2133982_sky-sports-logo-png.png"group-title="UK Sky Sport",Sky Sport PL (sin) 🏵
 http://sinbox.pro:8080/live/casper01/H3g3gADDS2/119305.ts
 #EXTINF:-1tvg-logo="https://www.nicepng.com/png/detail/213-2133982_sky-sports-logo-png.png"group-title="UK Sky Sport",Sky Sport Premier League (sin)
 http://sinbox.pro:8080/live/casper01/H3g3gADDS2/124266.ts
