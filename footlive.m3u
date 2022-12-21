@@ -14,7 +14,7 @@ http://tvpanel.one:80/live/anpoe6@aol.com/nhwljZFOz4/433174.ts
 http://bellive.top:8080/live/121663552974613000/231663552974613/19401.ts
 #EXTINF:-1tvg-logo="https://static.wikia.nocookie.net/youtube/images/8/84/USA_Network.jpg/revision/latest?cb=20201105181343"group-title="USA Sport(EPL)",USA Network East (opplex) 
 http://xtv.ooo:8080/live/Univision@RE/100Bangla/223349.ts
-#EXTINF:-1tvg-logo="https://static.wikia.nocookie.net/youtube/images/8/84/USA_Network.jpg/revision/latest?cb=20201105181343"group-title="USA Sport(EPL)",USA Network East (sin) 
+#EXTINF:-1tvg-logo="https://static.wikia.nocookie.net/youtube/images/8/84/USA_Network.jpg/revision/latest?cb=20201105181343"group-title="USA Sport(EPL)",USA Network East (sin)#with vpn
 http://sinbox.pro:8080/live/casper01/H3g3gADDS2/154637.ts
 #EXTINF:-1tvg-logo="https://st1.uvnimg.com/f2/30/64b3884646e7ba0bafb3a615d78b/1440x810-2x.png"group-title="USA Sport(EPL)",TUDN (scale)
 http://user.scalecdn.co:8080/live/mediahost247/9005e2c50a/4640.ts
@@ -51,7 +51,7 @@ http://bellive.top:8080/live/121663552974613000/231663552974613/25113.ts
 http://bellive.top:8080/live/121663552974613000/231663552974613/25114.ts
 #EXTINF:-1tvg-logo="https://i.goalzz.com/?i=o%2Fh%2F1%2F215%2Fbein-sports-english-1.png"group-title="UK Bein Sport",Bein Sport 3 English (bellive)
 http://bellive.top:8080/live/121663552974613000/231663552974613/25115.ts
-#EXTINF:-1tvg-logo="https://assets.bein.com/mena/sites/3/2015/06/beIN_SPORTS1_ENGLISH_Digital_Mono.png"group-title="UK Bein Sport",Bein Sport 1 English (opplex)
+#EXTINF:-1tvg-logo="https://assets.bein.com/mena/sites/3/2015/06/beIN_SPORTS1_ENGLISH_Digital_Mono.png"group-title="UK Bein Sport",Bein Sport 1 English (opplex)#with vpn
 http://xtv.ooo:8080/live/Univision@RE/100Bangla/222532.ts
 #EXTINF:-1tvg-logo="https://i.goalzz.com/?i=o%2Fh%2F1%2F214%2Fbein-sports-english-1.png"group-title="UK Bein Sport",Bein Sport 2 English (opplex)
 http://xtv.ooo:8080/live/Univision@RE/100Bangla/222534.ts
@@ -84,13 +84,13 @@ http://bellive.top:8080/live/121663552974613000/231663552974613/29676.ts
 http://xtv.ooo:8080/live/Univision@RE/100Bangla/222624.ts
 #EXTINF:-1tvg-logo="https://www.nicepng.com/png/detail/213-2133982_sky-sports-logo-png.png"group-title="UK Sky Sport",Sky Sport Premier League (opplex) 
 http://xtv.ooo:8080/live/Univision@RE/100Bangla/222625.ts
-#EXTINF:-1tvg-logo="https://ia800803.us.archive.org/32/items/SkySportsMainEvent_201708/sky%20sports%20main%20event.png"group-title="UK Sky Sport",Sky Sport Top Event (sin) 🏵
+#EXTINF:-1tvg-logo="https://ia800803.us.archive.org/32/items/SkySportsMainEvent_201708/sky%20sports%20main%20event.png"group-title="UK Sky Sport",Sky Sport Top Event (sin) 🏵#with vpn
 http://sinbox.pro:8080/live/casper01/H3g3gADDS2/119303.ts
-#EXTINF:-1tvg-logo="https://ia800803.us.archive.org/32/items/SkySportsMainEvent_201708/sky%20sports%20main%20event.png"group-title="UK Sky Sport",Sky Sport Main Event (sin)
+#EXTINF:-1tvg-logo="https://ia800803.us.archive.org/32/items/SkySportsMainEvent_201708/sky%20sports%20main%20event.png"group-title="UK Sky Sport",Sky Sport Main Event (sin)#with vpn
 http://sinbox.pro:8080/live/casper01/H3g3gADDS2/124267.ts
-#EXTINF:-1tvg-logo="https://www.nicepng.com/png/detail/213-2133982_sky-sports-logo-png.png"group-title="UK Sky Sport",Sky Sport PL (sin) 🏵
+#EXTINF:-1tvg-logo="https://www.nicepng.com/png/detail/213-2133982_sky-sports-logo-png.png"group-title="UK Sky Sport",Sky Sport PL (sin) 🏵#with vpn
 http://sinbox.pro:8080/live/casper01/H3g3gADDS2/119305.ts
-#EXTINF:-1tvg-logo="https://www.nicepng.com/png/detail/213-2133982_sky-sports-logo-png.png"group-title="UK Sky Sport",Sky Sport Premier League (sin)
+#EXTINF:-1tvg-logo="https://www.nicepng.com/png/detail/213-2133982_sky-sports-logo-png.png"group-title="UK Sky Sport",Sky Sport Premier League (sin)#with vpn
 http://sinbox.pro:8080/live/casper01/H3g3gADDS2/124266.ts
 #EXTINF:-1tvg-logo="https://ia800803.us.archive.org/32/items/SkySportsMainEvent_201708/sky%20sports%20main%20event.png"group-title="UK Sky Sport",Sky Sport Main Event (tvt) 
 http://tvt3.xyz:2095/play/live.php?mac=00:1A:79:00:04:02&stream=37073&extension=ts&play_token=sCJrZR3Zu6
@@ -121,9 +121,9 @@ http://tvpanel.one:80/live/anpoe6@aol.com/nhwljZFOz4/586783.ts
 http://tvpanel.one:80/live/anpoe6@aol.com/nhwljZFOz4/586785.ts
 #EXTINF:-1tvg-logo="https://img01.products.bt.co.uk/content/dam/bt/portal/images/logos/channel-logo/full-logo/2022/BTSPORT_4_2022_WHITE_RGB.png"group-title="UK BT Sport",BT Sport 4 Espn (tvpanel)
 http://tvpanel.one:80/live/anpoe6@aol.com/nhwljZFOz4/586787.ts
-#EXTINF:-1tvg-logo="https://img01.products.bt.co.uk/content/dam/bt/portal/images/logos/channel-logo/full-logo/2022/BTSPORT_2_2018_WHITE_RGB.png"group-title="UK BT Sport",BT Sport 2 (sin) 50fps
+#EXTINF:-1tvg-logo="https://img01.products.bt.co.uk/content/dam/bt/portal/images/logos/channel-logo/full-logo/2022/BTSPORT_2_2018_WHITE_RGB.png"group-title="UK BT Sport",BT Sport 2 (sin) 50fps#with vpn
 http://sinbox.pro:8080/live/casper01/H3g3gADDS2/124255.ts
-#EXTINF:-1tvg-logo="https://img01.products.bt.co.uk/content/dam/bt/portal/images/logos/channel-logo/full-logo/2022/BTSPORT_3_2018_WHITE_RGB.png"group-title="UK BT Sport",BT Sport 3 (sin)
+#EXTINF:-1tvg-logo="https://img01.products.bt.co.uk/content/dam/bt/portal/images/logos/channel-logo/full-logo/2022/BTSPORT_3_2018_WHITE_RGB.png"group-title="UK BT Sport",BT Sport 3 (sin)#with vpn
 http://sinbox.pro:8080/live/casper01/H3g3gADDS2/124256.ts
 #EXTINF:-1tvg-logo="https://img01.products.bt.co.uk/content/dam/bt/portal/images/logos/channel-logo/full-logo/2022/BTSPORT_1_2018_WHITE_RGB.png"group-title="UK BT Sport",BT Sport 1 (tvt) 
 http://tvt3.xyz:2095/play/live.php?mac=00:1A:79:00:04:02&stream=9850&extension=ts&play_token=JlFQQQV7IW
@@ -133,6 +133,33 @@ http://tvt3.xyz:2095/play/live.php?mac=00:1A:79:00:04:02&stream=9848&extension=t
 http://tvt3.xyz:2095/play/live.php?mac=00:1A:79:00:04:02&stream=9846&extension=ts&play_token=bGoYIRbfW4
 #EXTINF:-1tvg-logo="https://img01.products.bt.co.uk/content/dam/bt/portal/images/logos/channel-logo/full-logo/2022/BTSPORT_4_2022_WHITE_RGB.png"group-title="UK BT Sport",BT Sport 4 Espn (tvt)
 http://tvt3.xyz:2095/play/live.php?mac=00:1A:79:00:04:02&stream=23657&extension=ts&play_token=xhLflrH07a
+
+#EXTINF:-1tvg-logo="https://static.wikia.nocookie.net/logaekranowe/images/6/69/Eleven1ekr2018-19.png/revision/latest/scale-to-width-down/1991?cb=20211228183748&path-prefix=pl"group-title="Portugal Sport(EPL)",Eleven Sport 1 (scale) 🏵
+http://user.scalecdn.co:8080/live/mediahost247/9005e2c50a/925.ts
+#EXTINF:-1tvg-logo="https://ocdn.eu/ptv2-images/logo-migrated/eleven-sports-2.png"group-title="Portugal Sport(EPL)",Eleven Sport 2 (scale) 🏵
+http://user.scalecdn.co:8080/live/mediahost247/9005e2c50a/923.ts
+#EXTINF:-1tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/0f/Eleven_Sports_3.svg/revision/latest/scale-to-width-down/250?cb=20210210162837"group-title="Portugal Sport(EPL)",Eleven Sport 3 (scale) 🏵
+http://user.scalecdn.co:8080/live/mediahost247/9005e2c50a/922.ts
+#EXTINF:-1tvg-logo="https://static.wikia.nocookie.net/logaekranowe/images/6/69/Eleven1ekr2018-19.png/revision/latest/scale-to-width-down/1991?cb=20211228183748&path-prefix=pl"group-title="Portugal Sport(EPL)",Eleven Sport 1 (d.server) 🏵
+http://daddyserver.com:8080/live/@s1entertainment/FDV3t2hZsj/74179.ts
+#EXTINF:-1tvg-logo="https://ocdn.eu/ptv2-images/logo-migrated/eleven-sports-2.png"group-title="Portugal Sport(EPL)",Eleven Sport 2 (d.server) 🏵
+http://daddyserver.com:8080/live/@s1entertainment/FDV3t2hZsj/9870.ts
+#EXTINF:-1tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/0f/Eleven_Sports_3.svg/revision/latest/scale-to-width-down/250?cb=20210210162837"group-title="Portugal Sport(EPL)",Eleven Sport 3 (d.server) 🏵
+http://daddyserver.com:8080/live/@s1entertainment/FDV3t2hZsj/9871.ts
+#EXTINF:-1tvg-logo="https://static.wikia.nocookie.net/logaekranowe/images/6/69/Eleven1ekr2018-19.png/revision/latest/scale-to-width-down/1991?cb=20211228183748&path-prefix=pl"group-title="Portugal Sport(EPL)",Eleven Sport 1 (tvpanel) 
+http://tvpanel.one:80/live/anpoe6@aol.com/nhwljZFOz4/579505.ts
+#EXTINF:-1tvg-logo="https://ocdn.eu/ptv2-images/logo-migrated/eleven-sports-2.png"group-title="Portugal Sport(EPL)",Eleven Sport 2 (tvpanel) 
+http://tvpanel.one:80/live/anpoe6@aol.com/nhwljZFOz4/579506.ts
+#EXTINF:-1tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/0f/Eleven_Sports_3.svg/revision/latest/scale-to-width-down/250?cb=20210210162837"group-title="Portugal Sport(EPL)",Eleven Sport 3 (tvpanel) 
+http://tvpanel.one:80/live/anpoe6@aol.com/nhwljZFOz4/579507.ts
+#EXTINF:-1tvg-logo="https://ia902308.us.archive.org/15/items/sport-tv-logo/SportTV-logo.png"group-title="Portugal Sport(EPL)",Sport Tv 1 (scale) 🏵
+http://user.scalecdn.co:8080/live/mediahost247/9005e2c50a/848.ts
+#EXTINF:-1tvg-logo="https://ia902308.us.archive.org/15/items/sport-tv-logo/SportTV-logo.png"group-title="Portugal Sport(EPL)",Sport Tv 1 (d.server) 
+http://daddyserver.com:8080/live/@s1entertainment/FDV3t2hZsj/74113.ts
+#EXTINF:-1tvg-logo="https://www.thesportsdb.com/images/media/tvlogo/vpwuyu1470409212.png"group-title="Portugal Sport(EPL)",Sport Tv 2 (d.server) 
+http://daddyserver.com:8080/live/@s1entertainment/FDV3t2hZsj/74168.ts
+#EXTINF:-1tvg-logo="https://ia902308.us.archive.org/15/items/sport-tv-logo/SportTV-logo.png"group-title="Portugal Sport(EPL)",Sport Tv 1 (tvpanel) 
+http://tvpanel.one:80/live/anpoe6@aol.com/nhwljZFOz4/579498.ts
 
 #EXTINF:-1tvg-logo="https://www.dialog.lk/dialogdocroot/content/images/channel-highlights/sssd-1.jpg"group-title="India Star Sport",Star Sport Select 1 (trex) 
 http://tv.trexiptv.com:80/play/live.php?mac=00:1A:79:06:57:CD&stream=946250&extension=ts&play_token=d9QOJBdCma
