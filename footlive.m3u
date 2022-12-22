@@ -64,7 +64,7 @@ http://tvt3.xyz:2095/play/live.php?mac=00:1A:79:00:04:02&stream=94449&extension=
 #EXTINF:-1tvg-logo="https://i.goalzz.com/?i=o%2Fh%2F1%2F215%2Fbein-sports-english-1.png"group-title="UK Bein Sport",Bein Sport 3 English (tvt) 
 http://tvt3.xyz:2095/play/live.php?mac=00:1A:79:00:04:02&stream=94445&extension=ts&play_token=lIoB2Jdn6G
 
-#EXTINF:-1tvg-logo="https://ia800803.us.archive.org/32/items/SkySportsMainEvent_201708/sky%20sports%20main%20event.png"group-title="UK Sky Sport",Sky Sport Main Event (scale) 🏵
+#EXTINF:-1tvg-logo="https://ia800803.us.archive.org/32/items/SkySportsMainEvent_201708/sky%20sports%20main%20event.png"group-title="UK Sky Sport",Sky Sport Main Event (scale) 
 http://user.scalecdn.co:8080/live/mediahost247/9005e2c50a/2185.ts
 #EXTINF:-1tvg-logo="https://www.nicepng.com/png/detail/213-2133982_sky-sports-logo-png.png"group-title="UK Sky Sport",Sky Sport Premier League (scale) 🏵
 http://user.scalecdn.co:8080/live/mediahost247/9005e2c50a/2181.ts
@@ -121,6 +121,14 @@ http://tvpanel.one:80/live/anpoe6@aol.com/nhwljZFOz4/586783.ts
 http://tvpanel.one:80/live/anpoe6@aol.com/nhwljZFOz4/586785.ts
 #EXTINF:-1tvg-logo="https://img01.products.bt.co.uk/content/dam/bt/portal/images/logos/channel-logo/full-logo/2022/BTSPORT_4_2022_WHITE_RGB.png"group-title="UK BT Sport",BT Sport 4 Espn (tvpanel)
 http://tvpanel.one:80/live/anpoe6@aol.com/nhwljZFOz4/586787.ts
+#EXTINF:-1tvg-logo="https://img01.products.bt.co.uk/content/dam/bt/portal/images/logos/channel-logo/full-logo/2022/BTSPORT_1_2018_WHITE_RGB.png"group-title="UK BT Sport",BT Sport 1 (bellive) 
+http://bellive.top:8080/live/121663552974613000/231663552974613/29689.ts
+#EXTINF:-1tvg-logo="https://img01.products.bt.co.uk/content/dam/bt/portal/images/logos/channel-logo/full-logo/2022/BTSPORT_2_2018_WHITE_RGB.png"group-title="UK BT Sport",BT Sport 2 (bellive)
+http://bellive.top:8080/live/121663552974613000/231663552974613/29688.ts
+#EXTINF:-1tvg-logo="https://img01.products.bt.co.uk/content/dam/bt/portal/images/logos/channel-logo/full-logo/2022/BTSPORT_3_2018_WHITE_RGB.png"group-title="UK BT Sport",BT Sport 3 (bellive)
+http://bellive.top:8080/live/121663552974613000/231663552974613/29687.ts
+#EXTINF:-1tvg-logo="https://img01.products.bt.co.uk/content/dam/bt/portal/images/logos/channel-logo/full-logo/2022/BTSPORT_4_2022_WHITE_RGB.png"group-title="UK BT Sport",BT Sport 4 Espn (bellive)
+http://bellive.top:8080/live/121663552974613000/231663552974613/29686.ts
 #EXTINF:-1tvg-logo="https://img01.products.bt.co.uk/content/dam/bt/portal/images/logos/channel-logo/full-logo/2022/BTSPORT_2_2018_WHITE_RGB.png"group-title="UK BT Sport",BT Sport 2 (sin) 50fps#with vpn
 http://sinbox.pro:8080/live/casper01/H3g3gADDS2/124255.ts
 #EXTINF:-1tvg-logo="https://img01.products.bt.co.uk/content/dam/bt/portal/images/logos/channel-logo/full-logo/2022/BTSPORT_3_2018_WHITE_RGB.png"group-title="UK BT Sport",BT Sport 3 (sin)#with vpn
@@ -182,6 +190,34 @@ http://tvt3.xyz:2095/play/live.php?mac=00:1A:79:00:04:02&stream=115762&extension
 http://daddyserver.com:8080/live/@s1entertainment/FDV3t2hZsj/122885.ts
 #EXTINF:-1tvg-logo="https://cms.dmpcdn.com/livetv/2019/07/31/afc53720-a686-4376-8ab3-a910f1821c0e_original.png"group-title="Thai Sport(EPL)",True Premier Football 2 (d.server)
 http://daddyserver.com:8080/live/@s1entertainment/FDV3t2hZsj/122886.ts
+
+#EXTINF:-1tvg-logo="https://www.nowtv.now.com/media/logo/621-dbg-e.png"group-title="HK Sport (EPL)",Now HK Premier Sport 1 (d.server) 50fps
+http://daddyserver.com:8080/live/@s1entertainment/FDV3t2hZsj/121181.ts
+#EXTINF:-1tvg-logo="https://www.nowtv.now.com/media/logo/621-dbg-e.png"group-title="HK Sport (EPL)",Now HK Premier Sport 1 (opplex) 50fps
+http://xtv.ooo:8080/live/Univision@RE/100Bangla/223056.ts
+#EXTINF:-1tvg-logo="https://img2.sport-tv-guide.live/images/tv-station-now-sports-2-1990.png"group-title="HK Sport (EPL)",Now HK Premier Sport 2 (opplex)
+http://xtv.ooo:8080/live/Univision@RE/100Bangla/223057.ts
+#EXTINF:-1tvg-logo="https://www.nowtv.now.com/media/logo/633-wbg-c.png"group-title="HK Sport (EPL)",Now HK Premier Sport 3 (opplex)
+http://xtv.ooo:8080/live/Univision@RE/100Bangla/223058.ts
+#EXTINF:-1tvg-logo="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch634_425_305"group-title="HK Sport (EPL)",Now HK Premier Sport 4 (opplex)
+http://xtv.ooo:8080/live/Univision@RE/100Bangla/223059.ts
+
+#EXTINF:-1tvg-logo="https://supersport.azureedge.net/web-assets/channels/hos/supersport-laliga.png"group-title="UK Super Sport",Super Sport Laliga (bellive)
+http://bellive.top:8080/live/121663552974613000/231663552974613/29745.ts
+#EXTINF:-1tvg-logo="https://supersport.azureedge.net/web-assets/channels/hos/supersport-laliga.png"group-title="UK Super Sport",Super Sport Laliga (opplex)
+http://xtv.ooo:8080/live/Univision@RE/100Bangla/238479.ts
+#EXTINF:-1tvg-logo="https://www.thesportsdb.com/images/media/channel/tvlogo/aitip41642604897.png"group-title="UK Super Sport",Super Sport Grandstand (bellive)
+http://bellive.top:8080/live/121663552974613000/231663552974613/29743.ts
+#EXTINF:-1tvg-logo="https://www.thesportsdb.com/images/media/channel/tvlogo/7lxofw1656964140.png"group-title="UK Super Sport",Super Sport Football (bellive)
+http://bellive.top:8080/live/121663552974613000/231663552974613/29739.ts
+#EXTINF:-1tvg-logo="https://icdb.tv/images/a6e0c64e01399cbce556408a41b6333c.jpg"group-title="UK Super Sport",Super Sport PSL (bellive)
+http://bellive.top:8080/live/121663552974613000/231663552974613/29744.ts
+#EXTINF:-1tvg-logo="https://b.crichd.tv/assets/uploads/channels/101.png"group-title="UK Super Sport",Super Sport Maximo 1 (bellive)
+http://bellive.top:8080/live/121663552974613000/231663552974613/29742.ts
+#EXTINF:-1tvg-logo="https://supersport.azureedge.net/web-assets/channels/hos/supersport-variety-1.png"group-title="UK Super Sport",Super Sport Variety 1 (bellive)
+http://bellive.top:8080/live/121663552974613000/231663552974613/29738.ts
+#EXTINF:-1tvg-logo="https://i.postimg.cc/J0qpLcQy/ezgif-6-1b9deb8476fe.webp"group-title="UK Super Sport",Super Sport Variety 2 (bellive)
+http://bellive.top:8080/live/121663552974613000/231663552974613/29741.ts
 
 #EXTINF:-1tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQfTcmjtKKbhihNW_9eB2iKfaForAlXA2jjMiBGIqSeTwrpF0nkHbqOL5I&s=10"group-title="Myanmar Tv",Maharbawdi
 https://foreveralive1-a.akamaihd.net/327fbb9692d74b8a9fd35e75359fa826/ap-southeast-1/6057949479001/profile_2/chunklist.m3u8
