@@ -14,11 +14,11 @@ http://mains.vip:2086/live/Jhbxcgoisnm/56756756765722222/242.ts
 http://tvpanel.one:80/live/anpoe6@aol.com/nhwljZFOz4/435934.ts
 #EXTINF:-1tvg-logo="https://i0.wp.com/logotaglines.com/wp-content/uploads/2022/04/USA-Network-Logo-Tagline-Slogan-Owner.jpg?w=640&ssl=1"group-title="USA Sport(EPL)",USA Network West (tvpanel) 🏵
 http://tvpanel.one:80/live/anpoe6@aol.com/nhwljZFOz4/433174.ts
-#EXTINF:-1tvg-logo="https://static.wikia.nocookie.net/youtube/images/8/84/USA_Network.jpg/revision/latest?cb=20201105181343"group-title="USA Sport(EPL)",USA Network East (opplex) 
+#EXTINF:-1tvg-logo="https://static.wikia.nocookie.net/youtube/images/8/84/USA_Network.jpg/revision/latest?cb=20201105181343"group-title="USA Sport(EPL)",USA Network (ac)
+http://ac.traveliptv.nl:80/live/AhmetBerlin6565/x8JsqyEHQurwrgdzd59/15833.ts
+#EXTINF:-1tvg-logo="https://static.wikia.nocookie.net/youtube/images/8/84/USA_Network.jpg/revision/latest?cb=20201105181343"group-title="USA Sport(EPL)",USA Network (opplex) 
 http://xtv.ooo:8080/live/Univision@RE/100Bangla/223349.ts
-#EXTINF:-1tvg-logo="https://static.wikia.nocookie.net/youtube/images/8/84/USA_Network.jpg/revision/latest?cb=20201105181343"group-title="USA Sport(EPL)",USA Network East (bellive) 
-http://bellive.top:8080/live/121663552974613000/231663552974613/19401.ts
-#EXTINF:-1tvg-logo="https://static.wikia.nocookie.net/youtube/images/8/84/USA_Network.jpg/revision/latest?cb=20201105181343"group-title="USA Sport(EPL)",USA Network East (ttv)
+#EXTINF:-1tvg-logo="https://static.wikia.nocookie.net/youtube/images/8/84/USA_Network.jpg/revision/latest?cb=20201105181343"group-title="USA Sport(EPL)",USA Network (ttv)
 http://ttv.bz:80/live/Kenwyn/TJGm5d9YlP/1.ts
 #EXTINF:-1tvg-logo="https://st1.uvnimg.com/f2/30/64b3884646e7ba0bafb3a615d78b/1440x810-2x.png"group-title="USA Sport(EPL)",TUDN (scale)
 http://user.scalecdn.co:8080/live/mediahost247/9005e2c50a/4640.ts
@@ -86,6 +86,10 @@ http://daddyserver.com:8080/live/@s1entertainment/FDV3t2hZsj/143021.ts
 http://tvpanel.one:80/live/anpoe6@aol.com/nhwljZFOz4/586759.ts
 #EXTINF:-1tvg-logo="https://www.nicepng.com/png/detail/213-2133982_sky-sports-logo-png.png"group-title="UK Sky Sport",Sky Sport Premier League (tvpanel) 🏵
 http://tvpanel.one:80/live/anpoe6@aol.com/nhwljZFOz4/586761.ts
+#EXTINF:-1tvg-logo="https://ia800803.us.archive.org/32/items/SkySportsMainEvent_201708/sky%20sports%20main%20event.png"group-title="UK Sky Sport",Sky Sport Main Event (trip) 🏵 HEVC 
+http://triptospain.dyndns.tv:8080/live/4wgK33coio/3pbjDoOW7Z/295354.ts
+#EXTINF:-1tvg-logo="https://www.nicepng.com/png/detail/213-2133982_sky-sports-logo-png.png"group-title="UK Sky Sport",Sky Sport Premier League (trip) 🏵 HEVC
+http://triptospain.dyndns.tv:8080/live/4wgK33coio/3pbjDoOW7Z/295357.ts
 #EXTINF:-1tvg-logo="https://ia800803.us.archive.org/32/items/SkySportsMainEvent_201708/sky%20sports%20main%20event.png"group-title="UK Sky Sport",Sky Sport Main Event (bellive) 
 http://bellive.top:8080/live/121663552974613000/231663552974613/29678.ts
 #EXTINF:-1tvg-logo="https://www.nicepng.com/png/detail/213-2133982_sky-sports-logo-png.png"group-title="UK Sky Sport",Sky Sport Premier League (bellive) 
@@ -94,9 +98,9 @@ http://bellive.top:8080/live/121663552974613000/231663552974613/29676.ts
 http://xtv.ooo:8080/live/Univision@RE/100Bangla/222624.ts
 #EXTINF:-1tvg-logo="https://www.nicepng.com/png/detail/213-2133982_sky-sports-logo-png.png"group-title="UK Sky Sport",Sky Sport Premier League (opplex) 
 http://xtv.ooo:8080/live/Univision@RE/100Bangla/222625.ts
-#EXTINF:-1tvg-logo="https://ia800803.us.archive.org/32/items/SkySportsMainEvent_201708/sky%20sports%20main%20event.png"group-title="UK Sky Sport",Sky Sport Main Event (ttv)
+#EXTINF:-1tvg-logo="https://ia800803.us.archive.org/32/items/SkySportsMainEvent_201708/sky%20sports%20main%20event.png"group-title="UK Sky Sport",Sky Sport Main Event (ttv) 🏵
 http://ttv.bz:80/live/Kenwyn/TJGm5d9YlP/1475.ts
-#EXTINF:-1tvg-logo="https://www.nicepng.com/png/detail/213-2133982_sky-sports-logo-png.png"group-title="UK Sky Sport",Sky Sport Premier League (ttv)
+#EXTINF:-1tvg-logo="https://www.nicepng.com/png/detail/213-2133982_sky-sports-logo-png.png"group-title="UK Sky Sport",Sky Sport Premier League (ttv) 🏵
 http://ttv.bz:80/live/Kenwyn/TJGm5d9YlP/1478.ts
 
 #EXTINF:-1tvg-logo="https://img01.products.bt.co.uk/content/dam/bt/portal/images/logos/channel-logo/full-logo/2022/BTSPORT_1_2018_WHITE_RGB.png"group-title="UK BT Sport",BT Sport 1 (scale) 🏵 50fps
