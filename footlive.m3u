@@ -76,7 +76,7 @@ http://xtv.ooo:8080/live/Univision@RE/100Bangla/222538.ts
 
 #EXTINF:-1tvg-logo="https://ia800803.us.archive.org/32/items/SkySportsMainEvent_201708/sky%20sports%20main%20event.png"group-title="UK Sky Sport",Sky Sport Main Event (scale) 
 http://user.scalecdn.co:8080/live/mediahost247/9005e2c50a/2185.ts
-#EXTINF:-1tvg-logo="https://www.nicepng.com/png/detail/213-2133982_sky-sports-logo-png.png"group-title="UK Sky Sport",Sky Sport Premier League (scale) 🏵
+#EXTINF:-1tvg-logo="https://www.nicepng.com/png/detail/213-2133982_sky-sports-logo-png.png"group-title="UK Sky Sport",Sky Sport Premier League (scale) 
 http://user.scalecdn.co:8080/live/mediahost247/9005e2c50a/2181.ts
 #EXTINF:-1tvg-logo="https://ia800803.us.archive.org/32/items/SkySportsMainEvent_201708/sky%20sports%20main%20event.png"group-title="UK Sky Sport",Sky Sport Main Event (d.server) 🏵 50fps
 http://daddyserver.com:8080/live/@s1entertainment/FDV3t2hZsj/143019.ts
@@ -103,7 +103,7 @@ http://ttv.bz:80/live/Kenwyn/TJGm5d9YlP/1475.ts
 #EXTINF:-1tvg-logo="https://www.nicepng.com/png/detail/213-2133982_sky-sports-logo-png.png"group-title="UK Sky Sport",Sky Sport Premier League (ttv) 🏵
 http://ttv.bz:80/live/Kenwyn/TJGm5d9YlP/1478.ts
 
-#EXTINF:-1tvg-logo="https://img01.products.bt.co.uk/content/dam/bt/portal/images/logos/channel-logo/full-logo/2022/BTSPORT_1_2018_WHITE_RGB.png"group-title="UK BT Sport",BT Sport 1 (scale) 🏵 50fps
+#EXTINF:-1tvg-logo="https://img01.products.bt.co.uk/content/dam/bt/portal/images/logos/channel-logo/full-logo/2022/BTSPORT_1_2018_WHITE_RGB.png"group-title="UK BT Sport",BT Sport 1 (scale) 🏵 
 http://user.scalecdn.co:8080/live/mediahost247/9005e2c50a/2337.ts
 #EXTINF:-1tvg-logo="https://img01.products.bt.co.uk/content/dam/bt/portal/images/logos/channel-logo/full-logo/2022/BTSPORT_2_2018_WHITE_RGB.png"group-title="UK BT Sport",BT Sport 2 (scale) 🏵
 http://user.scalecdn.co:8080/live/mediahost247/9005e2c50a/2336.ts
@@ -175,19 +175,11 @@ http://tvpanel.one:80/live/anpoe6@aol.com/nhwljZFOz4/553299.ts
 http://xtv.ooo:8080/live/Univision@RE/100Bangla/167578.ts
 #EXTINF:-1tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/b6/SSS2.jpg/revision/latest?cb=20170728104438"group-title="India Sport(EPL)",Star Sport Select 2 (opplex)
 http://xtv.ooo:8080/live/Univision@RE/100Bangla/167579.ts
-#EXTINF:-1tvg-logo="https://www.dialog.lk/dialogdocroot/content/images/channel-highlights/sssd-1.jpg"group-title="India Sport(EPL)",Star Sport Select 1 (trex) 
-http://tv.trexiptv.com:80/play/live.php?mac=00:1A:79:06:57:CD&stream=946250&extension=ts&play_token=d9QOJBdCma
-#EXTINF:-1tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/b6/SSS2.jpg/revision/latest?cb=20170728104438"group-title="India Sport(EPL)",Star Sport Select 2 (trex) 
-http://tv.trexiptv.com:80/play/live.php?mac=00:1A:79:06:57:CD&stream=946251&extension=ts&play_token=gVr2S1fRTG
 
 #EXTINF:-1tvg-logo="https://cms.dmpcdn.com/livetv/2019/07/31/31682adb-c504-409d-b2ea-d43245491a9a_original.png"group-title="Thai Sport(EPL)",True Premier Football 1 (tvt) 
 http://tvt3.xyz:2095/play/live.php?mac=00:1A:79:00:04:02&stream=115758&extension=ts&play_token=ZleOAq2r3y
 #EXTINF:-1tvg-logo="https://cms.dmpcdn.com/livetv/2019/07/31/afc53720-a686-4376-8ab3-a910f1821c0e_original.png"group-title="Thai Sport(EPL)",True Premier Football 2 (tvt) 
 http://tvt3.xyz:2095/play/live.php?mac=00:1A:79:00:04:02&stream=115762&extension=ts&play_token=f15SJHghJH
-#EXTINF:-1tvg-logo="https://cms.dmpcdn.com/livetv/2019/07/31/31682adb-c504-409d-b2ea-d43245491a9a_original.png"group-title="Thai Sport(EPL)",True Premier Football 1 (d.server)
-http://daddyserver.com:8080/live/@s1entertainment/FDV3t2hZsj/122885.ts
-#EXTINF:-1tvg-logo="https://cms.dmpcdn.com/livetv/2019/07/31/afc53720-a686-4376-8ab3-a910f1821c0e_original.png"group-title="Thai Sport(EPL)",True Premier Football 2 (d.server)
-http://daddyserver.com:8080/live/@s1entertainment/FDV3t2hZsj/122886.ts
 
 #EXTINF:-1tvg-logo="https://www.nowtv.now.com/media/logo/621-dbg-e.png"group-title="HK Sport (EPL)",Now HK Premier Sport 1 (d.server) 50fps
 http://daddyserver.com:8080/live/@s1entertainment/FDV3t2hZsj/121181.ts
