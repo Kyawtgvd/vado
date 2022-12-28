@@ -112,6 +112,10 @@ http://tvpanel.one:80/live/anpoe6@aol.com/nhwljZFOz4/586761.ts
 http://triptospain.dyndns.tv:8080/live/4wgK33coio/3pbjDoOW7Z/295354.ts
 #EXTINF:-1tvg-logo="https://www.nicepng.com/png/detail/213-2133982_sky-sports-logo-png.png"group-title="UK Sky Sport",Sky Sport Premier League (trip) 🏵 HEVC
 http://triptospain.dyndns.tv:8080/live/4wgK33coio/3pbjDoOW7Z/295357.ts
+#EXTINF:-1tvg-logo="https://ia800803.us.archive.org/32/items/SkySportsMainEvent_201708/sky%20sports%20main%20event.png"group-title="UK Sky Sport",Sky Sport Main Event (fuzzy)
+http://fuzzyunicorns.net:80/live/bbm.ilwu502@gmail.com/bbm21/586759.ts
+#EXTINF:-1tvg-logo="https://www.nicepng.com/png/detail/213-2133982_sky-sports-logo-png.png"group-title="UK Sky Sport",Sky Sport Premier League (fuzzy)
+http://fuzzyunicorns.net:80/live/bbm.ilwu502@gmail.com/bbm21/586761.ts
 #EXTINF:-1tvg-logo="https://ia800803.us.archive.org/32/items/SkySportsMainEvent_201708/sky%20sports%20main%20event.png"group-title="UK Sky Sport",Sky Sport Main Event (bellive) 
 http://bellive.top:8080/live/121663552974613000/231663552974613/29678.ts
 #EXTINF:-1tvg-logo="https://www.nicepng.com/png/detail/213-2133982_sky-sports-logo-png.png"group-title="UK Sky Sport",Sky Sport Premier League (bellive) 
