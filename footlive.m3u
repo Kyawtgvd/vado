@@ -53,6 +53,29 @@ http://ttv.bz:80/live/Kenwyn/TJGm5d9YlP/88.ts
 #EXTINF:-1tvg-logo="https://cdnimg.spectrum.net/imageserver/image/default?providerId=NBC_UNIVERSO&productId=LMOD&sourceType=colorHybrid"group-title="USA Sport(EPL)",Universo (destiny) #with vpn
 http://destiny4k.com:2086/live/YttdBgP0g7/Zek4HZvbSDecog5JKE2U/2684.ts
 
+#EXTINF:-1group-title="EPL Test",usa net (unplug)
+http://un-pluggedtv.net:8080/live/1hosting/Z0A2AvZeYu/146008.ts
+#EXTINF:-1group-title="EPL Test",usa net (185)
+http://185.191.124.105:25461/live/Jackweed/KfjtxuMnwP/306.ts
+#EXTINF:-1group-title="EPL Test",eleven 1 (185)60
+http://185.191.124.105:25461/live/Jackweed/KfjtxuMnwP/15960.ts
+#EXTINF:-1group-title="EPL Test",eleven 1 (185)59
+http://185.191.124.105:25461/live/Jackweed/KfjtxuMnwP/15959.ts
+#EXTINF:-1group-title="EPL Test",eleven 1 (magi)
+http://www.magicoiptv.org:8080/live/Superiptvtelegra62552/WRU4fcrwfPba/453.ts
+#EXTINF:-1group-title="EPL Test",eleven 1 (iplocal)
+http://ip.local-hd.xyz:12500/live/XICO69TROCAS_ALL/gEYzSJjPaFTX/4574.ts
+#EXTINF:-1group-title="EPL Test",bt 1 (obs)
+http://obsfullhd.tv:25461/live/OBSKYSHARE/2222DnsYWsFxHksB/2107.ts
+#EXTINF:-1group-title="EPL Test",bt 1 (193)
+http://193.107.202.221:81/play/live.php?mac=00:1A:79:CA:4F:22&stream=20360&extension=ts&play_token=xIpX8ZF1A8
+#EXTINF:-1group-title="EPL Test",star 1 (193)
+http://193.107.202.221:81/play/live.php?mac=00:1A:79:CA:4F:22&stream=162697&extension=ts&play_token=8Wtsx5W5M7
+#EXTINF:-1group-title="EPL Test",sky main (193)
+http://193.107.202.221:81/play/live.php?mac=00:1A:79:CA:4F:22&stream=255102&extension=ts&play_token=RYW29jFJNG
+#EXTINF:-1group-title="EPL Test",sky pl (193)
+http://193.107.202.221:81/play/live.php?mac=00:1A:79:CA:4F:22&stream=255098&extension=ts&play_token=UoJMs6L9Dv
+
 #EXTINF:-1tvg-logo="https://assets.bein.com/mena/sites/3/2015/06/beIN_SPORTS1_ENGLISH_Digital_Mono.png"group-title="UK Bein Sport",Bein Sport 1 English (scale) 🏵
 http://user.scalecdn.co:8080/live/mediahost247/9005e2c50a/548627.ts
 #EXTINF:-1tvg-logo="https://i.goalzz.com/?i=o%2Fh%2F1%2F214%2Fbein-sports-english-1.png"group-title="UK Bein Sport",Bein Sport 2 English (scale) 🏵
