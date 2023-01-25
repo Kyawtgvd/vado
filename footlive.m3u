@@ -110,6 +110,364 @@ https://webudi.webtv1.lol/lb/premium455/index.m3u8?|Referer=olacast.live/
 #EXTINF:-1group-title="Web Link",Telemundo
 https://webudi.webtv1.lol/lb/premium131/index.m3u8?|Referer=olacast.live/
 
+#EXTINF:-1 tvg-logo="" group-title="Sports",A Sport
+#EXTVLCOPT:http-referrer=olacast.live/
+https://webudi.webtv1.lol/lb/premium1/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Sports",Max Sport 1
+#EXTVLCOPT:http-referrer=olacast.live/
+https://webudi.webtv1.lol/lb/premium2/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Sports",On t:me sport
+#EXTVLCOPT:http-referrer=olacast.live/
+https://webudi.webtv1.lol/lb/premium4/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Sports",Star sport 1 india
+#EXTVLCOPT:http-referrer=olacast.live/
+https://webudi.webtv1.lol/lb/premium5/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Sports", Skysport Arena
+#EXTVLCOPT:http-referrer=olacast.live/
+https://webudi.webtv1.lol/lb/premium36/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Sports", Skysport Action
+#EXTVLCOPT:http-referrer=olacast.live/
+https://webudi.webtv1.lol/lb/premium37/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Sports",Eurosport 1 UK
+#EXTVLCOPT:http-referrer=olacast.live/
+https://webudi.webtv1.lol/lb/premium41/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Sports",Eurosport 2 UK
+#EXTVLCOPT:http-referrer=olacast.live/
+https://webudi.webtv1.lol/lb/premium42/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Sports",ESPN 1 US
+#EXTVLCOPT:http-referrer=olacast.live/
+https://webudi.webtv1.lol/lb/premium44/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Sports",ESPN 2 US
+#EXTVLCOPT:http-referrer=olacast.live/
+https://webudi.webtv1.lol/lb/premium45/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Sports",Sport TV 1
+#EXTVLCOPT:http-referrer=olacast.live/
+https://webudi.webtv1.lol/lb/premium49/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Sports",Sport TV 2
+#EXTVLCOPT:http-referrer=olacast.live/
+https://webudi.webtv1.lol/lb/premium74/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Sports",Match football 1
+#EXTVLCOPT:http-referrer=olacast.live/
+https://webudi.webtv1.lol/lb/premium136/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Sports",Match football 2
+#EXTVLCOPT:http-referrer=olacast.live/
+https://webudi.webtv1.lol/lb/premium137/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Sports",Match football 3
+#EXTVLCOPT:http-referrer=olacast.live/
+https://webudi.webtv1.lol/lb/premium138/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Sports",Skysport News
+#EXTVLCOPT:http-referrer=olacast.live/
+https://webudi.webtv1.lol/lb/premium366/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Sports",Skysport Racing
+#EXTVLCOPT:http-referrer=olacast.live/
+https://webudi.webtv1.lol/lb/premium554/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Sports",Beinsport 1
+#EXTVLCOPT:http-referrer=olacast.live/
+https://webudi.webtv1.lol/lb/premium91/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Sports",Beinsport 2
+#EXTVLCOPT:http-referrer=olacast.live/
+https://webudi.webtv1.lol/lb/premium92/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Sports",Beinsport 3
+#EXTVLCOPT:http-referrer=olacast.live/
+https://webudi.webtv1.lol/lb/premium93/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Sports",Beinsport 4
+#EXTVLCOPT:http-referrer=olacast.live/
+https://webudi.webtv1.lol/lb/premium94/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Sports",Beinsport 5
+#EXTVLCOPT:http-referrer=olacast.live/
+https://webudi.webtv1.lol/lb/premium95/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Sports",Beinsport 6
+#EXTVLCOPT:http-referrer=olacast.live/
+https://webudi.webtv1.lol/lb/premium96/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Sports",Beinsport 7
+#EXTVLCOPT:http-referrer=olacast.live/
+https://webudi.webtv1.lol/lb/premium97/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Sports", Skysport Action
+#EXTVLCOPT:http-referrer=olacast.live/
+https://webudi.webtv1.lol/lb/premium420/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Sports", Skysport Rugby
+#EXTVLCOPT:http-referrer=olacast.live/
+https://webudi.webtv1.lol/lb/premium421/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Sports", Supersport Golf
+#EXTVLCOPT:http-referrer=olacast.live/
+https://webudi.webtv1.lol/lb/premium422/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Sports", Supersport Tennis
+#EXTVLCOPT:http-referrer=olacast.live/
+https://webudi.webtv1.lol/lb/premium423/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Sports", Supersport Motorsports
+#EXTVLCOPT:http-referrer=olacast.live/
+https://webudi.webtv1.lol/lb/premium424/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Sports", Skysport Mix
+#EXTVLCOPT:http-referrer=olacast.live/
+https://webudi.webtv1.lol/lb/premium449/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Sports", Supersport Variety 1
+#EXTVLCOPT:http-referrer=olacast.live/
+https://webudi.webtv1.lol/lb/premium416/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Sports", Supersport Variety 2
+#EXTVLCOPT:http-referrer=olacast.live/
+https://webudi.webtv1.lol/lb/premium417/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Sports", Supersport Variety 3
+#EXTVLCOPT:http-referrer=olacast.live/
+https://webudi.webtv1.lol/lb/premium418/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Sports", Supersport Variety 4
+#EXTVLCOPT:http-referrer=olacast.live/
+https://webudi.webtv1.lol/lb/premium419/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Sports",WWE Network
+#EXTVLCOPT:http-referrer=olacast.live/
+https://webudi.webtv1.lol/lb/premium376/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Sports",Digi Sport 1
+#EXTVLCOPT:http-referrer=olacast.live/
+https://webudi.webtv1.lol/lb/premium400/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Sports",Digi Sport 2
+#EXTVLCOPT:http-referrer=olacast.live/
+https://webudi.webtv1.lol/lb/premium401/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Sports",Digi Sport 3
+#EXTVLCOPT:http-referrer=olacast.live/
+https://webudi.webtv1.lol/lb/premium402/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Sports",Arena premium 1
+#EXTVLCOPT:http-referrer=olacast.live/
+https://webudi.webtv1.lol/lb/premium134/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Sports",Arena premium 2
+#EXTVLCOPT:http-referrer=olacast.live/
+https://webudi.webtv1.lol/lb/premium135/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Sports",Arena premium 3
+#EXTVLCOPT:http-referrer=olacast.live/
+https://webudi.webtv1.lol/lb/premium139/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Kid",Nick Jr
+#EXTVLCOPT:http-referrer=olacast.live/
+https://webudi.webtv1.lol/lb/premium329/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Kid",Nick
+#EXTVLCOPT:http-referrer=olacast.live/
+https://webudi.webtv1.lol/lb/premium330/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Kid",Disney channel
+#EXTVLCOPT:http-referrer=olacast.live/
+https://webudi.webtv1.lol/lb/premium312/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Kid",Disney XD
+#EXTVLCOPT:http-referrer=olacast.live/
+https://webudi.webtv1.lol/lb/premium314/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Kid",Cartoon Network 
+#EXTVLCOPT:http-referrer=olacast.live/
+https://webudi.webtv1.lol/lb/premium339/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Life",Travel Channel 
+#EXTVLCOPT:http-referrer=olacast.live/
+https://webudi.webtv1.lol/lb/premium340/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Life",NGC Wild
+#EXTVLCOPT:http-referrer=olacast.live/
+https://webudi.webtv1.lol/lb/premium328/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Life", Animal Planet
+#EXTVLCOPT:http-referrer=olacast.live/
+https://webudi.webtv1.lol/lb/premium304/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Life",Food Network 
+#EXTVLCOPT:http-referrer=olacast.live/
+https://webudi.webtv1.lol/lb/premium384/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Life",Discovery Life
+#EXTVLCOPT:http-referrer=olacast.live/
+https://webudi.webtv1.lol/lb/premium311/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Life",Discovery Investigation 
+#EXTVLCOPT:http-referrer=olacast.live/
+https://webudi.webtv1.lol/lb/premium324/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Life", History TV
+#EXTVLCOPT:http-referrer=olacast.live/
+https://webudi.webtv1.lol/lb/premium322/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="News", The Weather Channel 
+#EXTVLCOPT:http-referrer=olacast.live/
+https://webudi.webtv1.lol/lb/premium394/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Movies channel", HBO
+#EXTVLCOPT:http-referrer=olacast.live/
+https://webudi.webtv1.lol/lb/premium569/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Movies channel",Film Box premium
+#EXTVLCOPT:http-referrer=olacast.live/
+https://webudi.webtv1.lol/lb/premium568/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Movies channel", Polsat Film
+#EXTVLCOPT:http-referrer=olacast.live/
+https://webudi.webtv1.lol/lb/premium564/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Movies channel", Yes movies action
+#EXTVLCOPT:http-referrer=olacast.live/
+https://webudi.webtv1.lol/lb/premium543/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Movies channel", Yes movies kid
+#EXTVLCOPT:http-referrer=olacast.live/
+https://webudi.webtv1.lol/lb/premium544/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Movies channel", Yes movies comedy
+#EXTVLCOPT:http-referrer=olacast.live/
+https://webudi.webtv1.lol/lb/premium545/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Sports",Viaplay sport 1
+#EXTVLCOPT:http-referrer=olacast.live/
+https://webudi.webtv1.lol/lb/premium451/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Sports",Viaplay sport 2
+#EXTVLCOPT:http-referrer=olacast.live/
+https://webudi.webtv1.lol/lb/premium550/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Sports",Viaplay sport 1
+#EXTVLCOPT:http-referrer=olacast.live/
+https://webudi.webtv1.lol/lb/premium451/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Sports",Polsat premium 1
+#EXTVLCOPT:http-referrer=olacast.live/
+https://webudi.webtv1.lol/lb/premium8/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Sports",Polsat premium 2
+#EXTVLCOPT:http-referrer=olacast.live/
+https://webudi.webtv1.lol/lb/premium12/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Sports",TUDN 
+#EXTVLCOPT:http-referrer=olacast.live/
+https://webudi.webtv1.lol/lb/premium66/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Sports",DAZN 1
+#EXTVLCOPT:http-referrer=olacast.live/
+https://webudi.webtv1.lol/lb/premium445/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Sports",DAZN 2 
+#EXTVLCOPT:http-referrer=olacast.live/
+https://webudi.webtv1.lol/lb/premium446/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Sports",DAZN 3 
+#EXTVLCOPT:http-referrer=olacast.live/
+https://webudi.webtv1.lol/lb/premium447/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Sports",DAZN 4 
+#EXTVLCOPT:http-referrer=olacast.live/
+https://webudi.webtv1.lol/lb/premium448/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Sports",Orange sport 1
+#EXTVLCOPT:http-referrer=olacast.live/
+https://webudi.webtv1.lol/lb/premium439/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Sports",Orange sport 2
+#EXTVLCOPT:http-referrer=olacast.live/
+https://webudi.webtv1.lol/lb/premium440/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Sports",Orange sport 3
+#EXTVLCOPT:http-referrer=olacast.live/
+https://webudi.webtv1.lol/lb/premium441/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Sports",Orange sport 4
+#EXTVLCOPT:http-referrer=olacast.live/
+https://webudi.webtv1.lol/lb/premium442/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Sports",Barca TV
+#EXTVLCOPT:http-referrer=olacast.live/
+https://webudi.webtv1.lol/lb/premium522/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Sports",Realmadrid TV
+#EXTVLCOPT:http-referrer=olacast.live/
+https://webudi.webtv1.lol/lb/premium523/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Sports",Sport 1 Israel
+#EXTVLCOPT:http-referrer=olacast.live/
+https://webudi.webtv1.lol/lb/premium140/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Sports",Sport 2 Israel
+#EXTVLCOPT:http-referrer=olacast.live/
+https://webudi.webtv1.lol/lb/premium141/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Sports",Sport 3 Israel
+#EXTVLCOPT:http-referrer=olacast.live/
+https://webudi.webtv1.lol/lb/premium142/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Sports",Sport 4 Israel
+#EXTVLCOPT:http-referrer=olacast.live/
+https://webudi.webtv1.lol/lb/premium143/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Sports", Beinsport 1 France
+#EXTVLCOPT:http-referrer=olacast.live/
+https://webudi.webtv1.lol/lb/premium116/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Sports", Beinsport 2 France
+#EXTVLCOPT:http-referrer=olacast.live/
+https://webudi.webtv1.lol/lb/premium117/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Sports", Beinsport 3 France
+#EXTVLCOPT:http-referrer=olacast.live/
+https://webudi.webtv1.lol/lb/premium118/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Sports",Teledeporte Spain
+#EXTVLCOPT:http-referrer=olacast.live/
+https://webudi.webtv1.lol/lb/premium529/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Sports",Now sport 1 HK
+#EXTVLCOPT:http-referrer=olacast.live/
+https://webudi.webtv1.lol/lb/premium30/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Sports", SportKlub 1
+#EXTVLCOPT:http-referrer=olacast.live/
+https://webudi.webtv1.lol/lb/premium101/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Sports", SportKlub 2
+#EXTVLCOPT:http-referrer=olacast.live/
+https://webudi.webtv1.lol/lb/premium102/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Sports", SportKlub 3
+#EXTVLCOPT:http-referrer=olacast.live/
+https://webudi.webtv1.lol/lb/premium103/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Sports", SportKlub 4
+#EXTVLCOPT:http-referrer=olacast.live/
+https://webudi.webtv1.lol/lb/premium104/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Sports",TSN 1
+#EXTVLCOPT:http-referrer=olacast.live/
+https://webudi.webtv1.lol/lb/premium111/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Sports",TSN 2
+#EXTVLCOPT:http-referrer=olacast.live/
+https://webudi.webtv1.lol/lb/premium112/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Sports",TSN 3
+#EXTVLCOPT:http-referrer=olacast.live/
+https://webudi.webtv1.lol/lb/premium113/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Sports",TSN 4
+#EXTVLCOPT:http-referrer=olacast.live/
+https://webudi.webtv1.lol/lb/premium114/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Sports",TSN 5
+#EXTVLCOPT:http-referrer=olacast.live/
+https://webudi.webtv1.lol/lb/premium115/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Sports",RTE 1
+#EXTVLCOPT:http-referrer=olacast.live/
+https://webudi.webtv1.lol/lb/premium364/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Sports",RTE 2
+#EXTVLCOPT:http-referrer=olacast.live/
+https://webudi.webtv1.lol/lb/premium365/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Sports",Ziggo Sport Select
+#EXTVLCOPT:http-referrer=olacast.live/
+https://webudi.webtv1.lol/lb/premium393/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Sports",Ziggo Sport Voetball
+#EXTVLCOPT:http-referrer=olacast.live/
+https://webudi.webtv1.lol/lb/premium398/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Sports",Ziggo Sport Racing
+#EXTVLCOPT:http-referrer=olacast.live/
+https://webudi.webtv1.lol/lb/premium396/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Sports",DAZN F1
+#EXTVLCOPT:http-referrer=olacast.live/
+https://webudi.webtv1.lol/lb/premium537/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Sports",Movistar Laliga 1
+#EXTVLCOPT:http-referrer=olacast.live/
+https://webudi.webtv1.lol/lb/premium538/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Sports",Movistar Laliga 2
+#EXTVLCOPT:http-referrer=olacast.live/
+https://webudi.webtv1.lol/lb/premium539/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Sports",Movistar Laliga 3
+#EXTVLCOPT:http-referrer=olacast.live/
+https://webudi.webtv1.lol/lb/premium540/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Sports",Tennis channel
+#EXTVLCOPT:http-referrer=olacast.live/
+https://webudi.webtv1.lol/lb/premium40/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Sports",Willow cricket
+#EXTVLCOPT:http-referrer=olacast.live/
+https://webudi.webtv1.lol/lb/premium346/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Sports", Beinsport 1 Turkey 
+#EXTVLCOPT:http-referrer=olacast.live/
+https://webudi.webtv1.lol/lb/premium62/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Sports", Beinsport 2 Turkey 
+#EXTVLCOPT:http-referrer=olacast.live/
+https://webudi.webtv1.lol/lb/premium63/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Sports", Beinsport 3 Turkey 
+#EXTVLCOPT:http-referrer=olacast.live/
+https://webudi.webtv1.lol/lb/premium64/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Sports", Beinsport 4 Turkey 
+#EXTVLCOPT:http-referrer=olacast.live/
+https://webudi.webtv1.lol/lb/premium67/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Sports",Canal+ sport 1 poland
+#EXTVLCOPT:http-referrer=olacast.live/
+https://webudi.webtv1.lol/lb/premium48/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Sports",Canal+ sport 2 poland
+#EXTVLCOPT:http-referrer=olacast.live/
+https://webudi.webtv1.lol/lb/premium73/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Sports",Canal+ sport 5 poland
+#EXTVLCOPT:http-referrer=olacast.live/
+https://webudi.webtv1.lol/lb/premium75/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Sports",Canal+ sport france
+#EXTVLCOPT:http-referrer=olacast.live/
+https://webudi.webtv1.lol/lb/premium122/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Sports",Canal+ france
+#EXTVLCOPT:http-referrer=olacast.live/
+https://webudi.webtv1.lol/lb/premium121/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Sports",Canal+ premium poland
+#EXTVLCOPT:http-referrer=olacast.live/
+https://webudi.webtv1.lol/lb/premium566/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Sports",Canal+ family poland
+#EXTVLCOPT:http-referrer=olacast.live/
+https://webudi.webtv1.lol/lb/premium567/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Sports",Canal+ seriale
+#EXTVLCOPT:http-referrer=olacast.live/
+https://webudi.webtv1.lol/lb/premium570/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Sports", Eleven sport 1 poland
+#EXTVLCOPT:http-referrer=olacast.live/
+https://webudi.webtv1.lol/lb/premium71/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Sports", Eleven sport 2 poland
+#EXTVLCOPT:http-referrer=olacast.live/
+https://webudi.webtv1.lol/lb/premium72/index.m3u8
+
 #EXTINF:-1group-title="EPL Test",usa net (unplug)
 http://un-pluggedtv.net:8080/live/1hosting/Z0A2AvZeYu/146008.ts
 #EXTINF:-1group-title="EPL Test",usa net (185)
