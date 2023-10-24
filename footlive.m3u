@@ -1,50 +1,38 @@
+#EXTINF:-1tvg-logo="https://www.mm-eu.tv/wordpress/wp-content/uploads/2019/10/ELEVEN_Channel_1.jpg"group-title="Football",Eleven Sport 1 (no vpn)
+http://bananatv.org:25461/live/bananatv1/lovebanana/640.ts
+
+#EXTINF:-1tvg-logo="https://www.mm-eu.tv/wordpress/wp-content/uploads/2019/10/ELEVEN_Channel_2.jpg"group-title="Football",Eleven Sport 2 (no vpn)
+http://bananatv.org:25461/live/bananatv1/lovebanana/641.ts
+
+#EXTINF:-1tvg-logo="https://www.mm-eu.tv/wordpress/wp-content/uploads/2019/10/ELEVEN_Channel_3.jpg"group-title="Football",Eleven Sport 3 (no vpn)
+http://bananatv.org:25461/live/bananatv1/lovebanana/642.ts
+
 #EXTINF:-1tvg-logo="https://www.thesportsdb.com/images/media/tvlogo/sqxxtw1470409111.png"group-title="Football",Sport Tv 1
 http://smstv.live/live/t5UxmR6uUD/t5UxmR6uUD/92731.ts
 
-#EXTINF:-1tvg-logo="https://www.nicepng.com/png/full/213-2133982_sky-sports-logo-png.png"group-title="Football",Sky Sport Premier League
+#EXTINF:-1tvg-logo="https://sender.epglogos.de/302x190_w/12181.png"group-title="Football",Sky Sport 
 http://smstv.live/live/t5UxmR6uUD/t5UxmR6uUD/95492.ts
 
-#EXTINF:-1tvg-logo="https://cdn-b2c.dom.ru/epg/chbiglogo/1587705738.png"group-title="Football",Match Football 1
-http://bl.uma.media/live/126863/HLS/6866944_4/2/1/playlist.m3u8
-
-#EXTINF:-1tvg-logo="https://cms.dmpcdn.com/livetv/2019/07/31/31682adb-c504-409d-b2ea-d43245491a9a_original.png"group-title="Football",True Premier Football 1
+#EXTINF:-1tvg-logo="https://cms.dmpcdn.com/livetv/2019/07/31/31682adb-c504-409d-b2ea-d43245491a9a_original.png"group-title="Football",True Premier Football 1 (other)
 https://edge1.laotv.la/live/TSport1/index.m3u8
 
-#EXTINF:-1tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/1a/Canal%2B_Sport_2015.png"group-title="Football",Canal+ Sport 1
-http://smstv.live/live/t5UxmR6uUD/t5UxmR6uUD/92855.ts
-
-#EXTINF:-1tvg-logo="https://cdn.comedy.co.uk/images/channels/tnt_sports_1.jpg"group-title="Football",TNT Sport 1
-http://smstv.live/live/t5UxmR6uUD/t5UxmR6uUD/95488.ts
-
-#EXTINF:-1tvg-logo="https://cdn.comedy.co.uk/images/channels/tnt_sports_2.jpg"group-title="Football",TNT Sport 2
-http://smstv.live/live/t5UxmR6uUD/t5UxmR6uUD/95489.ts
-
-#EXTINF:-1tvg-logo="https://media.info/i/lf/0/1690027954/5712.png"group-title="Football",TNT Sport 3
-http://smstv.live/live/t5UxmR6uUD/t5UxmR6uUD/95490.ts
-
-#EXTINF:-1tvg-logo="https://media.info/i/lf/0/1690027975/1491.png"group-title="Football",TNT Sport 4
-https://glxlmn026c.singularcdn.net.br/playout_04/playlist.m3u8
-
-#EXTINF:-1tvg-logo="https://www.thesportsdb.com/images/media/channel/tvlogo/x5ja5w1659624783.png"group-title="Football",Super Sport Premier League
-http://smstv.live/t5UxmR6uUD/t5UxmR6uUD/92753.m3u8
-
-#EXTINF:-1tvg-logo="https://r-scale-4e.dcs.redcdn.pl/scale/o2/n/edytorEPG/logo/logotype_266427.png?type=0&srcmode=4&srcx=0%2F1&srcy=0%2F1&dstw=400&dsth=200"group-title="Football",Eleven Sport 1
-http://bananatv.org:25461/live/bananatv1/lovebanana/640.ts
-
-#EXTINF:-1tvg-logo="https://www.mm-eu.tv/wordpress/wp-content/uploads/2019/10/ELEVEN_Channel_2.jpg"group-title="Football",Eleven Sport 2
-http://bananatv.org:25461/live/bananatv1/lovebanana/641.ts
-
-#EXTINF:-1tvg-logo="https://www.mm-eu.tv/wordpress/wp-content/uploads/2019/10/ELEVEN_Channel_3.jpg"group-title="Football",Eleven Sport 3
-http://bananatv.org:25461/live/bananatv1/lovebanana/642.ts
-
-#EXTINF:-1tvg-logo="https://cdn.comedy.co.uk/images/channels/tnt_sports_1.jpg"group-title="Football",TNT Sport 1
+#EXTINF:-1tvg-logo="https://img01.products.bt.co.uk/content/dam/bt/portal/images/logos/tnt/TNTSports1_Logo_TNTBlack_RGB.png"group-title="Football",TNT Sport 1 (no vpn)
 http://bananatv.org:25461/live/bananatv1/lovebanana/1600.ts
 
-#EXTINF:-1tvg-logo="https://cdn.comedy.co.uk/images/channels/tnt_sports_2.jpg"group-title="Football",TNT Sport 2
+#EXTINF:-1tvg-logo="https://img01.products.bt.co.uk/content/dam/bt/portal/images/logos/tnt/TNTSports2_Logo_TNTBlack_RGB.png"group-title="Football",TNT Sport 2 (no vpn)
 http://bananatv.org:25461/live/bananatv1/lovebanana/122.ts
 
-#EXTINF:-1tvg-logo="https://media.info/i/lf/0/1690027954/5712.png"group-title="Football",TNT Sport 3
+#EXTINF:-1tvg-logo="https://img01.products.bt.co.uk/content/dam/bt/portal/images/logos/tnt/TNTSports3_Logo_TNTBlack_RGB.png"group-title="Football",TNT Sport 3 (no vpn)
 http://bananatv.org:25461/live/bananatv1/lovebanana/4215.ts
 
-#EXTINF:-1tvg-logo="https://img01.products.bt.co.uk/content/dam/bt/portal/images/logos/tnt/TNTSports4_Logo_TNTBlack_RGB.png"group-title="Football",TNT Sport 4
+#EXTINF:-1tvg-logo="https://img01.products.bt.co.uk/content/dam/bt/portal/images/logos/tnt/TNTSports4_Logo_TNTBlack_RGB.png"group-title="Football",TNT Sport 4 (no vpn)
 http://bananatv.org:25461/live/bananatv1/lovebanana/1368.ts
+
+#EXTINF:-1tvg-logo="https://cdn-b2c.dom.ru/epg/chbiglogo/1587705738.png"group-title="Football",Match Football 1 (no vpn)
+https://bananatv.org:443/play/dEDyyGS4i_lsegerhsnhJb_ds7ZZBUs7di5q6CNsPqQ/m3u8
+
+#EXTINF:-1tvg-logo="https://cdn-b2c.dom.ru/epg/chbiglogo/1587705738.png"group-title="Football",Match Football 1 (other)
+http://bl.uma.media/live/126863/HLS/6866944_4/2/1/playlist.m3u8
+
+#EXTINF:-1tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Discovery_Asia_logo.svg/1280px-Discovery_Asia_logo.svg.png"group-title="TV Channel",Discovery Asia (no vpn)
+https://bananatv.org:443/play/dEDyyGS4i_lsegerhsnhJXkSb-TdVHt5uXVPNmq-cJg/m3u8
