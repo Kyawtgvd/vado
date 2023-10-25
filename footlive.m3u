@@ -35,5 +35,12 @@ https://glxlmn026c.singularcdn.net.br/playout_02/playlist.m3u8
 https://glxlmn026c.singularcdn.net.br/playout_03/playlist.m3u8
 #EXTINF:-1tvg-logo="https://media.info/i/lf/0/1690027975/1491.png"group-title="Football",TNT Sport 4
 https://glxlmn026c.singularcdn.net.br/playout_04/playlist.m3u8
+
+#EXTINF:-1tvg-logo="https://1000logos.net/wp-content/uploads/2023/01/Animal-Planet-logo.png"group-title="Tv Channel",Animal Planet (no vpn)
+http://bananatv.org:25461/live/bananatv1/lovebanana/54.ts
+#EXTINF:-1tvg-logo="https://logowik.com/content/uploads/images/nat-geo-wild7342.logowik.com.webp"group-title="Tv Channel",Net Geo Wild (no vpn)
+http://bananatv.org:25461/live/bananatv1/lovebanana/3330.ts
+#EXTINF:-1tvg-logo="https://seeklogo.com/images/D/Discovery_Channel-logo-32C279A19D-seeklogo.com.png"group-title="Tv Channel",Discovery Channel (no vpn)
+http://bananatv.org:25461/live/bananatv1/lovebanana/55.ts
 #EXTINF:-1tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Discovery_Asia_logo.svg/1280px-Discovery_Asia_logo.svg.png"group-title="TV Channel",Discovery Asia (no vpn)
-https://bananatv.org:443/play/dEDyyGS4i_lsegerhsnhJXkSb-TdVHt5uXVPNmq-cJg/m3u8
+http://bananatv.org:25461/live/bananatv1/lovebanana/56.ts
