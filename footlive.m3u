@@ -1,32 +1,54 @@
-#EXTM3U
-#EXTINF:-1tvg-logo="https://www.mm-eu.tv/wordpress/wp-content/uploads/2019/10/ELEVEN_Channel_1.jpg"group-title="Football",Eleven Sport 1 (no vpn)
-http://bananatv.org:25461/live/bananatv1/lovebanana/640.ts
-#EXTINF:-1tvg-logo="https://www.mm-eu.tv/wordpress/wp-content/uploads/2019/10/ELEVEN_Channel_2.jpg"group-title="Football",Eleven Sport 2 (no vpn)
-http://bananatv.org:25461/live/bananatv1/lovebanana/641.ts
-#EXTINF:-1tvg-logo="https://www.mm-eu.tv/wordpress/wp-content/uploads/2019/10/ELEVEN_Channel_3.jpg"group-title="Football",Eleven Sport 3 (no vpn)
-http://bananatv.org:25461/live/bananatv1/lovebanana/642.ts
-#EXTINF:-1tvg-logo="https://cms.dmpcdn.com/livetv/2019/07/31/31682adb-c504-409d-b2ea-d43245491a9a_original.png"group-title="Football",True Premier Football 1 
+#EXTM3U,
+#EXTINF:-1 tvg-logo="https://ui.dmpcdn.com/tvbox-web-cdn/imgs/channels/channel-true-pml-hd1.webp" group-title="SP⚽️RTS",True Pre 1
 https://edge1.laotv.la/live/TSport1/index.m3u8
-#EXTINF:-1tvg-logo="https://img01.products.bt.co.uk/content/dam/bt/portal/images/logos/tnt/TNTSports1_Logo_TNTBlack_RGB.png"group-title="Football",TNT Sport 1 (no vpn)
-http://bananatv.org:25461/live/bananatv1/lovebanana/1600.ts
-#EXTINF:-1tvg-logo="https://img01.products.bt.co.uk/content/dam/bt/portal/images/logos/tnt/TNTSports2_Logo_TNTBlack_RGB.png"group-title="Football",TNT Sport 2 (no vpn)
-http://bananatv.org:25461/live/bananatv1/lovebanana/122.ts
-#EXTINF:-1tvg-logo="https://img01.products.bt.co.uk/content/dam/bt/portal/images/logos/tnt/TNTSports3_Logo_TNTBlack_RGB.png"group-title="Football",TNT Sport 3 (no vpn)
-http://bananatv.org:25461/live/bananatv1/lovebanana/4215.ts
-#EXTINF:-1tvg-logo="https://img01.products.bt.co.uk/content/dam/bt/portal/images/logos/tnt/TNTSports4_Logo_TNTBlack_RGB.png"group-title="Football",TNT Sport 4 (no vpn)
-http://bananatv.org:25461/live/bananatv1/lovebanana/1368.ts
+#EXTINF:-1 tvg-logo="https://ui.dmpcdn.com/tvbox-web-cdn/imgs/channels/channel-true-pml-hd1.webp" group-title="SP⚽️RTS",True Pre 2
+https://edge1.laotv.la/live/TSport2/index.m3u8
+#EXTINF:-1 tvg-logo="http://alpha.enjoysat.biz/Logos/sporttv1.png" group-title="SP⚽RTS",Sport Tv 1
+https://kusnadipepenk.github.io/ntn/sprtv1.m3u8
+#EXTINF:-1 tvg-logo="http://alpha.enjoysat.biz/Logos/sporttv2.png" group-title="SP⚽RTS",Sport Tv 2
+https://kusnadipepenk.github.io/ntn/sprtv2.m3u8
+#EXTINF:-1 tvg-logo="http://alpha.enjoysat.biz/Logos/sporttv3.png" group-title="SP⚽RTS",Sport Tv 3
+https://kusnadipepenk.github.io/ntn/sprtv3.m3u8
+#EXTINF:-1 tvg-logo="http://alpha.enjoysat.biz/Logos/sporttv4.png" group-title="SP⚽RTS",Sport Tv 4
+https://kusnadipepenk.github.io/ntn/sprtv4.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/Bb1xb2sy/20220927-065200.png" group-title="SP⚽️RTS",Sony Ten 1
+https://dai.google.com/linear/hls/event/wG75n5U8RrOKiFzaWObXbA/master.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/mZcqCqrx/20220927-065156.png" group-title="SP⚽️RTS",Sony Ten 2
+https://dai.google.com/linear/hls/event/V9h-iyOxRiGp41ppQScDSQ/master.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/xTM4FzHt/20220927-065152.png" group-title="SP⚽️RTS",Sony Ten 3
+https://dai.google.com/linear/hls/event/ltsCG7TBSCSDmyq0rQtvSA/master.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/MKXG9FWQ/IMG-20231018-132729.png" group-title="SP⚽️RTS",FUBOL 1
+http://bl.uma.media/live/126863/HLS/6866944_4/2/1/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/MKXG9FWQ/IMG-20231018-132729.png" group-title="SP⚽️RTS",FUBOL 2
+http://bl.uma.media/live/126864/HLS/6866944_4/2/1/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/MKXG9FWQ/IMG-20231018-132729.png" group-title="SP⚽️RTS",FUBOL 3
+http://bl.uma.media/live/126865/HLS/6866944_4/2/1/playlist.m3u8
 
-#EXTINF:-1tvg-logo="https://1000logos.net/wp-content/uploads/2023/01/Animal-Planet-logo.png"group-title="Tv Channel",Animal Planet (no vpn)
-http://bananatv.org:25461/live/bananatv1/lovebanana/54.ts
-#EXTINF:-1tvg-logo="https://logowik.com/content/uploads/images/nat-geo-wild7342.logowik.com.webp"group-title="Tv Channel",Net Geo Wild (no vpn)
-http://bananatv.org:25461/live/bananatv1/lovebanana/3330.ts
-#EXTINF:-1tvg-logo="https://seeklogo.com/images/D/Discovery_Channel-logo-32C279A19D-seeklogo.com.png"group-title="Tv Channel",Discovery Channel (no vpn)
-http://bananatv.org:25461/live/bananatv1/lovebanana/55.ts
-#EXTINF:-1tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Discovery_Asia_logo.svg/1280px-Discovery_Asia_logo.svg.png"group-title="Tv Channel",Discovery Asia (no vpn)
-http://bananatv.org:25461/live/bananatv1/lovebanana/56.ts
-#EXTINF:-1tvg-logo="https://www.lyngsat.com/logo/tv/cc/canal-plus-susann-myanmar-fr-mm.png"group-title="Tv Channel",Canal+ SuSann (no vpn)
-http://bananatv.org:25461/live/bananatv1/lovebanana/27.ts
-#EXTINF:-1tvg-logo="https://www.lyngsat.com/logo/tv/cc/canal-plus-pututue-myanmar-fr-mm.png"group-title="Tv Channel",Canal+ Pututue (no vpn)
-http://bananatv.org:25461/live/bananatv1/lovebanana/31.ts
-#EXTINF:-1tvg-logo="https://www.lyngsat.com/logo/tv/cc/canal-plus-chatate-myanmar-fr-mm.png"group-title="Tv Channel",Canal+ ChaTate (no vpn)
-http://bananatv.org:25461/live/bananatv1/lovebanana/32.ts
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/g2cyznpR/IMG-20231018-103751.png" group-title="MYANMAR",MAHABAWDI
+http://bananatv.org:25461/play/9J-jZTKwC538_BD7qI0BjdXUrfbwNGvu9qukmZogdwg/ts
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/3rsG5B9s/IMG-20231018-103844.png" group-title="MYANMAR",CH7
+http://183.89.246.119:8881/play/a07v/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/VNZS7BdH/IMG-20231018-103932.png" group-title="MYANMAR",MAHAR
+https://tv.mahar.live/mahar/website.stream/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/GpHqMr4y/IMG-20231018-134533.png" group-title="MYANMAR",MCS
+https://l1-xl1.myanmarnet.com/relay2/mcs/ch1/stream_standard/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/8k6FHvDt/IMG-20231018-104223.png" group-title="MYANMAR",MNTV
+https://l1-xl1.myanmarnet.com/relay/mntv/ch1/stream_hi/index.m3u8 
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/BvjZvWnM/IMG-20231018-104249.png" group-title="MYANMAR",CH9
+http://183.89.246.119:8881/play/a07y/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/0298wKN6/IMG-20231018-103909.png" group-title="MYANMAR",CHANNELK
+https://l1-xl1.myanmarnet.com/relay/channelk/ch1/stream.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Mi84LzIwMjIgMzozMTo0OSBBTSZoYXNoX3ZhbHVlPUJBSG54TklSSVJ0T3UyRnN5NGdFMWc9PSZ2YWxpZG1pbnV0ZXM9MjUmc3RybV9sZW49MTg=
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/HWqZLFT3/IMG-20231018-104337.png" group-title="MYANMAR",YTV
+http://183.89.246.119:8881/play/a081/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/pLxsf8hF/IMG-20231018-104422.png" group-title="MYANMAR",FORTUNE
+http://183.89.246.119:8881/play/a082/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/7Y1VZ6sY/IMG-20231018-104401.png" group-title="MYANMAR",Channel Me
+http://183.89.246.119:8881/play/a07t/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/wvs58TRz/IMG-20231018-104308.png" group-title="MYANMAR",5PLUS
+http://183.89.246.119:8881/play/a07w/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/RhLH43Mk/IMG-20231018-104456.png" group-title="MYANMAR",MYN MUSIC
+https://l1-xl1.myanmarnet.com/relay/music/ch1/stream_hi/index.m3u8
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://www.lyngsat.com/logo/tv/mm/mizzima-tv-mm.png" group-title="MYANMAR", Mizzima Tv
+http://183.89.246.119:8881/play/a0ao/index.m3u8
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://www.lyngsat.com/logo/tv/mm/mizzima-plus-mm.png" group-title="MYANMAR", Mizzima Tv+
+http://183.89.246.119:8881/play/a0ap/index.m3u8
