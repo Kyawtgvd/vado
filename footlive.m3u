@@ -3,6 +3,21 @@
 https://edge1.laotv.la/live/TSport1/index.m3u8
 #EXTINF:-1 tvg-logo="https://ui.dmpcdn.com/tvbox-web-cdn/imgs/channels/channel-true-pml-hd1.webp" group-title="Sport",True Pre 2
 https://edge1.laotv.la/live/TSport2/index.m3u8
+#EXTINF:-1 tvg-logo="https://www.nicepng.com/png/full/213-2133982_sky-sports-logo-png.png" group-title="Sport",Skysport Premier League 🇬🇧
+#EXTVLCOPT:http-referrer=ddolahdplay.xyz/
+https://webudit.hlsjs.ru/lb/premium130/index.m3u8
+#EXTINF:-1 tvg-logo="https://img01.products.bt.co.uk/content/dam/bt/portal/images/logos/tnt/TNTSports1_Logo_TNTBlack_RGB.png" group-title="Sport",TNT Sport 1 🇬🇧
+#EXTVLCOPT:http-referrer=ntuplay.xyz/
+https://webudit.hlsjs.ru/lb/premium31/index.m3u8
+#EXTINF:-1 tvg-logo="https://img01.products.bt.co.uk/content/dam/bt/portal/images/logos/tnt/TNTSports2_Logo_TNTBlack_RGB.png" group-title="Sport",TNT Sport 2 🇬🇧
+#EXTVLCOPT:http-referrer=ntuplay.xyz/
+https://webudit.hlsjs.ru/lb/premium32/index.m3u8
+#EXTINF:-1 tvg-logo="https://img01.products.bt.co.uk/content/dam/bt/portal/images/logos/tnt/TNTSports3_Logo_TNTBlack_RGB.png" group-title="Sport",TNT Sport 3 🇬🇧
+#EXTVLCOPT:http-referrer=ntuplay.xyz/
+https://webudit.hlsjs.ru/lb/premium33/index.m3u8
+#EXTINF:-1 tvg-logo="https://img01.products.bt.co.uk/content/dam/bt/portal/images/logos/tnt/TNTSports4_Logo_TNTBlack_RGB.png" group-title="Sport",TNT Sport 4 🇬🇧
+#EXTVLCOPT:http-referrer=ntuplay.xyz/
+https://webudit.hlsjs.ru/lb/premium34/index.m3u8
 #EXTINF:-1 tvg-logo="http://alpha.enjoysat.biz/Logos/sporttv1.png" group-title="Sport",Sport Tv 1
 https://kusnadipepenk.github.io/ntn/sprtv1.m3u8
 #EXTINF:-1 tvg-logo="http://alpha.enjoysat.biz/Logos/sporttv2.png" group-title="Sport",Sport Tv 2
