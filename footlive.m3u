@@ -42,8 +42,6 @@ http://bl.uma.media/live/126864/HLS/6866944_4/2/1/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/MKXG9FWQ/IMG-20231018-132729.png" group-title="Sport",Fubol 3
 http://bl.uma.media/live/126865/HLS/6866944_4/2/1/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/g2cyznpR/IMG-20231018-103751.png" group-title="Myanmar Channel",Mahabawdi
-http://bananatv.org:25461/play/9J-jZTKwC538_BD7qI0BjdXUrfbwNGvu9qukmZogdwg/ts
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/3rsG5B9s/IMG-20231018-103844.png" group-title="Myanmar Channel",Ch7
 http://183.89.246.119:8881/play/a07v/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/VNZS7BdH/IMG-20231018-103932.png" group-title="Myanmar Channel",Mahar
