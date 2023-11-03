@@ -15,6 +15,12 @@ https://webudit.hlsjs.ru/lb/premium33/index.m3u8
 #EXTINF:-1 tvg-logo="https://img01.products.bt.co.uk/content/dam/bt/portal/images/logos/tnt/TNTSports4_Logo_TNTBlack_RGB.png" group-title="Sport",TNT Sport 4 🇬🇧
 #EXTVLCOPT:http-referrer=ntuplay.xyz/
 https://webudit.hlsjs.ru/lb/premium34/index.m3u8
+#EXTINF:-1 tvg-logo="https://songslover.me/wp-content/uploads/Sky-Sports-Main-Event.png" group-title="Sport",Skysport Mainevent 🇬🇧
+#EXTVLCOPT:http-referrer=https://live-streamfootball.com/
+https://livecdn-iptv001.rumsport.com/stream/283053/index.m3u8
+#EXTINF:-1 tvg-logo="https://logos-world.net/wp-content/uploads/2023/06/USA-Network-Symbol.png" group-title="Sport",USA Network ⚽
+#EXTVLCOPT:http-referrer=https://live-streamfootball.com/
+https://livecdn-iptv001.rumsport.com/stream/3390/index.m3u8
 #EXTINF:-1 tvg-logo="http://alpha.enjoysat.biz/Logos/sporttv1.png" group-title="Sport",Sport Tv 1
 https://kusnadipepenk.github.io/ntn/sprtv1.m3u8
 #EXTINF:-1 tvg-logo="http://alpha.enjoysat.biz/Logos/sporttv2.png" group-title="Sport",Sport Tv 2
