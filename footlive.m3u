@@ -1,27 +1,27 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://ui.dmpcdn.com/tvbox-web-cdn/imgs/channels/channel-true-pml-hd1.webp" group-title=''Football",True Pre 1
+#EXTINF:-1 tvg-logo="https://ui.dmpcdn.com/tvbox-web-cdn/imgs/channels/channel-true-pml-hd1.webp" group-title="Sport",True Pre 1
 https://edge1.laotv.la/live/TSport1/index.m3u8
-#EXTINF:-1 tvg-logo="https://ui.dmpcdn.com/tvbox-web-cdn/imgs/channels/channel-true-pml-hd1.webp" group-title=''Football",True Pre 2
+#EXTINF:-1 tvg-logo="https://ui.dmpcdn.com/tvbox-web-cdn/imgs/channels/channel-true-pml-hd1.webp" group-title="Sport",True Pre 2
 https://edge1.laotv.la/live/TSport2/index.m3u8
-#EXTINF:-1 tvg-logo="http://alpha.enjoysat.biz/Logos/sporttv1.png" group-title=''Football",Sport Tv 1
+#EXTINF:-1 tvg-logo="http://alpha.enjoysat.biz/Logos/sporttv1.png" group-title="Sport",Sport Tv 1
 https://kusnadipepenk.github.io/ntn/sprtv1.m3u8
-#EXTINF:-1 tvg-logo="http://alpha.enjoysat.biz/Logos/sporttv2.png" group-title=''Football",Sport Tv 2
+#EXTINF:-1 tvg-logo="http://alpha.enjoysat.biz/Logos/sporttv2.png" group-title="Sport",Sport Tv 2
 https://kusnadipepenk.github.io/ntn/sprtv2.m3u8
-#EXTINF:-1 tvg-logo="http://alpha.enjoysat.biz/Logos/sporttv3.png" group-title=''Football",Sport Tv 3
+#EXTINF:-1 tvg-logo="http://alpha.enjoysat.biz/Logos/sporttv3.png" group-title="Sport",Sport Tv 3
 https://kusnadipepenk.github.io/ntn/sprtv3.m3u8
-#EXTINF:-1 tvg-logo="http://alpha.enjoysat.biz/Logos/sporttv4.png" group-title=''Football",Sport Tv 4
+#EXTINF:-1 tvg-logo="http://alpha.enjoysat.biz/Logos/sporttv4.png" group-title="Sport",Sport Tv 4
 https://kusnadipepenk.github.io/ntn/sprtv4.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/Bb1xb2sy/20220927-065200.png" group-title=''Football",Sony Ten 1
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/Bb1xb2sy/20220927-065200.png" group-title="Sport",Sony Ten 1
 https://dai.google.com/linear/hls/event/wG75n5U8RrOKiFzaWObXbA/master.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/mZcqCqrx/20220927-065156.png" group-title=''Football",Sony Ten 2
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/mZcqCqrx/20220927-065156.png" group-title="Sport",Sony Ten 2
 https://dai.google.com/linear/hls/event/V9h-iyOxRiGp41ppQScDSQ/master.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/xTM4FzHt/20220927-065152.png" group-title=''Football",Sony Ten 3
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/xTM4FzHt/20220927-065152.png" group-title="Sport",Sony Ten 3
 https://dai.google.com/linear/hls/event/ltsCG7TBSCSDmyq0rQtvSA/master.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/MKXG9FWQ/IMG-20231018-132729.png" group-title=''Football",Fubol 1
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/MKXG9FWQ/IMG-20231018-132729.png" group-title="Sport",Fubol 1
 http://bl.uma.media/live/126863/HLS/6866944_4/2/1/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/MKXG9FWQ/IMG-20231018-132729.png" group-title=''Football",Fubol 2
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/MKXG9FWQ/IMG-20231018-132729.png" group-title="Sport",Fubol 2
 http://bl.uma.media/live/126864/HLS/6866944_4/2/1/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/MKXG9FWQ/IMG-20231018-132729.png" group-title=''Football",Fubol 3
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/MKXG9FWQ/IMG-20231018-132729.png" group-title="Sport",Fubol 3
 http://bl.uma.media/live/126865/HLS/6866944_4/2/1/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/g2cyznpR/IMG-20231018-103751.png" group-title="Myanmar Channel",Mahabawdi
@@ -53,7 +53,7 @@ http://183.89.246.119:8881/play/a0ao/index.m3u8
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://www.lyngsat.com/logo/tv/mm/mizzima-plus-mm.png" group-title="Myanmar Channel",Mizzima Tv+
 http://183.89.246.119:8881/play/a0ap/index.m3u8
 
-#EXTINF:-1 xui-id="16" tvg-id="" tvg-name="Sky Sport Golf HD" tvg-logo="https://e0.365dm.com/tvlogos/channels/1322-Logo.png?U2t5IFNwb3J0cyBHb2xm" group-title="Tennis/Golf/Fight & Other",Sky Sport Golf HD
+#EXTINF:-1 xui-id="16" tvg-id="" tvg-name="Sky Sport Golf HD" tvg-logo="https://e0.365dm.com/tvlogos/channels/1322-Logo.png?U2t5IFNwb3J0cyBHb2xm" group-title="Sport",Sky Sport Golf HD
 https://bananatv.org:443/play/dEDyyGS4i_lsegerhsnhJXtRVWlwv597G0NILGwS3Cg/m3u8
 #EXTINF:-1 xui-id="12" tvg-id="" tvg-name="မဟာဗောဓိ" tvg-logo="https://bananatv.org:443/images/10YnP16-IRHnuyUj8Kv9by_wgYmqbz_Tx1k1bTiWuUXZYj6_ugTEYJ7ascT4e0B6vc7de0PRwrNvXKWBERdOniHn7Of_EaBhNgtPmTgMQJptyzeHRIJFC-eyw5XIEo06nRm8146O3eCdDHo18v9_ebxaSvddQauc1CS8RjNe4sW36UPcYGwqxxUPTtMnjj1I91E2UFzKDd8HLdPd3N5El0E8wFbz5OzHwrD2q8SwBJk.png" group-title="Free Channels (MM)",မဟာဗောဓိ
 https://bananatv.org:443/play/dEDyyGS4i_lsegerhsnhJVEMRH7P0necnUjEjNVodIA/m3u8
@@ -84,11 +84,11 @@ https://bananatv.org:443/play/dEDyyGS4i_lsegerhsnhJZqTqco0hs7PQ9ohjs1lj7c/m3u8
 #EXTINF:-1 xui-id="25" tvg-id="" tvg-name="MITV" tvg-logo="https://bananatv.org:443/images/10YnP16-IRHnuyUj8Kv9by_wgYmqbz_Tx1k1bTiWuUXZYj6_ugTEYJ7ascT4e0B6vc7de0PRwrNvXKWBERdOniHn7Of_EaBhNgtPmTgMQJptyzeHRIJFC-eyw5XIEo06nRm8146O3eCdDHo18v9_eRiuzbnapdufu--KsVOnDvYSvVwY2jp_XqTN5PI6kFFMN05UqR4NbYcn5bD6iy7xytwsblmT3502MFzEoxwB_hI.png" group-title="Free Channels (MM)",MITV
 https://bananatv.org:443/play/dEDyyGS4i_lsegerhsnhJaTUM3D8DTfb58Lt1uHeFhM/m3u8
 
-#EXTINF:-1 xui-id="176" tvg-id="81" tvg-name="TEN 1 (SONY LIV)" tvg-logo="https://res.cloudinary.com/tatasky/image/fetch/f_auto,fl_lossy,q_auto/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/transparentImages/SONY-SPORTS-TEN-1-Transparent.png" group-title="Football",TEN 1 (SONY LIV)
+#EXTINF:-1 xui-id="176" tvg-id="81" tvg-name="TEN 1 (SONY LIV)" tvg-logo="https://res.cloudinary.com/tatasky/image/fetch/f_auto,fl_lossy,q_auto/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/transparentImages/SONY-SPORTS-TEN-1-Transparent.png" group-title="Sport",TEN 1 (SONY LIV)
 https://bananatv.org:443/play/dEDyyGS4i_lsegerhsnhJWLJR9YfpdHjn_9ETP01P4k/m3u8
-#EXTINF:-1 xui-id="177" tvg-id="462" tvg-name="TEN 2 (SONY LIV)" tvg-logo="https://res.cloudinary.com/tatasky/image/fetch/f_auto,fl_lossy,q_auto/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/transparentImages/SONY-SPORTS-TEN-2-HD-Transparent.png" group-title="Football",TEN 2 (SONY LIV)
+#EXTINF:-1 xui-id="177" tvg-id="462" tvg-name="TEN 2 (SONY LIV)" tvg-logo="https://res.cloudinary.com/tatasky/image/fetch/f_auto,fl_lossy,q_auto/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/transparentImages/SONY-SPORTS-TEN-2-HD-Transparent.png" group-title="Sport",TEN 2 (SONY LIV)
 https://bananatv.org:443/play/dEDyyGS4i_lsegerhsnhJfuRv3GEpYnBRtvAE7lqhVA/m3u8
-#EXTINF:-1 xui-id="178" tvg-id="464" tvg-name="TEN 3 (SONY LIV)" tvg-logo="https://res.cloudinary.com/tatasky/image/fetch/f_auto,fl_lossy,q_auto/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/transparentImages/SONY-SPORTS-TEN-3-HD-Transparent.png" group-title="Football",TEN 3 (SONY LIV)
+#EXTINF:-1 xui-id="178" tvg-id="464" tvg-name="TEN 3 (SONY LIV)" tvg-logo="https://res.cloudinary.com/tatasky/image/fetch/f_auto,fl_lossy,q_auto/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/transparentImages/SONY-SPORTS-TEN-3-HD-Transparent.png" group-title="Sport",TEN 3 (SONY LIV)
 https://bananatv.org:443/play/dEDyyGS4i_lsegerhsnhJahxxPvkOr0xjUla9IE13jQ/m3u8
 #EXTINF:-1 xui-id="179" tvg-id="914" tvg-name="TEN 4 (SONY LIV)" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/95/Sony_Sports_Ten_4.png/revision/latest/scale-to-width-down/460?cb=20221025090401" group-title="Football",TEN 4 (SONY LIV)
 https://bananatv.org:443/play/dEDyyGS4i_lsegerhsnhJWxRu4zKtgP7t_LtZD6m0PE/m3u8
