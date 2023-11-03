@@ -53,8 +53,6 @@ http://183.89.246.119:8881/play/a0ao/index.m3u8
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://www.lyngsat.com/logo/tv/mm/mizzima-plus-mm.png" group-title="Myanmar Channel",Mizzima Tv+
 http://183.89.246.119:8881/play/a0ap/index.m3u8
 
-#EXTINF:-1 xui-id="16" tvg-id="" tvg-name="Sky Sport Golf HD" tvg-logo="https://e0.365dm.com/tvlogos/channels/1322-Logo.png?U2t5IFNwb3J0cyBHb2xm" group-title="Sport",Sky Sport Golf HD
-https://bananatv.org:443/play/dEDyyGS4i_lsegerhsnhJXtRVWlwv597G0NILGwS3Cg/m3u8
 #EXTINF:-1 xui-id="12" tvg-id="" tvg-name="မဟာဗောဓိ" tvg-logo="https://bananatv.org:443/images/10YnP16-IRHnuyUj8Kv9by_wgYmqbz_Tx1k1bTiWuUXZYj6_ugTEYJ7ascT4e0B6vc7de0PRwrNvXKWBERdOniHn7Of_EaBhNgtPmTgMQJptyzeHRIJFC-eyw5XIEo06nRm8146O3eCdDHo18v9_ebxaSvddQauc1CS8RjNe4sW36UPcYGwqxxUPTtMnjj1I91E2UFzKDd8HLdPd3N5El0E8wFbz5OzHwrD2q8SwBJk.png" group-title="Free Channels (MM)",မဟာဗောဓိ
 https://bananatv.org:443/play/dEDyyGS4i_lsegerhsnhJVEMRH7P0necnUjEjNVodIA/m3u8
 #EXTINF:-1 xui-id="6" tvg-id="" tvg-name="MRTV 4" tvg-logo="https://bananatv.org:443/images/10YnP16-IRHnuyUj8Kv9by_wgYmqbz_Tx1k1bTiWuUXZYj6_ugTEYJ7ascT4e0B6vc7de0PRwrNvXKWBERdOniHn7Of_EaBhNgtPmTgMQJptyzeHRIJFC-eyw5XIEo06nRm8146O3eCdDHo18v9_eXP3sQOU7iJwFfokITpCV-_AppH_rQMXb7XQs-QKJaqh8RhIg3BdknVxIVkA_bEZUm4LLsg7bkSzSf6GpMX1kGU.png" group-title="Free Channels (MM)",MRTV 4
@@ -95,6 +93,8 @@ https://bananatv.org:443/play/dEDyyGS4i_lsegerhsnhJWxRu4zKtgP7t_LtZD6m0PE/m3u8
 #EXTINF:-1 xui-id="180" tvg-id="" tvg-name="TEN 5 (SONY LIV)" tvg-logo="https://bananatv.org:443/images/wF5WB0uKZXL6IzeXQ499t2nXTwG2f6Y8VMpbb0fXyBqOEweNVgynPMkZwmnuZgbHdgyAAwrObY3uoNtXZaV0kajw2Ad-iC4KSCXirijNCLk.png" group-title="Sport",TEN 5 (SONY LIV)
 https://bananatv.org:443/play/dEDyyGS4i_lsegerhsnhJWiDqaE66E_Zm2cyhi33B_s/m3u8
 
+#EXTINF:-1tvg-logo="https://akm-img-a-in.tosshub.com/indiatoday/images/media_bank/202309/shah-rukh-khan--jawan--srk-films-295651-1x1.jpg?VersionId=flG135APjYu35mqHqhjNACK3.P335ZY8"group-title="Latest Movie",Jawan (2023)
+https://www.googleapis.com/drive/v3/files/1ZLyBfuSoY3vM86g5LwbU8u4TSK8p0sXG?alt=media&key=AIzaSyCW2txvD6L9lgW__ylEYwtaBZW1ZJTrn9E
 #EXTINF:-1 xui-id="207" tvg-name="Kya Meri Sonam Gupta Bewafa Hai? (2021)" tvg-logo="https://bananatv.org:443/images/1CX9HZ1TpsR6jq_dGSnHkF7DaaYG-JnaH_5zbvTz1M5mB5g6BUIWNSoocDNYisyLGJ0JyodjYQKP1dS5tV19vHbcIVUGrxvldXMTyUS5ZJ8.jpg" group-title="Bollywood",Kya Meri Sonam Gupta Bewafa Hai? (2021)
 https://bananatv.org:443/play/bTmQnbO7Mi93t_UDwJ6E68P4zTDAwLuZgGdNbb7j_Ro#.mp4
 #EXTINF:-1 xui-id="1" tvg-name="The Mummy (2017)" tvg-logo="https://bananatv.org:443/images/1CX9HZ1TpsR6jq_dGSnHkF7DaaYG-JnaH_5zbvTz1M5mB5g6BUIWNSoocDNYisyLSxQptBl2N6MQHjatpBkYnefIVoBQbi-nxaRPo9m56X8.jpg" group-title="Action",The Mummy (2017)
