@@ -70,6 +70,17 @@ http://bl.uma.media/live/126864/HLS/6866944_4/2/1/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/MKXG9FWQ/IMG-20231018-132729.png" group-title="Sport",Fubol 3
 http://bl.uma.media/live/126865/HLS/6866944_4/2/1/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="https://logos-world.net/wp-content/uploads/2023/06/USA-Network-Symbol.png" group-title="Sport 2",USA Network ⚽
+https://s.id/1Wbz7
+#EXTINF:-1 tvg-logo="https://icdb.tv/images/d5110e36b95be6e4acf3d82973f24745.jpg" group-title="Sport 2",Hub Premier ⚽
+https://s.id/1WbA5
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/ef/Arena_Sport_1_%282019%2C_short%29.svg/revision/latest/scale-to-width-down/250?cb=20221111214150" group-title="Sport 2",Arena Sport 1 ⚽
+https://s.id/1WbAd
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/b3/Arena_Sport_3_%282019%2C_short%29.svg/revision/latest/scale-to-width-down/250?cb=20221111214150" group-title="Sport 2",Arena Sport 3 ⚽
+https://s.id/1WbAj
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/7f/Arena_Sport_4_%282019%2C_short%29.svg/revision/latest/scale-to-width-down/250?cb=20221111214150" group-title="Sport 2",Arena Sport 4 ⚽
+https://s.id/1WbAn
+
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://www.lyngsat.com/logo/tv/mm/mizzima-tv-mm.png" group-title="Myanmar Channel",Mizzima Tv
 http://183.89.246.119:8881/play/a0ao/index.m3u8
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://www.lyngsat.com/logo/tv/mm/mizzima-plus-mm.png" group-title="Myanmar Channel",Mizzima Tv+
