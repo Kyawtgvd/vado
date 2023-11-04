@@ -19,6 +19,10 @@ https://sky.hlsjs.ru/sky/premium343/tracks-v1a1/mono.m3u8?|referer=ntuplay.xyz/
 #EXTINF:-1 tvg-logo="https://songslover.me/wp-content/uploads/Sky-Sports-Main-Event.png" group-title="Sport",Skysport Mainevent ⚽
 #EXTVLCOPT:http-referrer=https://live-streamfootball.com/
 https://livecdn-iptv001.rumsport.com/stream/283053/index.m3u8
+#EXTINF:-1 tvg-logo="https://www.nicepng.com/png/full/213-2133982_sky-sports-logo-png.png"group-title="Sport",Sky Sport Premier League ⚽
+https://s.id/1Wbnc
+#EXTINF:-1 tvg-logo="https://img01.products.bt.co.uk/content/dam/bt/portal/images/logos/tnt/TNTSports1_Logo_TNTBlack_RGB.png"group-title="Sport",TNT Sport 1 (link 3) ⚽
+https://s.id/1Wbmv
 #EXTINF:-1 tvg-logo="https://logowik.com/content/uploads/images/bein-sports-13097.logowik.com.webp"group-title="Sport",Bein Sport 1 English ⚽
 https://s.id/1Wbki
 #EXTINF:-1 tvg-logo="https://img01.products.bt.co.uk/content/dam/bt/portal/images/logos/tnt/TNTSports1_Logo_TNTBlack_RGB.png" group-title="Sport",TNT Sport 1 ⚽
