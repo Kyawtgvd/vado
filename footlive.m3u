@@ -1,12 +1,10 @@
 #EXTM3U
 #EXTINF:-1 tvg-logo="https://ui.dmpcdn.com/tvbox-web-cdn/imgs/channels/channel-true-pml-hd1.webp" group-title="Sport",True Premier 1 ⚽
 https://edge1.laotv.la/live/TSport1/index.m3u8
-#EXTINF:-1 tvg-logo="https://ui.dmpcdn.com/tvbox-web-cdn/imgs/channels/channel-true-pml-hd1.webp" group-title="Sport",True Premier 2 
+#EXTINF:-1 tvg-logo="https://ui.dmpcdn.com/tvbox-web-cdn/imgs/channels/channel-true-pml-hd1.webp" group-title="Sport",True Premier 2 ⚽
 https://edge1.laotv.la/live/TSport2/index.m3u8
 #EXTINF:-1 tvg-logo="https://ocdn.eu/ptv2-images/logo-migrated/eleven-sports-1-hd.png"group-title="Sport",Eleven Sport 1 ⚽
 https://livecdn-iptv002.rumsport.com/stream/1499/index.m3u8?|referer=live-streamfootball.com/
-#EXTINF:-1 tvg-logo="https://ocdn.eu/ptv2-images/logo-migrated/eleven-sports-1-hd.png"group-title="Sport",Eleven Sport 1 (link 2) ⚽
-https://ddh1.hlsjs.ru/ddh1/premium455/tracks-v1a1/mono.m3u8?|referer=ntuplay.xyz/
 #EXTINF:-1 tvg-logo="https://ocdn.eu/ptv2-images/logo-migrated/eleven-sports-2-hd.png"group-title="Sport",Eleven Sport 2
 https://livecdn-iptv002.rumsport.com/stream/1503/index.m3u8?|referer=live-streamfootball.com/
 #EXTINF:-1 tvg-logo="https://ocdn.eu/ptv2-images/logo-migrated/eleven-sports-3-hd.png"group-title="Sport",Eleven Sport 3
@@ -15,22 +13,16 @@ https://livecdn-iptv002.rumsport.com/stream/1506/index.m3u8?|referer=live-stream
 #EXTVLCOPT:http-referrer=https://live-streamfootball.com/
 https://livecdn-iptv001.rumsport.com/stream/3390/index.m3u8
 #EXTINF:-1 tvg-logo="https://logos-world.net/wp-content/uploads/2023/06/USA-Network-Symbol.png" group-title="Sport",USA Network (link 2) ⚽
-https://sky.hlsjs.ru/sky/premium343/tracks-v1a1/mono.m3u8?|referer=ntuplay.xyz/
-#EXTINF:-1 tvg-logo="https://logos-world.net/wp-content/uploads/2023/06/USA-Network-Symbol.png" group-title="Sport",USA Network (link 3) ⚽
 https://s.id/1Wbz7
 #EXTINF:-1 tvg-logo="https://songslover.me/wp-content/uploads/Sky-Sports-Main-Event.png" group-title="Sport",Skysport Mainevent ⚽
 #EXTVLCOPT:http-referrer=https://live-streamfootball.com/
 https://livecdn-iptv001.rumsport.com/stream/283053/index.m3u8
-#EXTINF:-1 tvg-logo="https://www.nicepng.com/png/full/213-2133982_sky-sports-logo-png.png"group-title="Sport",Sky Sport Premier League ⚽
-https://s.id/1Wbnc
-#EXTINF:-1 tvg-logo="https://img01.products.bt.co.uk/content/dam/bt/portal/images/logos/tnt/TNTSports1_Logo_TNTBlack_RGB.png"group-title="Sport",TNT Sport 1 (link 3) ⚽
-https://s.id/1Wbmv
 #EXTINF:-1 tvg-logo="https://logowik.com/content/uploads/images/bein-sports-13097.logowik.com.webp"group-title="Sport",Bein Sport 1 English ⚽
 https://s.id/1Wbki
-#EXTINF:-1 tvg-logo="https://img01.products.bt.co.uk/content/dam/bt/portal/images/logos/tnt/TNTSports1_Logo_TNTBlack_RGB.png" group-title="Sport",TNT Sport 1 ⚽
+#EXTINF:-1 tvg-logo="https://img01.products.bt.co.uk/content/dam/bt/portal/images/logos/tnt/TNTSports1_Logo_TNTBlack_RGB.png" group-title="Sport",TNT Sport 1 
 #EXTVLCOPT:http-referrer=ntuplay.xyz/
 https://webudit.hlsjs.ru/lb/premium31/index.m3u8
-#EXTINF:-1 tvg-logo="https://img01.products.bt.co.uk/content/dam/bt/portal/images/logos/tnt/TNTSports2_Logo_TNTBlack_RGB.png" group-title="Sport",TNT Sport 2 ⚽
+#EXTINF:-1 tvg-logo="https://img01.products.bt.co.uk/content/dam/bt/portal/images/logos/tnt/TNTSports2_Logo_TNTBlack_RGB.png" group-title="Sport",TNT Sport 2 
 #EXTVLCOPT:http-referrer=ntuplay.xyz/
 https://webudit.hlsjs.ru/lb/premium32/index.m3u8
 #EXTINF:-1 tvg-logo="https://img01.products.bt.co.uk/content/dam/bt/portal/images/logos/tnt/TNTSports3_Logo_TNTBlack_RGB.png" group-title="Sport",TNT Sport 3 
@@ -39,15 +31,15 @@ https://webudit.hlsjs.ru/lb/premium33/index.m3u8
 #EXTINF:-1 tvg-logo="https://img01.products.bt.co.uk/content/dam/bt/portal/images/logos/tnt/TNTSports4_Logo_TNTBlack_RGB.png" group-title="Sport",TNT Sport 4 
 #EXTVLCOPT:http-referrer=ntuplay.xyz/
 https://webudit.hlsjs.ru/lb/premium34/index.m3u8
-#EXTINF:-1 tvg-logo="https://img01.products.bt.co.uk/content/dam/bt/portal/images/logos/tnt/TNTSports1_Logo_TNTBlack_RGB.png" group-title="Sport",TNT Sport 1 (link 2) ⚽
+#EXTINF:-1 tvg-logo="https://img01.products.bt.co.uk/content/dam/bt/portal/images/logos/tnt/TNTSports1_Logo_TNTBlack_RGB.png" group-title="Sport",TNT Sport 1 (link 2) 
 https://sky.hlsjs.ru/sky/premium31/tracks-v1a1/mono.m3u8?|referer=ntuplay.xyz/
-#EXTINF:-1 tvg-logo="https://img01.products.bt.co.uk/content/dam/bt/portal/images/logos/tnt/TNTSports2_Logo_TNTBlack_RGB.png" group-title="Sport",TNT Sport 2 (link 2) ⚽
+#EXTINF:-1 tvg-logo="https://img01.products.bt.co.uk/content/dam/bt/portal/images/logos/tnt/TNTSports2_Logo_TNTBlack_RGB.png" group-title="Sport",TNT Sport 2 (link 2) 
 https://sky.hlsjs.ru/sky/premium32/tracks-v1a1/mono.m3u8?|referer=ntuplay.xyz/
 #EXTINF:-1 tvg-logo="https://img01.products.bt.co.uk/content/dam/bt/portal/images/logos/tnt/TNTSports3_Logo_TNTBlack_RGB.png" group-title="Sport",TNT Sport 3 (link 2)
 https://sky.hlsjs.ru/sky/premium33/tracks-v1a1/mono.m3u8?|referer=ntuplay.xyz/
 #EXTINF:-1 tvg-logo="https://img01.products.bt.co.uk/content/dam/bt/portal/images/logos/tnt/TNTSports4_Logo_TNTBlack_RGB.png" group-title="Sport",TNT Sport 4 (link 2)
 https://sky.hlsjs.ru/sky/premium34/tracks-v1a1/mono.m3u8?|referer=ntuplay.xyz/
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/1a/Canal%2B_Sport_2015.png" group-title="Sport",Canal+ Sport ⚽
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/1a/Canal%2B_Sport_2015.png" group-title="Sport",Canal+ Sport 
 https://livecdn-iptv003.rumsport.com/stream/69426/index.m3u8?|referer=live-streamfootball.com/
 #EXTINF:-1 tvg-logo="http://alpha.enjoysat.biz/Logos/sporttv1.png" group-title="Sport",Sport Tv 1
 https://kusnadipepenk.github.io/ntn/sprtv1.m3u8
@@ -72,10 +64,8 @@ http://bl.uma.media/live/126865/HLS/6866944_4/2/1/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://logos-world.net/wp-content/uploads/2023/06/USA-Network-Symbol.png" group-title="Sport 2",USA Network ⚽
 https://s.id/1Wbz7
-#EXTINF:-1 tvg-logo="https://icdb.tv/images/d5110e36b95be6e4acf3d82973f24745.jpg" group-title="Sport 2",Hub Premier ⚽
-https://s.id/1WbA5
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/ef/Arena_Sport_1_%282019%2C_short%29.svg/revision/latest/scale-to-width-down/250?cb=20221111214150" group-title="Sport 2",Arena Sport 1 ⚽
-https://s.id/1WbAd
+#EXTINF:-1 tvg-logo="https://img01.products.bt.co.uk/content/dam/bt/portal/images/logos/tnt/TNTSports1_Logo_TNTBlack_RGB.png"group-title="Sport 2",TNT Sport 1 
+https://s.id/1Wbmv
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/b3/Arena_Sport_3_%282019%2C_short%29.svg/revision/latest/scale-to-width-down/250?cb=20221111214150" group-title="Sport 2",Arena Sport 3 ⚽
 https://s.id/1WbAj
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/7f/Arena_Sport_4_%282019%2C_short%29.svg/revision/latest/scale-to-width-down/250?cb=20221111214150" group-title="Sport 2",Arena Sport 4 ⚽
