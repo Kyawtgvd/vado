@@ -1,22 +1,20 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://ui.dmpcdn.com/tvbox-web-cdn/imgs/channels/channel-true-pml-hd1.webp" group-title="Football Special",True Premier 1 ⚽
+#EXTINF:-1 tvg-logo="https://ui.dmpcdn.com/tvbox-web-cdn/imgs/channels/channel-true-pml-hd1.webp" group-title="Football Special⚽",True Premier 1 
 https://edge1.laotv.la/live/TSport1/index.m3u8
-#EXTINF:-1 tvg-logo="https://ui.dmpcdn.com/tvbox-web-cdn/imgs/channels/channel-true-pml-hd1.webp" group-title="Football Special",True Premier 2 ⚽
+#EXTINF:-1 tvg-logo="https://ui.dmpcdn.com/tvbox-web-cdn/imgs/channels/channel-true-pml-hd1.webp" group-title="Football Special⚽",True Premier 2 
 https://edge1.laotv.la/live/TSport2/index.m3u8
-#EXTINF:-1 tvg-logo="https://ocdn.eu/ptv2-images/logo-migrated/eleven-sports-1-hd.png" group-title="Sport",Eleven Sport 1 ⚽
+#EXTINF:-1 tvg-logo="https://ocdn.eu/ptv2-images/logo-migrated/eleven-sports-1-hd.png" group-title="Football Special⚽",Eleven Sport 1 
 https://livecdn-iptv002.rumsport.com/stream/1499/index.m3u8?|referer=live-streamfootball.com/
-#EXTINF:-1 tvg-logo="https://ocdn.eu/ptv2-images/logo-migrated/eleven-sports-2-hd.png" group-title="Sport",Eleven Sport 2
-https://livecdn-iptv002.rumsport.com/stream/1503/index.m3u8?|referer=live-streamfootball.com/
-#EXTINF:-1 tvg-logo="https://ocdn.eu/ptv2-images/logo-migrated/eleven-sports-3-hd.png" group-title="Sport",Eleven Sport 3
-https://livecdn-iptv002.rumsport.com/stream/1506/index.m3u8?|referer=live-streamfootball.com/
-#EXTINF:-1 tvg-logo="https://logos-world.net/wp-content/uploads/2023/06/USA-Network-Symbol.png" group-title="Sport",USA Network ⚽
+#EXTINF:-1 tvg-logo="https://logos-world.net/wp-content/uploads/2023/06/USA-Network-Symbol.png" group-title="Football Special⚽",USA Network 
 https://livecdn-iptv001.rumsport.com/stream/3390/index.m3u8?|referer=live-streamfootball.com/
-#EXTINF:-1 tvg-logo="https://www.nicepng.com/png/full/213-2133982_sky-sports-logo-png.png" group-title="Sport",Sky Sport Premier League ⚽
-https://s.id/1WcAe
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/b3/Arena_Sport_3_%282019%2C_short%29.svg/revision/latest/scale-to-width-down/250?cb=20221111214150" group-title="Sport",Arena Sport 3 ⚽
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/b3/Arena_Sport_3_%282019%2C_short%29.svg/revision/latest/scale-to-width-down/250?cb=20221111214150" group-title="Football Special⚽",Arena Sport 3 
 https://s.id/1WbAj
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/7f/Arena_Sport_4_%282019%2C_short%29.svg/revision/latest/scale-to-width-down/250?cb=20221111214150" group-title="Sport",Arena Sport 4 ⚽ 
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/7f/Arena_Sport_4_%282019%2C_short%29.svg/revision/latest/scale-to-width-down/250?cb=20221111214150" group-title="Football Special⚽",Arena Sport 4  
 https://s.id/1WbAn
+#EXTINF:-1 tvg-logo="https://ocdn.eu/ptv2-images/logo-migrated/eleven-sports-2-hd.png" group-title="Football Special⚽",Eleven Sport 2
+https://livecdn-iptv002.rumsport.com/stream/1503/index.m3u8?|referer=live-streamfootball.com/
+#EXTINF:-1 tvg-logo="https://ocdn.eu/ptv2-images/logo-migrated/eleven-sports-3-hd.png" group-title="Football Special⚽",Eleven Sport 3
+https://livecdn-iptv002.rumsport.com/stream/1506/index.m3u8?|referer=live-streamfootball.com/
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/1a/Canal%2B_Sport_2015.png" group-title="Sport",Canal+ Sport 
 https://livecdn-iptv003.rumsport.com/stream/69426/index.m3u8?|referer=live-streamfootball.com/
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/Bb1xb2sy/20220927-065200.png" group-title="Sport",Sony Ten 1
