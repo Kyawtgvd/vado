@@ -53,3 +53,23 @@ http://185.188.188.235/live/novasport3/playlist.m3u8
 http://185.188.188.235/live/arenasport1/playlist.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Sport",arena sport 2
 http://185.188.188.235/live/arenasport2/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="Sport",USA Network
+http://gamsgo.cyou:8080/SBTV/MHd79ukKzL5wCyDj8NtZeW/3390
+#EXTINF:-1 tvg-logo="" group-title="Sport",Sky Sport Premier League
+http://gamsgo.cyou:8080/SBTV/MHd79ukKzL5wCyDj8NtZeW/263
+#EXTINF:-1 tvg-logo="" group-title="Sport",TNT Sport 1
+http://gamsgo.cyou:8080/SBTV/MHd79ukKzL5wCyDj8NtZeW/270
+#EXTINF:-1 tvg-logo="" group-title="Sport",TNT Sport 2
+http://gamsgo.cyou:8080/SBTV/MHd79ukKzL5wCyDj8NtZeW/273
+#EXTINF:-1 tvg-logo="" group-title="Sport",TNT Sport 3
+http://gamsgo.cyou:8080/SBTV/MHd79ukKzL5wCyDj8NtZeW/271
+#EXTINF:-1 tvg-logo="" group-title="Sport",TNT Sport 4
+http://gamsgo.cyou:8080/SBTV/MHd79ukKzL5wCyDj8NtZeW/298471
+#EXTINF:-1 tvg-logo="" group-title="Sport",Star Sport Select 1
+http://gamsgo.cyou:8080/SBTV/MHd79ukKzL5wCyDj8NtZeW/82628
+#EXTINF:-1 tvg-logo="" group-title="Sport",Star Sport Select 2
+http://gamsgo.cyou:8080/SBTV/MHd79ukKzL5wCyDj8NtZeW/16619
+#EXTINF:-1 tvg-logo="" group-title="Sport",Canal+ Premier League
+http://gamsgo.cyou:8080/SBTV/MHd79ukKzL5wCyDj8NtZeW/297425
+
