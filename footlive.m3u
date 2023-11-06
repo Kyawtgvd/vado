@@ -46,10 +46,6 @@ http://bl.uma.media/live/126863/HLS/6866944_4/2/1/playlist.m3u8
 http://bl.uma.media/live/126864/HLS/6866944_4/2/1/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/MKXG9FWQ/IMG-20231018-132729.png" group-title="Sport",Fubol 3
 http://bl.uma.media/live/126865/HLS/6866944_4/2/1/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://img01.products.bt.co.uk/content/dam/bt/portal/images/logos/tnt/TNTSports2_Logo_TNTBlack_RGB.png" group-title="Sport",TNT Sport 2 test
-https://bit.ly/3tZnNYx
-#EXTINF:-1 tvg-logo="https://neotel.mk/wp-content/uploads/2021/02/arena_sport_4.png" group-title="Sport",Arena Sport 4 test
-https://bit.ly/3QLMwsf
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://www.lyngsat.com/logo/tv/mm/mizzima-tv-mm.png" group-title="Myanmar Channel",Mizzima Tv
 http://183.89.246.119:8881/play/a0ao/index.m3u8
