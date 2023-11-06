@@ -42,3 +42,14 @@ https://s.id/1WdhD
 https://s.id/1WcAH
 #EXTINF:-1 tvg-logo="https://www.nicepng.com/png/full/213-2133982_sky-sports-logo-png.png" group-title="Sport",Sky Sport Premier League 
 https://s.id/1WcAe
+
+#EXTINF:-1 tvg-logo="" group-title="Sport",novasport 1
+http://185.188.188.235/live/novasport1/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Sport",novasport 2
+http://185.188.188.235/live/novasport2/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Sport",novasport 3
+http://185.188.188.235/live/novasport3/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Sport",arena sport 1
+http://185.188.188.235/live/arenasport1/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Sport",arena sport 2
+http://185.188.188.235/live/arenasport2/playlist.m3u8
