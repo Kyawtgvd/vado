@@ -1,75 +1,87 @@
 #EXTM3U
 #EXTINF:-1 tvg-logo="https://ui.dmpcdn.com/tvbox-web-cdn/imgs/channels/channel-true-pml-hd1.webp" group-title="Football Special⚽",True Premier 1 
 https://edge1.laotv.la/live/TSport1/index.m3u8
-#EXTINF:-1 tvg-logo="https://ui.dmpcdn.com/tvbox-web-cdn/imgs/channels/channel-true-pml-hd1.webp" group-title="Football Special⚽",True Premier 2 
+#EXTINF:-1 tvg-logo="https://ui.dmpcdn.com/tvbox-web-cdn/imgs/channels/channel-true-pml-hd1.webp" group-title="Football Special⚽", True Premier 2 
 https://edge1.laotv.la/live/TSport2/index.m3u8
-#EXTINF:-1 tvg-logo="https://ocdn.eu/ptv2-images/logo-migrated/eleven-sports-1-hd.png" group-title="Football Special⚽",Eleven Sport 1 
+#EXTINF:-1 tvg-logo="https://ocdn.eu/ptv2-images/logo-migrated/eleven-sports-1-hd.png" group-title="Football Special⚽", Eleven Sport 1 
 https://livecdn-iptv002.rumsport.com/stream/1499/index.m3u8?|referer=live-streamfootball.com/
-#EXTINF:-1 tvg-logo="https://logos-world.net/wp-content/uploads/2023/06/USA-Network-Symbol.png" group-title="Football Special⚽",USA Network 
+#EXTINF:-1 tvg-logo="https://logos-world.net/wp-content/uploads/2023/06/USA-Network-Symbol.png" group-title="Football Special⚽", USA Network 
 https://livecdn-iptv001.rumsport.com/stream/3390/index.m3u8?|referer=live-streamfootball.com/
-#EXTINF:-1 tvg-logo="https://neotel.mk/wp-content/uploads/2021/02/arena_sport_1.png" group-title="Football Special⚽",Arena Sport 1
+#EXTINF:-1 tvg-logo="https://neotel.mk/wp-content/uploads/2021/02/arena_sport_1.png" group-title="Football Special⚽", Arena Sport 1
 https://livecdn-iptv002.rumsport.com/stream/193741/index.m3u8?|referer=live-streamfootball.com/
-#EXTINF:-1 tvg-logo="https://neotel.mk/wp-content/uploads/2021/02/arena_sport_2.png" group-title="Football Special⚽",Arena Sport 2
+#EXTINF:-1 tvg-logo="https://neotel.mk/wp-content/uploads/2021/02/arena_sport_2.png" group-title="Football Special⚽", Arena Sport 2
 https://livecdn-iptv002.rumsport.com/stream/171883/index.m3u8?|referer=live-streamfootball.com/
-#EXTINF:-1 tvg-logo="https://neotel.mk/wp-content/uploads/2021/02/arena_sport_3.png" group-title="Football Special⚽",Arena Sport 3 
+#EXTINF:-1 tvg-logo="https://neotel.mk/wp-content/uploads/2021/02/arena_sport_3.png" group-title="Football Special⚽", Arena Sport 3 
 https://s.id/1WbAj
-#EXTINF:-1 tvg-logo="https://neotel.mk/wp-content/uploads/2021/02/arena_sport_4.png" group-title="Football Special⚽",Arena Sport 4  
+#EXTINF:-1 tvg-logo="https://neotel.mk/wp-content/uploads/2021/02/arena_sport_4.png" group-title="Football Special⚽", Arena Sport 4  
 https://s.id/1WbAn
-#EXTINF:-1 tvg-logo="https://neotel.mk/wp-content/uploads/2021/02/arena_sport_5.png" group-title="Football Special⚽",Arena Sport 5
+#EXTINF:-1 tvg-logo="https://neotel.mk/wp-content/uploads/2021/02/arena_sport_5.png" group-title="Football Special⚽", Arena Sport 5
 https://livecdn-iptv002.rumsport.com/stream/57711/index.m3u8?|referer=live-streamfootball.com/
-#EXTINF:-1 tvg-logo="https://ocdn.eu/ptv2-images/logo-migrated/eleven-sports-2-hd.png" group-title="Football Special⚽",Eleven Sport 2
+#EXTINF:-1 tvg-logo="https://ocdn.eu/ptv2-images/logo-migrated/eleven-sports-2-hd.png" group-title="Football Special⚽", Eleven Sport 2
 https://livecdn-iptv002.rumsport.com/stream/1503/index.m3u8?|referer=live-streamfootball.com/
-#EXTINF:-1 tvg-logo="https://ocdn.eu/ptv2-images/logo-migrated/eleven-sports-3-hd.png" group-title="Football Special⚽",Eleven Sport 3
+#EXTINF:-1 tvg-logo="https://ocdn.eu/ptv2-images/logo-migrated/eleven-sports-3-hd.png" group-title="Football Special⚽", Eleven Sport 3
 https://livecdn-iptv002.rumsport.com/stream/1506/index.m3u8?|referer=live-streamfootball.com/
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/tvfanon6528/images/2/20/Digi_Sport_1_%282012-.n.v.%29.png/revision/latest?cb=20180919153840" group-title="Football Special⚽",Digi Sport 1
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/tvfanon6528/images/2/20/Digi_Sport_1_%282012-.n.v.%29.png/revision/latest?cb=20180919153840" group-title="Football Special⚽", Digi Sport 1
 https://livecdn-iptv002.rumsport.com/stream/71457/index.m3u8?|referer=live-streamfootball.com/
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/tvfanon6528/images/2/25/Digi_Sport_2_%282012-.n.v.%29.png/revision/latest?cb=20180919154454" group-title="Football Special⚽",Digi Sport 2
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/tvfanon6528/images/2/25/Digi_Sport_2_%282012-.n.v.%29.png/revision/latest?cb=20180919154454" group-title="Football Special⚽", Digi Sport 2
 https://livecdn-iptv002.rumsport.com/stream/71459/index.m3u8?|referer=live-streamfootball.com/
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/dc/Digi_Sport_3_2012.svg/revision/latest/scale-to-width-down/1200?cb=20230203050720" group-title="Football Special⚽",Digi Sport 3
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/dc/Digi_Sport_3_2012.svg/revision/latest/scale-to-width-down/1200?cb=20230203050720" group-title="Football Special⚽", Digi Sport 3
 https://livecdn-iptv002.rumsport.com/stream/2243/index.m3u8?|referer=live-streamfootball.com/
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/b6/Digi_Sport_4_2012.svg/revision/latest/scale-to-width-down/1200?cb=20230203052148" group-title="Football Special⚽",Digi Sport 4
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/b6/Digi_Sport_4_2012.svg/revision/latest/scale-to-width-down/1200?cb=20230203052148" group-title="Football Special⚽", Digi Sport 4
 https://livecdn-iptv002.rumsport.com/stream/4219/index.m3u8?|referer=live-streamfootball.com/
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/TUDN_Logo.svg/2560px-TUDN_Logo.svg.png" group-title="Football Special⚽",TUDN
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/TUDN_Logo.svg/2560px-TUDN_Logo.svg.png" group-title="Football Special⚽", TUDN
 https://livecdn-iptv002.rumsport.com/stream/31784/index.m3u8?|referer=live-streamfootball.com/
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/1a/Canal%2B_Sport_2015.png" group-title="Sport",Canal+ Sport 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/1a/Canal%2B_Sport_2015.png" group-title="Sport", Canal+ Sport 
 https://livecdn-iptv003.rumsport.com/stream/69426/index.m3u8?|referer=live-streamfootball.com/
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/Bb1xb2sy/20220927-065200.png" group-title="Sport",Sony Ten 1
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/Bb1xb2sy/20220927-065200.png" group-title="Sport", Sony Ten 1
 https://dai.google.com/linear/hls/event/wG75n5U8RrOKiFzaWObXbA/master.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/mZcqCqrx/20220927-065156.png" group-title="Sport",Sony Ten 2
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/mZcqCqrx/20220927-065156.png" group-title="Sport", Sony Ten 2
 https://dai.google.com/linear/hls/event/V9h-iyOxRiGp41ppQScDSQ/master.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/xTM4FzHt/20220927-065152.png" group-title="Sport",Sony Ten 3
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/xTM4FzHt/20220927-065152.png" group-title="Sport", Sony Ten 3
 https://dai.google.com/linear/hls/event/ltsCG7TBSCSDmyq0rQtvSA/master.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/MKXG9FWQ/IMG-20231018-132729.png" group-title="Sport",Fubol 1
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/MKXG9FWQ/IMG-20231018-132729.png" group-title="Sport", Fubol 1
 http://bl.uma.media/live/126863/HLS/6866944_4/2/1/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/MKXG9FWQ/IMG-20231018-132729.png" group-title="Sport",Fubol 2
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/MKXG9FWQ/IMG-20231018-132729.png" group-title="Sport", Fubol 2
 http://bl.uma.media/live/126864/HLS/6866944_4/2/1/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/MKXG9FWQ/IMG-20231018-132729.png" group-title="Sport",Fubol 3
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/MKXG9FWQ/IMG-20231018-132729.png" group-title="Sport", Fubol 3
 http://bl.uma.media/live/126865/HLS/6866944_4/2/1/playlist.m3u8
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://www.lyngsat.com/logo/tv/mm/mizzima-tv-mm.png" group-title="Myanmar Channel",Mizzima Tv
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://www.lyngsat.com/logo/tv/mm/mizzima-tv-mm.png" group-title="Myanmar Channel", Mizzima Tv
 http://183.89.246.119:8881/play/a0ao/index.m3u8
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://www.lyngsat.com/logo/tv/mm/mizzima-plus-mm.png" group-title="Myanmar Channel",Mizzima Tv+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://www.lyngsat.com/logo/tv/mm/mizzima-plus-mm.png" group-title="Myanmar Channel", Mizzima Tv+
 http://183.89.246.119:8881/play/a0ap/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/VNZS7BdH/IMG-20231018-103932.png" group-title="Myanmar Channel",Mahar
-https://tv.mahar.live/mahar/website.stream/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/3rsG5B9s/IMG-20231018-103844.png" group-title="Myanmar Channel",Ch7
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://www.myanmartvchannels.com/assets/cache/images/channeliconb/mahar-80x80-1ee.jpg" group-title="Myanmar Channel", Mahar
+https://tv.mahar.live/mahar/website.stream/mahar/website1/chunks.m3u8
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://www.myanmartvchannels.com/assets/cache/images/channeliconb/mrtv42-80x80-83b.jpg" group-title="Myanmar Channel", MRTV 4
+http://183.89.246.119:8881/play/a07u/index.m3u8
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://www.myanmartvchannels.com/assets/cache/images/channeliconb/channel7-80x80-83b.jpg" group-title="Myanmar Channel", Channel 7
 http://183.89.246.119:8881/play/a07v/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/BvjZvWnM/IMG-20231018-104249.png" group-title="Myanmar Channel",Ch9
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/BvjZvWnM/IMG-20231018-104249.png" group-title="Myanmar Channel", Channel 9
 http://183.89.246.119:8881/play/a07y/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/0298wKN6/IMG-20231018-103909.png" group-title="Myanmar Channel",Channel K
-https://l1-xl1.myanmarnet.com/relay/channelk/ch1/stream.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Mi84LzIwMjIgMzozMTo0OSBBTSZoYXNoX3ZhbHVlPUJBSG54TklSSVJ0T3UyRnN5NGdFMWc9PSZ2YWxpZG1pbnV0ZXM9MjUmc3RybV9sZW49MTg=
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/7Y1VZ6sY/IMG-20231018-104401.png" group-title="Myanmar Channel",Channel Me
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/0298wKN6/IMG-20231018-103909.png" group-title="Myanmar Channel", Channel K
+https://l1-xl1.myanmarnet.com/relay/channelk/ch1/stream_hi/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/7Y1VZ6sY/IMG-20231018-104401.png" group-title="Myanmar Channel", Channel Me
 http://183.89.246.119:8881/play/a07t/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/HWqZLFT3/IMG-20231018-104337.png" group-title="Myanmar Channel",YTV
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/HWqZLFT3/IMG-20231018-104337.png" group-title="Myanmar Channel", YTV
 http://183.89.246.119:8881/play/a081/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/8k6FHvDt/IMG-20231018-104223.png" group-title="Myanmar Channel",MNTV
-https://l1-xl1.myanmarnet.com/relay/mntv/ch1/stream_hi/index.m3u8 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/pLxsf8hF/IMG-20231018-104422.png" group-title="Myanmar Channel",Fortune
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://www.myanmartvchannels.com/assets/cache/images/channeliconb/fortune-80x80-0b5.jpg" group-title="Myanmar Channel", Fortune Tv
 http://183.89.246.119:8881/play/a082/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/wvs58TRz/IMG-20231018-104308.png" group-title="Myanmar Channel",5 Plus
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/wvs58TRz/IMG-20231018-104308.png" group-title="Myanmar Channel", 5 Plus
 http://183.89.246.119:8881/play/a07w/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/GpHqMr4y/IMG-20231018-134533.png" group-title="Myanmar Channel",MCS
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/GpHqMr4y/IMG-20231018-134533.png" group-title="Myanmar Channel", MCS
 https://l1-xl1.myanmarnet.com/relay2/mcs/ch1/stream_standard/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/RhLH43Mk/IMG-20231018-104456.png" group-title="Myanmar Channel",Myan Music
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://www.myanmartvchannels.com/assets/images/channeliconb/mitv.jpg" group-title="Myanmar Channel", MITV
+http://183.89.246.119:8881/play/a07r/index.m3u8
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://www.myanmartvchannels.com/assets/cache/images/channeliconb/mntv-120x120-dda.jpg" group-title="Myanmar Channel", MNTV
+https://l1-xl1.myanmarnet.com/relay/mntv/ch1/stream.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/VvR9mxkb/Picsart-22-11-20-15-21-13-205.png" group-title="Myanmar Channel",TVM
+http://203.81.84.130/hls/mwd_serie/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/rFC73sGf/Picsart-22-10-20-21-39-56-999.jpg" group-title="Myanmar Channel", MVM
+https://edge6a.v2h-cdn.com/mvm/mvm.stream/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/pr0z5Db0/Picsart-22-11-20-21-08-36-024.png" group-title="Myanmar Channel", GOLDENLAND
+http://203.81.84.130/hls/mwd_document/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/gksLJyq8/Picsart-22-11-20-15-45-25-489.png" group-title="Myanmar Channel", CLIGHT
+http://203.81.84.130/hls/mwd_family/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/RhLH43Mk/IMG-20231018-104456.png" group-title="Myanmar Channel", Myanmar Music
 https://l1-xl1.myanmarnet.com/relay/music/ch1/stream_hi/index.m3u8
