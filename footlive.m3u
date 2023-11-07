@@ -3,6 +3,10 @@
 https://edge1.laotv.la/live/TSport1/index.m3u8
 #EXTINF:-1 tvg-logo="https://ui.dmpcdn.com/tvbox-web-cdn/imgs/channels/channel-true-pml-hd1.webp" group-title="Football Special⚽", True Premier 2 
 https://edge1.laotv.la/live/TSport2/index.m3u8
+#EXTINF:-1 tvg-logo="https://multireach.in/wp-content/uploads/2020/10/starsportsselect1.png" group-title="Football Special⚽", Star Sport Select 1 (info)
+http://150.95.25.221:8000/Star%20Select%201HD?u=WfjhmbilllIIIgcukQ:p=36EwswQhkEhugi
+#EXTINF:-1 tvg-logo="https://multireach.in/wp-content/uploads/2020/10/starsportsselect2.png" group-title="Football Special⚽", Star Sport Select 2 (info)
+http://150.95.25.221:8000/Star%20Select%202HD?u=WfjhmbilllIIIgcukQ:p=36EwswQhkEhugi
 #EXTINF:-1 tvg-logo="https://ocdn.eu/ptv2-images/logo-migrated/eleven-sports-1-hd.png" group-title="Football Special⚽", Eleven Sport 1 
 https://livecdn-iptv002.rumsport.com/stream/1499/index.m3u8?|referer=live-streamfootball.com/
 #EXTINF:-1 tvg-logo="https://logos-world.net/wp-content/uploads/2023/06/USA-Network-Symbol.png" group-title="Football Special⚽", USA Network 
@@ -21,6 +25,10 @@ https://livecdn-iptv002.rumsport.com/stream/57711/index.m3u8?|referer=live-strea
 https://livecdn-iptv002.rumsport.com/stream/1503/index.m3u8?|referer=live-streamfootball.com/
 #EXTINF:-1 tvg-logo="https://ocdn.eu/ptv2-images/logo-migrated/eleven-sports-3-hd.png" group-title="Football Special⚽", Eleven Sport 3
 https://livecdn-iptv002.rumsport.com/stream/1506/index.m3u8?|referer=live-streamfootball.com/
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/4/48/Eleven_Sports_4_%282017%29.svg/revision/latest/scale-to-width-down/250?cb=20210204144907" group-title="Football Special⚽", Eleven Sport 4 (nil refer)
+https://livecdn-iptv002.rumsport.com/stream/1509/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.goalzz.com/?i=katkotati%2Flogo_chaine%2Fportugal%2Feleven+sports+5+portugal.gif" group-title="Football Special⚽", Eleven Sport 5 (nil refer)
+https://livecdn-iptv002.rumsport.com/stream/1512/index.m3u8
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/tvfanon6528/images/2/20/Digi_Sport_1_%282012-.n.v.%29.png/revision/latest?cb=20180919153840" group-title="Football Special⚽", Digi Sport 1
 https://livecdn-iptv002.rumsport.com/stream/71457/index.m3u8?|referer=live-streamfootball.com/
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/tvfanon6528/images/2/25/Digi_Sport_2_%282012-.n.v.%29.png/revision/latest?cb=20180919154454" group-title="Football Special⚽", Digi Sport 2
@@ -31,6 +39,12 @@ https://livecdn-iptv002.rumsport.com/stream/2243/index.m3u8?|referer=live-stream
 https://livecdn-iptv002.rumsport.com/stream/4219/index.m3u8?|referer=live-streamfootball.com/
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/TUDN_Logo.svg/2560px-TUDN_Logo.svg.png" group-title="Football Special⚽", TUDN
 https://livecdn-iptv002.rumsport.com/stream/31784/index.m3u8?|referer=live-streamfootball.com/
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.postimg.cc/2yjjDqdy/IMG-20231018-131656.png" group-title="Football Special⚽", TNT Sport 1
+https://livecdn-iptv002.rumsport.com/stream/8959/index.m3u8?|referer=live-streamfootball.com/
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.postimg.cc/2yjjDqdy/IMG-20231018-131656.png" group-title="Football Special⚽", TNT Sport 2
+https://livecdn-iptv002.rumsport.com/stream/279612/index.m3u8?|referer=live-streamfootball.com/
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.postimg.cc/2yjjDqdy/IMG-20231018-131656.png" group-title="Football Special⚽", TNT Sport 3
+https://livecdn-iptv002.rumsport.com/stream/266775/index.m3u8?|referer=live-streamfootball.com/
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/1a/Canal%2B_Sport_2015.png" group-title="Sport", Canal+ Sport 
 https://livecdn-iptv003.rumsport.com/stream/69426/index.m3u8?|referer=live-streamfootball.com/
