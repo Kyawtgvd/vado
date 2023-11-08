@@ -1,4 +1,21 @@
 #EXTM3U
+#EXTINF:-1 tvg-id="" tvg-name="FC København Vs FC Man United (2:30 AM)" tvg-logo="http://familyiptv.xyz:25461/images/996fc460a832a0455ea08c9fc794f5e3.jpg" group-title="Today Live",FC København Vs FC Man United (2:30 AM)
+http://familyiptv.xyz:25461/familyhomeiptv/familyhomeiptv/758
+#EXTINF:-1 tvg-id="" tvg-name="Bayern München Vs Galatasaray (2:30 AM)" tvg-logo="http://familyiptv.xyz:25461/images/e99a32fb7acdb9a11bdbe01dd37c2767.jpg" group-title="Today Live",Bayern München Vs Galatasaray (2:30 AM)
+http://familyiptv.xyz:25461/familyhomeiptv/familyhomeiptv/759
+#EXTINF:-1 tvg-id="" tvg-name="Arsenal Vs Sevilla (2:30 AM)" tvg-logo="http://familyiptv.xyz:25461/images/b87930a566846eee1153480494c8fe0c.jpg" group-title="Today Live",Arsenal Vs Sevilla (2:30 AM)
+http://familyiptv.xyz:25461/familyhomeiptv/familyhomeiptv/760
+#EXTINF:-1 tvg-id="" tvg-name="PSV Eindhoven Vs Lens (2:30 AM)" tvg-logo="http://familyiptv.xyz:25461/images/c0719bc30a41b88f6953b1387c07aac5.jpg" group-title="Today Live",PSV Eindhoven Vs Lens (2:30 AM)
+http://familyiptv.xyz:25461/familyhomeiptv/familyhomeiptv/761
+#EXTINF:-1 tvg-id="" tvg-name="Napoli Vs Union Berlin (12:15 AM)" tvg-logo="http://familyiptv.xyz:25461/images/7477f259d418819b3f51ea3314ef8978.jpg" group-title="Today Live",Napoli Vs Union Berlin (12:15 AM)
+http://familyiptv.xyz:25461/familyhomeiptv/familyhomeiptv/762
+#EXTINF:-1 tvg-id="" tvg-name="Real Madrid Vs Braga (2:30 AM)" tvg-logo="https://estaticos.esmadrid.com/cdn/farfuture/jK5NRoe-IXW5IcRFt7rnIadMPY8oVdk2Kr320eNvqP4/mtime:1693825752/sites/default/files/eventos/eventos/real_madrid_-_sc_braga_uefa_champions_league.jpg" group-title="Today Live",Real Madrid Vs Braga (2:30 AM)
+http://familyiptv.xyz:25461/familyhomeiptv/familyhomeiptv/763
+#EXTINF:-1 tvg-id="" tvg-name="Real Sociedad Vs Benfica (12:15 AM)" tvg-logo="http://familyiptv.xyz:25461/images/a6eb431d51c4af69c74a96e16e3ca2b8.jpg" group-title="Today Live",Real Sociedad Vs Benfica (12:15 AM)
+http://familyiptv.xyz:25461/familyhomeiptv/familyhomeiptv/764
+#EXTINF:-1 tvg-id="" tvg-name="Salzburg Vs Inter (2:30 AM)" tvg-logo="http://familyiptv.xyz:25461/images/ada780755303a64c5020684b6b1c68b9.jpg" group-title="Today Live",Salzburg Vs Inter (2:30 AM)
+http://familyiptv.xyz:25461/familyhomeiptv/familyhomeiptv/765
+
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/ef/Arena_Sport_1_%282019%2C_short%29.svg/revision/latest/scale-to-width-down/250?cb=20221111214150" group-title="Sport", Arena Sport 1 (sid)
 https://s.id/1WcB6
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/b1/Arena_Sport_2_%282019%2C_short%29.svg/revision/latest/scale-to-width-down/250?cb=20221111214150" group-title="Sport", Arena Sport 2 (sid)
