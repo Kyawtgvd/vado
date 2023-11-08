@@ -24,17 +24,11 @@ https://s.id/1WdhA
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/37/Astro_ASSP3.png" group-title="Sport", Astro Super Sport 3 (sid)
 https://s.id/1WdhD
 
-#EXTINF:-1 tvg-logo="https://www.nicepng.com/png/full/213-2133982_sky-sports-logo-png.png" group-title="Sport", Super Sport Premier League (sid)
+#EXTINF:-1 tvg-logo="https://www.thesportsdb.com/images/media/channel/tvlogo/x5ja5w1659624783.png" group-title="Sport", Super Sport Premier League (sid)
 https://s.id/1WcAH
 #EXTINF:-1 tvg-logo="https://www.nicepng.com/png/full/213-2133982_sky-sports-logo-png.png" group-title="Sport", Sky Sport Premier League (sid)
 https://s.id/1WcAe
 
-#EXTINF:-1 tvg-logo="" group-title="Sport", novasport 1 (185)
-http://185.188.188.235/live/novasport1/playlist.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Sport", novasport 2 (185)
-http://185.188.188.235/live/novasport2/playlist.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Sport", novasport 3 (185)
-http://185.188.188.235/live/novasport3/playlist.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Sport", arena sport 1 (185)
 http://185.188.188.235/live/arenasport1/playlist.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Sport", arena sport 2 (185)
@@ -58,3 +52,8 @@ http://gamsgo.cyou:8080/SBTV/MHd79ukKzL5wCyDj8NtZeW/82628
 http://gamsgo.cyou:8080/SBTV/MHd79ukKzL5wCyDj8NtZeW/16619
 #EXTINF:-1 tvg-logo="" group-title="Sport", Canal+ Premier League (gam)
 http://gamsgo.cyou:8080/SBTV/MHd79ukKzL5wCyDj8NtZeW/297425
+
+#EXTINF:-1 tvg-logo="https://multireach.in/wp-content/uploads/2020/10/starsportsselect1.png" group-title="Sport", Star Sport Select 1 (info)
+http://150.95.25.221:8000/Star%20Select%201HD?u=WfjhmbilllIIIgcukQ:p=36EwswQhkEhugi
+#EXTINF:-1 tvg-logo="https://multireach.in/wp-content/uploads/2020/10/starsportsselect2.png" group-title="Sport", Star Sport Select 2 (info)
+http://150.95.25.221:8000/Star%20Select%202HD?u=WfjhmbilllIIIgcukQ:p=36EwswQhkEhugi
