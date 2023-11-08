@@ -33,6 +33,14 @@ https://livecdn-iptv002.rumsport.com/stream/71459/index.m3u8?|referer=live-strea
 https://livecdn-iptv002.rumsport.com/stream/2243/index.m3u8?|referer=live-streamfootball.com/
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/b6/Digi_Sport_4_2012.svg/revision/latest/scale-to-width-down/1200?cb=20230203052148" group-title="Football Special⚽", Digi Sport 4
 https://livecdn-iptv002.rumsport.com/stream/4219/index.m3u8?|referer=live-streamfootball.com/
+#EXTINF:-1 tvg-logo="https://www.pcdays.cz/wp-content/uploads/2015/08/ns.jpg" group-title="Football Special⚽", novasport 1 (185)
+http://185.188.188.235/live/novasport1/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://www.pcdays.cz/wp-content/uploads/2015/08/ns.jpg" group-title="Football Special⚽", novasport 2 (185)
+http://185.188.188.235/live/novasport2/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://www.pcdays.cz/wp-content/uploads/2015/08/ns.jpg" group-title="Football Special⚽", novasport 3 (185)
+http://185.188.188.235/live/novasport3/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://www.pcdays.cz/wp-content/uploads/2015/08/ns.jpg" group-title="Football Special⚽", novasport 4 (185)
+http://185.188.188.235/live/novasport4/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/TUDN_Logo.svg/2560px-TUDN_Logo.svg.png" group-title="Football Special⚽", TUDN
 https://livecdn-iptv002.rumsport.com/stream/31784/index.m3u8?|referer=live-streamfootball.com/
 #EXTINF:-1 tvg-logo="https://img01.products.bt.co.uk/content/dam/bt/portal/images/logos/tnt/TNTSports1_Logo_TNTBlack_RGB.png" group-title="Football Special⚽", TNT Sport 1 (sid)
@@ -76,10 +84,6 @@ http://gamsgo.cyou:8080/SBTV/MHd79ukKzL5wCyDj8NtZeW/1509
 http://gamsgo.cyou:8080/SBTV/MHd79ukKzL5wCyDj8NtZeW/1512
 #EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-09/089df823b4a66ca080d161cdd412ff1b.png" group-title="Sport", ELEVEN SPORTS 6
 http://gamsgo.cyou:8080/SBTV/MHd79ukKzL5wCyDj8NtZeW/1515
-#EXTINF:-1 tvg-logo="https://multireach.in/wp-content/uploads/2020/10/starsportsselect1.png" group-title="Sport", Star Sport Select 1 (info)
-http://150.95.25.221:8000/Star%20Select%201HD?u=WfjhmbilllIIIgcukQ:p=36EwswQhkEhugi
-#EXTINF:-1 tvg-logo="https://multireach.in/wp-content/uploads/2020/10/starsportsselect2.png" group-title="Sport", Star Sport Select 2 (info)
-http://150.95.25.221:8000/Star%20Select%202HD?u=WfjhmbilllIIIgcukQ:p=36EwswQhkEhugi
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://www.lyngsat.com/logo/tv/mm/mizzima-tv-mm.png" group-title="Myanmar Channel", Mizzima Tv
 http://183.89.246.119:8881/play/a0ao/index.m3u8
