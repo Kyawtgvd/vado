@@ -1,11 +1,4 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://img01.products.bt.co.uk/content/dam/bt/portal/images/logos/tnt/TNTSports1_Logo_TNTBlack_RGB.png" group-title="Sport", TNT Sport 1 (sid)
-https://s.id/1WdhI
-#EXTINF:-1 tvg-logo="https://img01.products.bt.co.uk/content/dam/bt/portal/images/logos/tnt/TNTSports2_Logo_TNTBlack_RGB.png" group-title="Sport", TNT Sport 2 (sid)
-https://s.id/1WdhM
-#EXTINF:-1 tvg-logo="https://img01.products.bt.co.uk/content/dam/bt/portal/images/logos/tnt/TNTSports3_Logo_TNTBlack_RGB.png" group-title="Sport", TNT Sport 3 (sid)
-https://s.id/1WdhQ
-
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/ef/Arena_Sport_1_%282019%2C_short%29.svg/revision/latest/scale-to-width-down/250?cb=20221111214150" group-title="Sport", Arena Sport 1 (sid)
 https://s.id/1WcB6
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/b1/Arena_Sport_2_%282019%2C_short%29.svg/revision/latest/scale-to-width-down/250?cb=20221111214150" group-title="Sport", Arena Sport 2 (sid)
@@ -65,16 +58,3 @@ http://gamsgo.cyou:8080/SBTV/MHd79ukKzL5wCyDj8NtZeW/82628
 http://gamsgo.cyou:8080/SBTV/MHd79ukKzL5wCyDj8NtZeW/16619
 #EXTINF:-1 tvg-logo="" group-title="Sport", Canal+ Premier League (gam)
 http://gamsgo.cyou:8080/SBTV/MHd79ukKzL5wCyDj8NtZeW/297425
-
-#EXTINF:-1 tvg-id="elevensports1.pt" tvg-name="PT: ELEVEN SPORTS 1" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-09/dbe88e53a72f505010f15f778a3fd4c9.png" group-title="Portugal 鉃� Football",PT: ELEVEN SPORTS 1
-http://gamsgo.cyou:8080/SBTV/MHd79ukKzL5wCyDj8NtZeW/1499
-#EXTINF:-1 tvg-id="elevensports2.pt" tvg-name="PT: ELEVEN SPORTS 2" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-09/61327badbbea898c7c700b7fe81c55d8.png" group-title="Portugal 鉃� Football",PT: ELEVEN SPORTS 2
-http://gamsgo.cyou:8080/SBTV/MHd79ukKzL5wCyDj8NtZeW/1503
-#EXTINF:-1 tvg-id="elevensports3.pt" tvg-name="PT: ELEVEN SPORTS 3" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-09/b9c02901087946bb37b047d33f24a208.png" group-title="Portugal 鉃� Football",PT: ELEVEN SPORTS 3
-http://gamsgo.cyou:8080/SBTV/MHd79ukKzL5wCyDj8NtZeW/1506
-#EXTINF:-1 tvg-id="elevensports4.pt" tvg-name="PT: ELEVEN SPORTS 4" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-09/c17ab7ee9a7e3e32117fb1368ffb284c.png" group-title="Portugal 鉃� Football",PT: ELEVEN SPORTS 4
-http://gamsgo.cyou:8080/SBTV/MHd79ukKzL5wCyDj8NtZeW/1509
-#EXTINF:-1 tvg-id="elevensports5.pt" tvg-name="PT: ELEVEN SPORTS 5" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-09/c5409550875e0e1b4d38c0167efbf339.png" group-title="Portugal 鉃� Football",PT: ELEVEN SPORTS 5
-http://gamsgo.cyou:8080/SBTV/MHd79ukKzL5wCyDj8NtZeW/1512
-#EXTINF:-1 tvg-id="elevensports6.pt" tvg-name="PT: ELEVEN SPORTS 6" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-09/089df823b4a66ca080d161cdd412ff1b.png" group-title="Portugal 鉃� Football",PT: ELEVEN SPORTS 6
-http://gamsgo.cyou:8080/SBTV/MHd79ukKzL5wCyDj8NtZeW/1515
