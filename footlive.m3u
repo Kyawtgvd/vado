@@ -33,14 +33,6 @@ https://livecdn-iptv002.rumsport.com/stream/71459/index.m3u8?|referer=live-strea
 https://livecdn-iptv002.rumsport.com/stream/2243/index.m3u8?|referer=live-streamfootball.com/
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/b6/Digi_Sport_4_2012.svg/revision/latest/scale-to-width-down/1200?cb=20230203052148" group-title="Football Special⚽", Digi Sport 4
 https://livecdn-iptv002.rumsport.com/stream/4219/index.m3u8?|referer=live-streamfootball.com/
-#EXTINF:-1 tvg-logo="https://www.pcdays.cz/wp-content/uploads/2015/08/ns.jpg" group-title="Football Special⚽", novasport 1 (185)
-http://185.188.188.235/live/novasport1/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://www.pcdays.cz/wp-content/uploads/2015/08/ns.jpg" group-title="Football Special⚽", novasport 2 (185)
-http://185.188.188.235/live/novasport2/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://www.pcdays.cz/wp-content/uploads/2015/08/ns.jpg" group-title="Football Special⚽", novasport 3 (185)
-http://185.188.188.235/live/novasport3/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://www.pcdays.cz/wp-content/uploads/2015/08/ns.jpg" group-title="Football Special⚽", novasport 4 (185)
-http://185.188.188.235/live/novasport4/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/TUDN_Logo.svg/2560px-TUDN_Logo.svg.png" group-title="Football Special⚽", TUDN
 https://livecdn-iptv002.rumsport.com/stream/31784/index.m3u8?|referer=live-streamfootball.com/
 #EXTINF:-1 tvg-logo="https://img01.products.bt.co.uk/content/dam/bt/portal/images/logos/tnt/TNTSports1_Logo_TNTBlack_RGB.png" group-title="Football Special⚽", TNT Sport 1 (sid)
