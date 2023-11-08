@@ -29,6 +29,14 @@ https://s.id/1WcAH
 #EXTINF:-1 tvg-logo="https://www.nicepng.com/png/full/213-2133982_sky-sports-logo-png.png" group-title="Sport", Sky Sport Premier League (sid)
 https://s.id/1WcAe
 
+#EXTINF:-1 tvg-logo="https://www.pcdays.cz/wp-content/uploads/2015/08/ns.jpg" group-title="Football Special⚽", novasport 1 (185)
+http://185.188.188.235/live/novasport1/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://www.pcdays.cz/wp-content/uploads/2015/08/ns.jpg" group-title="Football Special⚽", novasport 2 (185)
+http://185.188.188.235/live/novasport2/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://www.pcdays.cz/wp-content/uploads/2015/08/ns.jpg" group-title="Football Special⚽", novasport 3 (185)
+http://185.188.188.235/live/novasport3/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://www.pcdays.cz/wp-content/uploads/2015/08/ns.jpg" group-title="Football Special⚽", novasport 4 (185)
+http://185.188.188.235/live/novasport4/playlist.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Sport", arena sport 1 (185)
 http://185.188.188.235/live/arenasport1/playlist.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Sport", arena sport 2 (185)
