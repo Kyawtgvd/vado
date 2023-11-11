@@ -15,16 +15,24 @@ https://livecdn-iptv002.rumsport.com/stream/1509/index.m3u8?|referer=live-stream
 https://livecdn-iptv002.rumsport.com/stream/1512/index.m3u8?|referer=live-streamfootball.com/
 #EXTINF:-1 tvg-logo="https://logos-world.net/wp-content/uploads/2023/06/USA-Network-Symbol.png" group-title="Football Special⚽", USA Network 
 https://livecdn-iptv001.rumsport.com/stream/3390/index.m3u8?|referer=live-streamfootball.com/
-#EXTINF:-1 tvg-logo="https://neotel.mk/wp-content/uploads/2021/02/arena_sport_1.png" group-title="Football Special⚽", Arena Sport 1
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-06/28a5988d58871ad37addfecddb8781dd.png" group-title="Football Special⚽", Arena Sport 1
 https://livecdn-iptv002.rumsport.com/stream/193741/index.m3u8?|referer=live-streamfootball.com/
-#EXTINF:-1 tvg-logo="https://neotel.mk/wp-content/uploads/2021/02/arena_sport_2.png" group-title="Football Special⚽", Arena Sport 2
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-01/27a53b708ea0b3ab77447d5acf013093.png" group-title="Football Special⚽", Arena Sport 2
 https://livecdn-iptv002.rumsport.com/stream/171883/index.m3u8?|referer=live-streamfootball.com/
-#EXTINF:-1 tvg-logo="https://neotel.mk/wp-content/uploads/2021/02/arena_sport_3.png" group-title="Football Special⚽", Arena Sport 3 
-https://s.id/1WbAj
-#EXTINF:-1 tvg-logo="https://neotel.mk/wp-content/uploads/2021/02/arena_sport_4.png" group-title="Football Special⚽", Arena Sport 4  
-https://s.id/1WbAn
-#EXTINF:-1 tvg-logo="https://neotel.mk/wp-content/uploads/2021/02/arena_sport_5.png" group-title="Football Special⚽", Arena Sport 5
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/c4084fb33d4ad424d6f069449027760f.png" group-title="Football Special⚽", Arena Sport 3 
+https://livecdn-iptv002.rumsport.com/stream/3463/index.m3u8?|referer=live-streamfootball.com/
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-06/294bde9c094cfed3084c2826c4c620f1.png" group-title="Football Special⚽", Arena Sport 4  
+https://livecdn-iptv002.rumsport.com/stream/3465/index.m3u8?|referer=live-streamfootball.com/
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-11/cf5884cab1ace95e7c47ec405435f0ed.png" group-title="Football Special⚽", Arena Sport 5
 https://livecdn-iptv002.rumsport.com/stream/57711/index.m3u8?|referer=live-streamfootball.com/
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-07/e1141a37c5cfbbf7ce52f4109f89aea4.png" group-title="Football Special⚽", Arena Sport 1x2 (gam)
+http://gamsgo.cyou:8080/SBTV/MHd79ukKzL5wCyDj8NtZeW/296564
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-02/090de75234de847112cba1cece75f848.png" group-title="Football Special⚽", Arena Premium 1 (gam)
+http://gamsgo.cyou:8080/SBTV/MHd79ukKzL5wCyDj8NtZeW/285558
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-04/975c7b2205f06f913fe2a189b15f0b28.png" group-title="Football Special⚽", Arena Premium 2 (gam)
+http://gamsgo.cyou:8080/SBTV/MHd79ukKzL5wCyDj8NtZeW/285559
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-04/bd4b8dcc76204c0d067249a3b62a085d.png" group-title="Football Special⚽", Arena Premium 3 (gam)
+http://gamsgo.cyou:8080/SBTV/MHd79ukKzL5wCyDj8NtZeW/285560
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/tvfanon6528/images/2/20/Digi_Sport_1_%282012-.n.v.%29.png/revision/latest?cb=20180919153840" group-title="Football Special⚽", Digi Sport 1
 https://livecdn-iptv002.rumsport.com/stream/71457/index.m3u8?|referer=live-streamfootball.com/
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/tvfanon6528/images/2/25/Digi_Sport_2_%282012-.n.v.%29.png/revision/latest?cb=20180919154454" group-title="Football Special⚽", Digi Sport 2
@@ -64,17 +72,17 @@ https://livecdn-iptv002.rumsport.com/stream/8959/index.m3u8?|referer=live-stream
 https://livecdn-iptv002.rumsport.com/stream/279612/index.m3u8?|referer=live-streamfootball.com/
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.postimg.cc/2yjjDqdy/IMG-20231018-131656.png" group-title="Sport", TNT Sport 3
 https://livecdn-iptv002.rumsport.com/stream/266775/index.m3u8?|referer=live-streamfootball.com/
-#EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-09/dbe88e53a72f505010f15f778a3fd4c9.png" group-title="Sport", ELEVEN SPORTS 1
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-09/dbe88e53a72f505010f15f778a3fd4c9.png" group-title="Sport", ELEVEN SPORTS 1 (gam)
 http://gamsgo.cyou:8080/SBTV/MHd79ukKzL5wCyDj8NtZeW/1499
-#EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-09/61327badbbea898c7c700b7fe81c55d8.png" group-title="Sport", ELEVEN SPORTS 2
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-09/61327badbbea898c7c700b7fe81c55d8.png" group-title="Sport", ELEVEN SPORTS 2 (gam)
 http://gamsgo.cyou:8080/SBTV/MHd79ukKzL5wCyDj8NtZeW/1503
-#EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-09/b9c02901087946bb37b047d33f24a208.png" group-title="Sport", ELEVEN SPORTS 3
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-09/b9c02901087946bb37b047d33f24a208.png" group-title="Sport", ELEVEN SPORTS 3 (gam)
 http://gamsgo.cyou:8080/SBTV/MHd79ukKzL5wCyDj8NtZeW/1506
-#EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-09/c17ab7ee9a7e3e32117fb1368ffb284c.png" group-title="Sport", ELEVEN SPORTS 4
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-09/c17ab7ee9a7e3e32117fb1368ffb284c.png" group-title="Sport", ELEVEN SPORTS 4 (gam)
 http://gamsgo.cyou:8080/SBTV/MHd79ukKzL5wCyDj8NtZeW/1509
-#EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-09/c5409550875e0e1b4d38c0167efbf339.png" group-title="Sport", ELEVEN SPORTS 5
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-09/c5409550875e0e1b4d38c0167efbf339.png" group-title="Sport", ELEVEN SPORTS 5 (gam)
 http://gamsgo.cyou:8080/SBTV/MHd79ukKzL5wCyDj8NtZeW/1512
-#EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-09/089df823b4a66ca080d161cdd412ff1b.png" group-title="Sport", ELEVEN SPORTS 6
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-09/089df823b4a66ca080d161cdd412ff1b.png" group-title="Sport", ELEVEN SPORTS 6 (gam)
 http://gamsgo.cyou:8080/SBTV/MHd79ukKzL5wCyDj8NtZeW/1515
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://www.lyngsat.com/logo/tv/mm/mizzima-tv-mm.png" group-title="Myanmar Channel", Mizzima Tv
