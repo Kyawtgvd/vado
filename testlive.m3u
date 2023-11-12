@@ -1,19 +1,4 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="" tvg-name="Rayo Vallecano Vs Girona (7:30 PM)" tvg-logo="http://familyiptv.xyz:25461/images/a51f0a5261eedb618f7c49c57aaa0b19.png" group-title="Today Live",Rayo Vallecano Vs Girona (7:30 PM)
-http://familyiptv.xyz:25461/familyhomeiptv/familyhomeiptv/900
-#EXTINF:-1 tvg-id="" tvg-name="Lecce Vs Milan (8:30 PM)" tvg-logo="http://familyiptv.xyz:25461/images/be36aa3be47084a2f1f69da4e84bad2c.png" group-title="Today Live",Lecce Vs Milan (8:30 PM)
-http://familyiptv.xyz:25461/familyhomeiptv/familyhomeiptv/902
-#EXTINF:-1 tvg-id="" tvg-name="Bayern München Vs FC Heidenheim (9:00 PM)" tvg-logo="http://familyiptv.xyz:25461/images/c9c9cfb2582cd8054cf15f32782d1486.png" group-title="Today Live",Bayern München Vs FC Heidenheim (9:00 PM)
-http://familyiptv.xyz:25461/familyhomeiptv/familyhomeiptv/819
-#EXTINF:-1 tvg-id="" tvg-name="VfB Stuttgart Vs Borussia Dortmund (9:00 PM)" tvg-logo="http://familyiptv.xyz:25461/images/1c739e8576f615082f97cb24a499f129.jpg" group-title="Today Live",VfB Stuttgart Vs Borussia Dortmund (9:00 PM)
-http://familyiptv.xyz:25461/familyhomeiptv/familyhomeiptv/820
-#EXTINF:-1 tvg-id="" tvg-name="Almeria Vs Real Sociedad (9:45 PM)" tvg-logo="http://familyiptv.xyz:25461/images/f0f29cf6896bc967110953a8fdd0aa8a.jpg" group-title="Today Live",Almeria Vs Real Sociedad (9:45 PM)
-http://familyiptv.xyz:25461/familyhomeiptv/familyhomeiptv/901
-#EXTINF:-1 tvg-id="" tvg-name="Reims Vs Paris Saint-Germain (10:30 PM)" tvg-logo="http://familyiptv.xyz:25461/images/ca52c260a2e53f3aaf4e619c609ebf72.jpg" group-title="Today Live",Reims Vs Paris Saint-Germain (10:30 PM)
-http://familyiptv.xyz:25461/familyhomeiptv/familyhomeiptv/817
-#EXTINF:-1 tvg-id="" tvg-name="Juventus Vs Cagliari (11:30 PM)" tvg-logo="http://familyiptv.xyz:25461/images/9bbf5e0e944a0e1710df2fc73d601417.jpg" group-title="Today Live",Juventus Vs Cagliari (11:30 PM)
-http://familyiptv.xyz:25461/familyhomeiptv/familyhomeiptv/818
-
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/ef/Arena_Sport_1_%282019%2C_short%29.svg/revision/latest/scale-to-width-down/250?cb=20221111214150" group-title="Sport", Arena Sport 1 (sid)
 https://s.id/1WcB6
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/b1/Arena_Sport_2_%282019%2C_short%29.svg/revision/latest/scale-to-width-down/250?cb=20221111214150" group-title="Sport", Arena Sport 2 (sid)
