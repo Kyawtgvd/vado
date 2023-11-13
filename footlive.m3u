@@ -35,6 +35,22 @@ https://livecdn-iptv002.rumsport.com/stream/2243/index.m3u8?|referer=live-stream
 https://livecdn-iptv002.rumsport.com/stream/4219/index.m3u8?|referer=live-streamfootball.com/
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/TUDN_Logo.svg/2560px-TUDN_Logo.svg.png" group-title="Football Special⚽", TUDN
 https://livecdn-iptv002.rumsport.com/stream/31784/index.m3u8?|referer=live-streamfootball.com/
+#EXTINF:-1 tvg-logo="https://www.stream-link.org/tv_logo/bein_sports.png" group-title="Football Special⚽", Bein Sport 1
+https://sc2022.stream-link.org/tv2306.php?id=s15
+#EXTINF:-1 tvg-logo="https://www.stream-link.org/tv_logo/bein_sports2.png" group-title="Football Special⚽", Bein Sport 2
+https://sc2022.stream-link.org/tv2306.php?id=s16
+#EXTINF:-1 tvg-logo="https://www.stream-link.org/tv_logo/bein_sports3.png" group-title="Football Special⚽", Bein Sport 3
+https://sc2022.stream-link.org/tv2306.php?id=s17
+#EXTINF:-1 tvg-logo="https://www.stream-link.org/tv_logo/bein_sports4.png" group-title="Football Special⚽", Bein Sport 4
+https://sc2022.stream-link.org/tv2306.php?id=s18
+#EXTINF:-1 tvg-logo="https://www.stream-link.org/tv_logo/astro_supersport.png" group-title="Football Special⚽", Astro SUPERSPORT 1
+https://sc2022.stream-link.org/tv2306.php?id=s19
+#EXTINF:-1 tvg-logo="https://www.stream-link.org/tv_logo/astro_supersport2.png" group-title="Football Special⚽", Astro SUPERSPORT 2
+https://sc2022.stream-link.org/tv2306.php?id=s20
+#EXTINF:-1 tvg-logo="https://www.stream-link.org/tv_logo/astro_supersport3.png" group-title="Football Special⚽", Astro SUPERSPORT 3
+https://sc2022.stream-link.org/tv2306.php?id=s21
+#EXTINF:-1 tvg-logo="https://www.stream-link.org/tv_logo/astro_supersport4.png" group-title="Football Special⚽", Astro SUPERSPORT 4
+https://sc2022.stream-link.org/tv2306.php?id=s22
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/1a/Canal%2B_Sport_2015.png" group-title="Sport", Canal+ Sport 
 https://livecdn-iptv003.rumsport.com/stream/69426/index.m3u8?|referer=live-streamfootball.com/
@@ -108,6 +124,8 @@ https://ctrl.laotv.la/live/HBO/index.m3u8
 https://ctrl.laotv.la/live/Cinemax/index.m3u8
 #EXTINF:-1 tvg-logo="https://www.adgully.com/img/800/201908/star_movies-logo_3.png.jpg" group-title="International Channel", Star Movie
 http://ctrl.laotv.la/live/StarMovie/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Fight_network_logo.svg/1200px-Fight_network_logo.svg.png" group-title="International Channel", Fight Network 
+https://d12a2vxqkkh1bo.cloudfront.net/hls/main.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="Afwaah (2023)" tvg-logo="http://familyiptv.xyz:25461/images/e309493538cabfcc52ea8b94a0bfc2ac.jpg" group-title="Bollowood ",Afwaah (2023)
 http://familyiptv.xyz:25461/movie/familyhomeiptv/familyhomeiptv/14.mp4
