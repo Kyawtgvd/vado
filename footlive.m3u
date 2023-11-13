@@ -98,6 +98,17 @@ http://203.81.84.130/hls/mwd_family/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/RhLH43Mk/IMG-20231018-104456.png" group-title="Myanmar Channel", Myanmar Music
 https://l1-xl1.myanmarnet.com/relay/music/ch1/stream_hi/index.m3u8
 
+#EXTINF:-1 tvg-logo="https://cdn.hqth.me/logo/thumbs/204.png" group-title="International Channel", Discovery
+https://ctrl.laotv.la/live/Discovery/index.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.hqth.me/logo/thumbs/203.png" group-title="International Channel", Animal Planet
+http://ctrl.laotv.la/live/AnimalPlanet/index.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.hqth.me/logo/thumbs/185.png" group-title="International Channel", HBO
+https://ctrl.laotv.la/live/HBO/index.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.hqth.me/logo/thumbs/186.png" group-title="International Channel", Cinemax 
+https://ctrl.laotv.la/live/Cinemax/index.m3u8
+#EXTINF:-1 tvg-logo="https://www.adgully.com/img/800/201908/star_movies-logo_3.png.jpg" group-title="International Channel", Star Movie
+http://ctrl.laotv.la/live/StarMovie/index.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="Afwaah (2023)" tvg-logo="http://familyiptv.xyz:25461/images/e309493538cabfcc52ea8b94a0bfc2ac.jpg" group-title="Bollowood ",Afwaah (2023)
 http://familyiptv.xyz:25461/movie/familyhomeiptv/familyhomeiptv/14.mp4
 #EXTINF:-1 tvg-id="" tvg-name="1920: Horrors of the Heart (2023)" tvg-logo="http://familyiptv.xyz:25461/images/60e0cd2932729901a9a97b61554f61e6.jpg" group-title="Bollowood ",1920: Horrors of the Heart (2023)
