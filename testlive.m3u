@@ -18,17 +18,6 @@ https://livecdn-iptv002.rumsport.com/stream/281536/index.m3u8?|referer=live-stre
 #EXTINF:-1 tvg-logo="" group-title="Sport", Supersport psl 
 https://livecdn-iptv002.rumsport.com/stream/11643/index.m3u8?|referer=live-streamfootball.com/
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://www.lyngsat.com/logo/tv/tt/true-premiere-football-hd-1-th.png" group-title="Football", True EPL1
-https://ctrl.laotv.la/live/TSport1/index.m3u8
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://www.lyngsat.com/logo/tv/tt/true-premiere-football-hd-2-th.png" group-title="Football", True EPL2
-https://ctrl.laotv.la/live/TSport2/index.m3u8
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://www.lyngsat.com/logo/tv/ss/sports-18-in.png" group-title="Football", jio Sport18
-https://prod-ent-live-gm.jiocinema.com/bpk-tv/Sports18_1_HD_voot_MOB/Fallback/index.m3u8
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.postimg.cc/ydbYX64b/IMG-20231018-131209.png" group-title="Football", BEIN SPORT 1 THAI
-https://ctrl.laotv.la/live/Bsport1/index.m3u8
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.postimg.cc/ydbYX64b/IMG-20231018-131209.png" group-title="Football", BEIN SPORT 2 THAI
-https://ctrl.laotv.la/live/Bsport2/index.m3u8
-
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://ui.dmpcdn.com/tvbox-web-cdn/imgs/channels/channel-true-pml-hd1.webp" group-title="SPORTS", True Premier 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 https://sport.livedoomovies.com:4432/02_PremierHD1_720p/chunklist.m3u8|referer=https://oneplayer.online/
