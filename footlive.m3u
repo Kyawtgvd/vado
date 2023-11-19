@@ -1,7 +1,7 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://ui.dmpcdn.com/tvbox-web-cdn/imgs/channels/channel-true-pml-hd1.webp" group-title="Football Special⚽", True Premier 1 
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/tt/true-premiere-football-hd-1-th.png" group-title="Football Special⚽", True Premier 1 
 https://edge1.laotv.la/live/TSport1/index.m3u8
-#EXTINF:-1 tvg-logo="https://ui.dmpcdn.com/tvbox-web-cdn/imgs/channels/channel-true-pml-hd1.webp" group-title="Football Special⚽", True Premier 2 
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/tt/true-premiere-football-hd-2-th.png" group-title="Football Special⚽", True Premier 2 
 https://edge1.laotv.la/live/TSport2/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/FsQFSPnW/23454629-ico-copy-300x200.png" group-title="Football Special⚽", Canal+ Sport 1
 http://bananatv.org:25461/play/ndboWqziHLi7iwyvMEWnSFwZobTE0438wpsuL2IE1eg/ts
