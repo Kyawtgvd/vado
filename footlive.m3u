@@ -97,9 +97,9 @@ http://183.89.246.119:8881/play/a0ap/index.m3u8
 #EXTINF:-1 tvg-logo="https://www.myanmartvchannels.com/assets/cache/images/channeliconb/mahar-80x80-1ee.jpg" group-title="Myanmar Channel", Mahar
 https://tv.mahar.live/mahar/website.stream/mahar/website1/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://www.myanmartvchannels.com/assets/cache/images/channeliconb/mrtv42-80x80-83b.jpg" group-title="Myanmar Channel", MRTV 4
-http://183.89.246.119:8881/play/a07u/index.m3u8
+https://pp-live.b-cdn.net/bcdn_token=l57eMdYRo4jZ3GxjrIK_wf0tdOM-SxlYFhWNqWgx--Y&expires=1700459643&token_path=%2FLiveApp%2F/LiveApp/streams/w3g3EYjBtqgJ1677679288037.m3u8
 #EXTINF:-1 tvg-logo="https://www.myanmartvchannels.com/assets/cache/images/channeliconb/channel7-80x80-83b.jpg" group-title="Myanmar Channel", Channel 7
-http://183.89.246.119:8881/play/a07v/index.m3u8
+https://pp-live.b-cdn.net/bcdn_token=8brYVT7Sr5dy2CjD2Eni0KmY6N3T4M9CdmZtfJZqdo8&expires=1700459683&token_path=%2FLiveApp%2F/LiveApp/streams/GZ7f8XBrt4dI1677679357590.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/BvjZvWnM/IMG-20231018-104249.png" group-title="Myanmar Channel", Channel 9
 http://183.89.246.119:8881/play/a07y/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/0298wKN6/IMG-20231018-103909.png" group-title="Myanmar Channel", Channel K
@@ -111,7 +111,7 @@ http://183.89.246.119:8881/play/a081/index.m3u8
 #EXTINF:-1 tvg-logo="https://www.myanmartvchannels.com/assets/cache/images/channeliconb/fortune-80x80-0b5.jpg" group-title="Myanmar Channel", Fortune Tv
 http://183.89.246.119:8881/play/a082/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/wvs58TRz/IMG-20231018-104308.png" group-title="Myanmar Channel", 5 Plus
-http://183.89.246.119:8881/play/a07w/index.m3u8
+https://5a13fe32ef748.streamlock.net/mmplay/5plus/chunklist_w285694410.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvMjAvMjAyMyA0OjU5OjAxIEFNJmhhc2hfdmFsdWU9WGd2TFFOUGN0bUo5a29rYnV3aEg2Zz09JnZhbGlkbWludXRlcz02MCZzdHJtX2xlbj0xMg%3D%3D
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/GpHqMr4y/IMG-20231018-134533.png" group-title="Myanmar Channel", MCS
 https://l1-xl1.myanmarnet.com/relay2/mcs/ch1/stream_standard/index.m3u8
 #EXTINF:-1 tvg-logo="https://www.myanmartvchannels.com/assets/images/channeliconb/mitv.jpg" group-title="Myanmar Channel", MITV
