@@ -1,12 +1,8 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/E-gRk2_szNg/sddefault.jpg?v=6558d301" group-title="⚽Today Live⚽ Nov 20", Spain Vs Japan U17 World Cup (6:30pm)
-https://pull.niues.live/live/stream-259576_lhd.m3u8?auth_key=1700484106-0-0-00a56e17336a270b86f8582d95de5448
-#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/E-gRk2_szNg/sddefault.jpg?v=6558d301" group-title="⚽Today Live⚽ Nov 20", Spain Vs Japan U17 World Cup (6:30pm)
-https://play1nm.hnyongshun.cn/live/sd-k82rekhwo12drep.m3u8
 #EXTINF:-1 tvg-logo="https://api.sofascore.app/api/v1/event/11797943/share-image/16x9" group-title="⚽Today Live⚽ Nov 20", Gambia Vs Ivory Coast (10:30pm)
-https://hls.streambtw.com/live/stream_3.m3u8
+https://webudit.hlsjs.ru/lb/premium49/index.m3u8?|referer=weblivehdplay.ru/
 #EXTINF:-1 tvg-logo="https://img.freepik.com/premium-vector/north-macedonia-vs-england-icon-european-football-tournament-qualification-group-c_292608-29627.jpg" group-title="⚽Today Live⚽ Nov 20", North Macedonia Vs England (2:15am)
-https://hls.streambtw.com/live/stream_2.m3u8
+https://hls.streambtw.com/live/stream_1.m3u8
 #EXTINF:-1 tvg-logo="https://img.freepik.com/premium-vector/ukraine-vs-italy-icon-european-football-tournament-qualification-group-c_292608-29628.jpg" group-title="⚽Today Live⚽ Nov 20", Ukraine Vs Italy (2:15am)
 https://hls.streambtw.com/live/stream_2.m3u8
 
