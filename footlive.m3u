@@ -1,12 +1,12 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://img.freepik.com/premium-vector/azerbaijan-vs-belgium-icon-european-football-tournament-qualification-group-f_292608-29474.jpg" group-title="⚽Today Live⚽", Belgium Vs Azerbaijan (11:30)
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/E-gRk2_szNg/sddefault.jpg?v=6558d301" group-title="⚽Today Live⚽ Nov 20", Spain Vs Japan U17 World Cup (6:30pm)
 https://hls.streambtw.com/live/stream_1.m3u8
-#EXTINF:-1 tvg-logo="https://www.shutterstock.com/shutterstock/photos/2303623715/display_1500/stock-vector-sweden-vs-estonia-icon-for-european-football-tournament-qualification-group-f-competition-icon-on-2303623715.jpg" group-title="⚽Today Live⚽", Sweden Vs Estonia (11:30)
-https://hls.streambtw.com/live/stream_2.m3u8
-#EXTINF:-1 tvg-logo="https://static.vecteezy.com/system/resources/previews/021/799/006/original/georgia-vs-spain-icon-for-european-football-tournament-qualification-group-a-vector.jpg" group-title="⚽Today Live⚽", Spain Vs Georgia (2:15)
-https://hls.streambtw.com/live/stream_2.m3u8
-#EXTINF:-1 tvg-logo="https://static.vecteezy.com/system/resources/previews/021/798/821/original/iceland-vs-portugal-icon-for-european-football-tournament-qualification-group-j-vector.jpg" group-title="⚽Today Live⚽", Portugal Vs Iceland (2:15)
+#EXTINF:-1 tvg-logo="https://api.sofascore.app/api/v1/event/11797943/share-image/16x9" group-title="⚽Today Live⚽ Nov 20", Gambia Vs Ivory Coast (10:30pm)
 https://hls.streambtw.com/live/stream_3.m3u8
+#EXTINF:-1 tvg-logo="https://img.freepik.com/premium-vector/north-macedonia-vs-england-icon-european-football-tournament-qualification-group-c_292608-29627.jpg" group-title="⚽Today Live⚽ Nov 20", North Macedonia Vs England (2:15am)
+https://hls.streambtw.com/live/stream_2.m3u8
+#EXTINF:-1 tvg-logo="https://img.freepik.com/premium-vector/ukraine-vs-italy-icon-european-football-tournament-qualification-group-c_292608-29628.jpg" group-title="⚽Today Live⚽ Nov 20", Ukraine Vs Italy (2:15am)
+https://hls.streambtw.com/live/stream_2.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/tt/true-premiere-football-hd-1-th.png" group-title="Football Special⚽", True Premier 1 
 https://edge1.laotv.la/live/TSport1/index.m3u8
