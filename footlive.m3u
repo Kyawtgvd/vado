@@ -1,10 +1,8 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://cdn.thestatszone.com/uploads/thumbnails/_r169l/AFCWorldCupQualifying_Myanmar_Vs_DPR_Korea.jpg" group-title="⚽Today Live⚽ Nov 21", Myanmar Vs North Korea (4:00pm)
-https://acdn.p2pcdn.xyz/xoilac/channel10.m3u8?auth_key=3000001700558530-0-0-ab983cfc9a9271d465e5b6c378273bd4
-#EXTINF:-1 tvg-logo="https://cdn.thestatszone.com/uploads/thumbnails/_r169l/AFCWorldCupQualifying_Myanmar_Vs_DPR_Korea.jpg" group-title="⚽Today Live⚽ Nov 21", Myanmar Vs North Korea (4:00pm)
-https://pull.niues.live/live/stream-9912064_lhd.m3u8?auth_key=1700562166-0-0-d97fdb92337d4883132292c0b27426f3
 #EXTINF:-1 tvg-logo="https://thumbnails.cbsig.net/CBS_Production_Entertainment_VMS/2022/01/24/1995791427671/AFCWAC_MATCH_THUMB_China-v-Korea-Republic_1167022_1920x1080.jpg" group-title="⚽Today Live⚽ Nov 21", China Vs South Korea (6:30pm)
-https://hls.streambtw.com/live/stream_1.m3u8
+https://pull.niues.live/live/stream-9911977_lhd.m3u8?auth_key=1700571167-0-0-24d34c7237ff6181064d24f2590ec4c9
+#EXTINF:-1 tvg-logo="https://thumbnails.cbsig.net/CBS_Production_Entertainment_VMS/2022/01/24/1995791427671/AFCWAC_MATCH_THUMB_China-v-Korea-Republic_1167022_1920x1080.jpg" group-title="⚽Today Live⚽ Nov 21", China Vs South Korea (6:30pm) with Mx player
+https://acdn.p2pcdn.xyz/xoilac/channel2.m3u8?auth_key=3000001700566028-0-0-5de9edc8eac89ca80ccbfecc91b36672
 #EXTINF:-1 tvg-logo="https://leaguelane.com/wp-content/uploads/2023/11/Syria-vs-Japan-World-Cup-Qualifiers-Prediction-by-LeagueLane.webp" group-title="⚽Today Live⚽ Nov 21", Syria Vs Japan (9:15pm)
 https://hls.streambtw.com/live/stream_2.m3u8
 
