@@ -1,11 +1,4 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://api.sofascore.app/api/v1/event/11797943/share-image/16x9" group-title="⚽Today Live⚽ Nov 20", Gambia Vs Ivory Coast (10:30pm)
-https://livecdn.rumsport.com/stream/14/chunks.m3u8?token=237cf7ba5e9528fe8079ea8dfeb02496ea7bf579&is_vip=false&verify=1700498160-Gqg9BH%2FvsaGtOaHLjnV5KuhH8h0%2BCflS5BN90HZ9n6E%3D|referer=https://live-streamfootball.com/
-#EXTINF:-1 tvg-logo="https://img.freepik.com/premium-vector/north-macedonia-vs-england-icon-european-football-tournament-qualification-group-c_292608-29627.jpg" group-title="⚽Today Live⚽ Nov 20", North Macedonia Vs England (2:15am)
-https://hls.streambtw.com/live/stream_1.m3u8
-#EXTINF:-1 tvg-logo="https://img.freepik.com/premium-vector/ukraine-vs-italy-icon-european-football-tournament-qualification-group-c_292608-29628.jpg" group-title="⚽Today Live⚽ Nov 20", Ukraine Vs Italy (2:15am)
-https://hls.streambtw.com/live/stream_2.m3u8
-
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/tt/true-premiere-football-hd-1-th.png" group-title="Football Special⚽", True Premier 1 
 https://edge1.laotv.la/live/TSport1/index.m3u8
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/tt/true-premiere-football-hd-2-th.png" group-title="Football Special⚽", True Premier 2 
