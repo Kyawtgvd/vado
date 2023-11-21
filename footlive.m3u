@@ -1,10 +1,14 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://thumbnails.cbsig.net/CBS_Production_Entertainment_VMS/2022/01/24/1995791427671/AFCWAC_MATCH_THUMB_China-v-Korea-Republic_1167022_1920x1080.jpg" group-title="⚽Today Live⚽ Nov 21", China Vs South Korea (6:30pm)
-https://pull.niues.live/live/stream-9911977_lhd.m3u8?auth_key=1700571167-0-0-24d34c7237ff6181064d24f2590ec4c9
-#EXTINF:-1 tvg-logo="https://thumbnails.cbsig.net/CBS_Production_Entertainment_VMS/2022/01/24/1995791427671/AFCWAC_MATCH_THUMB_China-v-Korea-Republic_1167022_1920x1080.jpg" group-title="⚽Today Live⚽ Nov 21", China Vs South Korea (6:30pm) with Mx player
-https://acdn.p2pcdn.xyz/xoilac/channel2.m3u8?auth_key=3000001700566028-0-0-5de9edc8eac89ca80ccbfecc91b36672
 #EXTINF:-1 tvg-logo="https://leaguelane.com/wp-content/uploads/2023/11/Syria-vs-Japan-World-Cup-Qualifiers-Prediction-by-LeagueLane.webp" group-title="⚽Today Live⚽ Nov 21", Syria Vs Japan (9:15pm)
-https://hls.streambtw.com/live/stream_2.m3u8
+https://pull.niues.live/live/stream-9912060_lhd.m3u8?auth_key=1700577767-0-0-c5a1dafed9837ec4bb7a80d1c31e1f51
+#EXTINF:-1 tvg-logo="https://static.vecteezy.com/system/resources/previews/021/799/030/original/greece-vs-france-icon-for-european-football-tournament-qualification-group-b-vector.jpg" group-title="⚽Today Live⚽ Nov 21", Greece Vs France (2:15pm)
+https://hls.streambtw.com/live/stream_1.m3u8
+#EXTINF:-1 tvg-logo="https://img.freepik.com/premium-vector/romania-vs-switzerland-icon-european-football-tournament-qualification-group-i_292608-29608.jpg" group-title="⚽Today Live⚽ Nov 21", Romania Vs Switzerland (2:15pm)
+https://hls.streambtw.com/live/stream_5.m3u8
+#EXTINF:-1 tvg-logo="https://media.istockphoto.com/id/648596022/photo/brazil-vs-argentina-flags-on-soccer-field.jpg?s=612x612&w=0&k=20&c=v0jR0iOITwvusYucx7-q-56VVLwhMMFx7alTNMrt6fE=" group-title="⚽Today Live⚽ Nov 21", Brazil Vs Argentina (22ရက်နေ့ မနက်၇းဝဝ) ကမ္ဘာ့ဖလားခြေစစ်ပွဲ
+https://usa.raino.site/hls/stream13.m3u8?|Referer=https://bdnewszh.com/
+#EXTINF:-1 tvg-logo="https://media.istockphoto.com/id/648596022/photo/brazil-vs-argentina-flags-on-soccer-field.jpg?s=612x612&w=0&k=20&c=v0jR0iOITwvusYucx7-q-56VVLwhMMFx7alTNMrt6fE=" group-title="⚽Today Live⚽ Nov 21", Brazil Vs Argentina (22ရက်နေ့ မနက်၇းဝဝ) ကမ္ဘာ့ဖလားခြေစစ်ပွဲ
+https://sc2022.stream-link.org/tv2306.php?id=s21
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/tt/true-premiere-football-hd-1-th.png" group-title="Football Special⚽", True Premier 1 
 https://edge1.laotv.la/live/TSport1/index.m3u8
