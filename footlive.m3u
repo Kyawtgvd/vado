@@ -81,32 +81,22 @@ https://nl.score911.cc/fr_rmcsport1/index.m3u8?|referer=https://aesport.tv/
 #EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-06/a543a1274e30e7a0225d06882c0a5f5c.png" group-title="Sport", RMC SPORT 2 (need vpn)
 https://nl.score911.cc/fr_rmcsport2/index.m3u8?|referer=https://aesport.tv/
 
-#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/mm/mizzima-tv-mm.png" group-title="Myanmar Channel", Mizzima Tv
-http://183.89.246.119:8881/play/a0ao/index.m3u8
-#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/mm/mizzima-plus-mm.png" group-title="Myanmar Channel", Mizzima Tv+
-http://183.89.246.119:8881/play/a0ap/index.m3u8
 #EXTINF:-1 tvg-logo="https://www.myanmartvchannels.com/assets/cache/images/channeliconb/mahar-80x80-1ee.jpg" group-title="Myanmar Channel", Mahar
 https://tv.mahar.live/mahar/website.stream/mahar/website1/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://www.myanmartvchannels.com/assets/cache/images/channeliconb/mrtv42-80x80-83b.jpg" group-title="Myanmar Channel", MRTV 4
-https://pp-live.b-cdn.net/bcdn_token=l57eMdYRo4jZ3GxjrIK_wf0tdOM-SxlYFhWNqWgx--Y&expires=1700459643&token_path=%2FLiveApp%2F/LiveApp/streams/w3g3EYjBtqgJ1677679288037.m3u8
+https://5a13fe32ef748.streamlock.net/mmplay/mrtv-4/chunklist_w1513816508.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvMjIvMjAyMyA1OjQ0OjEyIEFNJmhhc2hfdmFsdWU9c3dLb2tNbTByTWYzbnc3ajQyNWlCQT09JnZhbGlkbWludXRlcz02MCZzdHJtX2xlbj0xMw%3D%3D
 #EXTINF:-1 tvg-logo="https://www.myanmartvchannels.com/assets/cache/images/channeliconb/channel7-80x80-83b.jpg" group-title="Myanmar Channel", Channel 7
-https://pp-live.b-cdn.net/bcdn_token=8brYVT7Sr5dy2CjD2Eni0KmY6N3T4M9CdmZtfJZqdo8&expires=1700459683&token_path=%2FLiveApp%2F/LiveApp/streams/GZ7f8XBrt4dI1677679357590.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/BvjZvWnM/IMG-20231018-104249.png" group-title="Myanmar Channel", Channel 9
-http://183.89.246.119:8881/play/a07y/index.m3u8
+https://5a13fe32ef748.streamlock.net/mmplay/channel7/chunklist_w788186825.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvMjIvMjAyMyA1OjQ2OjEzIEFNJmhhc2hfdmFsdWU9T3krYU5FZzBYTzhaaUVJRGU4a1lJQT09JnZhbGlkbWludXRlcz02MCZzdHJtX2xlbj0xNQ%3D%3D
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/0298wKN6/IMG-20231018-103909.png" group-title="Myanmar Channel", Channel K
 https://l1-xl1.myanmarnet.com/relay/channelk/ch1/stream_hi/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/7Y1VZ6sY/IMG-20231018-104401.png" group-title="Myanmar Channel", Channel Me
-http://183.89.246.119:8881/play/a07t/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/HWqZLFT3/IMG-20231018-104337.png" group-title="Myanmar Channel", YTV
-http://183.89.246.119:8881/play/a081/index.m3u8
-#EXTINF:-1 tvg-logo="https://www.myanmartvchannels.com/assets/cache/images/channeliconb/fortune-80x80-0b5.jpg" group-title="Myanmar Channel", Fortune Tv
-http://183.89.246.119:8881/play/a082/index.m3u8
+https://5a13fe32ef748.streamlock.net/mmplay/mrtv-entertainment/chunklist_w1539429115.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvMjIvMjAyMyA1OjUxOjIyIEFNJmhhc2hfdmFsdWU9dS9GMTE2RXJiQjBQWUM2SkdwcUJXQT09JnZhbGlkbWludXRlcz02MCZzdHJtX2xlbj0yNQ%3D%3D
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/wvs58TRz/IMG-20231018-104308.png" group-title="Myanmar Channel", 5 Plus
 https://5a13fe32ef748.streamlock.net/mmplay/5plus/chunklist_w285694410.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvMjAvMjAyMyA0OjU5OjAxIEFNJmhhc2hfdmFsdWU9WGd2TFFOUGN0bUo5a29rYnV3aEg2Zz09JnZhbGlkbWludXRlcz02MCZzdHJtX2xlbj0xMg%3D%3D
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/GpHqMr4y/IMG-20231018-134533.png" group-title="Myanmar Channel", MCS
 https://l1-xl1.myanmarnet.com/relay2/mcs/ch1/stream_standard/index.m3u8
 #EXTINF:-1 tvg-logo="https://www.myanmartvchannels.com/assets/images/channeliconb/mitv.jpg" group-title="Myanmar Channel", MITV
-http://183.89.246.119:8881/play/a07r/index.m3u8
+https://5a13fe32ef748.streamlock.net/mmplay/mitv/chunklist_w1672698838.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvMjIvMjAyMyA1OjUzOjU1IEFNJmhhc2hfdmFsdWU9SHdmQVJ3a0NBK0pTcjRiK3lEVFgyZz09JnZhbGlkbWludXRlcz02MCZzdHJtX2xlbj0xMQ%3D%3D
 #EXTINF:-1 tvg-logo="https://www.myanmartvchannels.com/assets/cache/images/channeliconb/mntv-120x120-dda.jpg" group-title="Myanmar Channel", MNTV
 https://l1-xl1.myanmarnet.com/relay/mntv/ch1/stream.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/VvR9mxkb/Picsart-22-11-20-15-21-13-205.png" group-title="Myanmar Channel",TVM
