@@ -14,10 +14,30 @@ https://sport.livedoomovies.com:4432/02_PremierHD4_720p/chunklist.m3u8|referer=h
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://ui.dmpcdn.com/tvbox-web-cdn/imgs/channels/channel-true-pml-hd5.webp" group-title="SPORTS", True Premier 5
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 https://sport.livedoomovies.com:4432/02_PremierHD5_720p/chunklist.m3u8|referer=https://oneplayer.online/
+#EXTINF:-1 tvg-logo="" group-title="SPORTS",Sony TEN 1 HD 
+https://dai.google.com/linear/hls/event/wG75n5U8RrOKiFzaWObXbA/master.m3u8 
+#EXTINF:-1 tvg-logo="" group-title="SPORTS",Sony TEN 2 HD 
+https://dai.google.com/linear/hls/event/V9h-iyOxRiGp41ppQScDSQ/master.m3u8 
+#EXTINF:-1 tvg-logo="" group-title="SPORTS",Sony TEN 3 HD 
+https://dai.google.com/linear/hls/event/ltsCG7TBSCSDmyq0rQtvSA/master.m3u8 
+#EXTINF:-1 tvg-logo="" group-title="SPORTS",Sony TEN 4 HD 
+https://pubads.g.doubleclick.net/ssai/event/tNzcW2ZhTVaViggo5ocI-A/master.m3u8 
+#EXTINF:-1 tvg-logo="" group-title="SPORTS",Sony TEN 5 HD 
+https://dai.google.com/linear/hls/event/Sle_TR8rQIuZHWzshEXYjQ/master.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/2yjjDqdy/IMG-20231018-131656.png" group-title="SPORTS",tntsport1
+https://glxlmn026c.singularcdn.net.br/playout_01/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/2yjjDqdy/IMG-20231018-131656.png" group-title="SPORTS",tntsport2
+https://glxlmn026c.singularcdn.net.br/playout_02/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/2yjjDqdy/IMG-20231018-131656.png" group-title="SPORTS",tntsport3
+https://glxlmn026c.singularcdn.net.br/playout_03/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/2yjjDqdy/IMG-20231018-131656.png" group-title="SPORTS",tntspot4
+https://glxlmn026c.singularcdn.net.br/playout_04/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://songslover.me/wp-content/uploads/Sky-Sports-Main-Event.png" group-title="Sport", Sky Sport Main Event (need vpn)
+#EXTINF:-1 tvg-logo="https://logos-world.net/wp-content/uploads/2023/06/USA-Network-Symbol.png" group-title="Sport", USA Network (need vpn)
+https://us.score911.cc/us_usa/index.m3u8?|referer=https://aesport.tv/
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-11/367ea46b760bdd8955db180204300052.png" group-title="Sport", Sky Sport Main Event (need vpn)
 https://nl.score911.cc/uk_ssmain/index.m3u8?|referer=https://aesport.tv/
-#EXTINF:-1 tvg-logo="https://www.nicepng.com/png/full/213-2133982_sky-sports-logo-png.png" group-title="Sport", Sky Sport Premier League (need vpn)
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-05/09bb1aded27d31530f3939146dffbc0c.png" group-title="Sport", Sky Sport Premier League (need vpn)
 https://nl.score911.cc/uk_ssepl/index.m3u8?|referer=https://aesport.tv/
 #EXTINF:-1 tvg-logo="https://media.info/i/lf/0/1507600241/6752.png" group-title="Sport", Sky Sport Football (need vpn)
 https://nl.score911.cc/uk_ssfb/index.m3u8?|referer=https://aesport.tv/
@@ -39,8 +59,6 @@ https://nl.score911.cc/pt_sporttv1/index.m3u8?|referer=https://aesport.tv/
 https://nl.score911.cc/pt_sporttv2/index.m3u8?|referer=https://aesport.tv/
 #EXTINF:-1 tvg-logo="http://alpha.enjoysat.biz/Logos/sporttv3.png" group-title="Sport", Sport Tv 3 (need vpn)
 https://nl.score911.cc/pt_sporttv3/index.m3u8?|referer=https://aesport.tv/
-#EXTINF:-1 tvg-logo="https://logos-world.net/wp-content/uploads/2023/06/USA-Network-Symbol.png" group-title="Sport", USA Network (need vpn)
-https://us.score911.cc/us_usa/index.m3u8?|referer=https://aesport.tv/
 #EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-06/1cad6854257abb1574eb6e54efcdc7d5.png" group-title="Sport", RMC SPORT 1 (need vpn)
 https://nl.score911.cc/fr_rmcsport1/index.m3u8?|referer=https://aesport.tv/
 #EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-06/a543a1274e30e7a0225d06882c0a5f5c.png" group-title="Sport", RMC SPORT 2 (need vpn)
