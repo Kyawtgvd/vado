@@ -1,23 +1,4 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="" group-title="Sport", Supersport football 
-https://livecdn-iptv002.rumsport.com/stream/38575/index.m3u8?|referer=live-streamfootball.com/
-#EXTINF:-1 tvg-logo="" group-title="Sport", Supersport variety1 
-https://livecdn-iptv002.rumsport.com/stream/11633/index.m3u8?|referer=live-streamfootball.com/
-#EXTINF:-1 tvg-logo="" group-title="Sport", Supersport variety2 
-https://livecdn-iptv002.rumsport.com/stream/11634/index.m3u8?|referer=live-streamfootball.com/
-#EXTINF:-1 tvg-logo="" group-title="Sport", Supersport variety3 
-https://livecdn-iptv002.rumsport.com/stream/11635/index.m3u8?|referer=live-streamfootball.com/
-#EXTINF:-1 tvg-logo="" group-title="Sport", Supersport variety4 
-https://livecdn-iptv002.rumsport.com/stream/11636/index.m3u8?|referer=live-streamfootball.com/
-#EXTINF:-1 tvg-logo="" group-title="Sport", Supersport maximo 
-https://livecdn-iptv002.rumsport.com/stream/38572/index.m3u8?|referer=live-streamfootball.com/
-#EXTINF:-1 tvg-logo="" group-title="Sport", Supersport premier league 
-https://livecdn-iptv002.rumsport.com/stream/11642/index.m3u8?|referer=live-streamfootball.com/
-#EXTINF:-1 tvg-logo="" group-title="Sport", Supersport blitz 
-https://livecdn-iptv002.rumsport.com/stream/281536/index.m3u8?|referer=live-streamfootball.com/
-#EXTINF:-1 tvg-logo="" group-title="Sport", Supersport psl 
-https://livecdn-iptv002.rumsport.com/stream/11643/index.m3u8?|referer=live-streamfootball.com/
-
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://ui.dmpcdn.com/tvbox-web-cdn/imgs/channels/channel-true-pml-hd1.webp" group-title="SPORTS", True Premier 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 https://sport.livedoomovies.com:4432/02_PremierHD1_720p/chunklist.m3u8|referer=https://oneplayer.online/
@@ -33,60 +14,3 @@ https://sport.livedoomovies.com:4432/02_PremierHD4_720p/chunklist.m3u8|referer=h
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://ui.dmpcdn.com/tvbox-web-cdn/imgs/channels/channel-true-pml-hd5.webp" group-title="SPORTS", True Premier 5
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 https://sport.livedoomovies.com:4432/02_PremierHD5_720p/chunklist.m3u8|referer=https://oneplayer.online/
-
-#EXTINF:-1 tvg-logo="https://www.stream-link.org/tv_logo/bein_sports.png" group-title="Football Special⚽", Bein Sport 1
-https://sc2022.stream-link.org/tv2306.php?id=s15
-#EXTINF:-1 tvg-logo="https://www.stream-link.org/tv_logo/bein_sports2.png" group-title="Football Special⚽", Bein Sport 2
-https://sc2022.stream-link.org/tv2306.php?id=s16
-#EXTINF:-1 tvg-logo="https://www.stream-link.org/tv_logo/bein_sports3.png" group-title="Football Special⚽", Bein Sport 3
-https://sc2022.stream-link.org/tv2306.php?id=s17
-#EXTINF:-1 tvg-logo="https://www.stream-link.org/tv_logo/bein_sports4.png" group-title="Football Special⚽", Bein Sport 4
-https://sc2022.stream-link.org/tv2306.php?id=s18
-#EXTINF:-1 tvg-logo="https://www.stream-link.org/tv_logo/astro_supersport.png" group-title="Football Special⚽", Astro SUPERSPORT 1
-https://sc2022.stream-link.org/tv2306.php?id=s19
-#EXTINF:-1 tvg-logo="https://www.stream-link.org/tv_logo/astro_supersport2.png" group-title="Football Special⚽", Astro SUPERSPORT 2
-https://sc2022.stream-link.org/tv2306.php?id=s20
-#EXTINF:-1 tvg-logo="https://www.stream-link.org/tv_logo/astro_supersport3.png" group-title="Football Special⚽", Astro SUPERSPORT 3
-https://sc2022.stream-link.org/tv2306.php?id=s21
-#EXTINF:-1 tvg-logo="https://www.stream-link.org/tv_logo/astro_supersport4.png" group-title="Football Special⚽", Astro SUPERSPORT 4
-https://sc2022.stream-link.org/tv2306.php?id=s22
-#EXTINF:-1 tvg-logo="https://ocdn.eu/ptv2-images/logo-migrated/eleven-sports-1-hd.png" group-title="Football Special⚽", Eleven Sport 1 
-https://livecdn-iptv002.rumsport.com/stream/1499/index.m3u8?|referer=live-streamfootball.com/
-#EXTINF:-1 tvg-logo="https://ocdn.eu/ptv2-images/logo-migrated/eleven-sports-2-hd.png" group-title="Football Special⚽", Eleven Sport 2
-https://livecdn-iptv002.rumsport.com/stream/1503/index.m3u8?|referer=live-streamfootball.com/
-#EXTINF:-1 tvg-logo="https://ocdn.eu/ptv2-images/logo-migrated/eleven-sports-3-hd.png" group-title="Football Special⚽", Eleven Sport 3
-https://livecdn-iptv002.rumsport.com/stream/1506/index.m3u8?|referer=live-streamfootball.com/
-#EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-09/c17ab7ee9a7e3e32117fb1368ffb284c.png" group-title="Football Special⚽", Eleven Sport 4 
-https://livecdn-iptv002.rumsport.com/stream/1509/index.m3u8?|referer=live-streamfootball.com/
-#EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-09/c5409550875e0e1b4d38c0167efbf339.png" group-title="Football Special⚽", Eleven Sport 5 
-https://livecdn-iptv002.rumsport.com/stream/1512/index.m3u8?|referer=live-streamfootball.com/
-#EXTINF:-1 tvg-logo="https://logos-world.net/wp-content/uploads/2023/06/USA-Network-Symbol.png" group-title="Football Special⚽", USA Network 
-https://livecdn-iptv001.rumsport.com/stream/3390/index.m3u8?|referer=live-streamfootball.com/
-#EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-06/28a5988d58871ad37addfecddb8781dd.png" group-title="Football Special⚽", Arena Sport 1
-https://livecdn-iptv002.rumsport.com/stream/193741/index.m3u8?|referer=live-streamfootball.com/
-#EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-01/27a53b708ea0b3ab77447d5acf013093.png" group-title="Football Special⚽", Arena Sport 2
-https://livecdn-iptv002.rumsport.com/stream/171883/index.m3u8?|referer=live-streamfootball.com/
-#EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/c4084fb33d4ad424d6f069449027760f.png" group-title="Football Special⚽", Arena Sport 3 
-https://livecdn-iptv002.rumsport.com/stream/3463/index.m3u8?|referer=live-streamfootball.com/
-#EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-06/294bde9c094cfed3084c2826c4c620f1.png" group-title="Football Special⚽", Arena Sport 4  
-https://livecdn-iptv002.rumsport.com/stream/3465/index.m3u8?|referer=live-streamfootball.com/
-#EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-11/cf5884cab1ace95e7c47ec405435f0ed.png" group-title="Football Special⚽", Arena Sport 5
-https://livecdn-iptv002.rumsport.com/stream/57711/index.m3u8?|referer=live-streamfootball.com/
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/tvfanon6528/images/2/20/Digi_Sport_1_%282012-.n.v.%29.png/revision/latest?cb=20180919153840" group-title="Football Special⚽", Digi Sport 1
-https://livecdn-iptv002.rumsport.com/stream/71457/index.m3u8?|referer=live-streamfootball.com/
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/tvfanon6528/images/2/25/Digi_Sport_2_%282012-.n.v.%29.png/revision/latest?cb=20180919154454" group-title="Football Special⚽", Digi Sport 2
-https://livecdn-iptv002.rumsport.com/stream/71459/index.m3u8?|referer=live-streamfootball.com/
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/dc/Digi_Sport_3_2012.svg/revision/latest/scale-to-width-down/1200?cb=20230203050720" group-title="Football Special⚽", Digi Sport 3
-https://livecdn-iptv002.rumsport.com/stream/2243/index.m3u8?|referer=live-streamfootball.com/
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/b6/Digi_Sport_4_2012.svg/revision/latest/scale-to-width-down/1200?cb=20230203052148" group-title="Football Special⚽", Digi Sport 4
-https://livecdn-iptv002.rumsport.com/stream/4219/index.m3u8?|referer=live-streamfootball.com/
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/TUDN_Logo.svg/2560px-TUDN_Logo.svg.png" group-title="Football Special⚽", TUDN
-https://livecdn-iptv002.rumsport.com/stream/31784/index.m3u8?|referer=live-streamfootball.com/
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/1a/Canal%2B_Sport_2015.png" group-title="Football Special⚽", Canal+ Sport FR
-https://livecdn-iptv003.rumsport.com/stream/69426/index.m3u8?|referer=live-streamfootball.com/
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/2yjjDqdy/IMG-20231018-131656.png" group-title="Football Special⚽", TNT Sport 1
-https://livecdn-iptv002.rumsport.com/stream/8959/index.m3u8?|referer=live-streamfootball.com/
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/2yjjDqdy/IMG-20231018-131656.png" group-title="Football Special⚽", TNT Sport 2
-https://livecdn-iptv002.rumsport.com/stream/279612/index.m3u8?|referer=live-streamfootball.com/
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/2yjjDqdy/IMG-20231018-131656.png" group-title="Football Special⚽", TNT Sport 3
-https://livecdn-iptv002.rumsport.com/stream/266775/index.m3u8?|referer=live-streamfootball.com/
