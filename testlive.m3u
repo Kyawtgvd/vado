@@ -93,3 +93,18 @@ https://nl.score911.cc/pt_sporttv3/index.m3u8?|referer=https://aesport.tv/
 https://nl.score911.cc/fr_rmcsport1/index.m3u8?|referer=https://aesport.tv/
 #EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-06/a543a1274e30e7a0225d06882c0a5f5c.png" group-title="Sport", RMC SPORT 2 (need vpn)
 https://nl.score911.cc/fr_rmcsport2/index.m3u8?|referer=https://aesport.tv/
+
+#EXTINF:-1 tvg-logo="https://multireach.in/wp-content/uploads/2020/10/starsportsselect1.png" group-title="India", Star Sport Select 1 
+http://line.lion-ott.com:80/abcd1234/abcd1234/281635
+#EXTINF:-1 tvg-logo="https://multireach.in/wp-content/uploads/2020/10/starsportsselect2.png" group-title="India", Star Sport Select 2
+http://line.lion-ott.com:80/abcd1234/abcd1234/281636
+#EXTINF:-1 tvg-id="sportv.br" tvg-name="SPORT TV 1 HD PT" tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-thumbnail/s3/112010/sporttv.png?itok=pMp1-KPe" group-title="PORTUGAL ",SPORT TV 1 HD PT
+http://mn.appserv19.xyz:2095/Xplus-1-8IWNhpeUNI/rJk55mLiae/167
+#EXTINF:-1 tvg-id="sportv2.br" tvg-name="SPORT TV 2 HD PT" tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-thumbnail/s3/112010/sporttv.png?itok=pMp1-KPe" group-title="PORTUGAL ",SPORT TV 2 HD PT
+http://mn.appserv19.xyz:2095/Xplus-1-8IWNhpeUNI/rJk55mLiae/168
+#EXTINF:-1 tvg-id="sportv3.br" tvg-name="SPORT TV 3 HD PT" tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-thumbnail/s3/112010/sporttv.png?itok=pMp1-KPe" group-title="PORTUGAL ",SPORT TV 3 HD PT
+http://mn.appserv19.xyz:2095/Xplus-1-8IWNhpeUNI/rJk55mLiae/169
+#EXTINF:-1 tvg-id="" tvg-name="SPORT TV 4 HD PT" tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-thumbnail/s3/112010/sporttv.png?itok=pMp1-KPe" group-title="PORTUGAL ",SPORT TV 4 HD PT
+http://mn.appserv19.xyz:2095/Xplus-1-8IWNhpeUNI/rJk55mLiae/170
+#EXTINF:-1 tvg-id="" tvg-name="SPORT TV 5 HD PT" tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-thumbnail/s3/112010/sporttv.png?itok=pMp1-KPe" group-title="PORTUGAL ",SPORT TV 5 HD PT
+http://mn.appserv19.xyz:2095/Xplus-1-8IWNhpeUNI/rJk55mLiae/171
