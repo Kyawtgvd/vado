@@ -1,6 +1,11 @@
 #EXTM3U
 #EXTINF:-1 tvg-logo="https://icdn.caughtoffside.com/wp-content/uploads/2019/05/man-city-liverpool.jpg" group-title="⚽Today Live⚽ Nov 25", Man City Vs Liverpool (7:00pm)
 http://2615a5d9.edmonst.net/iptv/4PYL58K99PM8FU/2531/index.m3u8
+#EXTINF:-1 tvg-logo="https://i2-prod.football.london/incoming/article17589405.ece/ALTERNATES/s1200/0_Newcastle-Chelsea.jpg" group-title="⚽Today Live⚽ Nov 25", Newcastle Vs Chelsea (9:30pm)
+http://2615a5d9.edmonst.net/iptv/4PYL58K99PM8FU/2531/index.m3u8
+#EXTINF:-1 tvg-logo="https://static.standard.co.uk/2021/08/09/14/PLBrentfordArsenal2122.jpg?width=1200&auto=webp&quality=75" group-title="⚽Today Live⚽ Nov 25", Brentford Vs Arsenal (12:00am) 
+http://2615a5d9.edmonst.net/iptv/4PYL58K99PM8FU/2531/index.m3u8
+
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/tt/true-premiere-football-hd-1-th.png" group-title="Football Special⚽", True Premier 1 
 https://edge1.laotv.la/live/TSport1/index.m3u8
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/tt/true-premiere-football-hd-2-th.png" group-title="Football Special⚽", True Premier 2 
