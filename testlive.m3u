@@ -1,22 +1,20 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/FsQFSPnW/23454629-ico-copy-300x200.png" group-title="Football Special⚽", Canal+ Sport 1
-http://bananatv.org:25461/play/ndboWqziHLi7iwyvMEWnSFwZobTE0438wpsuL2IE1eg/ts
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/4dzqR1by/23454630-ico-copy-300x200.png" group-title="Football Special⚽", Canal+ Sport 2
-http://bananatv.org:25461/play/ndboWqziHLi7iwyvMEWnSKKpmJxD0uzRITNr9RgMV8Q/ts
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/g0GG7nPv/IMG-20231105-101508-copy-300x200.jpg" group-title="Football Special⚽", EPL 1
-http://bananatv.org:25461/play/ndboWqziHLi7iwyvMEWnSF9pMTa7OueejJhjhkUd8MM/ts
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/g0GG7nPv/IMG-20231105-101508-copy-300x200.jpg" group-title="Football Special⚽", EPL 2
-http://bananatv.org:25461/play/ndboWqziHLi7iwyvMEWnSK_-NMXKwH-ndmyYgPOmCv4/ts
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/g0GG7nPv/IMG-20231105-101508-copy-300x200.jpg" group-title="Football Special⚽", EPL 3
-http://bananatv.org:25461/play/ndboWqziHLi7iwyvMEWnSNo4k7SAy8K3P6yqaE0O_VM/ts
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/g0GG7nPv/IMG-20231105-101508-copy-300x200.jpg" group-title="Football Special⚽", EPL 4
-http://bananatv.org:25461/play/ndboWqziHLi7iwyvMEWnSMUAj5abReKDrvp6DiedCl4/ts
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/Gmx490Lx/IMG-20231105-101542-copy-300x200.jpg" group-title="Football Special⚽", EPL 5 
-http://bananatv.org:25461/play/ndboWqziHLi7iwyvMEWnSLJh34Ldc9rKtIciP-4KKkE/ts
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/g0GG7nPv/IMG-20231105-101508-copy-300x200.jpg" group-title="Football Special⚽", EPL 6 
-http://bananatv.org:25461/play/ndboWqziHLi7iwyvMEWnSL4bbXeDLoG7ZUskJX7kadA/ts
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/g0GG7nPv/IMG-20231105-101508-copy-300x200.jpg" group-title="Football Special⚽", EPL 7
-http://bananatv.org:25461/play/ndboWqziHLi7iwyvMEWnSFM1U8-cNJqJuRM0k7Z56yM/ts
+#EXTINF:-1 tvg-logo="https://logos-world.net/wp-content/uploads/2023/06/USA-Network-Symbol.png" group-title="Football", USA Network
+https://webudit.hlsjs.ru/lb/premium343/index.m3u8?|referer=weblivehdplay.ru/
+#EXTINF:-1 tvg-logo="https://www.thesportsdb.com/images/media/channel/tvlogo/x5ja5w1659624783.png" group-title="Football", Super Sport Premier League 
+https://webudit.hlsjs.ru/lb/premium414/index.m3u8?|referer=weblivehdplay.ru/
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-09/dbe88e53a72f505010f15f778a3fd4c9.png" group-title="Football", ELEVEN SPORTS 1 
+https://webudit.hlsjs.ru/lb/premium455/index.m3u8?|referer=weblivehdplay.ru/
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-09/61327badbbea898c7c700b7fe81c55d8.png" group-title="Football", ELEVEN SPORTS 2 
+https://webudit.hlsjs.ru/lb/premium456/index.m3u8?|referer=weblivehdplay.ru/
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-09/b9c02901087946bb37b047d33f24a208.png" group-title="Football", ELEVEN SPORTS 3 
+https://webudit.hlsjs.ru/lb/premium457/index.m3u8?|referer=weblivehdplay.ru/
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-09/c17ab7ee9a7e3e32117fb1368ffb284c.png" group-title="Football", ELEVEN SPORTS 4 
+https://webudit.hlsjs.ru/lb/premium458/index.m3u8?|referer=weblivehdplay.ru/
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-09/c5409550875e0e1b4d38c0167efbf339.png" group-title="Football", ELEVEN SPORTS 5 
+https://webudit.hlsjs.ru/lb/premium459/index.m3u8?|referer=weblivehdplay.ru/
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-09/089df823b4a66ca080d161cdd412ff1b.png" group-title="Football", ELEVEN SPORTS 6 
+https://webudit.hlsjs.ru/lb/premium460/index.m3u8?|referer=weblivehdplay.ru/
 
 #EXTINF:-1 tvg-logo="" group-title="SPORTS",Sony TEN 1 HD 
 https://dai.google.com/linear/hls/event/wG75n5U8RrOKiFzaWObXbA/master.m3u8 
@@ -36,10 +34,6 @@ https://glxlmn026c.singularcdn.net.br/playout_02/playlist.m3u8
 https://glxlmn026c.singularcdn.net.br/playout_03/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/2yjjDqdy/IMG-20231018-131656.png" group-title="SPORTS",tntspot4
 https://glxlmn026c.singularcdn.net.br/playout_04/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://multireach.in/wp-content/uploads/2020/10/starsportsselect1.png" group-title="SPORTS", Star Sport Select 1 
-http://line.lion-ott.com:80/abcd1234/abcd1234/281635
-#EXTINF:-1 tvg-logo="https://multireach.in/wp-content/uploads/2020/10/starsportsselect2.png" group-title="SPORTS", Star Sport Select 2
-http://line.lion-ott.com:80/abcd1234/abcd1234/281636
 
 #EXTINF:-1 tvg-logo="https://logos-world.net/wp-content/uploads/2023/06/USA-Network-Symbol.png" group-title="Sport", USA Network (need vpn)
 https://us.score911.cc/us_usa/index.m3u8?|referer=https://aesport.tv/
@@ -71,3 +65,20 @@ https://nl.score911.cc/pt_sporttv3/index.m3u8?|referer=https://aesport.tv/
 https://nl.score911.cc/fr_rmcsport1/index.m3u8?|referer=https://aesport.tv/
 #EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-06/a543a1274e30e7a0225d06882c0a5f5c.png" group-title="Sport", RMC SPORT 2 (need vpn)
 https://nl.score911.cc/fr_rmcsport2/index.m3u8?|referer=https://aesport.tv/
+
+#EXTINF:-1 tvg-logo="https://www.stream-link.org/tv_logo/bein_sports.png" group-title="Football Special⚽", Bein Sport 1 (need vpn Hongkong)
+https://sc2022.stream-link.org/tv2306.php?id=s15
+#EXTINF:-1 tvg-logo="https://www.stream-link.org/tv_logo/bein_sports2.png" group-title="Football Special⚽", Bein Sport 2 (need vpn Hongkong)
+https://sc2022.stream-link.org/tv2306.php?id=s16
+#EXTINF:-1 tvg-logo="https://www.stream-link.org/tv_logo/bein_sports3.png" group-title="Football Special⚽", Bein Sport 3 (need vpn Hongkong)
+https://sc2022.stream-link.org/tv2306.php?id=s17
+#EXTINF:-1 tvg-logo="https://www.stream-link.org/tv_logo/bein_sports4.png" group-title="Football Special⚽", Bein Sport 4 (need vpn Hongkong)
+https://sc2022.stream-link.org/tv2306.php?id=s18
+#EXTINF:-1 tvg-logo="https://www.stream-link.org/tv_logo/astro_supersport.png" group-title="Football Special⚽", Astro SUPERSPORT 1 (need vpn Hongkong)
+https://sc2022.stream-link.org/tv2306.php?id=s19
+#EXTINF:-1 tvg-logo="https://www.stream-link.org/tv_logo/astro_supersport2.png" group-title="Football Special⚽", Astro SUPERSPORT 2 (need vpn Hongkong)
+https://sc2022.stream-link.org/tv2306.php?id=s20
+#EXTINF:-1 tvg-logo="https://www.stream-link.org/tv_logo/astro_supersport3.png" group-title="Football Special⚽", Astro SUPERSPORT 3 (need vpn Hongkong)
+https://sc2022.stream-link.org/tv2306.php?id=s21
+#EXTINF:-1 tvg-logo="https://www.stream-link.org/tv_logo/astro_supersport4.png" group-title="Football Special⚽", Astro SUPERSPORT 4 (need vpn Hongkong)
+https://sc2022.stream-link.org/tv2306.php?id=s22
