@@ -17,6 +17,8 @@ https://webudit.hlsjs.ru/lb/premium343/index.m3u8?|referer=weblivehdplay.ru/
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=82f8e2a17dac44c0a18f660479349c59:1b144f73e6fefe91cd05f850e2b589d0
 https://dce-fs-live-dazn-cdn.dazn.com/dashdrm/dazn-linear-054/stream.mpd
+#EXTINF:-1 tvg-logo="https://i2-prod.manchestereveningnews.co.uk/sport/football/article23638432.ece/ALTERNATES/s1200/0_MatchdayBlog.png" group-title="⚽Today Live⚽ Nov 26", Everton vs Manchester United (11:00pm) link 4
+https://soccer.freesportstime.com/live/stream_1.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/tt/true-premiere-football-hd-1-th.png" group-title="Football Special⚽", True Premier 1 
 https://edge1.laotv.la/live/TSport1/index.m3u8
