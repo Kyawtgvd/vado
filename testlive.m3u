@@ -1,23 +1,4 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://logos-world.net/wp-content/uploads/2023/06/USA-Network-Symbol.png" group-title="Football", USA Network
-https://webudit.hlsjs.ru/lb/premium343/index.m3u8?|referer=weblivehdplay.ru/
-#EXTINF:-1 tvg-logo="https://www.thesportsdb.com/images/media/channel/tvlogo/x5ja5w1659624783.png" group-title="Football", Super Sport Premier League 
-https://webudit.hlsjs.ru/lb/premium414/index.m3u8?|referer=weblivehdplay.ru/
-#EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-09/dbe88e53a72f505010f15f778a3fd4c9.png" group-title="Football", ELEVEN SPORTS 1 
-https://webudit.hlsjs.ru/lb/premium455/index.m3u8?|referer=weblivehdplay.ru/
-#EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-09/61327badbbea898c7c700b7fe81c55d8.png" group-title="Football", ELEVEN SPORTS 2 
-https://webudit.hlsjs.ru/lb/premium456/index.m3u8?|referer=weblivehdplay.ru/
-#EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-09/b9c02901087946bb37b047d33f24a208.png" group-title="Football", ELEVEN SPORTS 3 
-https://webudit.hlsjs.ru/lb/premium457/index.m3u8?|referer=weblivehdplay.ru/
-#EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-09/c17ab7ee9a7e3e32117fb1368ffb284c.png" group-title="Football", ELEVEN SPORTS 4 
-https://webudit.hlsjs.ru/lb/premium458/index.m3u8?|referer=weblivehdplay.ru/
-#EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-09/c5409550875e0e1b4d38c0167efbf339.png" group-title="Football", ELEVEN SPORTS 5 
-https://webudit.hlsjs.ru/lb/premium459/index.m3u8?|referer=weblivehdplay.ru/
-#EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/portal/picon/2020-07/9f3521fdd170eae38a97c6925b45fbc4.png" group-title="Football", Telemundo
-https://webudit.hlsjs.ru/lb/premium131/index.m3u8?|referer=weblivehdplay.ru/
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/TUDN_Logo.svg/2560px-TUDN_Logo.svg.png" group-title="Football", TUDN
-https://webudit.hlsjs.ru/lb/premium66/index.m3u8?|referer=weblivehdplay.ru/
-
 #EXTINF:-1 tvg-logo="" group-title="SPORTS",Sony TEN 1 HD 
 https://dai.google.com/linear/hls/event/wG75n5U8RrOKiFzaWObXbA/master.m3u8 
 #EXTINF:-1 tvg-logo="" group-title="SPORTS",Sony TEN 2 HD 
