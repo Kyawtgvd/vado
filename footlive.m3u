@@ -1,9 +1,9 @@
 #EXTM3U
-#EXTINF:-1 group-title="Football Special⚽"  tvg-logo="https://i.ibb.co/JRvJdR6/eleven1.png", Eleven Sports 1 FHD 50fps (EPL,CL) ⭐
+#EXTINF:-1 group-title="Football Special⚽"  tvg-logo="https://i.ibb.co/JRvJdR6/eleven1.png", Eleven Sports 1 FHD 50fps (EPL/CL) ⭐
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=82f8e2a17dac44c0a18f660479349c59:1b144f73e6fefe91cd05f850e2b589d0
 https://dce-fs-live-dazn-cdn.dazn.com/dashdrm/dazn-linear-054/stream.mpd
-#EXTINF:-1 group-title="Football Special⚽" tvg-logo="https://i.ibb.co/JpGPnd6/eleven2.png", Eleven Sports 2 (EPL,CL)
+#EXTINF:-1 group-title="Football Special⚽" tvg-logo="https://i.ibb.co/JpGPnd6/eleven2.png", Eleven Sports 2 (EPL/CL)
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=82f8e2a17dac44c0a18f660479349c59:1b144f73e6fefe91cd05f850e2b589d0
 https://dce-fs-live-dazn-cdn.dazn.com/dashdrm/dazn-linear-055/stream.mpd
@@ -44,7 +44,7 @@ https://webudit.hlsjs.ru/lb/premium414/index.m3u8?|referer=weblivehdplay.ru/
 http://2615a5d9.edmonst.net/iptv/4PYL58K99PM8FU/2531/index.m3u8
 #EXTINF:-1 tvg-logo="https://ocdn.eu/ptv2-images/logo-migrated/eleven-sports-2-hd.png" group-title="Football Special⚽", Eleven Sport 2 @edmon
 http://2615a5d9.edmonst.net/iptv/4PYL58K99PM8FU/2532/index.m3u8
-#EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/portal/picon/2020-07/9f3521fdd170eae38a97c6925b45fbc4.png" group-title="Football Special⚽", Telemundo (EPL,CL)
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/portal/picon/2020-07/9f3521fdd170eae38a97c6925b45fbc4.png" group-title="Football Special⚽", Telemundo (EPL/CL)
 https://webudit.hlsjs.ru/lb/premium131/index.m3u8?|referer=weblivehdplay.ru/
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/TUDN_Logo.svg/2560px-TUDN_Logo.svg.png" group-title="Football Special⚽", TUDN (CL)
 https://webudit.hlsjs.ru/lb/premium66/index.m3u8?|referer=weblivehdplay.ru/
