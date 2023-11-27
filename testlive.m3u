@@ -3,8 +3,14 @@
 https://ctrl.laotv.la/live/TSport1/index.m3u8
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/tt/true-premiere-football-hd-2-th.png" group-title="SPORTS", True EPL2
 https://ctrl.laotv.la/live/TSport2/index.m3u8
-#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/oo/on-football-vn.png" group-title="SPORTS", ON Football
-https://s7.edge.cdn.sctvonline.vn/cdn-cgi/edge/v2/e7.endpoint.cdn.sctvonline.vn/nginx.s7.edge.cdn.sctvonline.vn/live/smil:VTVCAB16.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/QtV8Z5b8/ASTRO-SPORT.png" group-title="SPORTS", Astro SuperSport 
+http://evolved.host:8080/kmcneill65@comcast.net/vDmyPDxBya/573205 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ZX3ycOV.png" group-title="SPORTS", Astro SuperSport 2 
+http://evolved.host:8080/kmcneill65@comcast.net/vDmyPDxBya/573207 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/aZlaotH.png" group-title="SPORTS", Astro SuperSport 3 
+http://evolved.host:8080/kmcneill65@comcast.net/vDmyPDxBya/573210 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/TBZ5Op7.png" group-title="SPORTS", Astro SuperSport 4 
+http://evolved.host:8080/kmcneill65@comcast.net/vDmyPDxBya/573214 
 #EXTINF:-1 tvg-logo="" group-title="SPORTS",Sony TEN 1 HD 
 https://dai.google.com/linear/hls/event/wG75n5U8RrOKiFzaWObXbA/master.m3u8 
 #EXTINF:-1 tvg-logo="" group-title="SPORTS",Sony TEN 2 HD 
