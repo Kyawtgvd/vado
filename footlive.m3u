@@ -1,6 +1,4 @@
 #EXTM3U
-#EXTINF:-1 group-title="Today Live"  tvg-logo="", France U17 Vs Mali U17
-https://cdn-rum.n2olabs.pro/stream.m3u8?url=https%3A%2F%2Flivecdn.rumsport.com%2Fstream%2F8%2Findex.m3u8&token=40f33e390167a45412efd6fc98ef0ecfee1b5c2b&is_vip=false&verify=1701172800-HmbkjyMg0QqzdPLf7%2Favwyl5EydMTiSSKOOQLxT4gtE%3D|referer=https://live-streamfootball.com/
 #EXTINF:-1 tvg-id="" tvg-name="Lazio Vs Celtic (12:15 AM)" tvg-logo="http://familyiptv.xyz:25461/images/a374deafc478fe78281608bcf04f9ca1.jpg" group-title="Today Live",Lazio Vs Celtic (12:15 AM)
 https://hls.streambtw.com/live/stream_1.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Lazio Vs Celtic (12:15 AM)" tvg-logo="http://familyiptv.xyz:25461/images/a374deafc478fe78281608bcf04f9ca1.jpg" group-title="Today Live",Lazio Vs Celtic (12:15 AM)
