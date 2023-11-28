@@ -44,6 +44,22 @@ https://webudit.hlsjs.ru/lb/premium414/index.m3u8?|referer=weblivehdplay.ru/
 http://2615a5d9.edmonst.net/iptv/4PYL58K99PM8FU/2531/index.m3u8
 #EXTINF:-1 tvg-logo="https://ocdn.eu/ptv2-images/logo-migrated/eleven-sports-2-hd.png" group-title="Football Special⚽", Eleven Sport 2 @edmon
 http://2615a5d9.edmonst.net/iptv/4PYL58K99PM8FU/2532/index.m3u8
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-09/076e8935ff1715e7ebc42f5f23b9b152.png" group-title="Football Special⚽", Bein Sport 1 English FHD 50fps
+https://webudit.webhd.ru/lb/premium61/index.m3u8?|referer=weblivehdplay.ru/
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-06/e70e6e9626f1897bdffde8502b1c0d7e.png" group-title="Football Special⚽", Orange Sport 1 (EPL/CL)
+https://webudit.webhd.ru/lb/premium439/index.m3u8?|referer=weblivehdplay.ru/
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-06/a634fcc7dcbf6f6fd401d99d392b7007.png" group-title="Football Special⚽", Orange Sport 2 (EPL/CL)
+https://webudit.webhd.ru/lb/premium440/index.m3u8?|referer=weblivehdplay.ru/
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-06/dce27150602da426152f4877cea7a33a.png" group-title="Football Special⚽", Orange Sport 3 (EPL/CL)
+https://webudit.webhd.ru/lb/premium441/index.m3u8?|referer=weblivehdplay.ru/
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/tvfanon6528/images/2/20/Digi_Sport_1_%282012-.n.v.%29.png/revision/latest?cb=20180919153840" group-title="Football Special⚽", Digi Sport 1 (EPL/CL)
+https://webudit.webhd.ru/lb/premium400/index.m3u8?|referer=weblivehdplay.ru/
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/tvfanon6528/images/2/25/Digi_Sport_2_%282012-.n.v.%29.png/revision/latest?cb=20180919154454" group-title="Football Special⚽", Digi Sport 2 (EPL/CL)
+https://webudit.webhd.ru/lb/premium401/index.m3u8?|referer=weblivehdplay.ru/
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/dc/Digi_Sport_3_2012.svg/revision/latest/scale-to-width-down/1200?cb=20230203050720" group-title="Football Special⚽", Digi Sport 3 (EPL/CL)
+https://webudit.webhd.ru/lb/premium402/index.m3u8?|referer=weblivehdplay.ru/
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/b6/Digi_Sport_4_2012.svg/revision/latest/scale-to-width-down/1200?cb=20230203052148" group-title="Football Special⚽", Digi Sport 4 (EPL/CL)
+https://webudit.webhd.ru/lb/premium403/index.m3u8?|referer=weblivehdplay.ru/
 #EXTINF:-1 tvg-logo="https://www.stream-link.org/tv_logo/astro_supersport.png" group-title="Football Special⚽", Astro Supersport 1 @webu
 https://webudit.webhd.ru/lb/premium123/index.m3u8?|referer=weblivehdplay.ru/
 #EXTINF:-1 tvg-logo="https://www.stream-link.org/tv_logo/astro_supersport2.png" group-title="Football Special⚽", Astro Supersport 2 @webu
@@ -67,37 +83,37 @@ https://webudit.hlsjs.ru/lb/premium131/index.m3u8?|referer=weblivehdplay.ru/
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/TUDN_Logo.svg/2560px-TUDN_Logo.svg.png" group-title="Football Special⚽", TUDN (CL)
 https://webudit.hlsjs.ru/lb/premium66/index.m3u8?|referer=weblivehdplay.ru/
 
-#EXTINF:-1 group-title="Football Special⚽"  tvg-logo="https://i.ibb.co/JRvJdR6/eleven1.png", Eleven Sports 1 FHD 50fps (EPL/CL) ⭐
+#EXTINF:-1 group-title="Football Special⚽"  tvg-logo="https://i.ibb.co/JRvJdR6/eleven1.png", Eleven Sports 1 FHD 50fps (EPL/CL) ⭐ (only with ott player)
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=82f8e2a17dac44c0a18f660479349c59:1b144f73e6fefe91cd05f850e2b589d0
 https://dce-fs-live-dazn-cdn.dazn.com/dashdrm/dazn-linear-054/stream.mpd
-#EXTINF:-1 group-title="Football Special⚽" tvg-logo="https://i.ibb.co/JpGPnd6/eleven2.png", Eleven Sports 2 (EPL/CL)
+#EXTINF:-1 group-title="Football Special⚽" tvg-logo="https://i.ibb.co/JpGPnd6/eleven2.png", Eleven Sports 2 (EPL/CL) (only with ott player)
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=82f8e2a17dac44c0a18f660479349c59:1b144f73e6fefe91cd05f850e2b589d0
 https://dce-fs-live-dazn-cdn.dazn.com/dashdrm/dazn-linear-055/stream.mpd
-#EXTINF:-1 group-title="Football Special⚽" tvg-logo="https://i.ibb.co/TWhTFW8/eleven3.png", Eleven Sports 3 (CL)
+#EXTINF:-1 group-title="Football Special⚽" tvg-logo="https://i.ibb.co/TWhTFW8/eleven3.png", Eleven Sports 3 (CL) (only with ott player)
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=82f8e2a17dac44c0a18f660479349c59:1b144f73e6fefe91cd05f850e2b589d0
 https://dce-fs-live-dazn-cdn.dazn.com/dashdrm/dazn-linear-056/stream.mpd
-#EXTINF:-1 group-title="Football Special⚽" tvg-logo="https://i.ibb.co/FW3fsK6/eleven4.png", Eleven Sports 4 (CL)
+#EXTINF:-1 group-title="Football Special⚽" tvg-logo="https://i.ibb.co/FW3fsK6/eleven4.png", Eleven Sports 4 (CL) (only with ott player)
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=82f8e2a17dac44c0a18f660479349c59:1b144f73e6fefe91cd05f850e2b589d0
 https://dce-fs-live-dazn-cdn.dazn.com/dashdrm/dazn-linear-057/stream.mpd
-#EXTINF:-1 group-title="Football Special⚽" tvg-logo="https://i.ibb.co/8rq35Zg/eleven5.png", Eleven Sports 5 (CL)
+#EXTINF:-1 group-title="Football Special⚽" tvg-logo="https://i.ibb.co/8rq35Zg/eleven5.png", Eleven Sports 5 (CL) (only with ott player)
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=82f8e2a17dac44c0a18f660479349c59:1b144f73e6fefe91cd05f850e2b589d0
 https://dce-fs-live-dazn-cdn.dazn.com/dashdrm/dazn-linear-058/stream.mpd
-#EXTINF:-1 group-title="Football Special⚽" tvg-logo="https://i.ibb.co/M2tbfJV/eleven6.png", Eleven Sports 6 (CL)
+#EXTINF:-1 group-title="Football Special⚽" tvg-logo="https://i.ibb.co/M2tbfJV/eleven6.png", Eleven Sports 6 (CL) (only with ott player)
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=82f8e2a17dac44c0a18f660479349c59:1b144f73e6fefe91cd05f850e2b589d0
 https://dce-fs-live-dazn-cdn.dazn.com/dashdrm/dazn-linear-059/stream.mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=792c9b382615c47fdfb840dfd2387b8b:c86191afc372c5006ebab6e8bdf61e14
-#EXTINF:-1 group-title="Football Special⚽" tvg-logo="https://thumbor.prod.vidiocdn.com/rDybdMMOC-NZ1bzkWvpSRYBxeG8=/372x211/filters:quality(75)/vidio-web-prod-livestreaming/uploads/livestreaming/image/9182/champions-tv-5-764e22.jpg", Champions TV 5 (EPL) ⭐
+#EXTINF:-1 group-title="Football Special⚽" tvg-logo="https://thumbor.prod.vidiocdn.com/rDybdMMOC-NZ1bzkWvpSRYBxeG8=/372x211/filters:quality(75)/vidio-web-prod-livestreaming/uploads/livestreaming/image/9182/champions-tv-5-764e22.jpg", Champions TV 5 (EPL) ⭐ (only with ott player)
 https://drm-epl-vidio-com-epl-1.akamaized.net/out/v1/1b34ee57680f49229adaa19b74a9b60d/index.mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=a0605846d1f0dc153537b04d5fef6594:af747fe84c6c850c646364ad0b96c6cf
-#EXTINF:-1 group-title="Football Special⚽" tvg-logo="https://thumbor.prod.vidiocdn.com/C4KPuTc3ag2XzBR_ZqMECdK0Xpg=/372x211/filters:quality(75)/vidio-web-prod-livestreaming/uploads/livestreaming/image/9183/champions-tv-6-01b4c7.jpg", Champions TV 6 (EPL) ⭐
+#EXTINF:-1 group-title="Football Special⚽" tvg-logo="https://thumbor.prod.vidiocdn.com/C4KPuTc3ag2XzBR_ZqMECdK0Xpg=/372x211/filters:quality(75)/vidio-web-prod-livestreaming/uploads/livestreaming/image/9183/champions-tv-6-01b4c7.jpg", Champions TV 6 (EPL) ⭐ (only with ott player)
 https://drm-epl-vidio-com-epl-2.akamaized.net/out/v1/213998e62d2c4e5f9cf9e832d4502b83/index.mpd
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ss/sony-sports-ten-1-in.png" group-title="Sport", Sony Ten Sport 1
