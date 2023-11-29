@@ -1,37 +1,4 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="" tvg-name="Lazio Vs Celtic (12:15 AM)" tvg-logo="http://familyiptv.xyz:25461/images/a374deafc478fe78281608bcf04f9ca1.jpg" group-title="Today Live",Lazio Vs Celtic (12:15 AM)
-https://hls.streambtw.com/live/stream_1.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Lazio Vs Celtic (12:15 AM)" tvg-logo="http://familyiptv.xyz:25461/images/a374deafc478fe78281608bcf04f9ca1.jpg" group-title="Today Live",Lazio Vs Celtic (12:15 AM)
-https://weak.hiweak12.store/live/TNT1/storage.m3u8?|referer=https://weakspell.org/
-#EXTINF:-1 tvg-id="" tvg-name="Shakhtar Donetsk Vs Royal Antwerp (12:15 AM)" tvg-logo="http://familyiptv.xyz:25461/images/06106b2f6d3111f65541faa2b4664e58.jpg" group-title="Today Live",Shakhtar Donetsk Vs Royal Antwerp (12:15 AM)
-https://hls.streambtw.com/live/stream_2.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Shakhtar Donetsk Vs Royal Antwerp (12:15 AM)" tvg-logo="http://familyiptv.xyz:25461/images/06106b2f6d3111f65541faa2b4664e58.jpg" group-title="Today Live",Shakhtar Donetsk Vs Royal Antwerp (12:15 AM)
-https://weak.hiweak12.store/live/TNT3/storage.m3u8?|referer=https://weakspell.org/
-#EXTINF:-1 tvg-id="" tvg-name="AC Milan Vs Borussia Dortmund (2:30 AM)" tvg-logo="http://familyiptv.xyz:25461/images/0d255d8560aad7ffd071ba09777346ad.jpg" group-title="Today Live",AC Milan Vs Borussia Dortmund (2:30 AM)
-https://hls.streambtw.com/live/stream_3.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="AC Milan Vs Borussia Dortmund (2:30 AM)" tvg-logo="http://familyiptv.xyz:25461/images/0d255d8560aad7ffd071ba09777346ad.jpg" group-title="Today Live",AC Milan Vs Borussia Dortmund (2:30 AM)
-https://weak.hiweak12.store/live/TNT3/storage.m3u8?|referer=https://weakspell.org/
-#EXTINF:-1 tvg-id="" tvg-name="Barcelona Vs FC Porto (2:30 AM)" tvg-logo="http://familyiptv.xyz:25461/images/22153e34138195af3db3a95c5b713441.jpg" group-title="Today Live",Barcelona Vs FC Porto (2:30 AM)
-https://hls.streambtw.com/live/stream_6.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Barcelona Vs FC Porto (2:30 AM)" tvg-logo="http://familyiptv.xyz:25461/images/22153e34138195af3db3a95c5b713441.jpg" group-title="Today Live",Barcelona Vs FC Porto (2:30 AM)
-https://weak.hiweak14.store/live/s2/storage.m3u8?|referer=https://weakspell.org/
-#EXTINF:-1 tvg-id="" tvg-name="Manchester City Vs RB Leipzig (2:30 AM)" tvg-logo="http://familyiptv.xyz:25461/images/3980b9e239332618f012ff12b413ffe8.jpg" group-title="Today Live",Manchester City Vs RB Leipzig (2:30 AM)
-https://hls.streambtw.com/live/stream_4.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Manchester City Vs RB Leipzig (2:30 AM)" tvg-logo="http://familyiptv.xyz:25461/images/3980b9e239332618f012ff12b413ffe8.jpg" group-title="Today Live",Manchester City Vs RB Leipzig (2:30 AM)
-https://weak.hiweak12.store/live/TNT1/storage.m3u8?|referer=https://weakspell.org/
-#EXTINF:-1 tvg-id="" tvg-name="Paris Saint-Germain Vs Newcastle United (2:30 AM)" tvg-logo="http://familyiptv.xyz:25461/images/6f137e683c0b1a2afe8ebf915b850e08.jpg" group-title="Today Live",Paris Saint-Germain Vs Newcastle United (2:30 AM)
-https://hls.streambtw.com/live/stream_2.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Paris Saint-Germain Vs Newcastle United (2:30 AM)" tvg-logo="http://familyiptv.xyz:25461/images/6f137e683c0b1a2afe8ebf915b850e08.jpg" group-title="Today Live",Paris Saint-Germain Vs Newcastle United (2:30 AM)
-https://weak.hiweak14.store/live/TNT2/storage.m3u8?|referer=https://weakspell.org/
-#EXTINF:-1 tvg-id="" tvg-name="Feyenoord Vs Atletico Madrid (2:30 AM)" tvg-logo="http://familyiptv.xyz:25461/images/70248064ef617b2a72dbb8751a67bec2.jpg" group-title="Today Live",Feyenoord Vs Atletico Madrid (2:30 AM)
-https://hls.streambtw.com/live/stream_1.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Feyenoord Vs Atletico Madrid (2:30 AM)" tvg-logo="http://familyiptv.xyz:25461/images/70248064ef617b2a72dbb8751a67bec2.jpg" group-title="Today Live",Feyenoord Vs Atletico Madrid (2:30 AM)
-https://weak.hiweak12.store/live/s1/storage.m3u8?|referer=https://weakspell.org/
-#EXTINF:-1 tvg-id="" tvg-name="Young Boys Vs FK Crvena Zvezda (2:30 AM)" tvg-logo="http://familyiptv.xyz:25461/images/f55415b45dd149439349a5bf43da3af1.jpg" group-title="Today Live",Young Boys Vs FK Crvena Zvezda (2:30 AM)
-https://hls.streambtw.com/live/stream_5.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Young Boys Vs FK Crvena Zvezda (2:30 AM)" tvg-logo="http://familyiptv.xyz:25461/images/f55415b45dd149439349a5bf43da3af1.jpg" group-title="Today Live",Young Boys Vs FK Crvena Zvezda (2:30 AM)
-https://weak.hiweak12.store/live/spf/storage.m3u8?|referer=https://weakspell.org/
-
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/tt/true-premiere-football-hd-1-th.png" group-title="Football Special⚽", True Premier 1 (EPL)
 https://edge1.laotv.la/live/TSport1/index.m3u8
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/tt/true-premiere-football-hd-2-th.png" group-title="Football Special⚽", True Premier 2 (EPL)
@@ -44,7 +11,7 @@ https://webudit.hlsjs.ru/lb/premium414/index.m3u8?|referer=weblivehdplay.ru/
 http://2615a5d9.edmonst.net/iptv/4PYL58K99PM8FU/2531/index.m3u8
 #EXTINF:-1 tvg-logo="https://ocdn.eu/ptv2-images/logo-migrated/eleven-sports-2-hd.png" group-title="Football Special⚽", Eleven Sport 2 @edmon
 http://2615a5d9.edmonst.net/iptv/4PYL58K99PM8FU/2532/index.m3u8
-#EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-09/076e8935ff1715e7ebc42f5f23b9b152.png" group-title="Football Special⚽", Bein Sport 1 English FHD 50fps
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-09/076e8935ff1715e7ebc42f5f23b9b152.png" group-title="Football Special⚽", Bein Sport 1 English (EPL/CL)
 https://webudit.webhd.ru/lb/premium61/index.m3u8?|referer=weblivehdplay.ru/
 #EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-06/e70e6e9626f1897bdffde8502b1c0d7e.png" group-title="Football Special⚽", Orange Sport 1 (EPL/CL)
 https://webudit.webhd.ru/lb/premium439/index.m3u8?|referer=weblivehdplay.ru/
@@ -83,38 +50,32 @@ https://webudit.hlsjs.ru/lb/premium131/index.m3u8?|referer=weblivehdplay.ru/
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/TUDN_Logo.svg/2560px-TUDN_Logo.svg.png" group-title="Football Special⚽", TUDN (CL)
 https://webudit.hlsjs.ru/lb/premium66/index.m3u8?|referer=weblivehdplay.ru/
 
-#EXTINF:-1 group-title="Football Special⚽"  tvg-logo="https://i.ibb.co/JRvJdR6/eleven1.png", Eleven Sports 1 FHD 50fps (EPL/CL) ⭐ (only with ott player)
+#EXTINF:-1 group-title="Football Special⚽"  tvg-logo="https://i.ibb.co/JRvJdR6/eleven1.png", Eleven Sports 1 FHD 50fps (EPL/CL) ⭐ #only can play with ott player
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=82f8e2a17dac44c0a18f660479349c59:1b144f73e6fefe91cd05f850e2b589d0
 https://dce-fs-live-dazn-cdn.dazn.com/dashdrm/dazn-linear-054/stream.mpd
-#EXTINF:-1 group-title="Football Special⚽" tvg-logo="https://i.ibb.co/JpGPnd6/eleven2.png", Eleven Sports 2 (EPL/CL) (only with ott player)
+#EXTINF:-1 group-title="Football Special⚽" tvg-logo="https://i.ibb.co/JpGPnd6/eleven2.png", Eleven Sports 2 (EPL/CL) #only can play with ott player
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=82f8e2a17dac44c0a18f660479349c59:1b144f73e6fefe91cd05f850e2b589d0
 https://dce-fs-live-dazn-cdn.dazn.com/dashdrm/dazn-linear-055/stream.mpd
-#EXTINF:-1 group-title="Football Special⚽" tvg-logo="https://i.ibb.co/TWhTFW8/eleven3.png", Eleven Sports 3 (CL) (only with ott player)
+#EXTINF:-1 group-title="Football Special⚽" tvg-logo="https://i.ibb.co/TWhTFW8/eleven3.png", Eleven Sports 3 (CL) #only can play with ott player
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=82f8e2a17dac44c0a18f660479349c59:1b144f73e6fefe91cd05f850e2b589d0
 https://dce-fs-live-dazn-cdn.dazn.com/dashdrm/dazn-linear-056/stream.mpd
-#EXTINF:-1 group-title="Football Special⚽" tvg-logo="https://i.ibb.co/FW3fsK6/eleven4.png", Eleven Sports 4 (CL) (only with ott player)
+#EXTINF:-1 group-title="Football Special⚽" tvg-logo="https://i.ibb.co/FW3fsK6/eleven4.png", Eleven Sports 4 (CL) #only can play with ott player
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=82f8e2a17dac44c0a18f660479349c59:1b144f73e6fefe91cd05f850e2b589d0
 https://dce-fs-live-dazn-cdn.dazn.com/dashdrm/dazn-linear-057/stream.mpd
-#EXTINF:-1 group-title="Football Special⚽" tvg-logo="https://i.ibb.co/8rq35Zg/eleven5.png", Eleven Sports 5 (CL) (only with ott player)
+#EXTINF:-1 group-title="Football Special⚽" tvg-logo="https://i.ibb.co/8rq35Zg/eleven5.png", Eleven Sports 5 (CL) #only can play with ott player
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=82f8e2a17dac44c0a18f660479349c59:1b144f73e6fefe91cd05f850e2b589d0
 https://dce-fs-live-dazn-cdn.dazn.com/dashdrm/dazn-linear-058/stream.mpd
-#EXTINF:-1 group-title="Football Special⚽" tvg-logo="https://i.ibb.co/M2tbfJV/eleven6.png", Eleven Sports 6 (CL) (only with ott player)
+#EXTINF:-1 group-title="Football Special⚽" tvg-logo="https://i.ibb.co/M2tbfJV/eleven6.png", Eleven Sports 6 (CL) #only can play with ott player
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=82f8e2a17dac44c0a18f660479349c59:1b144f73e6fefe91cd05f850e2b589d0
 https://dce-fs-live-dazn-cdn.dazn.com/dashdrm/dazn-linear-059/stream.mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=792c9b382615c47fdfb840dfd2387b8b:c86191afc372c5006ebab6e8bdf61e14
-#EXTINF:-1 group-title="Football Special⚽" tvg-logo="https://thumbor.prod.vidiocdn.com/rDybdMMOC-NZ1bzkWvpSRYBxeG8=/372x211/filters:quality(75)/vidio-web-prod-livestreaming/uploads/livestreaming/image/9182/champions-tv-5-764e22.jpg", Champions TV 5 (EPL) ⭐ (only with ott player)
-https://drm-epl-vidio-com-epl-1.akamaized.net/out/v1/1b34ee57680f49229adaa19b74a9b60d/index.mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=a0605846d1f0dc153537b04d5fef6594:af747fe84c6c850c646364ad0b96c6cf
-#EXTINF:-1 group-title="Football Special⚽" tvg-logo="https://thumbor.prod.vidiocdn.com/C4KPuTc3ag2XzBR_ZqMECdK0Xpg=/372x211/filters:quality(75)/vidio-web-prod-livestreaming/uploads/livestreaming/image/9183/champions-tv-6-01b4c7.jpg", Champions TV 6 (EPL) ⭐ (only with ott player)
-https://drm-epl-vidio-com-epl-2.akamaized.net/out/v1/213998e62d2c4e5f9cf9e832d4502b83/index.mpd
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ss/sony-sports-ten-1-in.png" group-title="Sport", Sony Ten Sport 1
 https://dai.google.com/linear/hls/event/6WhVNGKTRXyu588zZv1Lkg/master.m3u8
