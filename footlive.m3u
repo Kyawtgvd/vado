@@ -1,23 +1,29 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="" group-title="Announcement: ပွဲစဥ်များကို Todaty live ထဲကအပြင် Football Special ထဲမှ လိုင်းများတွင်လည်း ရှာဖွေကြည့်ရှုနိုင်သည်",
-#EXTINF:-1 tvg-id="" tvg-name="Galatasaray Vs Manchester United (12:15 AM)" tvg-logo="http://familyiptv.xyz:25461/images/a7a491f6d86956e33212936429ee0de5.jpg" group-title="Today Live",Galatasaray Vs Manchester United (12:15 AM)
+#EXTINF:-1 tvg-logo="" group-title="Announcement: ပွဲစဥ်များကို Today live ထဲအပြင် Football Special ထဲမှ လိုင်းများတွင်လည်း ရှာဖွေကြည့်ရှုနိုင်သည်။ Football Special ထဲတွင်⭐ပြထားသောလိုင်းများသည် အကြည်ဆုံးအငြိမ်ဆုံးလိုင်းများဖြစ်နိုင်ပြီး လိုင်းအချို့ကိုတော့ ott player နှင့်သာကြည့်လို့ရသည်။Today live ထဲမှ လိုင်းအချို့သည် ပွဲချိန်နီးမှပွင့်မည်",
+#EXTINF:-1 tvg-id="" tvg-name="Galatasaray Vs Manchester United (12:15 AM)" tvg-logo="http://familyiptv.xyz:25461/images/a7a491f6d86956e33212936429ee0de5.jpg" group-title="Today Live",Galatasaray Vs Manchester United (12:15 AM) link 1
 https://hls.streambtw.com/live/stream_1.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Galatasaray Vs Manchester United (12:15 AM)" tvg-logo="http://familyiptv.xyz:25461/images/a7a491f6d86956e33212936429ee0de5.jpg" group-title="Today Live",Galatasaray Vs Manchester United (12:15 AM)
+#EXTINF:-1 tvg-id="" tvg-name="Galatasaray Vs Manchester United (12:15 AM)" tvg-logo="http://familyiptv.xyz:25461/images/a7a491f6d86956e33212936429ee0de5.jpg" group-title="Today Live",Galatasaray Vs Manchester United (12:15 AM) link 2
 https://freegamestreams.in/live/abr_ch1/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvMjkvMjAyMyAxMjoxODo0NyBQTSZoYXNoX3ZhbHVlPW51MnNwbkNBVk1JT2NldERuNG9TdUE9PSZ2YWxpZG1pbnV0ZXM9NzIwJmlkPTIwMy45Ni4yNDEuMTMyJnN0cm1fbGVuPTU|referer=https://gameshdlive.net/
+#EXTINF:-1 tvg-id="" tvg-name="Galatasaray Vs Manchester United (12:15 AM)" tvg-logo="http://familyiptv.xyz:25461/images/a7a491f6d86956e33212936429ee0de5.jpg" group-title="Today Live",Galatasaray Vs Manchester United (12:15 AM) link 3
+https://headlinessportsfoot.com/chunklist/hlsch1.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Sevilla Vs PSV Eindhoven (12:15 AM)" tvg-logo="http://familyiptv.xyz:25461/images/b6ae43ad1df9c09dbcc92ed4e14ad97b.jpg" group-title="Today Live",Sevilla Vs PSV Eindhoven (12:15 AM)
 https://hls.streambtw.com/live/stream_2.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Arsenal Vs Lens (2:30 AM)" tvg-logo="http://familyiptv.xyz:25461/images/c29363de92177e8f9491fa6df5b02007.jpg" group-title="Today Live",Arsenal Vs Lens (2:30 AM)
+#EXTINF:-1 tvg-id="" tvg-name="Arsenal Vs Lens (2:30 AM)" tvg-logo="http://familyiptv.xyz:25461/images/c29363de92177e8f9491fa6df5b02007.jpg" group-title="Today Live",Arsenal Vs Lens (2:30 AM) link 1
 https://hls.streambtw.com/live/stream_2.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Arsenal Vs Lens (2:30 AM)" tvg-logo="http://familyiptv.xyz:25461/images/c29363de92177e8f9491fa6df5b02007.jpg" group-title="Today Live",Arsenal Vs Lens (2:30 AM)
+#EXTINF:-1 tvg-id="" tvg-name="Arsenal Vs Lens (2:30 AM)" tvg-logo="http://familyiptv.xyz:25461/images/c29363de92177e8f9491fa6df5b02007.jpg" group-title="Today Live",Arsenal Vs Lens (2:30 AM) link 2
 https://freegamestreams.in/live/abr_ch2/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvMjkvMjAyMyAxMjoyMToxMiBQTSZoYXNoX3ZhbHVlPXV2QVlKbkVPcVlTNmV2T0pkK2Fwb3c9PSZ2YWxpZG1pbnV0ZXM9NzIwJmlkPTIwMy45Ni4yNDEuMTcyJnN0cm1fbGVuPTU|referer=https://gameshdlive.net/
+#EXTINF:-1 tvg-id="" tvg-name="Arsenal Vs Lens (2:30 AM)" tvg-logo="http://familyiptv.xyz:25461/images/c29363de92177e8f9491fa6df5b02007.jpg" group-title="Today Live",Arsenal Vs Lens (2:30 AM) link 3
+https://headlinessportsfoot.com/chunklist/hlsch2.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Bayern München Vs FC København (2:30 AM)" tvg-logo="http://familyiptv.xyz:25461/images/8d4f7160014793e3b409e91785fddb65.jpg" group-title="Today Live",Bayern München Vs FC København (2:30 AM)
 https://hls.streambtw.com/live/stream_1.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Benfica Vs Inter (2:30 AM)" tvg-logo="http://familyiptv.xyz:25461/images/4d6bfd62cf67e3ca7b7b926950783dc9.jpg" group-title="Today Live",Benfica Vs Inter (2:30 AM)
 https://hls.streambtw.com/live/stream_5.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Braga Vs Union Berlin (2:30 AM)" tvg-logo="http://familyiptv.xyz:25461/images/4ec3889878d1c708aba44ad33a69cce7.jpg" group-title="Today Live",Braga Vs Union Berlin (2:30 AM)
 https://hls.streambtw.com/live/stream_4.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Real Madrid Vs Napoli (2:30 AM)" tvg-logo="http://familyiptv.xyz:25461/images/cd55de0b2cc4b286fc40e529f4a1d51e.jpg" group-title="Today Live",Real Madrid Vs Napoli (2:30 AM)
+#EXTINF:-1 tvg-id="" tvg-name="Real Madrid Vs Napoli (2:30 AM)" tvg-logo="http://familyiptv.xyz:25461/images/cd55de0b2cc4b286fc40e529f4a1d51e.jpg" group-title="Today Live",Real Madrid Vs Napoli (2:30 AM) link 1
 https://hls.streambtw.com/live/stream_3.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Real Madrid Vs Napoli (2:30 AM)" tvg-logo="http://familyiptv.xyz:25461/images/cd55de0b2cc4b286fc40e529f4a1d51e.jpg" group-title="Today Live",Real Madrid Vs Napoli (2:30 AM) link 2
+https://headlinessportsfoot.com/chunklist/hlsch3.m3u8
 #EXTINF:-1 tvg-logo="https://mrfixitstips.co.uk/wp-content/uploads/2023/11/MRF2023_Real-Sociedad-v-RB-Salzburg.jpg" group-title="Today Live",Real Sociedad Vs Salzburg (2:30 AM)
 https://hls.streambtw.com/live/stream_6.m3u8
 
@@ -92,23 +98,23 @@ https://webudit.hlsjs.ru/lb/premium66/index.m3u8?|referer=weblivehdplay.ru/
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=82f8e2a17dac44c0a18f660479349c59:1b144f73e6fefe91cd05f850e2b589d0
 https://dce-fs-live-dazn-cdn.dazn.com/dashdrm/dazn-linear-054/stream.mpd
-#EXTINF:-1 group-title="Football Special⚽" tvg-logo="https://i.ibb.co/JpGPnd6/eleven2.png", Eleven Sports 2 (EPL/CL) #only can play with ott player
+#EXTINF:-1 group-title="Football Special⚽" tvg-logo="https://i.ibb.co/JpGPnd6/eleven2.png", Eleven Sports 2 (EPL/CL) ⭐ #only can play with ott player
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=82f8e2a17dac44c0a18f660479349c59:1b144f73e6fefe91cd05f850e2b589d0
 https://dce-fs-live-dazn-cdn.dazn.com/dashdrm/dazn-linear-055/stream.mpd
-#EXTINF:-1 group-title="Football Special⚽" tvg-logo="https://i.ibb.co/TWhTFW8/eleven3.png", Eleven Sports 3 (CL) #only can play with ott player
+#EXTINF:-1 group-title="Football Special⚽" tvg-logo="https://i.ibb.co/TWhTFW8/eleven3.png", Eleven Sports 3 (CL) ⭐ #only can play with ott player
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=82f8e2a17dac44c0a18f660479349c59:1b144f73e6fefe91cd05f850e2b589d0
 https://dce-fs-live-dazn-cdn.dazn.com/dashdrm/dazn-linear-056/stream.mpd
-#EXTINF:-1 group-title="Football Special⚽" tvg-logo="https://i.ibb.co/FW3fsK6/eleven4.png", Eleven Sports 4 (CL) #only can play with ott player
+#EXTINF:-1 group-title="Football Special⚽" tvg-logo="https://i.ibb.co/FW3fsK6/eleven4.png", Eleven Sports 4 (CL) ⭐ #only can play with ott player
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=82f8e2a17dac44c0a18f660479349c59:1b144f73e6fefe91cd05f850e2b589d0
 https://dce-fs-live-dazn-cdn.dazn.com/dashdrm/dazn-linear-057/stream.mpd
-#EXTINF:-1 group-title="Football Special⚽" tvg-logo="https://i.ibb.co/8rq35Zg/eleven5.png", Eleven Sports 5 (CL) #only can play with ott player
+#EXTINF:-1 group-title="Football Special⚽" tvg-logo="https://i.ibb.co/8rq35Zg/eleven5.png", Eleven Sports 5 (CL) ⭐ #only can play with ott player
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=82f8e2a17dac44c0a18f660479349c59:1b144f73e6fefe91cd05f850e2b589d0
 https://dce-fs-live-dazn-cdn.dazn.com/dashdrm/dazn-linear-058/stream.mpd
-#EXTINF:-1 group-title="Football Special⚽" tvg-logo="https://i.ibb.co/M2tbfJV/eleven6.png", Eleven Sports 6 (CL) #only can play with ott player
+#EXTINF:-1 group-title="Football Special⚽" tvg-logo="https://i.ibb.co/M2tbfJV/eleven6.png", Eleven Sports 6 (CL) ⭐ #only can play with ott player
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=82f8e2a17dac44c0a18f660479349c59:1b144f73e6fefe91cd05f850e2b589d0
 https://dce-fs-live-dazn-cdn.dazn.com/dashdrm/dazn-linear-059/stream.mpd
