@@ -1,15 +1,4 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="" tvg-name="AEK Athens Vs Brighton & Hove Albion (12:15 AM)" tvg-logo="http://familyiptv.xyz:25461/images/d1c83cbcced9529f7f8ea36fd7a7be23.png" group-title="Today Live",AEK Athens Vs Brighton & Hove Albion (12:15 AM)
-https://webudit.webhd.ru/lb/premium32/index.m3u8?|referer=weblivehdplay.ru/
-#EXTINF:-1 tvg-id="" tvg-name="TSC Backa Topola Vs West Ham United (12:15 AM)" tvg-logo="http://familyiptv.xyz:25461/images/94d801c0f0194463b90b9cdb59097ae1.jpg" group-title="Today Live",TSC Backa Topola Vs West Ham United (12:15 AM)
-https://hls.streambtw.com/live/stream_10.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Liverpool Vs LASK (2:30 AM)" tvg-logo="http://familyiptv.xyz:25461/images/a2dc927a803557de8d5e0a94eed91c91.jpg" group-title="Today Live",Liverpool Vs LASK (2:30 AM) link 1
-https://webudit.webhd.ru/lb/premium31/index.m3u8?|referer=weblivehdplay.ru/
-#EXTINF:-1 tvg-id="" tvg-name="Liverpool Vs LASK (2:30 AM)" tvg-logo="http://familyiptv.xyz:25461/images/a2dc927a803557de8d5e0a94eed91c91.jpg" group-title="Today Live",Liverpool Vs LASK (2:30 AM) link 2
-https://hls.streambtw.com/live/stream_1.m3u8
-#EXTINF:-1 tvg-logo="https://api.sofascore.app/api/v1/event/11608887/share-image/16x9" group-title="Today Live",Aston Villa vs Legia Warszawa (2:30 AM)
-https://webudit.webhd.ru/lb/premium32/index.m3u8?|referer=weblivehdplay.ru/
-
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/tt/true-premiere-football-hd-1-th.png" group-title="Football Special⚽", True Premier 1 
 https://edge1.laotv.la/live/TSport1/index.m3u8
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/tt/true-premiere-football-hd-2-th.png" group-title="Football Special⚽", True Premier 2 
@@ -88,10 +77,12 @@ https://webudit.webhd.ru/lb/premium139/index.m3u8?|referer=weblivehdplay.ru/
 https://webudit.hlsjs.ru/lb/premium131/index.m3u8?|referer=weblivehdplay.ru/
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/TUDN_Logo.svg/2560px-TUDN_Logo.svg.png" group-title="Football Special⚽", TUDN (UCL)
 https://webudit.hlsjs.ru/lb/premium66/index.m3u8?|referer=weblivehdplay.ru/
-#EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/cs/etc/blank-icon.png" group-title="Football Special⚽", Fox Sports 1
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/2015_Fox_Sports_1_logo.svg/1200px-2015_Fox_Sports_1_logo.svg.png" group-title="Football Special⚽", Fox Sports 1
 https://webudit.webhd.ru/lb/premium39/index.m3u8?|referer=weblivehdplay.ru/
-#EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/cs/etc/blank-icon.png" group-title="Football Special⚽", Fox Sports 2
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/FS2_logo_2015.svg/800px-FS2_logo_2015.svg.png" group-title="Football Special⚽", Fox Sports 2
 https://webudit.webhd.ru/lb/premium758/index.m3u8?|referer=weblivehdplay.ru/
+#EXTINF:-1 tvg-logo="https://content.sportslogos.net/news/2015/11/cbs-sports-new-logo.jpg" group-title="Football Special⚽", CBS Sports (UCL)
+https://webudit.webhd.ru/lb/premium308/index.m3u8?|referer=weblivehdplay.ru/
 
 #EXTINF:-1 group-title="Football Special⚽"  tvg-logo="https://i.ibb.co/JRvJdR6/eleven1.png", Eleven Sports 1 FHD 50fps (EPL/UCL) ⭐ #only can play with ott player
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
