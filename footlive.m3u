@@ -1,19 +1,4 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="" tvg-name="Arsenal Vs Wolverhampton Wanderers (9:30 PM)" tvg-logo="http://familyiptv.xyz:25461/images/3f3ae2c6019951f44348f1fd7cc1314f.png" group-title="Today Live",Arsenal Vs Wolverhampton Wanderers (9:30 PM) link 1
-https://hls.streambtw.com/live/stream_1.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Arsenal Vs Wolverhampton Wanderers (9:30 PM)" tvg-logo="http://familyiptv.xyz:25461/images/3f3ae2c6019951f44348f1fd7cc1314f.png" group-title="Today Live",Arsenal Vs Wolverhampton Wanderers (9:30 PM) link 2
-https://freegamestreams.in/live/abr_ch5/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTIvMi8yMDIzIDEyOjAzOjEyIFBNJmhhc2hfdmFsdWU9TzlkK2N4emVWY2ovZnp5U2djN2tkUT09JnZhbGlkbWludXRlcz03MjAmaWQ9MTcyLjcwLjE0Mi4xNzEmc3RybV9sZW49NQ|referer=https://gameshdlive.net/
-#EXTINF:-1 tvg-id="" tvg-name="Brentford Vs Luton Town (9:30 PM)" tvg-logo="http://familyiptv.xyz:25461/images/980a8ab287a2b7de44bf75e68ac27db2.jpg" group-title="Today Live",Brentford Vs Luton Town (9:30 PM)
-https://hls.streambtw.com/live/stream_2.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Burnley Vs Sheffield United (9:30 PM)" tvg-logo="http://familyiptv.xyz:25461/images/ce4046b9c154bec9a72ca7b1a38196db.jpg" group-title="Today Live",Burnley Vs Sheffield United (9:30 PM)
-https://hls.streambtw.com/live/stream_3.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Nottingham Forest Vs Everton (12:00 AM)" tvg-logo="http://familyiptv.xyz:25461/images/21bcbdda1240f3ff588abeff7528274f.jpg" group-title="Today Live",Nottingham Forest Vs Everton (12:00 AM)
-https://hls.streambtw.com/live/stream_1.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Newcastle United Vs Manchester United (2:30 AM)" tvg-logo="http://familyiptv.xyz:25461/images/dbbc530729bb8b8a86e2a2eb8c6f11ee.png" group-title="Today Live",Newcastle United Vs Manchester United (2:30 AM) link 1
-https://hls.streambtw.com/live/stream_1.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Newcastle United Vs Manchester United (2:30 AM)" tvg-logo="http://familyiptv.xyz:25461/images/dbbc530729bb8b8a86e2a2eb8c6f11ee.png" group-title="Today Live",Newcastle United Vs Manchester United (2:30 AM) link 2
-https://freegamestreams.in/live/abr_ch5/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTIvMi8yMDIzIDEyOjI0OjE2IFBNJmhhc2hfdmFsdWU9ckR0V1V6eDRuK2ZNMnZCUU9iM0lSQT09JnZhbGlkbWludXRlcz03MjAmaWQ9MTcyLjY5LjE2NS4zNCZzdHJtX2xlbj01|referer=https://gameshdlive.net/
-
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/tt/true-premiere-football-hd-1-th.png" group-title="Football Special⚽", True Premier 1 
 https://edge1.laotv.la/live/TSport1/index.m3u8
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/tt/true-premiere-football-hd-2-th.png" group-title="Football Special⚽", True Premier 2 
