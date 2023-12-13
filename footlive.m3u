@@ -39,13 +39,13 @@ https://webudit.webhd.ru/lb/premium401/index.m3u8?|referer=weblivehdplay.ru/
 https://webudit.webhd.ru/lb/premium402/index.m3u8?|referer=weblivehdplay.ru/
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/b6/Digi_Sport_4_2012.svg/revision/latest/scale-to-width-down/1200?cb=20230203052148" group-title="Football Special⚽", Digi Sport 4 
 https://webudit.webhd.ru/lb/premium403/index.m3u8?|referer=weblivehdplay.ru/
-#EXTINF:-1 tvg-logo="https://www.stream-link.org/tv_logo/astro_supersport.png" group-title="Football Special⚽", Astro Supersport 1 @webu (EPL)
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/portal/picon/2020-12/56d8756215a55bb4bc650428934f45d4.png" group-title="Football Special⚽", Astro Supersport 1 @webu (EPL)
 https://webudit.webhd.ru/lb/premium123/index.m3u8?|referer=weblivehdplay.ru/
-#EXTINF:-1 tvg-logo="https://www.stream-link.org/tv_logo/astro_supersport2.png" group-title="Football Special⚽", Astro Supersport 2 @webu
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/portal/picon/2020-12/601d9900ec857fb5c10762208e18f474.png" group-title="Football Special⚽", Astro Supersport 2 @webu
 https://webudit.webhd.ru/lb/premium124/index.m3u8?|referer=weblivehdplay.ru/
-#EXTINF:-1 tvg-logo="https://www.stream-link.org/tv_logo/astro_supersport3.png" group-title="Football Special⚽", Astro Supersport 3 @webu
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/portal/picon/2020-12/c450e8241eb19fdbc99b78c96be08c2d.png" group-title="Football Special⚽", Astro Supersport 3 @webu
 https://webudit.webhd.ru/lb/premium125/index.m3u8?|referer=weblivehdplay.ru/
-#EXTINF:-1 tvg-logo="https://www.stream-link.org/tv_logo/astro_supersport4.png" group-title="Football Special⚽", Astro Supersport 4 @webu
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/portal/picon/2020-12/a24abde2dc683d551ebfae1f0820315c.png" group-title="Football Special⚽", Astro Supersport 4 @webu
 https://webudit.webhd.ru/lb/premium126/index.m3u8?|referer=weblivehdplay.ru/
 #EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-09/dbe88e53a72f505010f15f778a3fd4c9.png" group-title="Football Special⚽", ELEVEN SPORTS 1 @webu (EPL/UCL) ⭐
 https://webudit.hlsjs.ru/lb/premium455/index.m3u8?|referer=weblivehdplay.ru/
@@ -150,20 +150,10 @@ https://bcovlive-a.akamaihd.net/r2d2c4ca5bf57456fb1d16255c1a535c8/eu-west-1/6058
 
 #EXTINF:-1 tvg-logo="https://www.myanmartvchannels.com/assets/cache/images/channeliconb/mahar-80x80-1ee.jpg" group-title="Myanmar Channel", Mahar
 https://tv.mahar.live/mahar/website.stream/mahar/website1/chunks.m3u8
-#EXTINF:-1 tvg-logo="https://www.myanmartvchannels.com/assets/cache/images/channeliconb/mrtv42-80x80-83b.jpg" group-title="Myanmar Channel", MRTV 4
-https://5a13fe32ef748.streamlock.net/mmplay/mrtv-4/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://www.myanmartvchannels.com/assets/cache/images/channeliconb/channel7-80x80-83b.jpg" group-title="Myanmar Channel", Channel 7
-https://5a13fe32ef748.streamlock.net/mmplay/channel7/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/0298wKN6/IMG-20231018-103909.png" group-title="Myanmar Channel", Channel K
 https://l1-xl1.myanmarnet.com/relay/channelk/ch1/stream_hi/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/7Y1VZ6sY/IMG-20231018-104401.png" group-title="Myanmar Channel", Channel Me
-https://5a13fe32ef748.streamlock.net/mmplay/mrtv-entertainment/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/wvs58TRz/IMG-20231018-104308.png" group-title="Myanmar Channel", 5 Plus
-https://5a13fe32ef748.streamlock.net/mmplay/5plus/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/GpHqMr4y/IMG-20231018-134533.png" group-title="Myanmar Channel", MCS
 https://l1-xl1.myanmarnet.com/relay2/mcs/ch1/stream_standard/index.m3u8
-#EXTINF:-1 tvg-logo="https://www.myanmartvchannels.com/assets/images/channeliconb/mitv.jpg" group-title="Myanmar Channel", MITV
-https://5a13fe32ef748.streamlock.net/mmplay/mitv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.myanmartvchannels.com/assets/cache/images/channeliconb/mntv-120x120-dda.jpg" group-title="Myanmar Channel", MNTV
 https://l1-xl1.myanmarnet.com/relay/mntv/ch1/stream.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/VvR9mxkb/Picsart-22-11-20-15-21-13-205.png" group-title="Myanmar Channel",TVM
