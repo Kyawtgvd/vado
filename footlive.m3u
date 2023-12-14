@@ -108,6 +108,35 @@ https://dce-fs-live-dazn-cdn.dazn.com/dashdrm/dazn-linear-058/stream.mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=82f8e2a17dac44c0a18f660479349c59:1b144f73e6fefe91cd05f850e2b589d0
 https://dce-fs-live-dazn-cdn.dazn.com/dashdrm/dazn-linear-059/stream.mpd
+#EXTINF:-1 group-title="Football Special⚽" tvg-logo="https://image.discovery.indazn.com/ca/v2/ca/image?id=185037893738_image-header_pRow_1688019824000&quality=70", Play Sports 1 (EPL) ⭐ #only can play with ott player
+#EXTVLCOPT:http-referer=https://widevine.licenses4.me/\u0026User-agent\u003dREDLINECLIENT
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=82f8e2a17dac44c0a18f660479349c59:1b144f73e6fefe91cd05f850e2b589d0
+https://dce-fs-live-dazn-cdn.dazn.com/dashdrm/dazn-linear-051/stream.mpd
+#EXTINF:-1 group-title="Football Special⚽" tvg-logo="https://image.discovery.indazn.com/ca/v2/ca/image?id=185038405651_image-header_pRow_1688020142000&quality=70", Play Sports 2 (EPL) ⭐ #only can play with ott player
+#EXTVLCOPT:http-referer=https://widevine.licenses4.me/\u0026User-agent\u003dREDLINECLIENT
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=82f8e2a17dac44c0a18f660479349c59:1b144f73e6fefe91cd05f850e2b589d0
+https://dce-fs-live-dazn-cdn.dazn.com/dashdrm/dazn-linear-052/stream.mpd
+#EXTINF:-1 group-title="Football Special⚽" tvg-logo="https://image.discovery.indazn.com/ca/v2/ca/image?id=185037893736_image-header_pRow_1688020143000&quality=70", Play Sports 3 (EPL) ⭐ #only can play with ott player
+#EXTVLCOPT:http-referer=https://widevine.licenses4.me/\u0026User-agent\u003dREDLINECLIENT
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=82f8e2a17dac44c0a18f660479349c59:1b144f73e6fefe91cd05f850e2b589d0
+https://dce-fs-live-dazn-cdn.dazn.com/dashdrm/dazn-linear-053/stream.mpd
+#EXTINF:-1 group-title="Football Special⚽" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTtcOBnVPQx9X72D7OraZYIRKPIguq28mHRB1jd_GFqyg&s", Dazn De 1 ⭐ #only can play with ott player
+#EXTVLCOPT:http-referer=https://widevine.licenses4.me/\u0026User-agent\u003dREDLINECLIENT
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=82f8e2a17dac44c0a18f660479349c59:1b144f73e6fefe91cd05f850e2b589d0
+https://dce-ak-livewwdazn.akamaized.net/dashdrm/dazn-linear-017/stream.mpd
+#EXTINF:-1 group-title="Football Special⚽" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQxEKA5ZclM4JFycvICaVZe0dNE4UvoqzrArr9We6hw7Q&s", Dazn De 2 ⭐ #only can play with ott player
+#EXTVLCOPT:http-referer=https://widevine.licenses4.me/\u0026User-agent\u003dREDLINECLIENT
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=82f8e2a17dac44c0a18f660479349c59:1b144f73e6fefe91cd05f850e2b589d0
+https://dce-ak-livewwdazn.akamaized.net/dashdrm/dazn-linear-018/stream.mpd
+#EXTINF:-1 group-title="Football Special⚽" tvg-logo="https://i.ibb.co/zh18bLM/DAZN.png", Dazn Eleven ⭐ #only can play with ott player
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=82f8e2a17dac44c0a18f660479349c59:1b144f73e6fefe91cd05f850e2b589d0 
+https://dce-fs-live-dazn-cdn.dazn.com/dashdrm/dazn-linear-049/stream.mpd
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ss/sony-sports-ten-1-in.png" group-title="Sport", Sony Ten Sport 1
 https://dai.google.com/linear/hls/event/6WhVNGKTRXyu588zZv1Lkg/master.m3u8
@@ -187,6 +216,71 @@ https://ctrl.laotv.la/live/Cinemax/index.m3u8
 http://ctrl.laotv.la/live/StarMovie/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Fight_network_logo.svg/1200px-Fight_network_logo.svg.png" group-title="International Channel", Fight Network 
 https://d12a2vxqkkh1bo.cloudfront.net/hls/main.m3u8
+
+#EXTINF:-1 tvg-logo="http://zegomovie.com/Uploads/vod/2023-12-06/656ff98366baa.jpg" group-title="MOVIES", Mariam (2023)
+http://www.zegomovie.com/Videos/Mariam22/index.m3u8
+#EXTINF:-1 tvg-logo="http://zegomovie.com/Uploads/vod/2023-11-24/6560291c4d4f0.jpg" group-title="MOVIES", Aarya 2 (2009)
+http://www.zegomovie.com/Videos/Arya209/index.m3u8
+#EXTINF:-1 tvg-logo="http://zegomovie.com/Uploads/vod/2023-11-28/6565c19696ee3.jpg" group-title="MOVIES", Detective Karthik (2023)
+http://www.zegomovie.com/Videos/DetectiveKarthik23/index.m3u8
+#EXTINF:-1 tvg-logo="http://zegomovie.com/Uploads/vod/2023-11-23/655eccd414299.jpg" group-title="MOVIES", Hadik (2023)
+http://www.zegomovie.com/Videos/Hadik23/index.m3u8
+#EXTINF:-1 tvg-logo="http://zegomovie.com/Uploads/vod/2023-11-30/6568145eefcf9.jpg" group-title="MOVIES", Dahanam (2023)
+http://www.zegomovie.com/Videos/Dahanam23/index.m3u8
+#EXTINF:-1 tvg-logo="http://zegomovie.com/Uploads/vod/2023-12-06/657031cda8f13.jpg" group-title="MOVIES", The Legend of Detective Sleek (2016)
+http://www.zegomovie.com/Videos/Rat1TheBloodyCity16/index.m3u8
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BZDRjZWRkODUtYTZiZi00YzIzLWJmNzEtMjk4MWI2YmZlMjNmXkEyXkFqcGdeQXVyMzQwMTY2Nzk@._V1_FMjpg_UX1000_.jpg" group-title="MOVIES", Night Raiders (2021)
+http://www.zegomovie.com/Videos/NightRaiders/index.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTXh9znC5ilK9nTkELO7GZGUpIkHwAy8BEkHw&usqp=CAU" group-title="MOVIES", Red Notice (2021)
+http://www.zegomovie.com/Videos/RedNotice/index.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRvMhDRZBUo9-N8x0-P2be1O1g6CqCTOhfOvg&usqp=CAU" group-title="MOVIES", No Time to Die (2021)
+http://www.zegomovie.com/Videos/NoTimetoDie/index.m3u8
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BYTc3ZTAwYTgtMmM4ZS00MDRiLWI2Y2EtYmRiZmE0YjkzMGY1XkEyXkFqcGdeQXVyMDA4NzMyOA@@._V1_FMjpg_UX1000_.jpg" group-title="MOVIES", Venom2 (2021)
+http://www.zegomovie.com:80/Videos/Venom2/index.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT2QRNwOyJHEzctOjrtXptEHObJPDzjvi6jjg&usqp=CAU" group-title="MOVIES", Raging Fire (2021)
+http://www.zegomovie.com:80/Videos/RagingFire/index.m3u8
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BOTBhZWEyMzEtNmI1ZC00MDEzLThjZjItM2ViZjBkNjU0ZWQyXkEyXkFqcGdeQXVyMTMwMjc2MjI1._V1_FMjpg_UX1000_.jpg" group-title="MOVIES", Flight (2021)
+http://www.zegomovie.com:80/Videos/Flight/index.m3u8
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BZmE4ZmEwOWMtNmZkZi00NjU3LTg1NmQtODQ1NDA1YTI2MDAyXkEyXkFqcGdeQXVyMjQxNzY5NTc@._V1_.jpg" group-title="MOVIES", Show Me the Ghost (2021)
+http://www.zegomovie.com:80/Videos/ShowMetheGhost/index.m3u8
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BNjM4MTFiNzctY2RmOC00YzBkLTgzNTYtZGE4NDdjOWVjNGY5XkEyXkFqcGdeQXVyNzI0MTY5MQ@@._V1_FMjpg_UX1000_.jpg" group-title="MOVIES", The Strong Hold (2021)
+http://www.zegomovie.com:80/Videos/TheStronghold/index.m3u8
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BOTY2NzFjODctOWUzMC00MGZhLTlhNjMtM2Y2ODBiNGY1ZWRiXkEyXkFqcGdeQXVyMDM2NDM2MQ@@._V1_.jpg" group-title="MOVIES", Free Guy (2021)
+http://www.zegomovie.com:80/Videos/FreeGuy/index.m3u8
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BZGYwYTQxZWEtYzAwNy00NmM4LWE4MDUtYTU5ZTVmYjY4ZTAwXkEyXkFqcGdeQXVyMTA3MDk2NDg2._V1_.jpg" group-title="MOVIES", Bell Bottom (2021)
+http://www.zegomovie.com:80/Videos/BellBottom/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.mydramalist.com/EWd7m_4c.jpg?v=1" group-title="MOVIES", Break Through (2021)
+http://www.zegomovie.com:80/Videos/BreakThrough/index.m3u8
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BMjVlYzJhMGQtZjMzNC00ZDc1LWFjZDMtZDk1ZTQxZTdhNDZjXkEyXkFqcGdeQXVyNzEyMTA5MTU@._V1_FMjpg_UX1000_.jpg" group-title="MOVIES", The Medium (2021)
+http://www.zegomovie.com:80/Videos/TheMedium/index.m3u8
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BNjRlYjY4MjYtODlkNS00OWUxLWI3YzgtZTIzZGU0ZGE5ODMzXkEyXkFqcGdeQXVyODEyNjEwMDk@._V1_.jpg" group-title="MOVIES", Kaadan (2021)
+http://www.zegomovie.com:80/Videos/Kaadan/index.m3u8
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BMTBjNDRmNTktYWY1Ny00ODE4LTk5MjEtNGQ4OWFmZDZlZTVlXkEyXkFqcGdeQXVyMTEwODEzNTU@._V1_FMjpg_UX1000_.jpg" group-title="MOVIES", Sink Hole (2021)
+http://www.zegomovie.com/Videos/Sinkhole/index.m3u8
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BNTMyNzQ4MmUtMmJiYy00YjlmLWJiMzktNjc1MGNlMzBjYjhiXkEyXkFqcGdeQXVyMDA4NzMyOA@@._V1_.jpg" group-title="MOVIES", The Card Counter (2021)
+http://www.zegomovie.com/Videos/TheCardCounter/index.m3u8
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BY2E4MmNmMzgtOTI2YS00MzhjLTlmOWItZTkxNWRkYTY2NDcwXkEyXkFqcGdeQXVyNjY1MTg4Mzc@._V1_FMjpg_UX1000_.jpg" group-title="MOVIES", Night Book (2021)
+http://www.zegomovie.com/Videos/Nightbooks/index.m3u8
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BNzY2OTYwNjItYzczMC00YjYzLThmY2MtZGFhNmVmMzUzN2QyXkEyXkFqcGdeQXVyNjY1MTg4Mzc@._V1_.jpg" group-title="MOVIES", Paw Patrol (2021)
+http://www.zegomovie.com/Videos/PAWPatrolTheMovie/index.m3u8
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BNGQ2MTQ3ZjQtZmRjMS00ZDJmLTlkYWQtOWVhODllYjJiNGUxXkEyXkFqcGdeQXVyODk4OTc3MTY@._V1_FMjpg_UX1000_.jpg" group-title="MOVIES", The Protege (2021)
+http://www.zegomovie.com/Videos/TheProtege/index.m3u8
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BY2ZlNGYyOTYtZDVjOS00MTIyLThiMWItOTViYTcxYmNjMWY4XkEyXkFqcGdeQXVyNTM0MDc1ODE@._V1_FMjpg_UX1000_.jpg" group-title="MOVIES", The Rebal of PT-218 (2021)
+http://www.zegomovie.com/Videos/TheRebelsofPT218/index.m3u8
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BNjJmMzYyN2ItMzU0NS00MmYyLWI0ZDQtMjFmMWJkYWQ2YjYwXkEyXkFqcGdeQXVyNjY1MTg4Mzc@._V1_FMjpg_UX1000_.jpg" group-title="MOVIES", Sherni (2021)
+http://www.zegomovie.com/Videos/Sherni/index.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTFo5ROKwqLj_koDNtcbOveEDQp7Ck2h92pCg&usqp=CAU" group-title="MOVIES", Bhoot Police (2021)
+http://www.zegomovie.com/Videos/BhootPolice/index.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS1hlO0OixxRfRas8a-Dk6p3QLejXbfHZE4jg&usqp=CAU" group-title="MOVIES", Tuck Jagadish (2021)
+http://www.zegomovie.com/Videos/TuckJagadish/index.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSme9OsGV6PwkTNqLepLNNQY01_gnFbPL7L2g&usqp=CAU" group-title="MOVIES", Kate (2022)
+http://www.zegomovie.com/Videos/Kate/index.m3u8
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BMTg2NzQwMzQyMF5BMl5BanBnXkFtZTgwNzkzODk2ODE@._V1_.jpg" group-title="MOVIES", Pele (2021)
+http://www.zegomovie.com/Videos/Pele/index.m3u8
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BNTQ0NDQxYWItNDViYS00YmNmLWIxZjQtZmNlYmFhNmJiMWZlXkEyXkFqcGdeQXVyMTE4MDA1MTgx._V1_FMjpg_UX1000_.jpg" group-title="MOVIES", Here & There (2021)
+http://www.zegomovie.com/Videos/HereandThere/index.m3u8
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BMDE5NGU5N2UtYWEyNi00ZmEyLTk0MWQtYWZiZjZhM2MxMWNiXkEyXkFqcGdeQXVyNDcyMjA4MTA@._V1_FMjpg_UX1000_.jpg" group-title="MOVIES", Ready or Knot (2021)
+http://www.zegomovie.com/Videos/ReadyorNot/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="Afwaah (2023)" tvg-logo="http://familyiptv.xyz:25461/images/e309493538cabfcc52ea8b94a0bfc2ac.jpg" group-title="Bollywood ",Afwaah (2023)
 http://familyiptv.xyz:25461/movie/familyhomeiptv/familyhomeiptv/14.mp4
