@@ -217,6 +217,26 @@ http://ctrl.laotv.la/live/StarMovie/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Fight_network_logo.svg/1200px-Fight_network_logo.svg.png" group-title="International Channel", Fight Network 
 https://d12a2vxqkkh1bo.cloudfront.net/hls/main.m3u8
 
+#EXTINF:-1 tvg-logo="http://zegomovie.com/Uploads/vod/2023-11-18/655845ebddfde.jpg" group-title="MOVIES", Ghost (2023)
+http://www.zegomovie.com/Videos/Ghost23/index.m3u8
+#EXTINF:-1 tvg-logo="http://zegomovie.com/Uploads/vod/2023-12-13/6579689b1914b.jpg" group-title="MOVIES", Iron Mask (2023)
+http://www.zegomovie.com/Videos/IRONMASK23/index.m3u8
+#EXTINF:-1 tvg-logo="http://zegomovie.com/Uploads/vod/2023-01-28/63d4e8e1445b3.png" group-title="MOVIES", Ninja || (2013)
+http://www.zegomovie.com/Videos/Ninja/index.m3u8
+#EXTINF:-1 tvg-logo="http://zegomovie.com/Uploads/vod/2023-09-01/64f170bb2b4b5.png" group-title="MOVIES", The Three Musketeers: DArtagnan (2023)
+http://www.zegomovie.com/Videos/TheThreeMusketeersDArtagnan23/index.m3u8
+#EXTINF:-1 tvg-logo="http://zegomovie.com/Uploads/vod/2023-11-10/654e0ab19450f.png" group-title="MOVIES", Pippa (2023)
+http://www.zegomovie.com/Videos/Pippa23/index.m3u8
+#EXTINF:-1 tvg-logo="http://zegomovie.com/Uploads/vod/2023-11-04/6545d4954107a.jpg" group-title="MOVIES", Raththam (2023)
+http://www.zegomovie.com/Videos/Raththam23/index.m3u8
+#EXTINF:-1 tvg-logo="http://zegomovie.com/Uploads/vod/2023-10-27/653b6e46c3e61.png" group-title="MOVIES", I killed Bapu (2023)
+http://www.zegomovie.com/Videos/IKilledBapu/index.m3u8
+#EXTINF:-1 tvg-logo="http://zegomovie.com/Uploads/vod/2023-10-26/653a3d45394f1.png" group-title="MOVIES", Case 30 (2023)
+http://www.zegomovie.com/Videos/Case3023/index.m3u8
+#EXTINF:-1 tvg-logo="http://zegomovie.com/Uploads/vod/2023-10-16/652ce5cee9c88.jpg" group-title="MOVIES", Kasargold (2023)
+http://www.zegomovie.com/Videos/Kasargold23/index.m3u8
+#EXTINF:-1 tvg-logo="http://zegomovie.com/Uploads/vod/2023-10-23/6536466bb340b.jpg" group-title="MOVIES", Thudikkum Karangal (2023)
+http://www.zegomovie.com/Videos/ThudikkumKarangal23/index.m3u8
 #EXTINF:-1 tvg-logo="http://zegomovie.com/Uploads/vod/2023-12-06/656ff98366baa.jpg" group-title="MOVIES", Mariam (2023)
 http://www.zegomovie.com/Videos/Mariam22/index.m3u8
 #EXTINF:-1 tvg-logo="http://zegomovie.com/Uploads/vod/2023-11-24/6560291c4d4f0.jpg" group-title="MOVIES", Aarya 2 (2009)
@@ -277,8 +297,6 @@ http://www.zegomovie.com/Videos/TuckJagadish/index.m3u8
 http://www.zegomovie.com/Videos/Kate/index.m3u8
 #EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BMTg2NzQwMzQyMF5BMl5BanBnXkFtZTgwNzkzODk2ODE@._V1_.jpg" group-title="MOVIES", Pele (2021)
 http://www.zegomovie.com/Videos/Pele/index.m3u8
-#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BNTQ0NDQxYWItNDViYS00YmNmLWIxZjQtZmNlYmFhNmJiMWZlXkEyXkFqcGdeQXVyMTE4MDA1MTgx._V1_FMjpg_UX1000_.jpg" group-title="MOVIES", Here & There (2021)
-http://www.zegomovie.com/Videos/HereandThere/index.m3u8
 #EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BMDE5NGU5N2UtYWEyNi00ZmEyLTk0MWQtYWZiZjZhM2MxMWNiXkEyXkFqcGdeQXVyNDcyMjA4MTA@._V1_FMjpg_UX1000_.jpg" group-title="MOVIES", Ready or Knot (2021)
 http://www.zegomovie.com/Videos/ReadyorNot/index.m3u8
 
