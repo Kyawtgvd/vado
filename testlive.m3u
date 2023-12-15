@@ -162,6 +162,71 @@ http://168.227.22.18:1935/live/mobile-031/playlist.m3u8
 #EXTINF:-1  group-title="SD CHANNEL", FOX SPORTS 3 mx
 http://168.227.22.18:1935/live/mobile-108/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="" group-title="BZ",Sky Net Sport
+http://bananatv.org:25461/play/wVoZP52jvqdylF92agMAl_tmRInFc666DjNNMcN2r2A/ts
+#EXTINF:-1 tvg-logo="" group-title="BZ",True EPL 1 
+http://bananatv.org:25461/play/wVoZP52jvqdylF92agMAl6vODet0UhCkcq4RTCw19J8/ts
+#EXTINF:-1 tvg-logo="" group-title="BZ",True EPL 2
+http://bananatv.org:25461/play/wVoZP52jvqdylF92agMAl9aWiGAqlnjg62yFgsUNQ9s/ts
+#EXTINF:-1 tvg-logo="" group-title="BZ",Orange Sport 2
+http://bananatv.org:25461/play/wVoZP52jvqdylF92agMAl-ouiKm7SGSarfLqLrbN-wM/ts
+#EXTINF:-1 tvg-logo="" group-title="BZ",Orange Sport 3
+http://bananatv.org:25461/play/wVoZP52jvqdylF92agMAlzcasgoAh0h4VhGrIIN5Y8I/ts
+#EXTINF:-1 tvg-logo="" group-title="BZ",FoxSport 1
+http://168.227.22.18:1935/live/mobile-010/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="BZ",FoxSport 2
+http://168.227.22.18:1935/live/mobile-031/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="BZ",Fox Sports 3 
+http://168.227.22.18:1935/live/mobile-108/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="BZ",Play sports 1
+http://bananatv.org:25461/play/wVoZP52jvqdylF92agMAl3kFWcXJMnJL8jNJaJSQam0/ts
+#EXTINF:-1 tvg-logo="" group-title="BZ",Play Sports 2
+http://bananatv.org:25461/play/wVoZP52jvqdylF92agMAl4Zz6iH0ZhEjSD_HVIZ0gD8/ts
+#EXTINF:-1 tvg-logo="" group-title="BZ",Play Sports 3
+http://bananatv.org:25461/play/wVoZP52jvqdylF92agMAl_vyENtwElmrR-k3yCB2cNM/ts
+#EXTINF:-1 tvg-logo="" group-title="BZ",ELEVEN 1
+http://bananatv.org:25461/play/wVoZP52jvqdylF92agMAl0jhbHCoZ2DEROILJ9hMs0I/ts
+#EXTINF:-1 tvg-logo="" group-title="BZ",ELEVEN 2
+http://bananatv.org:25461/play/wVoZP52jvqdylF92agMAly4sd80fs1ozee2e2e1NcfY/ts
+#EXTINF:-1 tvg-logo="" group-title="BZ",ELEVEN 3
+http://bananatv.org:25461/play/wVoZP52jvqdylF92agMAl5n-LPWoBHFOLfCR1wTQ2FU/ts
+#EXTINF:-1 tvg-logo="" group-title="BZ",ELEVEN 4
+http://bananatv.org:25461/play/wVoZP52jvqdylF92agMAlx-EhPlr8WOlJ4B86MWLGzk/ts
+#EXTINF:-1 tvg-logo="" group-title="BZ",ELEVEN 5
+http://bananatv.org:25461/play/wVoZP52jvqdylF92agMAl39AJNAepI9UuBkIPjrcg_Y/ts
+#EXTINF:-1 tvg-logo="" group-title="BZ",BBC Earth (Vietnam)
+http://vthanhtivi.pw:5000/bbcearth/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="BZ",UFC Network
+https://stream.ads.ottera.tv/cl/29fmbD4wgol0FelXaMeAw/854x480_550000_3_f.m3u8
+#EXTINF:-1 tvg-logo="" group-title="BZ",Hits Movies 1 (M-sub)
+http://bananatv.org:25461/play/wVoZP52jvqdylF92agMAl0LwRzb0a57Zk19e8HtvDZg/ts
+#EXTINF:-1 tvg-logo="" group-title="BZ",Hits Movies 2 (M-sub)
+http://bananatv.org:25461/play/wVoZP52jvqdylF92agMAlyNzciCVxOC9znorhDgImy4/ts
+#EXTINF:-1 tvg-logo="" group-title="BZ",Celestial Classic Movie (M-sub)
+http://bananatv.org:25461/play/wVoZP52jvqdylF92agMAl2E_WuNa1YtP3ULw8BlAxII/ts
+#EXTINF:-1 tvg-logo="" group-title="BZ",Asian Movies (M-Sub)
+http://bananatv.org:25461/play/wVoZP52jvqdylF92agMAl2T8pJEukxqbsLpfs0WONrY/ts
+#EXTINF:-1 tvg-logo="" group-title="BZ",Animax (M-sub)
+http://bananatv.org:25461/play/wVoZP52jvqdylF92agMAl0Xs6pnPcqI1nSbOp3leTTU/ts
+#EXTINF:-1 tvg-logo="" group-title="BZ",Kix (M-sub)
+http://bananatv.org:25461/play/wVoZP52jvqdylF92agMAlzS4zClO-WI6KmJ3Eb6s374/ts
+#EXTINF:-1 tvg-logo="" group-title="BZ",Animal Planet (M-Sub)
+http://bananatv.org:25461/play/wVoZP52jvqdylF92agMAlzGKxHjw_r8Dr_20jP-cw5I/ts
+#EXTINF:-1 tvg-logo="" group-title="BZ",Love Nature (M-Sub)
+http://bananatv.org:25461/play/wVoZP52jvqdylF92agMAlyQ-QyxNMV1AWJBwD9mOyWM/ts
+#EXTINF:-1 tvg-logo="" group-title="BZ",Discovery Asia (M-Sub)
+http://bananatv.org:25461/play/wVoZP52jvqdylF92agMAlz0FoUBz2wk3bMPyEl7JrYM/ts
+#EXTINF:-1 tvg-logo="" group-title="BZ",Sky Net Series 
+http://bananatv.org:25461/play/wVoZP52jvqdylF92agMAl1iKdlWHTCKMTuf2MEY6mb4/ts
+#EXTINF:-1 tvg-logo="" group-title="BZ",C+ SuSan
+http://bananatv.org:25461/play/wVoZP52jvqdylF92agMAlys5DTRyg6wmoWUu0jV0uRU/ts
+#EXTINF:-1 tvg-logo="" group-title="BZ",C+ MalMadi
+http://bananatv.org:25461/play/wVoZP52jvqdylF92agMAl95YzKMRRRsAABP-w2ZbLVA/ts
+#EXTINF:-1 tvg-logo="" group-title="BZ",C+ Action
+http://bananatv.org:25461/play/wVoZP52jvqdylF92agMAl9jC-hV6VBsnSV8EGVu1C3M/ts
+#EXTINF:-1 tvg-logo="" group-title="BZ",C+ ZatLan
+http://bananatv.org:25461/play/wVoZP52jvqdylF92agMAl7ftiFcxDQJkA9BjfzPKNc0/ts
+
 #EXTINF:-1 tvg-logo="https://logos-world.net/wp-content/uploads/2023/06/USA-Network-Symbol.png" group-title="Sport", USA Network (need vpn)
 https://us.score911.cc/us_usa/index.m3u8?|referer=https://aesport.tv/
 #EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-11/367ea46b760bdd8955db180204300052.png" group-title="Sport", Sky Sport Main Event (need vpn)
