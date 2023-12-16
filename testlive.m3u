@@ -227,6 +227,43 @@ http://bananatv.org:25461/play/wVoZP52jvqdylF92agMAl9jC-hV6VBsnSV8EGVu1C3M/ts
 #EXTINF:-1 tvg-logo="" group-title="BZ",C+ ZatLan
 http://bananatv.org:25461/play/wVoZP52jvqdylF92agMAl7ftiFcxDQJkA9BjfzPKNc0/ts
 
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-05/2d7119865b2ca6df10a38de08a4d6644.png" group-title="Test",Star Sport Select 1
+http://tuyullxt@mag.x-iptv.live/play/live.php?mac=00:1A:79:23:25:61&stream=1114583&extension=ts&play_token=tuyullxt@.ts
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-05/c82b1ed84b02cbae99a2a741355dd041.png" group-title="Test",Star Sport Select 2
+http://tuyullxt@mag.x-iptv.live/play/live.php?mac=00:1A:79:23:25:61&stream=1114584&extension=ts&play_token=tuyullxt@.ts
+#EXTINF:-1 tvg-logo="https://www.thesportsdb.com/images/media/channel/tvlogo/qoerty1659622111.png" group-title="Test",Hub Premier Sport 1
+http://tuyullxt@mag.x-iptv.live/play/live.php?mac=00:1A:79:23:25:61&stream=1032529&extension=ts&play_token=tuyullxt@.ts
+#EXTINF:-1 tvg-logo="https://www.thesportsdb.com/images/media/channel/tvlogo/sdvs4u1659622094.png" group-title="Test",Hub Premier Sport 2
+http://tuyullxt@mag.x-iptv.live/play/live.php?mac=00:1A:79:23:25:61&stream=1032528&extension=ts&play_token=tuyullxt@.ts
+#EXTINF:-1 tvg-logo="https://poster.starhubgo.com/Linear_Channels2/223_1920x1080_HTV.png" group-title="Test",Hub Premier Sport 3
+http://tuyullxt@mag.x-iptv.live/play/live.php?mac=00:1A:79:23:25:61&stream=1032527&extension=ts&play_token=tuyullxt@.ts
+
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-05/2d7119865b2ca6df10a38de08a4d6644.png" group-title="Test",Star Sport Select 1 (other)
+http://mag.x-iptv.live:80/play/live.php?mac=00:1A:79:23:25:61&stream=1114583&extension=ts&play_token=u93WCgYcc3
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-05/c82b1ed84b02cbae99a2a741355dd041.png" group-title="Test",Star Sport Select 2 (other)
+http://mag.x-iptv.live:80/play/live.php?mac=00:1A:79:23:25:61&stream=1114584&extension=ts&play_token=eDchsOldyd
+#EXTINF:-1 tvg-logo="https://www.thesportsdb.com/images/media/channel/tvlogo/qoerty1659622111.png" group-title="Test",Hub Premier Sport 1 (other)
+http://mag.x-iptv.live:80/play/live.php?mac=00:1A:79:23:25:61&stream=1032529&extension=ts&play_token=TwZXmHgBfr
+#EXTINF:-1 tvg-logo="https://www.thesportsdb.com/images/media/channel/tvlogo/sdvs4u1659622094.png" group-title="Test",Hub Premier Sport 2 (other)
+http://mag.x-iptv.live:80/play/live.php?mac=00:1A:79:23:25:61&stream=1032528&extension=ts&play_token=Uvbl0Rs9Fi
+#EXTINF:-1 tvg-logo="https://poster.starhubgo.com/Linear_Channels2/223_1920x1080_HTV.png" group-title="Test",Hub Premier Sport 3 (other)
+http://mag.x-iptv.live:80/play/live.php?mac=00:1A:79:23:25:61&stream=1032527&extension=ts&play_token=Uoilc5Y83g
+
+#EXTINF:-1 tvg-logo="https://www.nowtv.now.com/media/logo/600-wbg-e.png" group-title="Test",Now Sport Premier League
+http://mag.x-iptv.live:80/play/live.php?mac=00:1A:79:23:25:61&stream=1110622&extension=ts&play_token=hhrmejaLO3
+#EXTINF:-1 tvg-logo="https://www.nowtv.now.com/media/logo/600-wbg-e.png" group-title="Test",Now Sport 1
+http://mag.x-iptv.live:80/play/live.php?mac=00:1A:79:23:25:61&stream=1110615&extension=ts&play_token=9w2c21K1wY
+#EXTINF:-1 tvg-logo="https://www.nowtv.now.com/media/logo/600-wbg-e.png" group-title="Test",Now Sport 1 (other)
+http://mag.x-iptv.live:80/play/live.php?mac=00:1A:79:23:25:61&stream=1032487&extension=ts&play_token=YPGaNk3uRM
+#EXTINF:-1 tvg-logo="https://www.nowtv.now.com/media/logo/600-wbg-e.png" group-title="Test",Now Sport 2
+http://mag.x-iptv.live:80/play/live.php?mac=00:1A:79:23:25:61&stream=1110616&extension=ts&play_token=el0NQJCFOv
+#EXTINF:-1 tvg-logo="https://www.nowtv.now.com/media/logo/600-wbg-e.png" group-title="Test",Now Sport 2 (other)
+http://mag.x-iptv.live:80/play/live.php?mac=00:1A:79:23:25:61&stream=1032486&extension=ts&play_token=HhkrX8fCJ2
+#EXTINF:-1 tvg-logo="https://www.nowtv.now.com/media/logo/600-wbg-e.png" group-title="Test",Now Sport 3
+http://mag.x-iptv.live:80/play/live.php?mac=00:1A:79:23:25:61&stream=1110617&extension=ts&play_token=ThCIG7JG9M
+#EXTINF:-1 tvg-logo="https://www.nowtv.now.com/media/logo/600-wbg-e.png" group-title="Test",Now Sport 3 (other)
+http://mag.x-iptv.live:80/play/live.php?mac=00:1A:79:23:25:61&stream=1032485&extension=ts&play_token=OpYqsyQriU
+
 #EXTINF:-1 tvg-logo="https://logos-world.net/wp-content/uploads/2023/06/USA-Network-Symbol.png" group-title="Sport", USA Network (need vpn)
 https://us.score911.cc/us_usa/index.m3u8?|referer=https://aesport.tv/
 #EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-11/367ea46b760bdd8955db180204300052.png" group-title="Sport", Sky Sport Main Event (need vpn)
