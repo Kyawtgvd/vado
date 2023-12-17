@@ -211,6 +211,14 @@ http://mag.x-iptv.live:80/play/live.php?mac=00:1A:79:23:25:61&stream=1032486&ext
 http://mag.x-iptv.live:80/play/live.php?mac=00:1A:79:23:25:61&stream=1110617&extension=ts&play_token=ThCIG7JG9M
 #EXTINF:-1 tvg-logo="https://www.nowtv.now.com/media/logo/600-wbg-e.png" group-title="Test",Now Sport 3 (other)
 http://mag.x-iptv.live:80/play/live.php?mac=00:1A:79:23:25:61&stream=1032485&extension=ts&play_token=OpYqsyQriU
+#EXTINF:-1 tvg-logo="" group-title="Test",Star Sport Select 1
+http://37.49.225.197:8080/14e17190/e84b5c0d6a/82628
+#EXTINF:-1 tvg-logo="" group-title="Test",V Sport Premium
+http://37.49.225.197:8080/14e17190/e84b5c0d6a/6275
+#EXTINF:-1 tvg-logo="" group-title="Test",V Sport Football
+http://37.49.225.197:8080/14e17190/e84b5c0d6a/6272
+#EXTINF:-1 tvg-logo="" group-title="Test",Play Sport 1
+http://37.49.225.197:8080/14e17190/e84b5c0d6a/290539
 
 #EXTINF:-1 tvg-logo="https://logos-world.net/wp-content/uploads/2023/06/USA-Network-Symbol.png" group-title="Sport", USA Network (need vpn)
 https://us.score911.cc/us_usa/index.m3u8?|referer=https://aesport.tv/
