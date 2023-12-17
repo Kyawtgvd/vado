@@ -169,7 +169,7 @@ https://bcovlive-a.akamaihd.net/r2d2c4ca5bf57456fb1d16255c1a535c8/eu-west-1/6058
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/C9k2xRY.jpg" group-title="Myanmar Channel", Maharbawdi 
 https://ppradio.b-cdn.net/LiveApp/streams/rHEBIW7pjQLU1677679374164.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/ZWo91Vr.jpg" group-title="Myanmar", VOA 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ZWo91Vr.jpg" group-title="Myanmar Channel", VOA 
 https://voa-ingest.akamaized.net/hls/live/2033872-b/tvmc05/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.myanmartvchannels.com/assets/cache/images/channeliconb/mahar-80x80-1ee.jpg" group-title="Myanmar Channel", Mahar
 https://tv.mahar.live/mahar/website.stream/mahar/website1/chunks.m3u8
