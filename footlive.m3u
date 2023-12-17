@@ -13,8 +13,18 @@ https://wenkisterin.latsyoving.xyz/live/n-1/chunks.m3u8
 https://hls.streambtw.com/live/stream_1.m3u8
 #EXTINF:-1 tvg-logo="https://sky.shorthandstories.com/liverpool-vs-man-utd--the-best-videos/assets/lilFQZB9wb/gettyimages-1223627899-2560x1727.jpeg" group-title="Today Live⚽Dec 17", Liverpool Vs Manchester United (11:00pm) link 2
 https://soccer.freesportstime.com/live/stream_1.m3u8
-#EXTINF:-1 tvg-logo="https://sky.shorthandstories.com/liverpool-vs-man-utd--the-best-videos/assets/lilFQZB9wb/gettyimages-1223627899-2560x1727.jpeg" group-title="Today Live⚽Dec 17", Liverpool Vs Manchester United (11:00pm) link 3
-https://wenkisterin.latsyoving.xyz/live/n-1/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://sky.shorthandstories.com/liverpool-vs-man-utd--the-best-videos/assets/lilFQZB9wb/gettyimages-1223627899-2560x1727.jpeg" group-title="Today Live⚽Dec 17", Liverpool Vs Manchester United (11:00pm) link 3 (edmon)
+http://2615a5d9.edmonst.net/iptv/4PYL58K99PM8FU/2531/index.m3u8
+#EXTINF:-1 tvg-logo="https://sky.shorthandstories.com/liverpool-vs-man-utd--the-best-videos/assets/lilFQZB9wb/gettyimages-1223627899-2560x1727.jpeg" group-title="Today Live⚽Dec 17", Liverpool Vs Manchester United (11:00pm) link 4 (V)
+http://37.49.225.197:8080/14e17190/e84b5c0d6a/6275
+#EXTINF:-1 tvg-logo="https://sky.shorthandstories.com/liverpool-vs-man-utd--the-best-videos/assets/lilFQZB9wb/gettyimages-1223627899-2560x1727.jpeg" group-title="Today Live⚽Dec 17", Liverpool Vs Manchester United (11:00pm) link 5 (star)
+http://tuyullxt@mag.x-iptv.live/play/live.php?mac=00:1A:79:23:25:61&stream=1114583&extension=ts&play_token=tuyullxt@.ts
+#EXTINF:-1 tvg-logo="https://sky.shorthandstories.com/liverpool-vs-man-utd--the-best-videos/assets/lilFQZB9wb/gettyimages-1223627899-2560x1727.jpeg" group-title="Today Live⚽Dec 17", Liverpool Vs Manchester United (11:00pm) link 6 (orange)
+https://webudit.webhd.ru/lb/premium439/index.m3u8?|referer=weblivehdplay.ru/
+#EXTINF:-1 tvg-logo="https://sky.shorthandstories.com/liverpool-vs-man-utd--the-best-videos/assets/lilFQZB9wb/gettyimages-1223627899-2560x1727.jpeg" group-title="Today Live⚽Dec 17", Liverpool Vs Manchester United (11:00pm) link 7 #need vpn
+https://nl.score911.cc/uk_ssepl/index.m3u8?|referer=https://aesport.tv/
+#EXTINF:-1 tvg-logo="https://sky.shorthandstories.com/liverpool-vs-man-utd--the-best-videos/assets/lilFQZB9wb/gettyimages-1223627899-2560x1727.jpeg" group-title="Today Live⚽Dec 17", Liverpool Vs Manchester United (11:00pm) link 8 #sd
+http://168.227.22.18:1935/live/mobile-152/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/tt/true-premiere-football-hd-1-th.png" group-title="Football Special⚽", True Premier 1 
 https://edge1.laotv.la/live/TSport1/index.m3u8
