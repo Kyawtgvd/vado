@@ -30,26 +30,26 @@ https://webudit.webhd.ru/lb/premium403/index.m3u8?|referer=weblivehdplay.ru/
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/TUDN_Logo.svg/2560px-TUDN_Logo.svg.png" group-title="Football Special | ⚽", TUDN
 https://webudit.hlsjs.ru/lb/premium66/index.m3u8?|referer=weblivehdplay.ru/
 
-#EXTINF:-1 tvg-logo="https://logos-world.net/wp-content/uploads/2023/06/USA-Network-Symbol.png" group-title="Football Special || ⚽(need vpn)", USA Network
-https://us.score911.cc/us_usa/index.m3u8?|referer=https://aesport.tv/
-#EXTINF:-1 tvg-logo="https://resources.premierleague.com/photos/2020/09/10/74770e21-77e1-4a33-9206-4236897808de/New-Sky-Sports-logo-2020.png?width=640" group-title="Football Special || ⚽(need vpn)", Sky Sports Main Event
-https://nl.score911.cc/uk_ssmain/index.m3u8?|referer=https://aesport.tv/
-#EXTINF:-1 tvg-logo="https://resources.premierleague.com/photos/2020/09/10/74770e21-77e1-4a33-9206-4236897808de/New-Sky-Sports-logo-2020.png?width=640" group-title="Football Special || ⚽(need vpn)", Sky Sports Premier League
-https://nl.score911.cc/uk_ssepl/index.m3u8?|referer=https://aesport.tv/
-#EXTINF:-1 tvg-logo="https://resources.premierleague.com/photos/2020/09/10/74770e21-77e1-4a33-9206-4236897808de/New-Sky-Sports-logo-2020.png?width=640" group-title="Football Special || ⚽(need vpn)", Sky Sports Football
-https://nl.score911.cc/uk_ssfb/index.m3u8?|referer=https://aesport.tv/
-#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/tt/tnt-sports-uk-us-uk.png" group-title="Football Special || ⚽(need vpn)", TNT Sports 1
-https://nl.score911.cc/uk_bts1/index.m3u8?|referer=https://aesport.tv/
-#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/tt/tnt-sports-uk-us-uk.png" group-title="Football Special || ⚽(need vpn)", TNT Sports 2
-https://nl.score911.cc/uk_bts2/index.m3u8?|referer=https://aesport.tv/
-#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/tt/tnt-sports-uk-us-uk.png" group-title="Football Special || ⚽(need vpn)", TNT Sports 3
-https://nl.score911.cc/uk_bts3/index.m3u8?|referer=https://aesport.tv/
 #EXTINF:-1 tvg-logo="https://i.ibb.co/JRvJdR6/eleven1.png" group-title="Football Special || ⚽(need vpn)", Eleven Sports 1
 https://nl.score911.cc/pt_elevensport1/index.m3u8?|referer=https://aesport.tv/
 #EXTINF:-1 tvg-logo="https://i.ibb.co/JpGPnd6/eleven2.png" group-title="Football Special || ⚽(need vpn)", Eleven Sports 2
 https://nl.score911.cc/pt_elevensport2/index.m3u8?|referer=https://aesport.tv/
 #EXTINF:-1 tvg-logo="https://i.ibb.co/TWhTFW8/eleven3.png" group-title="Football Special || ⚽(need vpn)", Eleven Sports 3
 https://nl.score911.cc/pt_elevensport3/index.m3u8?|referer=https://aesport.tv/
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/tt/tnt-sports-uk-us-uk.png" group-title="Football Special || ⚽(need vpn)", TNT Sports 1
+https://nl.score911.cc/uk_bts1/index.m3u8?|referer=https://aesport.tv/
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/tt/tnt-sports-uk-us-uk.png" group-title="Football Special || ⚽(need vpn)", TNT Sports 2
+https://nl.score911.cc/uk_bts2/index.m3u8?|referer=https://aesport.tv/
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/tt/tnt-sports-uk-us-uk.png" group-title="Football Special || ⚽(need vpn)", TNT Sports 3
+https://nl.score911.cc/uk_bts3/index.m3u8?|referer=https://aesport.tv/
+#EXTINF:-1 tvg-logo="https://resources.premierleague.com/photos/2020/09/10/74770e21-77e1-4a33-9206-4236897808de/New-Sky-Sports-logo-2020.png?width=640" group-title="Football Special || ⚽(need vpn)", Sky Sports Main Event
+https://nl.score911.cc/uk_ssmain/index.m3u8?|referer=https://aesport.tv/
+#EXTINF:-1 tvg-logo="https://resources.premierleague.com/photos/2020/09/10/74770e21-77e1-4a33-9206-4236897808de/New-Sky-Sports-logo-2020.png?width=640" group-title="Football Special || ⚽(need vpn)", Sky Sports Premier League
+https://nl.score911.cc/uk_ssepl/index.m3u8?|referer=https://aesport.tv/
+#EXTINF:-1 tvg-logo="https://resources.premierleague.com/photos/2020/09/10/74770e21-77e1-4a33-9206-4236897808de/New-Sky-Sports-logo-2020.png?width=640" group-title="Football Special || ⚽(need vpn)", Sky Sports Football
+https://nl.score911.cc/uk_ssfb/index.m3u8?|referer=https://aesport.tv/
+#EXTINF:-1 tvg-logo="https://logos-world.net/wp-content/uploads/2023/06/USA-Network-Symbol.png" group-title="Football Special || ⚽(need vpn)", USA Network
+https://us.score911.cc/us_usa/index.m3u8?|referer=https://aesport.tv/
 #EXTINF:-1 tvg-logo="https://logowik.com/content/uploads/images/sport-tv-new-202336469.logowik.com.webp" group-title="Football Special || ⚽(need vpn)", Sport TV 1
 https://nl.score911.cc/pt_sporttv1/index.m3u8?|referer=https://aesport.tv/
 #EXTINF:-1 tvg-logo="https://logowik.com/content/uploads/images/sport-tv-new-202336469.logowik.com.webp" group-title="Football Special || ⚽(need vpn)", Sport TV 2
@@ -267,6 +267,7 @@ http://www.zegomovie.com/Videos/NightRaiders/index.m3u8
 http://www.zegomovie.com/Videos/RedNotice/index.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRvMhDRZBUo9-N8x0-P2be1O1g6CqCTOhfOvg&usqp=CAU" group-title="MOVIES", No Time to Die (2021)
 http://www.zegomovie.com/Videos/NoTimetoDie/index.m3u8
+
 #EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BYTc3ZTAwYTgtMmM4ZS00MDRiLWI2Y2EtYmRiZmE0YjkzMGY1XkEyXkFqcGdeQXVyMDA4NzMyOA@@._V1_FMjpg_UX1000_.jpg" group-title="MOVIES", Venom2 (2021)
 http://www.zegomovie.com:80/Videos/Venom2/index.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT2QRNwOyJHEzctOjrtXptEHObJPDzjvi6jjg&usqp=CAU" group-title="MOVIES", Raging Fire (2021)
