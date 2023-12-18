@@ -84,7 +84,7 @@ https://webudit.webhd.ru/lb/premium758/index.m3u8?|referer=weblivehdplay.ru/
 #EXTINF:-1 tvg-logo="https://content.sportslogos.net/news/2015/11/cbs-sports-new-logo.jpg" group-title="Football Special⚽", CBS Sports (UCL)
 https://webudit.webhd.ru/lb/premium308/index.m3u8?|referer=weblivehdplay.ru/
 
-#EXTINF:-1 group-title="Football Special |||⚽⭐(only can play with ott player)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d6/Logo_Eleven_Sports_2020.png",Eleven Sports 1 
+#EXTINF:-1 group-title="Football Special |||⚽⭐(only can play with ott player)" tvg-logo="https://ocdn.eu/ptv2-images/logo-migrated/eleven-sports-1-hd.png", Eleven Sports 1 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=82f8e2a17dac44c0a18f660479349c59:1b144f73e6fefe91cd05f850e2b589d0
 https://dce-fs-live-dazn-cdn.dazn.com/dashdrm/dazn-linear-054/stream.mpd
