@@ -31,20 +31,20 @@ https://webudit.webhd.ru/lb/premium401/index.m3u8?|referer=weblivehdplay.ru/
 https://webudit.webhd.ru/lb/premium402/index.m3u8?|referer=weblivehdplay.ru/
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/b6/Digi_Sport_4_2012.svg/revision/latest/scale-to-width-down/1200?cb=20230203052148" group-title="Football Special | ⚽", Digi Sport 4
 https://webudit.webhd.ru/lb/premium403/index.m3u8?|referer=weblivehdplay.ru/
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 #EXTINF:-1 group-title="Football Special | ⚽" tvg-logo="https://www.lyngsat.com/logo/tv/ss/sky-sports-main-event-uk.svg", Sky Sports Main Event
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 http://tv.vnoo.net/direct_tv/vthanh/tv/skysportsmainevent.m3u8
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 #EXTINF:-1 group-title="Football Special | ⚽" tvg-logo="https://www.lyngsat.com/logo/tv/tt/tnt-sports-uk-us-uk.png", TNT Sports 1
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 http://tv.vnoo.net/direct_tv/vthanh/tv/tntsports1.m3u8
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 #EXTINF:-1 group-title="Football Special | ⚽" tvg-logo="https://www.lyngsat.com/logo/tv/tt/tnt-sports-uk-us-uk.png", TNT Sports 2
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 http://tv.vnoo.net/direct_tv/vthanh/tv/tntsports2.m3u8
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 #EXTINF:-1 group-title="Football Special | ⚽" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/SPOTV_logo.svg/1200px-SPOTV_logo.svg.png", SPOTV
-http://tv.vnoo.net/direct_tv/vthanh/tv/spotv.m3u8
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+http://tv.vnoo.net/direct_tv/vthanh/tv/spotv.m3u8
 #EXTINF:-1 group-title="Football Special | ⚽" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/68/SPOTV2_logo_2018.png/revision/latest?cb=20230507021015", SPOTV 2
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 http://tv.vnoo.net/direct_tv/vthanh/tv/spotv2.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -162,21 +162,21 @@ https://prod-ent-live-gm.jiocinema.com/bpk-tv/Sports18_1_HD_voot_MOB/Fallback/in
 https://node1.olelive.com:6443/live/CCTV5HD/hls.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/0jPw6dmC/IMG-20231018-132546.png" group-title="Sport", Match Sport
 https://bl.uma.media/live/312119/HLS/4614144_3/2/1/playlist.m3u8
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 #EXTINF:-1 group-title="Sport" tvg-logo="https://www.thesportsdb.com/images/media/channel/tvlogo/cz682u1628519810.png", Match Futbol 1
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 http://tv.vnoo.net/direct_tv/vthanh/tv/matchfootball1.m3u8
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 #EXTINF:-1 group-title="Sport" tvg-logo="https://www.thesportsdb.com/images/media/channel/tvlogo/am4ot71628519853.png", Match Futbol 2
-http://tv.vnoo.net/direct_tv/vthanh/tv/matchfootball2.m3u8
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+http://tv.vnoo.net/direct_tv/vthanh/tv/matchfootball2.m3u8
 #EXTINF:-1 group-title="Sport" tvg-logo="https://www.thesportsdb.com/images/media/channel/tvlogo/69eju21628519874.png", Match Futbol 3
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 http://tv.vnoo.net/direct_tv/vthanh/tv/matchfootball3.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/mp6mgwy.png" group-title="Sport", MU TV
 https://bcovlive-a.akamaihd.net/r2d2c4ca5bf57456fb1d16255c1a535c8/eu-west-1/6058004203001/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/C9k2xRY.jpg" group-title="Myanmar Channel", Maharbawdi 
 https://ppradio.b-cdn.net/LiveApp/streams/rHEBIW7pjQLU1677679374164.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/ZWo91Vr.jpg" group-title="Myanmar", VOA 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ZWo91Vr.jpg" group-title="Myanmar Channel", VOA 
 https://voa-ingest.akamaized.net/hls/live/2033872-b/tvmc05/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.myanmartvchannels.com/assets/cache/images/channeliconb/mahar-80x80-1ee.jpg" group-title="Myanmar Channel", Mahar
 https://tv.mahar.live/mahar/website.stream/mahar/website1/chunks.m3u8
