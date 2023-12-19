@@ -43,7 +43,7 @@ http://tv.vnoo.net/direct_tv/vthanh/tv/tntsports2.m3u8
 #EXTINF:-1 group-title="Football Special | ⚽" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/SPOTV_logo.svg/1200px-SPOTV_logo.svg.png", SPOTV
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 http://tv.vnoo.net/direct_tv/vthanh/tv/spotv.m3u8
-#EXTINF:-1 group-title="Football Special | ⚽" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/68/SPOTV2_logo_2018.png/revision/latest?cb=20230507021015", SPOTV 2
+#EXTINF:-1 group-title="Football Special | ⚽" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/68/SPOTV2_logo_2018.png/revision/latest?cb=20230507021015", SPOTV2
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 http://tv.vnoo.net/direct_tv/vthanh/tv/spotv2.m3u8
 
@@ -260,7 +260,6 @@ http://www.zegomovie.com/Videos/NightRaiders/index.m3u8
 http://www.zegomovie.com/Videos/RedNotice/index.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRvMhDRZBUo9-N8x0-P2be1O1g6CqCTOhfOvg&usqp=CAU" group-title="MOVIES", No Time to Die (2021)
 http://www.zegomovie.com/Videos/NoTimetoDie/index.m3u8
-
 #EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BYTc3ZTAwYTgtMmM4ZS00MDRiLWI2Y2EtYmRiZmE0YjkzMGY1XkEyXkFqcGdeQXVyMDA4NzMyOA@@._V1_FMjpg_UX1000_.jpg" group-title="MOVIES", Venom2 (2021)
 http://www.zegomovie.com:80/Videos/Venom2/index.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT2QRNwOyJHEzctOjrtXptEHObJPDzjvi6jjg&usqp=CAU" group-title="MOVIES", Raging Fire (2021)
