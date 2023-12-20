@@ -103,31 +103,44 @@ http://mag.x-iptv.live:80/play/live.php?mac=00:1A:79:23:25:61&stream=1032486&ext
 http://mag.x-iptv.live:80/play/live.php?mac=00:1A:79:23:25:61&stream=1032485&extension=ts&play_token=OpYqsyQriU
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ee/eleven-sports-network-uk.png" group-title="Football (need vpn)", Eleven Sports 1
-https://nl.score911.cc/pt_elevensport1/index.m3u8?|referer=https://aesport.tv/
+#EXTVLCOPT:http-referrer=https://aesport.tv/
+https://nl.score911.cc/pt_elevensport1/index.m3u8
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ee/eleven-sports-network-uk.png" group-title="Football (need vpn)", Eleven Sports 2
-https://nl.score911.cc/pt_elevensport2/index.m3u8?|referer=https://aesport.tv/
+#EXTVLCOPT:http-referrer=https://aesport.tv/
+https://nl.score911.cc/pt_elevensport2/index.m3u8
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ee/eleven-sports-network-uk.png" group-title="Football (need vpn)", Eleven Sports 3
-https://nl.score911.cc/pt_elevensport3/index.m3u8?|referer=https://aesport.tv/
+#EXTVLCOPT:http-referrer=https://aesport.tv/
+https://nl.score911.cc/pt_elevensport3/index.m3u8
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ss/sport-tv-1-pt.png" group-title="Football (need vpn)", Sport TV 1
-https://nl.score911.cc/pt_sporttv1/index.m3u8?|referer=https://aesport.tv/
+#EXTVLCOPT:http-referrer=https://aesport.tv/
+https://nl.score911.cc/pt_sporttv1/index.m3u8
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ss/sport-tv-2-pt.png" group-title="Football (need vpn)", Sport TV 2
-https://nl.score911.cc/pt_sporttv2/index.m3u8?|referer=https://aesport.tv/
+#EXTVLCOPT:http-referrer=https://aesport.tv/
+https://nl.score911.cc/pt_sporttv2/index.m3u8
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ss/sport-tv-3-pt.png" group-title="Football (need vpn)", Sport TV 3
-https://nl.score911.cc/pt_sporttv3/index.m3u8?|referer=https://aesport.tv/
+#EXTVLCOPT:http-referrer=https://aesport.tv/
+https://nl.score911.cc/pt_sporttv3/index.m3u8
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/tt/tnt-sports-uk-us-uk.png" group-title="Football (need vpn)", TNT Sports 1
-https://nl.score911.cc/uk_bts1/index.m3u8?|referer=https://aesport.tv/
+#EXTVLCOPT:http-referrer=https://aesport.tv/
+https://nl.score911.cc/uk_bts1/index.m3u8
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/tt/tnt-sports-uk-us-uk.png" group-title="Football (need vpn)", TNT Sports 2
-https://nl.score911.cc/uk_bts2/index.m3u8?|referer=https://aesport.tv/
+#EXTVLCOPT:http-referrer=https://aesport.tv/
+https://nl.score911.cc/uk_bts2/index.m3u8
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/tt/tnt-sports-uk-us-uk.png" group-title="Football (need vpn)", TNT Sports 3
-https://nl.score911.cc/uk_bts3/index.m3u8?|referer=https://aesport.tv/
+#EXTVLCOPT:http-referrer=https://aesport.tv/
+https://nl.score911.cc/uk_bts3/index.m3u8
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/uu/usa_network_east.png" group-title="Football (need vpn)", USA Network
-https://us.score911.cc/us_usa/index.m3u8?|referer=https://aesport.tv/
+#EXTVLCOPT:http-referrer=https://aesport.tv/
+https://us.score911.cc/us_usa/index.m3u8
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ss/sky-sports-main-event-uk.svg" group-title="Football (need vpn)", Sky Sports Main Event
-https://nl.score911.cc/uk_ssmain/index.m3u8?|referer=https://aesport.tv/
+#EXTVLCOPT:http-referrer=https://aesport.tv/
+https://nl.score911.cc/uk_ssmain/index.m3u8
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ss/sky-sports-premier-league-uk.svg" group-title="Football (need vpn)", Sky Sports Premier League
-https://nl.score911.cc/uk_ssepl/index.m3u8?|referer=https://aesport.tv/
+#EXTVLCOPT:http-referrer=https://aesport.tv/
+https://nl.score911.cc/uk_ssepl/index.m3u8
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ss/sky-sports-football-uk.svg" group-title="Football (need vpn)", Sky Sports Football
-https://nl.score911.cc/uk_ssfb/index.m3u8?|referer=https://aesport.tv/
+#EXTVLCOPT:http-referrer=https://aesport.tv/
+https://nl.score911.cc/uk_ssfb/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ss/sony-sports-ten-1-in.png" group-title="Sport", Sony Ten Sport 1
 https://dai.google.com/linear/hls/event/6WhVNGKTRXyu588zZv1Lkg/master.m3u8
