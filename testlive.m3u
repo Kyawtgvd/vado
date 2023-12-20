@@ -28,78 +28,61 @@ https://dce-fs-live-dazn-cdn.dazn.com/dashdrm/dazn-linear-058/stream.mpd
 #EXTINF:-1 group-title="Football Special⭐(only can play with ott player)" tvg-logo="https://i.ibb.co/M2tbfJV/eleven6.png", Eleven Sports 6
 https://dce-fs-live-dazn-cdn.dazn.com/dashdrm/dazn-linear-059/stream.mpd
 
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=82f8e2a17dac44c0a18f660479349c59:1b144f73e6fefe91cd05f850e2b589d0
+#EXTINF:-1 group-title="Football Special⭐(only can play with ott player)" tvg-logo="https://www.lyngsat.com/logo/tv/ee/eleven-on-dazn-pro-league-1-uk.png", Dazn Eleven
+https://dce-fs-live-dazn-cdn.dazn.com/dashdrm/dazn-linear-049/stream.mpd
+
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"5Bw6b3UysuOoKNlYASTInQ", "kid":"wYtqpzm+TAt3RgX8+11raA" } ], "type":"temporary" }
 #EXTINF:-1 group-title="Football Special⭐(only can play with ott player)" tvg-logo="https://iptvboss.xyz/logos/Bosnia/ArenaSport1.bh.png", Arena Sport 1 Premium
 https://webtvstream.bhtelecom.ba/hls6/as_premium1.mpd
 
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"5Bw6b3UysuOoKNlYASTInQ", "kid":"wYtqpzm+TAt3RgX8+11raA" } ], "type":"temporary" }
 #EXTINF:-1 group-title="Football Special⭐(only can play with ott player)" tvg-logo="https://iptvboss.xyz/logos/Bosnia/ArenaSport1.bh.png", Arena Sport 2 Premium
 https://webtvstream.bhtelecom.ba/hls6/as_premium2.mpd
 
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"5Bw6b3UysuOoKNlYASTInQ", "kid":"wYtqpzm+TAt3RgX8+11raA" } ], "type":"temporary" }
 #EXTINF:-1 group-title="Football Special⭐(only can play with ott player)" tvg-logo="https://iptvboss.xyz/logos/Bosnia/ArenaSport1.bh.png", Arena Sport 3 Premium
 https://webtvstream.bhtelecom.ba/hls6/as_premium3.mpd
 
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"5Bw6b3UysuOoKNlYASTInQ", "kid":"wYtqpzm+TAt3RgX8+11raA" } ], "type":"temporary" }
-#EXTINF:-1 group-title="Football Special⭐(only can play with ott player)" tvg-logo="https://d18qjk21m0yx5q.cloudfront.net/wp-content/uploads/2022/09/EPL.png", Arena Sport Premier League
+#EXTINF:-1 group-title="Football Special⭐(only can play with ott player)" tvg-logo="https://www.lyngsat.com/logo/tv/pp/premier_league_tv_uk.png", Arena Sport Premier League
 https://webtvstream.bhtelecom.ba/hls6/premier_league.mpd
 
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"5Bw6b3UysuOoKNlYASTInQ", "kid":"wYtqpzm+TAt3RgX8+11raA" } ], "type":"temporary" }
 #EXTINF:-1 group-title="Football Special⭐(only can play with ott player)" tvg-logo="https://iptvboss.xyz/logos/Bosnia/ArenaSport1.bh.png", Arena Sport 1
 https://webtvstream.bhtelecom.ba/hls6/arena1.mpd
 
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"5Bw6b3UysuOoKNlYASTInQ", "kid":"wYtqpzm+TAt3RgX8+11raA" } ], "type":"temporary" }
 #EXTINF:-1 group-title="Football Special⭐(only can play with ott player)" tvg-logo="https://iptvboss.xyz/logos/Bosnia/Arenasport1x2.bh.png", Arena Sport 1x2
 https://webtvstream.bhtelecom.ba/hls6/arena_1x2.mpd
 
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"5Bw6b3UysuOoKNlYASTInQ", "kid":"wYtqpzm+TAt3RgX8+11raA" } ], "type":"temporary" }
 #EXTINF:-1 group-title="Football Special⭐(only can play with ott player)" tvg-logo="https://iptvboss.xyz/logos/Bosnia/ArenaSport2.bh.png", Arena Sport 2
 https://webtvstream.bhtelecom.ba/hls6/arena2.mpd
 
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"5Bw6b3UysuOoKNlYASTInQ", "kid":"wYtqpzm+TAt3RgX8+11raA" } ], "type":"temporary" }
 #EXTINF:-1 group-title="Football Special⭐(only can play with ott player)" tvg-logo="https://iptvboss.xyz/logos/Bosnia/ArenaSport3.bh.png", Arena Sport 3
 https://webtvstream.bhtelecom.ba/hls6/arena3.mpd
 
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"5Bw6b3UysuOoKNlYASTInQ", "kid":"wYtqpzm+TAt3RgX8+11raA" } ], "type":"temporary" }
 #EXTINF:-1 group-title="Football Special⭐(only can play with ott player)" tvg-logo="https://iptvboss.xyz/logos/Bosnia/ArenaSport4.bh.png", Arena Sport 4
 https://webtvstream.bhtelecom.ba/hls6/arena4.mpd
 
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"5Bw6b3UysuOoKNlYASTInQ", "kid":"wYtqpzm+TAt3RgX8+11raA" } ], "type":"temporary" }
 #EXTINF:-1 group-title="Football Special⭐(only can play with ott player)" tvg-logo="https://iptvboss.xyz/logos/Bosnia/ArenaSport5.bh.png", Arena Sport 5
 https://webtvstream.bhtelecom.ba/hls6/arena5.mpd
 
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"5Bw6b3UysuOoKNlYASTInQ", "kid":"wYtqpzm+TAt3RgX8+11raA" } ], "type":"temporary" }
 #EXTINF:-1 group-title="Football Special⭐(only can play with ott player)" tvg-logo="https://iptvboss.xyz/logos/Bosnia/ArenaSport6.bh.png", Arena Sport 6
@@ -107,36 +90,31 @@ https://webtvstream.bhtelecom.ba/hls6/arena6.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=82f8e2a17dac44c0a18f660479349c59:1b144f73e6fefe91cd05f850e2b589d0
-#EXTINF:-1 group-title="Football Special⭐(only can play with ott player)" tvg-logo="https://pbs.twimg.com/profile_images/1363788898141372423/7God9nDz_400x400.jpg", Play Sports 1
+#EXTINF:-1 group-title="Football Special⭐(only can play with ott player)" tvg-logo="https://www.lyngsat.com/logo/tv/pp/play-entertainment-pk.png", Play Sports 1
 #EXTVLCOPT:http-referer=https://widevine.licenses4.me/\u0026User-agent\u003dREDLINECLIENT
 https://dce-fs-live-dazn-cdn.dazn.com/dashdrm/dazn-linear-051/stream.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=82f8e2a17dac44c0a18f660479349c59:1b144f73e6fefe91cd05f850e2b589d0
-#EXTINF:-1 group-title="Football Special⭐(only can play with ott player)" tvg-logo="https://pbs.twimg.com/profile_images/1363788898141372423/7God9nDz_400x400.jpg", Play Sports 2
+#EXTINF:-1 group-title="Football Special⭐(only can play with ott player)" tvg-logo="https://www.lyngsat.com/logo/tv/pp/play-entertainment-pk.png", Play Sports 2
 #EXTVLCOPT:http-referer=https://widevine.licenses4.me/\u0026User-agent\u003dREDLINECLIENT
 https://dce-fs-live-dazn-cdn.dazn.com/dashdrm/dazn-linear-052/stream.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=82f8e2a17dac44c0a18f660479349c59:1b144f73e6fefe91cd05f850e2b589d0
-#EXTINF:-1 group-title="Football Special⭐(only can play with ott player)" tvg-logo="https://pbs.twimg.com/profile_images/1363788898141372423/7God9nDz_400x400.jpg", Play Sports 3
+#EXTINF:-1 group-title="Football Special⭐(only can play with ott player)" tvg-logo="https://www.lyngsat.com/logo/tv/pp/play-entertainment-pk.png", Play Sports 3
 #EXTVLCOPT:http-referer=https://widevine.licenses4.me/\u0026User-agent\u003dREDLINECLIENT
 https://dce-fs-live-dazn-cdn.dazn.com/dashdrm/dazn-linear-053/stream.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=82f8e2a17dac44c0a18f660479349c59:1b144f73e6fefe91cd05f850e2b589d0
-#EXTINF:-1 group-title="Football Special⭐(only can play with ott player)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d6/Dazn-logo.png", Dazn Eleven
-https://dce-fs-live-dazn-cdn.dazn.com/dashdrm/dazn-linear-049/stream.mpd
-
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=82f8e2a17dac44c0a18f660479349c59:1b144f73e6fefe91cd05f850e2b589d0
-#EXTINF:-1 group-title="Football Special⭐(only can play with ott player)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d6/Dazn-logo.png", Dazn De 1
+#EXTINF:-1 group-title="Football Special⭐(only can play with ott player)" tvg-logo="https://www.lyngsat.com/logo/tv/dd/dazn-de.png", Dazn De 1
 #EXTVLCOPT:http-referer=https://widevine.licenses4.me/\u0026User-agent\u003dREDLINECLIENT
 https://dce-ak-livewwdazn.akamaized.net/dashdrm/dazn-linear-017/stream.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=82f8e2a17dac44c0a18f660479349c59:1b144f73e6fefe91cd05f850e2b589d0
-#EXTINF:-1 group-title="Football Special⭐(only can play with ott player)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d6/Dazn-logo.png", Dazn De 2
+#EXTINF:-1 group-title="Football Special⭐(only can play with ott player)" tvg-logo="https://www.lyngsat.com/logo/tv/dd/dazn-de.png", Dazn De 2
 #EXTVLCOPT:http-referer=https://widevine.licenses4.me/\u0026User-agent\u003dREDLINECLIENT
 https://dce-ak-livewwdazn.akamaized.net/dashdrm/dazn-linear-018/stream.mpd
 
@@ -174,11 +152,11 @@ http://bananatv.org:25461/play/wVoZP52jvqdylF92agMAl9aWiGAqlnjg62yFgsUNQ9s/ts
 http://bananatv.org:25461/play/wVoZP52jvqdylF92agMAl-ouiKm7SGSarfLqLrbN-wM/ts
 #EXTINF:-1 tvg-logo="" group-title="Sport",Orange Sport 3
 http://bananatv.org:25461/play/wVoZP52jvqdylF92agMAlzcasgoAh0h4VhGrIIN5Y8I/ts
-#EXTINF:-1 tvg-logo="" group-title="Sport",FoxSport 1
+#EXTINF:-1 tvg-logo="" group-title="Sport",Fox Sport 1
 http://168.227.22.18:1935/live/mobile-010/playlist.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Sport",FoxSport 2
+#EXTINF:-1 tvg-logo="" group-title="Sport",Fox Sport 2
 http://168.227.22.18:1935/live/mobile-031/playlist.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Sport",Fox Sports 3 
+#EXTINF:-1 tvg-logo="" group-title="Sport",Fox Sport 3 
 http://168.227.22.18:1935/live/mobile-108/playlist.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Sport",Play sports 1
 http://bananatv.org:25461/play/wVoZP52jvqdylF92agMAl3kFWcXJMnJL8jNJaJSQam0/ts
@@ -231,13 +209,13 @@ https://code.vthanhtivi.pw/getlink/eazie/241430/playlist.m3u8
 http://bananatv.org:25461/play/wVoZP52jvqdylF92agMAlzS4zClO-WI6KmJ3Eb6s374/ts
 #EXTINF:-1 tvg-logo="" group-title="International Channel",Animal Planet (M-Sub)
 http://bananatv.org:25461/play/wVoZP52jvqdylF92agMAlzGKxHjw_r8Dr_20jP-cw5I/ts
-#EXTINF:-1 tvg-logo="https://cdn.hqth.me/logo/thumbs/203.png" group-title="International Channel", Animal Planet
-http://ctrl.laotv.la/live/AnimalPlanet/index.m3u8
-#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ll/love_nature_ca.png" group-title="International Channel", Love Nature
-https://d18dyiwu97wm6q.cloudfront.net/playlist.m3u8
 #EXTINF:-1 tvg-logo="" group-title="International Channel",Love Nature (M-Sub)
 http://bananatv.org:25461/play/wVoZP52jvqdylF92agMAlyQ-QyxNMV1AWJBwD9mOyWM/ts
 #EXTINF:-1 tvg-logo="" group-title="International Channel",Discovery Asia (M-Sub)
 http://bananatv.org:25461/play/wVoZP52jvqdylF92agMAlz0FoUBz2wk3bMPyEl7JrYM/ts
 #EXTINF:-1 tvg-logo="https://cdn.hqth.me/logo/thumbs/204.png" group-title="International Channel", Discovery Channel (M-sub)
 https://ctrl.laotv.la/live/Discovery/index.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.hqth.me/logo/thumbs/203.png" group-title="International Channel", Animal Planet
+http://ctrl.laotv.la/live/AnimalPlanet/index.m3u8
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ll/love_nature_ca.png" group-title="International Channel", Love Nature
+https://d18dyiwu97wm6q.cloudfront.net/playlist.m3u8
