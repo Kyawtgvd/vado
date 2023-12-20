@@ -186,11 +186,9 @@ https://dce-ak-livewwdazn.akamaized.net/dashdrm/dazn-linear-018/stream.mpd
 #EXTINF:-1 tvg-logo="https://i.ibb.co/JRvJdR6/eleven1.png" group-title="Football(need vpn)", Eleven Sports 1
 #EXTVLCOPT:http-referrer=https://aesport.tv/
 https://nl.score911.cc/pt_elevensport1/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/JRvJdR6/eleven1.png" group-title="Football(need vpn)", Eleven Sports 1
-#EXTVLCOPT:http-referer=https://aesport.tv/
-https://nl.score911.cc/pt_elevensport1/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/JpGPnd6/eleven2.png" group-title="Football(need vpn)", Eleven Sports 2
-https://nl.score911.cc/pt_elevensport2/index.m3u8?|referer=https://aesport.tv/
+#EXTVLCOPT:http-referer=https://aesport.tv/
+https://nl.score911.cc/pt_elevensport2/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/TWhTFW8/eleven3.png" group-title="Football(need vpn)", Eleven Sports 3
 https://nl.score911.cc/pt_elevensport3/index.m3u8?|referer=https://aesport.tv/
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/tt/tnt-sports-uk-us-uk.png" group-title="Football(need vpn)", TNT Sports 1
