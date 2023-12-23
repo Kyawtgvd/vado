@@ -278,6 +278,42 @@ https://code.vthanhtivi.pw/getlink/eazie/241430/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ5d3XcSIwzdnamgM-dCq1TNF3YcDn9FSb62g&usqp=CAU" group-title="International Channel", UFC Network
 https://stream.ads.ottera.tv/cl/29fmbD4wgol0FelXaMeAw/854x480_550000_3_f.m3u8
 
+#EXTINF:-1 tvg-logo="http://zegomovie.com/Uploads/vod/2023-12-22/6585649a9db1d.jpg" group-title="MOVIES", Moscow Mission (2023)
+http://www.zegomovie.com/Videos/MoscowMission23/index.m3u8
+#EXTINF:-1 tvg-logo="http://zegomovie.com/Uploads/vod/2023-12-21/6583eab7c53dd.jpg" group-title="MOVIES", The Four Feathers (2002)
+http://www.zegomovie.com/Videos/TheFourFeathers02/index.m3u8
+#EXTINF:-1 tvg-logo="http://zegomovie.com/Uploads/vod/2023-12-19/6581590c2fbaf.jpg" group-title="MOVIES", Valhalla Rising (2009)
+http://www.zegomovie.com/Videos/ValhallaRising09/index.m3u8
+#EXTINF:-1 tvg-logo="http://zegomovie.com/Uploads/vod/2023-12-19/658140b25bc9d.jpg" group-title="MOVIES", Showdown at The Grand (2023)
+http://www.zegomovie.com/Videos/ShowdownatTheGrand23/index.m3u8
+#EXTINF:-1 tvg-logo="http://zegomovie.com/Uploads/vod/2023-12-11/6576c329b475b.jpg" group-title="MOVIES", Heavens Seven (2002)
+http://www.zegomovie.com/Videos/HeavensSeven02/index.m3u8
+#EXTINF:-1 tvg-logo="http://zegomovie.com/Uploads/vod/2023-12-11/6576c2bb4f191.jpg" group-title="MOVIES", Heavens Seven (2005)
+http://www.zegomovie.com/Videos/HeavensSeven205/index.m3u8
+#EXTINF:-1 tvg-logo="http://zegomovie.com/Uploads/vod/2023-01-23/63cdf8a9860e1.png" group-title="MOVIES", Mission Majnu (2023)
+http://www.zegomovie.com/Videos/MissionMajnu/index.m3u8
+#EXTINF:-1 tvg-logo="http://zegomovie.com/Uploads/vod/2023-11-24/65602a3fbdd1e.jpg" group-title="MOVIES", The Salvation (2014)
+http://www.zegomovie.com/Videos/TheSalvation14/index.m3u8
+#EXTINF:-1 tvg-logo="http://zegomovie.com/Uploads/vod/2023-11-16/6555e88f773bb.jpg" group-title="MOVIES", Quan Dao:The Journey of a Boxer (2020)
+http://www.zegomovie.com/Videos/QuanDaoTheJourneyofaBoxer20/index.m3u8
+#EXTINF:-1 tvg-logo="http://zegomovie.com/Uploads/vod/2023-11-14/65534215e5734.jpg" group-title="MOVIES", Raja Marthanda (2023)
+http://www.zegomovie.com/Videos/RajaMarthanda23/index.m3u8
+#EXTINF:-1 tvg-logo="http://zegomovie.com/Uploads/vod/2023-11-02/65434c1135afc.jpg" group-title="MOVIES", The Five Venoms (1978)
+http://www.zegomovie.com/Videos/TheFiveVenoms78/index.m3u8
+#EXTINF:-1 tvg-logo="http://zegomovie.com/Uploads/vod/2023-10-13/6528ea2d971cf.jpg" group-title="MOVIES", Mark Antony (2023)
+http://www.zegomovie.com/Videos/MarkAntony23/index.m3u8
+#EXTINF:-1 tvg-logo="http://zegomovie.com/Uploads/vod/2019-06-17/5d0737b09d687.jpg" group-title="MOVIES",  TheLegend II (1993)
+http://www.zegomovie.com/Videos/TheLegendII/index.m3u8
+#EXTINF:-1 tvg-logo="http://zegomovie.com/Uploads/vod/2023-10-09/65236c2c4566c.png" group-title="MOVIES", Blood on the Nameless River (2023)
+http://www.zegomovie.com/Videos/BloodontheNamelessRiver23/index.m3u8
+#EXTINF:-1 tvg-logo="http://zegomovie.com/Uploads/vod/2023-09-30/6517e9b2674a9.png" group-title="MOVIES", Raid On The Lethal Zone (2023)
+http://www.zegomovie.com/Videos/RaidOnTheLethalZone23/index.m3u8
+#EXTINF:-1 tvg-logo="http://zegomovie.com/Uploads/vod/2023-09-26/65125b6ea3cb1.jpg" group-title="MOVIES", RDX:Malaya (2023)
+http://www.zegomovie.com/Videos/RDX23Malaya/index.m3u8
+#EXTINF:-1 tvg-logo="http://zegomovie.com/Uploads/vod/2019-05-30/5cefb6423997f.jpg" group-title="MOVIES", Flying Swords of Dragon Gate (2011)
+http://www.zegomovie.com/Videos/FlyingSwordsofDragonGate/index.m3u8
+#EXTINF:-1 tvg-logo="http://zegomovie.com/Uploads/vod/2019-06-15/5d046fdf0de21.jpg" group-title="MOVIES", My Father is Hero (1995)
+http://www.zegomovie.com/Videos/MyFatherIsHero/index.m3u8
 #EXTINF:-1 tvg-logo="http://zegomovie.com/Uploads/vod/2023-08-26/64e9bc17eb313.png" group-title="MOVIES", BRO (2023)
 http://www.zegomovie.com/Videos/BRO23/index.m3u8
 #EXTINF:-1 tvg-logo="http://zegomovie.com/Uploads/vod/2023-08-25/64e86c7a33b4f.png" group-title="MOVIES", Rangabali (2023)
