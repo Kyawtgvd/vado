@@ -115,6 +115,78 @@ https://drm-epl-vidio-com-epl-5.akamaized.net/out/v1/17b4c59118e74b8d8f5761a7e10
 
 
 
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=82f8e2a17dac44c0a18f660479349c59&key=1b144f73e6fefe91cd05f850e2b589d0
+#EXTINF:-1 group-title="Football (only can play with ott player)" tvg-logo="https://tmbroadcast.com/wp-content/uploads/dazn-eleven-sports-logotypes.jpg", Eleven Sports 1
+https://dcf-ac-live.cdn.indazn.com/dashdrm/dazn-linear-054/stream.mpd?p=web
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=82f8e2a17dac44c0a18f660479349c59&key=1b144f73e6fefe91cd05f850e2b589d0
+#EXTINF:-1 group-title="Football (only can play with ott player)" tvg-logo="https://tmbroadcast.com/wp-content/uploads/dazn-eleven-sports-logotypes.jpg", Eleven Sports 2
+https://dcf-ac-live.cdn.indazn.com/dashdrm/dazn-linear-055/stream.mpd?p=web
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=82f8e2a17dac44c0a18f660479349c59&key=1b144f73e6fefe91cd05f850e2b589d0
+#EXTINF:-1 group-title="Football (only can play with ott player)" tvg-logo="https://tmbroadcast.com/wp-content/uploads/dazn-eleven-sports-logotypes.jpg", Eleven Sports 3
+https://dcf-ac-live.cdn.indazn.com/dashdrm/dazn-linear-056/stream.mpd?p=web
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=82f8e2a17dac44c0a18f660479349c59&key=1b144f73e6fefe91cd05f850e2b589d0
+#EXTINF:-1 group-title="Football (only can play with ott player)" tvg-logo="https://tmbroadcast.com/wp-content/uploads/dazn-eleven-sports-logotypes.jpg", Eleven Sports 4
+https://dcf-ac-live.cdn.indazn.com/dashdrm/dazn-linear-057/stream.mpd?p=web
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=82f8e2a17dac44c0a18f660479349c59&key=1b144f73e6fefe91cd05f850e2b589d0
+#EXTINF:-1 group-title="Football (only can play with ott player)" tvg-logo="https://tmbroadcast.com/wp-content/uploads/dazn-eleven-sports-logotypes.jpg", Eleven Sports 5
+https://dcf-ac-live.cdn.indazn.com/dashdrm/dazn-linear-058/stream.mpd?p=web
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=82f8e2a17dac44c0a18f660479349c59&key=1b144f73e6fefe91cd05f850e2b589d0
+#EXTINF:-1 group-title="Football (only can play with ott player)" tvg-logo="https://tmbroadcast.com/wp-content/uploads/dazn-eleven-sports-logotypes.jpg", Eleven Sports 6
+https://dcf-ac-live.cdn.indazn.com/dashdrm/dazn-linear-059/stream.mpd?p=web
+
+
+
+
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ee/eleven-sports-network-uk.png" group-title="Football (need vpn)", Eleven Sports 1
+#EXTVLCOPT:http-referrer=https://aesport.tv/
+https://nl.score911.cc/pt_elevensport1/index.m3u8
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ee/eleven-sports-network-uk.png" group-title="Football (need vpn)", Eleven Sports 2
+#EXTVLCOPT:http-referrer=https://aesport.tv/
+https://nl.score911.cc/pt_elevensport2/index.m3u8
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ee/eleven-sports-network-uk.png" group-title="Football (need vpn)", Eleven Sports 3
+#EXTVLCOPT:http-referrer=https://aesport.tv/
+https://nl.score911.cc/pt_elevensport3/index.m3u8
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ss/sport-tv-1-pt.png" group-title="Football (need vpn)", Sport TV 1
+#EXTVLCOPT:http-referrer=https://aesport.tv/
+https://nl.score911.cc/pt_sporttv1/index.m3u8
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ss/sport-tv-2-pt.png" group-title="Football (need vpn)", Sport TV 2
+#EXTVLCOPT:http-referrer=https://aesport.tv/
+https://nl.score911.cc/pt_sporttv2/index.m3u8
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ss/sport-tv-3-pt.png" group-title="Football (need vpn)", Sport TV 3
+#EXTVLCOPT:http-referrer=https://aesport.tv/
+https://nl.score911.cc/pt_sporttv3/index.m3u8
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/tt/tnt-sports-uk-us-uk.png" group-title="Football (need vpn)", TNT Sports 1
+#EXTVLCOPT:http-referrer=https://aesport.tv/
+https://nl.score911.cc/uk_bts1/index.m3u8
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/tt/tnt-sports-uk-us-uk.png" group-title="Football (need vpn)", TNT Sports 2
+#EXTVLCOPT:http-referrer=https://aesport.tv/
+https://nl.score911.cc/uk_bts2/index.m3u8
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/tt/tnt-sports-uk-us-uk.png" group-title="Football (need vpn)", TNT Sports 3
+#EXTVLCOPT:http-referrer=https://aesport.tv/
+https://nl.score911.cc/uk_bts3/index.m3u8
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/uu/usa_network_east.png" group-title="Football (need vpn)", USA Network
+#EXTVLCOPT:http-referrer=https://aesport.tv/
+https://us.score911.cc/us_usa/index.m3u8
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ss/sky-sports-main-event-uk.svg" group-title="Football (need vpn)", Sky Sports Main Event
+#EXTVLCOPT:http-referrer=https://aesport.tv/
+https://nl.score911.cc/uk_ssmain/index.m3u8
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ss/sky-sports-premier-league-uk.svg" group-title="Football (need vpn)", Sky Sports Premier League
+#EXTVLCOPT:http-referrer=https://aesport.tv/
+https://nl.score911.cc/uk_ssepl/index.m3u8
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ss/sky-sports-football-uk.svg" group-title="Football (need vpn)", Sky Sports Football
+#EXTVLCOPT:http-referrer=https://aesport.tv/
+https://nl.score911.cc/uk_ssfb/index.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/tt/true-premiere-football-hd-1-th.png" group-title="Sport", True EPL1
@@ -172,14 +244,6 @@ http://bananatv.org:25461/play/wVoZP52jvqdylF92agMAlx-EhPlr8WOlJ4B86MWLGzk/ts
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ee/eleven-sports-network-uk.png" group-title="Sport", ELEVEN 5
 http://bananatv.org:25461/play/wVoZP52jvqdylF92agMAl39AJNAepI9UuBkIPjrcg_Y/ts
 
-#EXTINF:-1 group-title="Test" tvg-logo="https://linear-poster.astro.com.my/prod/logo/Astro_Arena_v1.png", ARENA HD
-https://smt.sky4k.eu.org/AEC_V6/index.php?id=AstroArenaHD
-#EXTINF:-1 group-title="Test" tvg-logo="https://linear-poster.astro.com.my/prod/logo/AstroArena2.png", ARENA 2 HD
-https://smt.sky4k.eu.org/AEC_V6/index.php?id=AstroArena2HD
-#EXTINF:-1 group-title="Test" tvg-logo="https://linear-poster.astro.com.my/prod/logo/SPOTV.png", SPOTV
-https://smt.sky4k.eu.org/AEC_V6/index.php?id=SPOTV
-#EXTINF:-1 group-title="Test" tvg-logo="https://linear-poster.astro.com.my/prod/logo/SPOTV2.png", SPOTV2
-https://smt.sky4k.eu.org/AEC_V6/index.php?id=SPOTV2
 #EXTINF:-1 group-title="Test" tvg-logo="https://linear-poster.astro.com.my/prod/logo/Hits_v1.png", HITS
 https://smt.sky4k.eu.org/AEC_V6/index.php?id=HitsHD
 #EXTINF:-1 group-title="Test" tvg-logo="https://linear-poster.astro.com.my/prod/logo/Logo_10000499.png", HITS MOVIES
@@ -206,7 +270,7 @@ https://smt.sky4k.eu.org/AEC_V6/index.php?id=BBCEarthHD
 https://smt.sky4k.eu.org/AEC_V6/index.php?id=HistoryHD
 #EXTINF:-1 group-title="Test" tvg-logo="https://linear-poster.astro.com.my/prod/logo/Animal_Planet_v1.png", Animal Planet
 https://smt.sky4k.eu.org/AEC_V6/index.php?id=AnimalPlanetHD
-#EXTINF:-1 group-title="Test" tvg-logo="https://ntvplus.tv/files/image/10/60/28/3d1.png", Match TV
+#EXTINF:-1 group-title="Test" tvg-logo="https://ntvplus.tv/files/image/10/60/28/3d1.png", Match Sport
 http://free.cvmtv.site/Match?token=live
 #EXTINF:-1 group-title="Test" tvg-logo="https://ntvplus.tv/files/image/01/17/29/mqs.png", Match Futbol 1
 http://free.cvmtv.site/MF1?token=live
@@ -214,10 +278,6 @@ http://free.cvmtv.site/MF1?token=live
 http://free.cvmtv.site/MF2?token=live
 #EXTINF:-1 group-title="Test" tvg-logo="https://ntvplus.tv/files/image/01/17/31/u02.png", MatchFutbol 3
 http://free.cvmtv.site/MF3?token=live
-#EXTINF:-1 group-title="Test" tvg-logo="", CCTV5
-https://live.olelive.com:6443/live/CCTV5HD/hls.m3u8?|referer:https://olevod.tv/
-#EXTINF:-1 group-title="Test" tvg-logo="", CCTV5+
-https://live.olelive.com:6443/live/CCTV5PHD/hls.m3u8?|referer:https://olevod.tv/
 #EXTINF:-1 group-title="Test" tvg-logo="http://www.tvboxgroup.com/iptv/logo/HR/HR001.png", Arena Sport 1
 http://80.252.37.194:5000/udp/233.233.233.3:12000
 #EXTINF:-1 group-title="Test" tvg-logo="http://www.tvboxgroup.com/iptv/logo/HR/HR002.png", Arena Sport 2
@@ -230,3 +290,7 @@ http://80.252.37.194:5000/udp/233.233.233.6:12000
 http://80.252.37.194:5000/udp/233.233.233.7:12000
 #EXTINF:-1 group-title="Test" tvg-logo="http://www.tvboxgroup.com/iptv/logo/HR/HR006.png", Arena Sport 6
 http://80.252.37.194:5000/udp/233.233.233.8:12000
+#EXTINF:-1 group-title="Test" tvg-logo="", CCTV5
+https://live.olelive.com:6443/live/CCTV5HD/hls.m3u8?|referer:https://olevod.tv/
+#EXTINF:-1 group-title="Test" tvg-logo="", CCTV5+
+https://live.olelive.com:6443/live/CCTV5PHD/hls.m3u8?|referer:https://olevod.tv/
