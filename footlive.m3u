@@ -279,9 +279,9 @@ http://tv.vnoo.net/direct_tv/vthanh/tv/matchfootball1.m3u8?|referer=http-user-ag
 http://tv.vnoo.net/direct_tv/vthanh/tv/matchfootball2.m3u8?|referer=http-user-agent=Dalvik/2.1.0
 #EXTINF:-1 group-title="Sport" tvg-logo="https://www.lyngsat.com/logo/tv/mm/match-futbol-3-ru.svg", Match Futbol 3
 http://tv.vnoo.net/direct_tv/vthanh/tv/matchfootball3.m3u8?|referer=http-user-agent=Dalvik/2.1.0
-#EXTINF:-1 group-title="Football" tvg-logo="https://www.lyngsat.com/logo/tv/ss/spotv-on-kr.png", SPOTV
+#EXTINF:-1 group-title="Sport" tvg-logo="https://www.lyngsat.com/logo/tv/ss/spotv-on-kr.png", SPOTV
 http://tv.vnoo.net/direct_tv/vthanh/tv/spotv.m3u8?|referer=http-user-agent=Dalvik/2.1.0
-#EXTINF:-1 group-title="Football" tvg-logo="https://www.lyngsat.com/logo/tv/ss/spotv-on-2-kr.png", SPOTV2
+#EXTINF:-1 group-title="Sport" tvg-logo="https://www.lyngsat.com/logo/tv/ss/spotv-on-2-kr.png", SPOTV2
 http://tv.vnoo.net/direct_tv/vthanh/tv/spotv2.m3u8?|referer=http-user-agent=Dalvik/2.1.0
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/mm/mutv-uk.svg" group-title="Sport", MU TV
 https://bcovlive-a.akamaihd.net/r2d2c4ca5bf57456fb1d16255c1a535c8/eu-west-1/6058004203001/playlist.m3u8
@@ -368,7 +368,7 @@ http://www.zegomovie.com/Videos/ValhallaRising09/index.m3u8
 http://www.zegomovie.com/Videos/ShowdownatTheGrand23/index.m3u8
 #EXTINF:-1 tvg-logo="http://zegomovie.com/Uploads/vod/2023-12-11/6576c329b475b.jpg" group-title="MOVIES", Heavens Seven (2002)
 http://www.zegomovie.com/Videos/HeavensSeven02/index.m3u8
-#EXTINF:-1 tvg-logo="http://zegomovie.com/Uploads/vod/2023-12-11/6576c2bb4f191.jpg" group-title="MOVIES", Heavens Seven (2005)
+#EXTINF:-1 tvg-logo="http://zegomovie.com/Uploads/vod/2023-12-11/6576c2bb4f191.jpg" group-title="MOVIES", Heavens Seven 2 (2005)
 http://www.zegomovie.com/Videos/HeavensSeven205/index.m3u8
 #EXTINF:-1 tvg-logo="http://zegomovie.com/Uploads/vod/2023-01-23/63cdf8a9860e1.png" group-title="MOVIES", Mission Majnu (2023)
 http://www.zegomovie.com/Videos/MissionMajnu/index.m3u8
@@ -382,7 +382,7 @@ http://www.zegomovie.com/Videos/RajaMarthanda23/index.m3u8
 http://www.zegomovie.com/Videos/TheFiveVenoms78/index.m3u8
 #EXTINF:-1 tvg-logo="http://zegomovie.com/Uploads/vod/2023-10-13/6528ea2d971cf.jpg" group-title="MOVIES", Mark Antony (2023)
 http://www.zegomovie.com/Videos/MarkAntony23/index.m3u8
-#EXTINF:-1 tvg-logo="http://zegomovie.com/Uploads/vod/2019-06-17/5d0737b09d687.jpg" group-title="MOVIES",  TheLegend II (1993)
+#EXTINF:-1 tvg-logo="http://zegomovie.com/Uploads/vod/2019-06-17/5d0737b09d687.jpg" group-title="MOVIES", TheLegend II (1993)
 http://www.zegomovie.com/Videos/TheLegendII/index.m3u8
 #EXTINF:-1 tvg-logo="http://zegomovie.com/Uploads/vod/2023-10-09/65236c2c4566c.png" group-title="MOVIES", Blood on the Nameless River (2023)
 http://www.zegomovie.com/Videos/BloodontheNamelessRiver23/index.m3u8
