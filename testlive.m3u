@@ -94,75 +94,25 @@ https://drm-epl-vidio-com-epl-2.akamaized.net/out/v1/213998e62d2c4e5f9cf9e832d45
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=9c188d54b1b585a24c52bdbba5c3f031:2f5c37a723b9c879ec5bbe43cb34c8a3
-#EXTINF:-1 tvg-logo="https://cdn6.aptoide.com/imgs/8/c/9/8c9482a5f95b5740eec32c20eaa288ad_fgraphic.png" group-title="Football (only can play with ott player)", Vidio 1 (EPL)
+#EXTINF:-1 tvg-logo="https://cdn6.aptoide.com/imgs/8/c/9/8c9482a5f95b5740eec32c20eaa288ad_fgraphic.png" group-title="Football (only can play with ott player)", Vidio TV (EPL 3)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36 
 #EXTVLCOPT:http-referrer=https://www.vidio.com/
 https://drm-epl-vidio-com-epl-3.akamaized.net/out/v1/71829de864884cb0b831334ac3dc0a2a/index.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=cbb2857966a3a1c27c3305f68e2e92a4:881eca5eda60de64e4ea1514583869f2
-#EXTINF:-1 tvg-logo="https://cdn6.aptoide.com/imgs/8/c/9/8c9482a5f95b5740eec32c20eaa288ad_fgraphic.png" group-title="Football (only can play with ott player)", Vidio 2 (EPL)
+#EXTINF:-1 tvg-logo="https://cdn6.aptoide.com/imgs/8/c/9/8c9482a5f95b5740eec32c20eaa288ad_fgraphic.png" group-title="Football (only can play with ott player)", Vidio TV (EPL 4)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36 
 #EXTVLCOPT:http-referrer=https://www.vidio.com/
 https://drm-epl-vidio-com-epl-4.akamaized.net/out/v1/90396b8cf44f4d20b28f1be94b41b241/index.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=a8eddebc801dbfca167dc077abd1c9dc:5f2fe1b86e14b590249fa9a813821377
-#EXTINF:-1 tvg-logo="https://cdn6.aptoide.com/imgs/8/c/9/8c9482a5f95b5740eec32c20eaa288ad_fgraphic.png" group-title="Football (only can play with ott player)", Vidio 3 (EPL)
+#EXTINF:-1 tvg-logo="https://cdn6.aptoide.com/imgs/8/c/9/8c9482a5f95b5740eec32c20eaa288ad_fgraphic.png" group-title="Football (only can play with ott player)", Vidio TV (EPL 5)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36 
 #EXTVLCOPT:http-referrer=https://www.vidio.com/
 https://drm-epl-vidio-com-epl-5.akamaized.net/out/v1/17b4c59118e74b8d8f5761a7e10d1be2/index.mpd
 
-
-
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=c9f3795d0a1d46b505fd5b5d34953dec:ef3bb480e631339ce3690d519f328fbd
-#EXTINF:-1 tvg-id="" tvg-name="Champions League 4" tvg-logo="https://i.ibb.co/gSqB5fH/CHAMPION.png" group-title="SPORTS", CHAMPION 1
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36 
-#EXTVLCOPT:http-referrer=https://www.vidio.com/
-https://production-drm-vidio-com-event-1.akamaized.net/out/v1/6ae0fdb0f6ee4b10b5497efc10f0ce03/index.mpd
-
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=e34a4f7ba8ccfe3f5e14d8413af8d6f8:20f28eaa8592128da2032a0c05fc7b12
-#EXTINF:-1 tvg-id="" tvg-name="Champions League 4" tvg-logo="https://i.ibb.co/gSqB5fH/CHAMPION.png" group-title="SPORTS", CHAMPION 2
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36 
-#EXTVLCOPT:http-referrer=https://www.vidio.com/
-https://production-drm-vidio-com-event-2.akamaized.net/out/v1/078b12e86d0a4f75b4c7ce1ed23d82d9/index.mpd
-
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=1bc3e6cc570d8baf7edd5d68b1bea0c9:f91ed9a52cc02e932551c9cc97df0cdc
-#EXTINF:-1 tvg-id="" tvg-name="Champions League 4" tvg-logo="https://i.ibb.co/gSqB5fH/CHAMPION.png" group-title="SPORTS", CHAMPION 3
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36 
-#EXTVLCOPT:http-referrer=https://www.vidio.com/
-https://production-drm-vidio-com-event-3.akamaized.net/out/v1/ee66c2e0b8784d3d9f9585af6bdf9109/index.mpd
-
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=792c9b382615c47fdfb840dfd2387b8b:c86191afc372c5006ebab6e8bdf61e14
-#EXTINF:-1 tvg-id="" tvg-name="Champions League 4" tvg-logo="https://i.ibb.co/gSqB5fH/CHAMPION.png" group-title="SPORTS", CHAMPION 5
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36 
-#EXTVLCOPT:http-referrer=https://www.vidio.com/
-https://drm-epl-vidio-com-epl-1.akamaized.net/out/v1/1b34ee57680f49229adaa19b74a9b60d/index.mpd
-
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=a0605846d1f0dc153537b04d5fef6594:af747fe84c6c850c646364ad0b96c6cf
-#EXTINF:-1 tvg-id="" tvg-name="Champions League 4" tvg-logo="https://i.ibb.co/gSqB5fH/CHAMPION.png" group-title="SPORTS", CHAMPION 6
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36 
-#EXTVLCOPT:http-referrer=https://www.vidio.com/
-https://drm-epl-vidio-com-epl-2.akamaized.net/out/v1/213998e62d2c4e5f9cf9e832d4502b83/index.mpd
-
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=59b2f57473739523e5627132d9e04603:5751379870ddad5bba06f1d8cbdd2984
-#EXTINF:-1 tvg-id="" tvg-name="Champions League 4" tvg-logo="https://i.ibb.co/gSqB5fH/CHAMPION.png" group-title="SPORTS", CHAMPION 7
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36 
-#EXTVLCOPT:http-referrer=https://www.vidio.com/
-https://etslive-2-vidio-com.akamaized.net/drm/dash/9431_stream.mpd
-
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=7bacf759768884bc001b192284da04cd:40f0c18b068b72ccff74e4e94c6aded6
-#EXTINF:-1 tvg-id="" tvg-name="Champions League 4" tvg-logo="https://i.ibb.co/gSqB5fH/CHAMPION.png" group-title="SPORTS", CHAMPION 8
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36 
-#EXTVLCOPT:http-referrer=https://www.vidio.com/
-https://etslive-2-vidio-com.akamaized.net/drm/dash/9430_stream.mpd
 
 
 
@@ -221,3 +171,62 @@ http://bananatv.org:25461/play/wVoZP52jvqdylF92agMAl5n-LPWoBHFOLfCR1wTQ2FU/ts
 http://bananatv.org:25461/play/wVoZP52jvqdylF92agMAlx-EhPlr8WOlJ4B86MWLGzk/ts
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ee/eleven-sports-network-uk.png" group-title="Sport", ELEVEN 5
 http://bananatv.org:25461/play/wVoZP52jvqdylF92agMAl39AJNAepI9UuBkIPjrcg_Y/ts
+
+#EXTINF:-1 group-title="Test" tvg-logo="https://linear-poster.astro.com.my/prod/logo/Astro_Arena_v1.png", ARENA HD
+https://smt.sky4k.eu.org/AEC_V6/index.php?id=AstroArenaHD
+#EXTINF:-1 group-title="Test" tvg-logo="https://linear-poster.astro.com.my/prod/logo/AstroArena2.png", ARENA 2 HD
+https://smt.sky4k.eu.org/AEC_V6/index.php?id=AstroArena2HD
+#EXTINF:-1 group-title="Test" tvg-logo="https://linear-poster.astro.com.my/prod/logo/SPOTV.png", SPOTV
+https://smt.sky4k.eu.org/AEC_V6/index.php?id=SPOTV
+#EXTINF:-1 group-title="Test" tvg-logo="https://linear-poster.astro.com.my/prod/logo/SPOTV2.png", SPOTV2
+https://smt.sky4k.eu.org/AEC_V6/index.php?id=SPOTV2
+#EXTINF:-1 group-title="Test" tvg-logo="https://linear-poster.astro.com.my/prod/logo/Hits_v1.png", HITS
+https://smt.sky4k.eu.org/AEC_V6/index.php?id=HitsHD
+#EXTINF:-1 group-title="Test" tvg-logo="https://linear-poster.astro.com.my/prod/logo/Logo_10000499.png", HITS MOVIES
+https://smt.sky4k.eu.org/AEC_V6/index.php?id=HitsMovies
+#EXTINF:-1 group-title="Test" tvg-logo="https://linear-poster.astro.com.my/prod/logo/HBO_Hits.png", HBO Hits
+https://smt.sky4k.eu.org/AEC_V6/index.php?id=HBOHits
+#EXTINF:-1 group-title="Test" tvg-logo="https://linear-poster.astro.com.my/prod/logo/Cinemax_v1.png", CINEMAX
+https://smt.sky4k.eu.org/AEC_V6/index.php?id=Cinemax
+#EXTINF:-1 group-title="Test" tvg-logo="https://linear-poster.astro.com.my/prod/logo/AXN_v1.png", AXN
+https://smt.sky4k.eu.org/AEC_V6/index.php?id=AXNHD
+#EXTINF:-1 group-title="Test" tvg-logo="https://www.mncvision.id/userfiles/image/channel/thrill_150x150px.jpg",Thrill
+https://smt.sky4k.eu.org/AEC_V6/index.php?id=Thrill
+#EXTINF:-1 group-title="Test" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/65/Animaxlogo-20160701.png", Animax
+https://smt.sky4k.eu.org/AEC_V6/index.php?id=Animax
+#EXTINF:-1 group-title="Test" tvg-logo="https://linear-poster.astro.com.my/prod/logo/Cartoon_Network_v1.png", CARTOON NETWORK
+https://smt.sky4k.eu.org/AEC_V6/index.php?id=CartoonNetworkHD
+#EXTINF:-1 group-title="Test" tvg-logo="https://linear-poster.astro.com.my/prod/logo/CBeebies_V1.png", CBeebies
+https://smt.sky4k.eu.org/AEC_V6/index.php?id=CBeebiesHD
+#EXTINF:-1 group-title="Test" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/483_144.png", Love Nature
+https://smt.sky4k.eu.org/AEC_V6/index.php?id=LoveNatureHD
+#EXTINF:-1 group-title="Test" tvg-logo="https://linear-poster.astro.com.my/prod/logo/BBC_Earth.png", BBC Earth
+https://smt.sky4k.eu.org/AEC_V6/index.php?id=BBCEarthHD
+#EXTINF:-1 group-title="Test" tvg-logo="https://linear-poster.astro.com.my/prod/logo/History_2022_v1.png", History
+https://smt.sky4k.eu.org/AEC_V6/index.php?id=HistoryHD
+#EXTINF:-1 group-title="Test" tvg-logo="https://linear-poster.astro.com.my/prod/logo/Animal_Planet_v1.png", Animal Planet
+https://smt.sky4k.eu.org/AEC_V6/index.php?id=AnimalPlanetHD
+#EXTINF:-1 group-title="Test" tvg-logo="https://ntvplus.tv/files/image/10/60/28/3d1.png", Match TV
+http://free.cvmtv.site/Match?token=live
+#EXTINF:-1 group-title="Test" tvg-logo="https://ntvplus.tv/files/image/01/17/29/mqs.png", Match Futbol 1
+http://free.cvmtv.site/MF1?token=live
+#EXTINF:-1 group-title="Test" tvg-logo="https://ntvplus.tv/files/image/01/17/30/olz.png", Match Futbol 2
+http://free.cvmtv.site/MF2?token=live
+#EXTINF:-1 group-title="Test" tvg-logo="https://ntvplus.tv/files/image/01/17/31/u02.png", MatchFutbol 3
+http://free.cvmtv.site/MF3?token=live
+#EXTINF:-1 group-title="Test" tvg-logo="", CCTV5
+https://live.olelive.com:6443/live/CCTV5HD/hls.m3u8?|referer:https://olevod.tv/
+#EXTINF:-1 group-title="Test" tvg-logo="", CCTV5+
+https://live.olelive.com:6443/live/CCTV5PHD/hls.m3u8?|referer:https://olevod.tv/
+#EXTINF:-1 group-title="Test" tvg-logo="http://www.tvboxgroup.com/iptv/logo/HR/HR001.png", Arena Sport 1
+http://80.252.37.194:5000/udp/233.233.233.3:12000
+#EXTINF:-1 group-title="Test" tvg-logo="http://www.tvboxgroup.com/iptv/logo/HR/HR002.png", Arena Sport 2
+http://80.252.37.194:5000/udp/233.233.233.4:12000
+#EXTINF:-1 group-title="Test" tvg-logo="http://www.tvboxgroup.com/iptv/logo/HR/HR003.png", Arena Sport 3
+http://80.252.37.194:5000/udp/233.233.233.5:12000
+#EXTINF:-1 group-title="Test" tvg-logo="http://www.tvboxgroup.com/iptv/logo/HR/HR004.png", Arena Sport 4
+http://80.252.37.194:5000/udp/233.233.233.6:12000
+#EXTINF:-1 group-title="Test" tvg-logo="http://www.tvboxgroup.com/iptv/logo/HR/HR005.png", Arena Sport 5
+http://80.252.37.194:5000/udp/233.233.233.7:12000
+#EXTINF:-1 group-title="Test" tvg-logo="http://www.tvboxgroup.com/iptv/logo/HR/HR006.png", Arena Sport 6
+http://80.252.37.194:5000/udp/233.233.233.8:12000
