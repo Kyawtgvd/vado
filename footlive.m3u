@@ -1,28 +1,4 @@
 #EXTM3U
-#EXTINF:-1 group-title="Live Soccer Event" tvg-logo="https://png.pngtree.com/png-vector/20221104/ourmid/pngtree-live-football-red-play-button-png-image_6413825.png", Live Match (btw) 1 ⭐
-https://hls.streambtw.com/live/stream_1.m3u8
-#EXTINF:-1 group-title="Live Soccer Event" tvg-logo="https://png.pngtree.com/png-vector/20221104/ourmid/pngtree-live-football-red-play-button-png-image_6413825.png", Live Match (btw) 2
-https://hls.streambtw.com/live/stream_2.m3u8
-#EXTINF:-1 group-title="Live Soccer Event" tvg-logo="https://png.pngtree.com/png-vector/20221104/ourmid/pngtree-live-football-red-play-button-png-image_6413825.png", Live Match (btw) 3
-https://hls.streambtw.com/live/stream_3.m3u8
-#EXTINF:-1 group-title="Live Soccer Event" tvg-logo="https://png.pngtree.com/png-vector/20221104/ourmid/pngtree-live-football-red-play-button-png-image_6413825.png", Live Match (btw) 4
-https://hls.streambtw.com/live/stream_4.m3u8
-#EXTINF:-1 group-title="Live Soccer Event" tvg-logo="https://png.pngtree.com/png-vector/20221104/ourmid/pngtree-live-football-red-play-button-png-image_6413825.png", Live Match (btw) 5
-https://hls.streambtw.com/live/stream_5.m3u8
-#EXTINF:-1 group-title="Live Soccer Event" tvg-logo="https://png.pngtree.com/png-vector/20221104/ourmid/pngtree-live-football-red-play-button-png-image_6413825.png", Live Match (btw) 6
-https://hls.streambtw.com/live/stream_6.m3u8
-#EXTINF:-1 group-title="Live Soccer Event" tvg-logo="https://png.pngtree.com/png-vector/20221104/ourmid/pngtree-live-football-red-play-button-png-image_6413825.png", Live Match (btw) 7
-https://hls.streambtw.com/live/stream_7.m3u8
-#EXTINF:-1 group-title="Live Soccer Event" tvg-logo="https://png.pngtree.com/png-vector/20221104/ourmid/pngtree-live-football-red-play-button-png-image_6413825.png", Live Match (btw) 8
-https://hls.streambtw.com/live/stream_8.m3u8
-#EXTINF:-1 group-title="Live Soccer Event" tvg-logo="https://png.pngtree.com/png-vector/20221104/ourmid/pngtree-live-football-red-play-button-png-image_6413825.png", Live Match (btw) 9
-https://hls.streambtw.com/live/stream_9.m3u8
-#EXTINF:-1 group-title="Live Soccer Event" tvg-logo="https://png.pngtree.com/png-vector/20221104/ourmid/pngtree-live-football-red-play-button-png-image_6413825.png", Live Match (btw) 10
-https://hls.streambtw.com/live/stream_10.m3u8
-#EXTINF:-1 group-title="Live Soccer Event" tvg-logo="https://png.pngtree.com/png-vector/20221104/ourmid/pngtree-live-football-red-play-button-png-image_6413825.png", Live Match (btw) 11
-https://hls.streambtw.com/live/stream_11.m3u8
-#EXTINF:-1 group-title="Live Soccer Event" tvg-logo="https://png.pngtree.com/png-vector/20221104/ourmid/pngtree-live-football-red-play-button-png-image_6413825.png", Live Match (btw) 12
-https://hls.streambtw.com/live/stream_12.m3u8
 #EXTINF:-1 group-title="Live Soccer Event" tvg-logo="https://cdn1.vectorstock.com/i/1000x1000/77/95/live-football-streaming-icon-badge-button-vector-28137795.jpg", Live Match (head) 1
 https://headlinessportsfoot.com/chunklist/hlsch1.m3u8
 #EXTINF:-1 group-title="Live Soccer Event" tvg-logo="https://cdn1.vectorstock.com/i/1000x1000/77/95/live-football-streaming-icon-badge-button-vector-28137795.jpg", Live Match (head) 2
@@ -43,10 +19,7 @@ https://headlinessportsfoot.com/chunklist/hlsch8.m3u8
 https://headlinessportsfoot.com/chunklist/hlsch9.m3u8
 #EXTINF:-1 group-title="Live Soccer Event" tvg-logo="https://cdn1.vectorstock.com/i/1000x1000/77/95/live-football-streaming-icon-badge-button-vector-28137795.jpg", Live Match (head) 10
 https://headlinessportsfoot.com/chunklist/hlsch10.m3u8
-#EXTINF:-1 group-title="Live Soccer Event" tvg-logo="https://cdn1.vectorstock.com/i/1000x1000/77/95/live-football-streaming-icon-badge-button-vector-28137795.jpg", Live Match (head) 11
-https://headlinessportsfoot.com/chunklist/hlsch11.m3u8
-#EXTINF:-1 group-title="Live Soccer Event" tvg-logo="https://cdn1.vectorstock.com/i/1000x1000/77/95/live-football-streaming-icon-badge-button-vector-28137795.jpg", Live Match (head) 12
-https://headlinessportsfoot.com/chunklist/hlsch12.m3u8
+
 #EXTINF:-1 group-title="Live Soccer Event" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQLEC2mZFaZxtAYHHCl2WF5qknWIEvgXHeL1Q&usqp=CAU", Live Match (sofree) 1 ⭐
 https://soccer.freesportstime.com/live/stream_1.m3u8
 #EXTINF:-1 group-title="Live Soccer Event" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQLEC2mZFaZxtAYHHCl2WF5qknWIEvgXHeL1Q&usqp=CAU", Live Match (sofree) 2
@@ -57,20 +30,39 @@ https://soccer.freesportstime.com/live/stream_3.m3u8
 https://soccer.freesportstime.com/live/stream_4.m3u8
 #EXTINF:-1 group-title="Live Soccer Event" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQLEC2mZFaZxtAYHHCl2WF5qknWIEvgXHeL1Q&usqp=CAU", Live Match (sofree) 5
 https://soccer.freesportstime.com/live/stream_5.m3u8
-#EXTINF:-1 group-title="Live Soccer Event" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQLEC2mZFaZxtAYHHCl2WF5qknWIEvgXHeL1Q&usqp=CAU", Live Match (sofree) 6
-https://soccer.freesportstime.com/live/stream_6.m3u8
-#EXTINF:-1 group-title="Live Soccer Event" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQLEC2mZFaZxtAYHHCl2WF5qknWIEvgXHeL1Q&usqp=CAU", Live Match (sofree) 7
-https://soccer.freesportstime.com/live/stream_7.m3u8
-#EXTINF:-1 group-title="Live Soccer Event" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQLEC2mZFaZxtAYHHCl2WF5qknWIEvgXHeL1Q&usqp=CAU", Live Match (sofree) 8
-https://soccer.freesportstime.com/live/stream_8.m3u8
-#EXTINF:-1 group-title="Live Soccer Event" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQLEC2mZFaZxtAYHHCl2WF5qknWIEvgXHeL1Q&usqp=CAU", Live Match (sofree) 9
-https://soccer.freesportstime.com/live/stream_9.m3u8
-#EXTINF:-1 group-title="Live Soccer Event" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQLEC2mZFaZxtAYHHCl2WF5qknWIEvgXHeL1Q&usqp=CAU", Live Match (sofree) 10
-https://soccer.freesportstime.com/live/stream_10.m3u8
-#EXTINF:-1 group-title="Live Soccer Event" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQLEC2mZFaZxtAYHHCl2WF5qknWIEvgXHeL1Q&usqp=CAU", Live Match (sofree) 11
-https://soccer.freesportstime.com/live/stream_11.m3u8
-#EXTINF:-1 group-title="Live Soccer Event" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQLEC2mZFaZxtAYHHCl2WF5qknWIEvgXHeL1Q&usqp=CAU", Live Match (sofree) 12
-https://soccer.freesportstime.com/live/stream_12.m3u8
+
+#EXTINF:-1 group-title="Live Soccer Event" tvg-logo="https://png.pngtree.com/png-vector/20221104/ourmid/pngtree-live-football-red-play-button-png-image_6413825.png", Live Match (btw) 1 ⭐
+https://hls.streambtw.com/live/stream_1.m3u8
+#EXTINF:-1 group-title="Live Soccer Event" tvg-logo="https://png.pngtree.com/png-vector/20221104/ourmid/pngtree-live-football-red-play-button-png-image_6413825.png", Live Match (btw) 2
+https://hls.streambtw.com/live/stream_2.m3u8
+#EXTINF:-1 group-title="Live Soccer Event" tvg-logo="https://png.pngtree.com/png-vector/20221104/ourmid/pngtree-live-football-red-play-button-png-image_6413825.png", Live Match (btw) 3
+https://hls.streambtw.com/live/stream_3.m3u8
+#EXTINF:-1 group-title="Live Soccer Event" tvg-logo="https://png.pngtree.com/png-vector/20221104/ourmid/pngtree-live-football-red-play-button-png-image_6413825.png", Live Match (btw) 4
+https://hls.streambtw.com/live/stream_4.m3u8
+#EXTINF:-1 group-title="Live Soccer Event" tvg-logo="https://png.pngtree.com/png-vector/20221104/ourmid/pngtree-live-football-red-play-button-png-image_6413825.png", Live Match (btw) 5
+https://hls.streambtw.com/live/stream_5.m3u8
+
+#EXTINF:-1 group-title="Live Soccer Event" tvg-logo="https://cdn1.vectorstock.com/i/1000x1000/77/95/live-football-streaming-icon-badge-button-vector-28137795.jpg", Live Match (s4) 1 sd ⭐
+https://s4.anania.xyz/hls/abr-stream-1/index.m3u8?|Referer=https://www.topsporter.net/
+#EXTINF:-1 group-title="Live Soccer Event" tvg-logo="https://cdn1.vectorstock.com/i/1000x1000/77/95/live-football-streaming-icon-badge-button-vector-28137795.jpg", Live Match (s4) 2 sd
+https://s4.anania.xyz/hls/abr-stream-2/index.m3u8?|Referer=https://www.topsporter.net/
+#EXTINF:-1 group-title="Live Soccer Event" tvg-logo="https://cdn1.vectorstock.com/i/1000x1000/77/95/live-football-streaming-icon-badge-button-vector-28137795.jpg", Live Match (s4) 3 sd
+https://s4.anania.xyz/hls/abr-stream-3/index.m3u8?|Referer=https://www.topsporter.net/
+#EXTINF:-1 group-title="Live Soccer Event" tvg-logo="https://cdn1.vectorstock.com/i/1000x1000/77/95/live-football-streaming-icon-badge-button-vector-28137795.jpg", Live Match (s4) 4 sd
+https://s4.anania.xyz/hls/abr-stream-4/index.m3u8?|Referer=https://www.topsporter.net/
+#EXTINF:-1 group-title="Live Soccer Event" tvg-logo="https://cdn1.vectorstock.com/i/1000x1000/77/95/live-football-streaming-icon-badge-button-vector-28137795.jpg", Live Match (s4) 5 sd
+https://s4.anania.xyz/hls/abr-stream-5/index.m3u8?|Referer=https://www.topsporter.net/
+
+#EXTINF:-1 group-title="Live Soccer Event" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQLEC2mZFaZxtAYHHCl2WF5qknWIEvgXHeL1Q&usqp=CAU", Live Match (raino) 1 ⭐
+https://usa.raino.site/hls/stream1.m3u8?|Referer=https://bdnewszh.com/
+#EXTINF:-1 group-title="Live Soccer Event" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQLEC2mZFaZxtAYHHCl2WF5qknWIEvgXHeL1Q&usqp=CAU", Live Match (raino) 2
+https://usa.raino.site/hls/stream2.m3u8?|Referer=https://bdnewszh.com/
+#EXTINF:-1 group-title="Live Soccer Event" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQLEC2mZFaZxtAYHHCl2WF5qknWIEvgXHeL1Q&usqp=CAU", Live Match (raino) 3
+https://usa.raino.site/hls/stream3.m3u8?|Referer=https://bdnewszh.com/
+#EXTINF:-1 group-title="Live Soccer Event" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQLEC2mZFaZxtAYHHCl2WF5qknWIEvgXHeL1Q&usqp=CAU", Live Match (raino) 4
+https://usa.raino.site/hls/stream4.m3u8?|Referer=https://bdnewszh.com/
+#EXTINF:-1 group-title="Live Soccer Event" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQLEC2mZFaZxtAYHHCl2WF5qknWIEvgXHeL1Q&usqp=CAU", Live Match (raino) 5
+https://usa.raino.site/hls/stream5.m3u8?|Referer=https://bdnewszh.com/
 
 #EXTINF:-1 group-title="Live Soccer Event" tvg-logo="https://png.pngtree.com/png-vector/20221104/ourmid/pngtree-live-football-red-play-button-png-image_6413825.png", Live Match (reels) 1
 https://reels2watch.com/hls/s1.m3u8?|Referer=https://techclips.net/
@@ -94,17 +86,6 @@ https://nflarcadia.xyz/hls/s4.m3u8?|Referer=https://techclips.net/
 #EXTINF:-1 group-title="Live Soccer Event" tvg-logo="https://cdn1.vectorstock.com/i/1000x1000/77/95/live-football-streaming-icon-badge-button-vector-28137795.jpg", Live Match (nflar) 5
 https://nflarcadia.xyz/hls/s5.m3u8?|Referer=https://techclips.net/
 
-#EXTINF:-1 group-title="Live Soccer Event" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQLEC2mZFaZxtAYHHCl2WF5qknWIEvgXHeL1Q&usqp=CAU", Live Match (raino) 1 ⭐
-https://usa.raino.site/hls/stream1.m3u8?|Referer=https://bdnewszh.com/
-#EXTINF:-1 group-title="Live Soccer Event" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQLEC2mZFaZxtAYHHCl2WF5qknWIEvgXHeL1Q&usqp=CAU", Live Match (raino) 2
-https://usa.raino.site/hls/stream2.m3u8?|Referer=https://bdnewszh.com/
-#EXTINF:-1 group-title="Live Soccer Event" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQLEC2mZFaZxtAYHHCl2WF5qknWIEvgXHeL1Q&usqp=CAU", Live Match (raino) 3
-https://usa.raino.site/hls/stream3.m3u8?|Referer=https://bdnewszh.com/
-#EXTINF:-1 group-title="Live Soccer Event" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQLEC2mZFaZxtAYHHCl2WF5qknWIEvgXHeL1Q&usqp=CAU", Live Match (raino) 4
-https://usa.raino.site/hls/stream4.m3u8?|Referer=https://bdnewszh.com/
-#EXTINF:-1 group-title="Live Soccer Event" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQLEC2mZFaZxtAYHHCl2WF5qknWIEvgXHeL1Q&usqp=CAU", Live Match (raino) 5
-https://usa.raino.site/hls/stream5.m3u8?|Referer=https://bdnewszh.com/
-
 #EXTINF:-1 group-title="Live Soccer Event" tvg-logo="https://png.pngtree.com/png-vector/20221104/ourmid/pngtree-live-football-red-play-button-png-image_6413825.png", Live Match (s3) 1 ⭐
 https://s3.alnorum.xyz/hls/stream-1/index.m3u8?|Referer=https://www.topsporter.net/
 #EXTINF:-1 group-title="Live Soccer Event" tvg-logo="https://png.pngtree.com/png-vector/20221104/ourmid/pngtree-live-football-red-play-button-png-image_6413825.png", Live Match (s3) 2
@@ -116,16 +97,6 @@ https://s3.alnorum.xyz/hls/stream-4/index.m3u8?|Referer=https://www.topsporter.n
 #EXTINF:-1 group-title="Live Soccer Event" tvg-logo="https://png.pngtree.com/png-vector/20221104/ourmid/pngtree-live-football-red-play-button-png-image_6413825.png", Live Match (s3) 5
 https://s3.alnorum.xyz/hls/stream-5/index.m3u8?|Referer=https://www.topsporter.net/
 
-#EXTINF:-1 group-title="Live Soccer Event" tvg-logo="https://cdn1.vectorstock.com/i/1000x1000/77/95/live-football-streaming-icon-badge-button-vector-28137795.jpg", Live Match (s4) 1 sd ⭐
-https://s4.anania.xyz/hls/abr-stream-1/index.m3u8?|Referer=https://www.topsporter.net/
-#EXTINF:-1 group-title="Live Soccer Event" tvg-logo="https://cdn1.vectorstock.com/i/1000x1000/77/95/live-football-streaming-icon-badge-button-vector-28137795.jpg", Live Match (s4) 2 sd
-https://s4.anania.xyz/hls/abr-stream-2/index.m3u8?|Referer=https://www.topsporter.net/
-#EXTINF:-1 group-title="Live Soccer Event" tvg-logo="https://cdn1.vectorstock.com/i/1000x1000/77/95/live-football-streaming-icon-badge-button-vector-28137795.jpg", Live Match (s4) 3 sd
-https://s4.anania.xyz/hls/abr-stream-3/index.m3u8?|Referer=https://www.topsporter.net/
-#EXTINF:-1 group-title="Live Soccer Event" tvg-logo="https://cdn1.vectorstock.com/i/1000x1000/77/95/live-football-streaming-icon-badge-button-vector-28137795.jpg", Live Match (s4) 4 sd
-https://s4.anania.xyz/hls/abr-stream-4/index.m3u8?|Referer=https://www.topsporter.net/
-#EXTINF:-1 group-title="Live Soccer Event" tvg-logo="https://cdn1.vectorstock.com/i/1000x1000/77/95/live-football-streaming-icon-badge-button-vector-28137795.jpg", Live Match (s4) 5 sd
-https://s4.anania.xyz/hls/abr-stream-5/index.m3u8?|Referer=https://www.topsporter.net/
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/tt/true-premiere-football-hd-1-th.png" group-title="Football", True Premier 1 
 https://edge1.laotv.la/live/TSport1/index.m3u8
@@ -155,24 +126,16 @@ https://247c.mrgamingstreams.com/mrgamingbtsport2.m3u8
 https://247c.mrgamingstreams.com/mrgamingbtsport3.m3u8
 #EXTINF:-1 group-title="Football" tvg-logo="https://www.lyngsat.com/logo/tv/tt/tnt-sports-4-uk.png", TNT Sports 4
 https://247c.mrgamingstreams.com/mrgamingbtsport4.m3u8
-#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/aa/astro-supersport-my.png" group-title="Football", Astro Supersport 1
-https://webudit.webhd.ru/lb/premium123/index.m3u8?|referer=weblivehdplay.ru/
-#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/aa/astro-supersport-2-my.png" group-title="Football", Astro Supersport 2
-https://webudit.webhd.ru/lb/premium124/index.m3u8?|referer=weblivehdplay.ru/
-#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/aa/astro-supersport-3-my.png" group-title="Football", Astro Supersport 3
-https://webudit.webhd.ru/lb/premium125/index.m3u8?|referer=weblivehdplay.ru/
-#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/aa/astro-supersport-4-my.png" group-title="Football", Astro Supersport 4
-https://webudit.webhd.ru/lb/premium126/index.m3u8?|referer=weblivehdplay.ru/
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/uu/usa_network_east.png" group-title="Football", USA Network 
 https://webudit.hlsjs.ru/lb/premium343/index.m3u8?|referer=weblivehdplay.ru/
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/bb/bein-sports-english-1-qa.png" group-title="Football", Bein Sports 1 English
+https://webudit.webhd.ru/lb/premium61/index.m3u8?|referer=weblivehdplay.ru/
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ss/sky-sports-main-event-uk.svg" group-title="Football", Sky Sports Main Event
 https://webudit.webhd.ru/lb/premium38/index.m3u8?|referer=weblivehdplay.ru/
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ss/sky-sports-premier-league-uk.svg" group-title="Football", Sky Sports Premier League 
 https://webudit.webhd.ru/lb/premium130/index.m3u8?|referer=weblivehdplay.ru/
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ss/supersport-premier-league-za.png" group-title="Football", Super Sports Premier League
 https://webudit.hlsjs.ru/lb/premium414/index.m3u8?|referer=weblivehdplay.ru/
-#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/bb/bein-sports-english-1-qa.png" group-title="Football", Bein Sports 1 English
-https://webudit.webhd.ru/lb/premium61/index.m3u8?|referer=weblivehdplay.ru/
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/dd/digi_sport1_ro.png" group-title="Football", Digi Sport 1 
 https://webudit.webhd.ru/lb/premium400/index.m3u8?|referer=weblivehdplay.ru/
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/dd/digi_sport2_ro.png" group-title="Football", Digi Sport 2
@@ -211,6 +174,14 @@ https://webudit.webhd.ru/lb/premium32/index.m3u8?|referer=weblivehdplay.ru/
 https://webudit.webhd.ru/lb/premium33/index.m3u8?|referer=weblivehdplay.ru/
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/tt/tnt-sports-uk-us-uk.png" group-title="Football", TNT Sports 4
 https://webudit.webhd.ru/lb/premium34/index.m3u8?|referer=weblivehdplay.ru/
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/aa/astro-supersport-my.png" group-title="Football", Astro Supersport 1
+https://webudit.webhd.ru/lb/premium123/index.m3u8?|referer=weblivehdplay.ru/
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/aa/astro-supersport-2-my.png" group-title="Football", Astro Supersport 2
+https://webudit.webhd.ru/lb/premium124/index.m3u8?|referer=weblivehdplay.ru/
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/aa/astro-supersport-3-my.png" group-title="Football", Astro Supersport 3
+https://webudit.webhd.ru/lb/premium125/index.m3u8?|referer=weblivehdplay.ru/
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/aa/astro-supersport-4-my.png" group-title="Football", Astro Supersport 4
+https://webudit.webhd.ru/lb/premium126/index.m3u8?|referer=weblivehdplay.ru/
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/tt/telemundo_este.png" group-title="Football", Telemundo
 https://webudit.hlsjs.ru/lb/premium131/index.m3u8?|referer=weblivehdplay.ru/
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/mm/match-ru.svg" group-title="Football", Match Sport
