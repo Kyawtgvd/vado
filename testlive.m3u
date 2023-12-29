@@ -248,19 +248,45 @@ http://80.252.37.194:5000/udp/233.233.233.8:12000
 http://99f6ad7e.ottrast.com/iptv/6XFVDYBV8KUMDU/19158/index.m3u8
 #EXTINF:-1 group-title="Sport" tvg-logo="https://i.ibb.co/JRvJdR6/eleven1.png", Eleven Sport 1 (2)
 http://wiaqmjix.rostelekom.xyz/iptv/5YS5CCM3AGT2T9/19158/index.m3u8
-#EXTINF:-1 tvg-logo="https://www.nowtv.now.com/wp-content/uploads/2020/04/600-dbg-c.png" group-title="Sport", Now Sport Premier League
+#EXTINF:-1 group-title="Sport" tvg-logo="https://www.lyngsat.com/logo/tv/tt/tnt-sports-1-uk.png", TNT Sports 1
+https://247c.mrgamingstreams.com/mrgamingbtsport1.m3u8
+#EXTINF:-1 group-title="Sport" tvg-logo="https://www.lyngsat.com/logo/tv/tt/tnt-sports-2-uk.png", TNT Sports 2
+https://247c.mrgamingstreams.com/mrgamingbtsport2.m3u8
+#EXTINF:-1 group-title="Sport" tvg-logo="https://www.lyngsat.com/logo/tv/tt/tnt-sports-3-uk.png", TNT Sports 3
+https://247c.mrgamingstreams.com/mrgamingbtsport3.m3u8
+#EXTINF:-1 group-title="Sport" tvg-logo="https://www.lyngsat.com/logo/tv/tt/tnt-sports-4-uk.png", TNT Sports 4
+https://247c.mrgamingstreams.com/mrgamingbtsport4.m3u8
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ss/sky-sports-main-event-uk.svg" group-title="Sport", Sky Sports Main Event
+https://247c.mrgamingstreams.com/mrgamingmainevent.m3u8
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/cc/cbs-kr.png" group-title="Sport", CBS Sport
+https://247c.mrgamingstreams.com/mrgamingcbssn.m3u8
+#EXTINF:-1 tvg-logo="https://www.nowtv.now.com/media/logo/600-wbg-e.png" group-title="Sport", Now Hk Premier Sport 1
 http://tuyullxt@mag.x-iptv.live/play/live.php?mac=00:1A:79:23:25:61&stream=1032487&extension=ts&play_token=tuyullxt@.ts
-#EXTINF:-1 tvg-logo="https://www.nowtv.now.com/wp-content/uploads/2020/04/600-dbg-c.png" group-title="Sport", Now Sport 1
+#EXTINF:-1 tvg-logo="https://www.nowtv.now.com/media/logo/600-wbg-e.png" group-title="Sport", Now Hk Premier Sport 2
+http://tuyullxt@mag.x-iptv.live/play/live.php?mac=00:1A:79:23:25:61&stream=1032486&extension=ts&play_token=tuyullxt@.ts
+#EXTINF:-1 tvg-logo="https://www.nowtv.now.com/media/logo/600-wbg-e.png" group-title="Sport", Now Hk Premier Sport 3
+http://tuyullxt@mag.x-iptv.live/play/live.php?mac=00:1A:79:23:25:61&stream=1032485&extension=ts&play_token=tuyullxt@.ts
+#EXTINF:-1 tvg-logo="https://www.nowtv.now.com/wp-content/uploads/2020/04/600-dbg-c.png" group-title="Sport", Now Sport 1 (event only)
 http://tuyullxt@mag.x-iptv.live/play/live.php?mac=00:1A:79:23:25:61&stream=1032489&extension=ts&play_token=tuyullxt@.ts
-#EXTINF:-1 tvg-logo="https://www.nowtv.now.com/wp-content/uploads/2020/04/600-dbg-c.png" group-title="Sport", Now Sport 2
+#EXTINF:-1 tvg-logo="https://www.nowtv.now.com/wp-content/uploads/2020/04/600-dbg-c.png" group-title="Sport", Now Sport 2 (event only)
 http://tuyullxt@mag.x-iptv.live/play/live.php?mac=00:1A:79:23:25:61&stream=1032478&extension=ts&play_token=tuyullxt@.ts
-#EXTINF:-1 tvg-logo="https://www.nowtv.now.com/wp-content/uploads/2020/04/600-dbg-c.png" group-title="Sport", Now Sport 3
+#EXTINF:-1 tvg-logo="https://www.nowtv.now.com/wp-content/uploads/2020/04/600-dbg-c.png" group-title="Sport", Now Sport 3 (event only)
 http://tuyullxt@mag.x-iptv.live/play/live.php?mac=00:1A:79:23:25:61&stream=1032477&extension=ts&play_token=tuyullxt@.ts
-#EXTINF:-1 tvg-logo="https://www.nowtv.now.com/wp-content/uploads/2020/04/600-dbg-c.png" group-title="Sport", Now Sport 4
+#EXTINF:-1 tvg-logo="https://www.nowtv.now.com/wp-content/uploads/2020/04/600-dbg-c.png" group-title="Sport", Now Sport 4 (event only)
 http://tuyullxt@mag.x-iptv.live/play/live.php?mac=00:1A:79:23:25:61&stream=1032476&extension=ts&play_token=tuyullxt@.ts
-#EXTINF:-1 tvg-logo="https://www.nowtv.now.com/wp-content/uploads/2020/04/600-dbg-c.png" group-title="Sport", Now Sport 5
+#EXTINF:-1 tvg-logo="https://www.nowtv.now.com/wp-content/uploads/2020/04/600-dbg-c.png" group-title="Sport", Now Sport 5 (event only)
 http://tuyullxt@mag.x-iptv.live/play/live.php?mac=00:1A:79:23:25:61&stream=1032475&extension=ts&play_token=tuyullxt@.ts
-#EXTINF:-1 tvg-logo="https://www.nowtv.now.com/wp-content/uploads/2020/04/600-dbg-c.png" group-title="Sport", Now Sport 6
+#EXTINF:-1 tvg-logo="https://www.nowtv.now.com/wp-content/uploads/2020/04/600-dbg-c.png" group-title="Sport", Now Sport 6 (event only)
 http://tuyullxt@mag.x-iptv.live/play/live.php?mac=00:1A:79:23:25:61&stream=1032474&extension=ts&play_token=tuyullxt@.ts
-#EXTINF:-1 tvg-logo="https://www.nowtv.now.com/wp-content/uploads/2020/04/600-dbg-c.png" group-title="Sport", Now Sport 7
+#EXTINF:-1 tvg-logo="https://www.nowtv.now.com/wp-content/uploads/2020/04/600-dbg-c.png" group-title="Sport", Now Sport 7 (event only)
 http://tuyullxt@mag.x-iptv.live/play/live.php?mac=00:1A:79:23:25:61&stream=1032473&extension=ts&play_token=tuyullxt@.ts
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ss/star-sports-select-hd1-hk-in.png" group-title="Sport", Star Sport Select 1
+http://tuyullxt@mag.x-iptv.live/play/live.php?mac=00:1A:79:23:25:61&stream=1114583&extension=ts&play_token=tuyullxt@.ts
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ss/star-sports-select-hd2-hk-in.png" group-title="Sport", Star Sport Select 2
+http://tuyullxt@mag.x-iptv.live/play/live.php?mac=00:1A:79:23:25:61&stream=1114584&extension=ts&play_token=tuyullxt@.ts
+#EXTINF:-1 tvg-logo="https://www.thesportsdb.com/images/media/channel/tvlogo/qoerty1659622111.png" group-title="Sport", Hub Premier Sport 1
+http://tuyullxt@mag.x-iptv.live/play/live.php?mac=00:1A:79:23:25:61&stream=1032529&extension=ts&play_token=tuyullxt@.ts
+#EXTINF:-1 tvg-logo="https://www.thesportsdb.com/images/media/channel/tvlogo/sdvs4u1659622094.png" group-title="Sport", Hub Premier Sport 2
+http://tuyullxt@mag.x-iptv.live/play/live.php?mac=00:1A:79:23:25:61&stream=1032528&extension=ts&play_token=tuyullxt@.ts
+#EXTINF:-1 tvg-logo="https://www.thesportsdb.com/images/media/channel/tvlogo/znzwou1659622086.png" group-title="Sport", Hub Premier Sport 3
+http://tuyullxt@mag.x-iptv.live/play/live.php?mac=00:1A:79:23:25:61&stream=1032527&extension=ts&play_token=tuyullxt@.ts
