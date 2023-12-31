@@ -101,8 +101,6 @@ https://nflarcadia.xyz/hls/s5.m3u8?|Referer=https://techclips.net/
 https://edge1.laotv.la/live/TSport1/index.m3u8
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/tt/true-premiere-football-hd-2-th.png" group-title="Football", True Premier 2
 https://edge1.laotv.la/live/TSport2/index.m3u8
-#EXTINF:-1 group-title="Football" tvg-logo="https://i.ibb.co/JRvJdR6/eleven1.png", Eleven Sport 1 
-http://wiaqmjix.rostelekom.xyz/iptv/5YS5CCM3AGT2T9/19158/index.m3u8
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ss/star-sports-select-hd1-hk-in.png" group-title="Football", Star Sport Select 1
 http://tuyullxt@mag.x-iptv.live/play/live.php?mac=00:1A:79:23:25:61&stream=1114583&extension=ts&play_token=tuyullxt@.ts
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ss/star-sports-select-hd2-hk-in.png" group-title="Football", Star Sport Select 2
@@ -125,10 +123,6 @@ http://185.6.22.6:8000/play/a03n
 http://185.6.22.6:8000/play/a04l
 #EXTINF:-1 group-title="Football" tvg-logo="https://www.lyngsat.com/logo/tv/aa/arena-premium-3-rs.png", Arena Premium 3
 http://185.6.22.6:8000/play/a04m
-#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/uu/usa_network_east.png" group-title="Football", USA Network 
-https://webudit.hlsjs.ru/lb/premium343/index.m3u8?|referer=weblivehdplay.ru/
-#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/tt/telemundo_este.png" group-title="Football", Telemundo
-https://webudit.hlsjs.ru/lb/premium131/index.m3u8?|referer=weblivehdplay.ru/
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/dd/digi_sport1_ro.png" group-title="Football", Digi Sport 1 
 https://webudit.webhd.ru/lb/premium400/index.m3u8?|referer=weblivehdplay.ru/
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/dd/digi_sport2_ro.png" group-title="Football", Digi Sport 2
@@ -169,6 +163,10 @@ https://webudit.webhd.ru/lb/premium431/index.m3u8?|referer=weblivehdplay.ru/
 https://webudit.webhd.ru/lb/premium581/index.m3u8?|referer=weblivehdplay.ru/
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/aa/arena-sport-5-rs.png" group-title="Football", Arena Sport 5
 https://webudit.webhd.ru/lb/premium152/index.m3u8?|referer=weblivehdplay.ru/
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/uu/usa_network_east.png" group-title="Football", USA Network 
+https://webudit.hlsjs.ru/lb/premium343/index.m3u8?|referer=weblivehdplay.ru/
+#EXTINF:-1 group-title="Football" tvg-logo="https://i.ibb.co/JRvJdR6/eleven1.png", Eleven Sport 1 
+http://wiaqmjix.rostelekom.xyz/iptv/5YS5CCM3AGT2T9/19158/index.m3u8
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/bb/bein-sports-english-1-qa.png" group-title="Football", Bein Sports 1 English
 https://webudit.webhd.ru/lb/premium61/index.m3u8?|referer=weblivehdplay.ru/
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ss/sky-sports-main-event-uk.svg" group-title="Football", Sky Sports Main Event
@@ -207,6 +205,8 @@ http://tv.vnoo.net/direct_tv/vthanh/tv/skysportsmainevent.m3u8?|referer=http-use
 http://tv.vnoo.net/direct_tv/vthanh/tv/tntsports1.m3u8?|referer=http-user-agent=Dalvik/2.1.0
 #EXTINF:-1 group-title="Football" tvg-logo="https://www.lyngsat.com/logo/tv/tt/tnt-sports-uk-us-uk.png", TNT Sports 2
 http://tv.vnoo.net/direct_tv/vthanh/tv/tntsports2.m3u8?|referer=http-user-agent=Dalvik/2.1.0
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/tt/telemundo_este.png" group-title="Football", Telemundo
+https://webudit.hlsjs.ru/lb/premium131/index.m3u8?|referer=weblivehdplay.ru/
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ss/sony-sports-ten-1-in.png" group-title="Sport", Sony Ten Sport 1
 https://dai.google.com/linear/hls/event/6WhVNGKTRXyu588zZv1Lkg/master.m3u8
