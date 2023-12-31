@@ -1,71 +1,4 @@
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=82f8e2a17dac44c0a18f660479349c59:1b144f73e6fefe91cd05f850e2b589d0
-#EXTINF:-1 group-title="Football (only can play with ott player)" tvg-logo="https://d1sgwhnao7452x.cloudfront.net/dazn-og.jpg", Dazn 1 UK
-https://dce-ak-livewwdazn.akamaized.net/dashdrm/dazn-linear-045/stream.mpd
-
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=82f8e2a17dac44c0a18f660479349c59:1b144f73e6fefe91cd05f850e2b589d0
-#EXTINF:-1 group-title="Football (only can play with ott player)" tvg-logo="https://www.lyngsat.com/logo/tv/dd/dazn-de.png", Dazn 1 De
-https://dce-ak-livewwdazn.akamaized.net/dashdrm/dazn-linear-017/stream.mpd
-
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=82f8e2a17dac44c0a18f660479349c59:1b144f73e6fefe91cd05f850e2b589d0
-#EXTINF:-1 group-title="Football (only can play with ott player)" tvg-logo="https://www.lyngsat.com/logo/tv/dd/dazn-de.png", Dazn 2 De
-https://dce-ak-livewwdazn.akamaized.net/dashdrm/dazn-linear-018/stream.mpd
-
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=82f8e2a17dac44c0a18f660479349c59:1b144f73e6fefe91cd05f850e2b589d0
-#EXTINF:-1 group-title="Football (only can play with ott player)" tvg-logo="https://i.ibb.co/JRvJdR6/eleven1.png", Eleven Sports 1
-https://dce-fs-live-dazn-cdn.dazn.com/dashdrm/dazn-linear-054/stream.mpd
-
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=82f8e2a17dac44c0a18f660479349c59:1b144f73e6fefe91cd05f850e2b589d0
-#EXTINF:-1 group-title="Football (only can play with ott player)" tvg-logo="https://i.ibb.co/JpGPnd6/eleven2.png", Eleven Sports 2
-https://dce-fs-live-dazn-cdn.dazn.com/dashdrm/dazn-linear-055/stream.mpd
-
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=82f8e2a17dac44c0a18f660479349c59:1b144f73e6fefe91cd05f850e2b589d0
-#EXTINF:-1 group-title="Football (only can play with ott player)" tvg-logo="https://i.ibb.co/TWhTFW8/eleven3.png", Eleven Sports 3
-https://dce-fs-live-dazn-cdn.dazn.com/dashdrm/dazn-linear-056/stream.mpd
-
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=82f8e2a17dac44c0a18f660479349c59:1b144f73e6fefe91cd05f850e2b589d0
-#EXTINF:-1 group-title="Football (only can play with ott player)" tvg-logo="https://i.ibb.co/FW3fsK6/eleven4.png", Eleven Sports 4
-https://dce-fs-live-dazn-cdn.dazn.com/dashdrm/dazn-linear-057/stream.mpd
-
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=82f8e2a17dac44c0a18f660479349c59:1b144f73e6fefe91cd05f850e2b589d0
-#EXTINF:-1 group-title="Football (only can play with ott player)" tvg-logo="https://i.ibb.co/8rq35Zg/eleven5.png", Eleven Sports 5
-https://dce-fs-live-dazn-cdn.dazn.com/dashdrm/dazn-linear-058/stream.mpd
-
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=82f8e2a17dac44c0a18f660479349c59:1b144f73e6fefe91cd05f850e2b589d0
-#EXTINF:-1 group-title="Football (only can play with ott player)" tvg-logo="https://i.ibb.co/M2tbfJV/eleven6.png", Eleven Sports 6
-https://dce-fs-live-dazn-cdn.dazn.com/dashdrm/dazn-linear-059/stream.mpd
-
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=82f8e2a17dac44c0a18f660479349c59:1b144f73e6fefe91cd05f850e2b589d0
-#EXTINF:-1 group-title="Football (only can play with ott player)" tvg-logo="https://www.lyngsat.com/logo/tv/ee/eleven-on-dazn-pro-league-1-uk.png", Eleven Dazn
-https://dce-fs-live-dazn-cdn.dazn.com/dashdrm/dazn-linear-049/stream.mpd
-
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=82f8e2a17dac44c0a18f660479349c59:1b144f73e6fefe91cd05f850e2b589d0
-#EXTINF:-1 group-title="Football (only can play with ott player)" tvg-logo="https://pbs.twimg.com/profile_images/1363788898141372423/7God9nDz_400x400.jpg", Play Sports 1
-https://dce-fs-live-dazn-cdn.dazn.com/dashdrm/dazn-linear-051/stream.mpd
-
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=82f8e2a17dac44c0a18f660479349c59:1b144f73e6fefe91cd05f850e2b589d0
-#EXTINF:-1 group-title="Football (only can play with ott player)" tvg-logo="https://pbs.twimg.com/profile_images/1363788898141372423/7God9nDz_400x400.jpg", Play Sports 2
-https://dce-fs-live-dazn-cdn.dazn.com/dashdrm/dazn-linear-052/stream.mpd
-
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=82f8e2a17dac44c0a18f660479349c59:1b144f73e6fefe91cd05f850e2b589d0
-#EXTINF:-1 group-title="Football (only can play with ott player)" tvg-logo="https://pbs.twimg.com/profile_images/1363788898141372423/7God9nDz_400x400.jpg", Play Sports 3
-https://dce-fs-live-dazn-cdn.dazn.com/dashdrm/dazn-linear-053/stream.mpd
-
-
-
-#KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=792c9b382615c47fdfb840dfd2387b8b:c86191afc372c5006ebab6e8bdf61e14
 #EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/ADccuVLRN9T0yU12s2oZ9BWg91w=/372x211/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/9182/champions-tv-5-764e22.jpg" group-title="Football (only can play with ott player)", Champions TV (EPL 1)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36 
@@ -102,6 +35,70 @@ https://drm-epl-vidio-com-epl-5.akamaized.net/out/v1/17b4c59118e74b8d8f5761a7e10
 
 
 
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=82f8e2a17dac44c0a18f660479349c59:1b144f73e6fefe91cd05f850e2b589d0
+#EXTINF:-1 group-title="Football (only can play with ott player)" tvg-logo="https://i.ibb.co/JRvJdR6/eleven1.png", Eleven Sports 1
+https://dce-fs-live-dazn-cdn.dazn.com/dashdrm/dazn-linear-054/stream.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=82f8e2a17dac44c0a18f660479349c59:1b144f73e6fefe91cd05f850e2b589d0
+#EXTINF:-1 group-title="Football (only can play with ott player)" tvg-logo="https://i.ibb.co/JpGPnd6/eleven2.png", Eleven Sports 2
+https://dce-fs-live-dazn-cdn.dazn.com/dashdrm/dazn-linear-055/stream.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=82f8e2a17dac44c0a18f660479349c59:1b144f73e6fefe91cd05f850e2b589d0
+#EXTINF:-1 group-title="Football (only can play with ott player)" tvg-logo="https://i.ibb.co/TWhTFW8/eleven3.png", Eleven Sports 3
+https://dce-fs-live-dazn-cdn.dazn.com/dashdrm/dazn-linear-056/stream.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=82f8e2a17dac44c0a18f660479349c59:1b144f73e6fefe91cd05f850e2b589d0
+#EXTINF:-1 group-title="Football (only can play with ott player)" tvg-logo="https://i.ibb.co/FW3fsK6/eleven4.png", Eleven Sports 4
+https://dce-fs-live-dazn-cdn.dazn.com/dashdrm/dazn-linear-057/stream.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=82f8e2a17dac44c0a18f660479349c59:1b144f73e6fefe91cd05f850e2b589d0
+#EXTINF:-1 group-title="Football (only can play with ott player)" tvg-logo="https://i.ibb.co/8rq35Zg/eleven5.png", Eleven Sports 5
+https://dce-fs-live-dazn-cdn.dazn.com/dashdrm/dazn-linear-058/stream.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=82f8e2a17dac44c0a18f660479349c59:1b144f73e6fefe91cd05f850e2b589d0
+#EXTINF:-1 group-title="Football (only can play with ott player)" tvg-logo="https://i.ibb.co/M2tbfJV/eleven6.png", Eleven Sports 6
+https://dce-fs-live-dazn-cdn.dazn.com/dashdrm/dazn-linear-059/stream.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=82f8e2a17dac44c0a18f660479349c59:1b144f73e6fefe91cd05f850e2b589d0
+#EXTINF:-1 group-title="Football (only can play with ott player)" tvg-logo="https://pbs.twimg.com/profile_images/1363788898141372423/7God9nDz_400x400.jpg", Play Sports 1
+https://dce-fs-live-dazn-cdn.dazn.com/dashdrm/dazn-linear-051/stream.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=82f8e2a17dac44c0a18f660479349c59:1b144f73e6fefe91cd05f850e2b589d0
+#EXTINF:-1 group-title="Football (only can play with ott player)" tvg-logo="https://pbs.twimg.com/profile_images/1363788898141372423/7God9nDz_400x400.jpg", Play Sports 2
+https://dce-fs-live-dazn-cdn.dazn.com/dashdrm/dazn-linear-052/stream.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=82f8e2a17dac44c0a18f660479349c59:1b144f73e6fefe91cd05f850e2b589d0
+#EXTINF:-1 group-title="Football (only can play with ott player)" tvg-logo="https://pbs.twimg.com/profile_images/1363788898141372423/7God9nDz_400x400.jpg", Play Sports 3
+https://dce-fs-live-dazn-cdn.dazn.com/dashdrm/dazn-linear-053/stream.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=82f8e2a17dac44c0a18f660479349c59:1b144f73e6fefe91cd05f850e2b589d0
+#EXTINF:-1 group-title="Football (only can play with ott player)" tvg-logo="https://www.lyngsat.com/logo/tv/ee/eleven-on-dazn-pro-league-1-uk.png", Dazn Eleven
+https://dce-fs-live-dazn-cdn.dazn.com/dashdrm/dazn-linear-049/stream.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=82f8e2a17dac44c0a18f660479349c59:1b144f73e6fefe91cd05f850e2b589d0
+#EXTINF:-1 group-title="Football (only can play with ott player)" tvg-logo="https://d1sgwhnao7452x.cloudfront.net/dazn-og.jpg", Dazn UK
+https://dce-ak-livewwdazn.akamaized.net/dashdrm/dazn-linear-045/stream.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=82f8e2a17dac44c0a18f660479349c59:1b144f73e6fefe91cd05f850e2b589d0
+#EXTINF:-1 group-title="Football (only can play with ott player)" tvg-logo="https://www.lyngsat.com/logo/tv/dd/dazn-de.png", Dazn De 1
+https://dce-ak-livewwdazn.akamaized.net/dashdrm/dazn-linear-017/stream.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=82f8e2a17dac44c0a18f660479349c59:1b144f73e6fefe91cd05f850e2b589d0
+#EXTINF:-1 group-title="Football (only can play with ott player)" tvg-logo="https://www.lyngsat.com/logo/tv/dd/dazn-de.png", Dazn De 2
+https://dce-ak-livewwdazn.akamaized.net/dashdrm/dazn-linear-018/stream.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=82f8e2a17dac44c0a18f660479349c59&key=1b144f73e6fefe91cd05f850e2b589d0
@@ -197,14 +194,8 @@ https://glxlmn026c.singularcdn.net.br/playout_01/playlist.m3u8
 https://glxlmn026c.singularcdn.net.br/playout_02/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/2yjjDqdy/IMG-20231018-131656.png" group-title="Sport", tntsport3
 https://glxlmn026c.singularcdn.net.br/playout_03/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/2yjjDqdy/IMG-20231018-131656.png" group-title="Sport", tntspot4
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/2yjjDqdy/IMG-20231018-131656.png" group-title="Sport", tntsport4
 https://glxlmn026c.singularcdn.net.br/playout_04/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ff/fox_sports_us_1.png" group-title="Sport", Fox Sport 1
-http://168.227.22.18:1935/live/mobile-010/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ff/fox_sports_us_2.png" group-title="Sport", Fox Sport 2
-http://168.227.22.18:1935/live/mobile-031/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ff/fox_sports_3_asia.png" group-title="Sport", Fox Sport 3 
-http://168.227.22.18:1935/live/mobile-108/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ss/sky-net-sports-hd-mm.png" group-title="Sport", Sky Net Sports
 http://bananatv.org:25461/play/wVoZP52jvqdylF92agMAl_tmRInFc666DjNNMcN2r2A/ts
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/tt/true-premiere-football-hd-1-th.png" group-title="Sport", True EPL 1 
@@ -231,12 +222,6 @@ http://bananatv.org:25461/play/wVoZP52jvqdylF92agMAl5n-LPWoBHFOLfCR1wTQ2FU/ts
 http://bananatv.org:25461/play/wVoZP52jvqdylF92agMAlx-EhPlr8WOlJ4B86MWLGzk/ts
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ee/eleven-sports-network-uk.png" group-title="Sport", ELEVEN 5
 http://bananatv.org:25461/play/wVoZP52jvqdylF92agMAl39AJNAepI9UuBkIPjrcg_Y/ts
-#EXTINF:-1 group-title="Sport" tvg-logo="https://www.lyngsat.com/logo/tv/aa/arena-premium-1-rs.png", Arena Premium 1
-http://185.6.22.6:8000/play/a03n
-#EXTINF:-1 group-title="Sport" tvg-logo="https://www.lyngsat.com/logo/tv/aa/arena-premium-2-rs.png", Arena Premium 2
-http://185.6.22.6:8000/play/a04l
-#EXTINF:-1 group-title="Sport" tvg-logo="https://www.lyngsat.com/logo/tv/aa/arena-premium-3-rs.png", Arena Premium 3
-http://185.6.22.6:8000/play/a04m
 #EXTINF:-1 group-title="Sport" tvg-logo="http://www.tvboxgroup.com/iptv/logo/HR/HR001.png", Arena Sport 1
 http://80.252.37.194:5000/udp/233.233.233.3:12000
 #EXTINF:-1 group-title="Sport" tvg-logo="http://www.tvboxgroup.com/iptv/logo/HR/HR002.png", Arena Sport 2
@@ -249,10 +234,6 @@ http://80.252.37.194:5000/udp/233.233.233.6:12000
 http://80.252.37.194:5000/udp/233.233.233.7:12000
 #EXTINF:-1 group-title="Sport" tvg-logo="http://www.tvboxgroup.com/iptv/logo/HR/HR006.png", Arena Sport 6
 http://80.252.37.194:5000/udp/233.233.233.8:12000
-#EXTINF:-1 group-title="Sport" tvg-logo="https://i.ibb.co/JRvJdR6/eleven1.png", Eleven Sport 1 (1)
-http://99f6ad7e.ottrast.com/iptv/6XFVDYBV8KUMDU/19158/index.m3u8
-#EXTINF:-1 group-title="Sport" tvg-logo="https://i.ibb.co/JRvJdR6/eleven1.png", Eleven Sport 1 (2)
-http://wiaqmjix.rostelekom.xyz/iptv/5YS5CCM3AGT2T9/19158/index.m3u8
 #EXTINF:-1 group-title="Sport" tvg-logo="https://www.lyngsat.com/logo/tv/tt/tnt-sports-1-uk.png", TNT Sports 1
 https://247c.mrgamingstreams.com/mrgamingbtsport1.m3u8
 #EXTINF:-1 group-title="Sport" tvg-logo="https://www.lyngsat.com/logo/tv/tt/tnt-sports-2-uk.png", TNT Sports 2
@@ -265,33 +246,3 @@ https://247c.mrgamingstreams.com/mrgamingbtsport4.m3u8
 https://247c.mrgamingstreams.com/mrgamingmainevent.m3u8
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/cc/cbs-kr.png" group-title="Sport", CBS Sport
 https://247c.mrgamingstreams.com/mrgamingcbssn.m3u8
-#EXTINF:-1 tvg-logo="https://www.nowtv.now.com/media/logo/600-wbg-e.png" group-title="Sport", Now Hk Premier Sport 1
-http://tuyullxt@mag.x-iptv.live/play/live.php?mac=00:1A:79:23:25:61&stream=1032487&extension=ts&play_token=tuyullxt@.ts
-#EXTINF:-1 tvg-logo="https://www.nowtv.now.com/media/logo/600-wbg-e.png" group-title="Sport", Now Hk Premier Sport 2
-http://tuyullxt@mag.x-iptv.live/play/live.php?mac=00:1A:79:23:25:61&stream=1032486&extension=ts&play_token=tuyullxt@.ts
-#EXTINF:-1 tvg-logo="https://www.nowtv.now.com/media/logo/600-wbg-e.png" group-title="Sport", Now Hk Premier Sport 3
-http://tuyullxt@mag.x-iptv.live/play/live.php?mac=00:1A:79:23:25:61&stream=1032485&extension=ts&play_token=tuyullxt@.ts
-#EXTINF:-1 tvg-logo="https://www.nowtv.now.com/wp-content/uploads/2020/04/600-dbg-c.png" group-title="Sport", Now Sport 1 (event only)
-http://tuyullxt@mag.x-iptv.live/play/live.php?mac=00:1A:79:23:25:61&stream=1032489&extension=ts&play_token=tuyullxt@.ts
-#EXTINF:-1 tvg-logo="https://www.nowtv.now.com/wp-content/uploads/2020/04/600-dbg-c.png" group-title="Sport", Now Sport 2 (event only)
-http://tuyullxt@mag.x-iptv.live/play/live.php?mac=00:1A:79:23:25:61&stream=1032478&extension=ts&play_token=tuyullxt@.ts
-#EXTINF:-1 tvg-logo="https://www.nowtv.now.com/wp-content/uploads/2020/04/600-dbg-c.png" group-title="Sport", Now Sport 3 (event only)
-http://tuyullxt@mag.x-iptv.live/play/live.php?mac=00:1A:79:23:25:61&stream=1032477&extension=ts&play_token=tuyullxt@.ts
-#EXTINF:-1 tvg-logo="https://www.nowtv.now.com/wp-content/uploads/2020/04/600-dbg-c.png" group-title="Sport", Now Sport 4 (event only)
-http://tuyullxt@mag.x-iptv.live/play/live.php?mac=00:1A:79:23:25:61&stream=1032476&extension=ts&play_token=tuyullxt@.ts
-#EXTINF:-1 tvg-logo="https://www.nowtv.now.com/wp-content/uploads/2020/04/600-dbg-c.png" group-title="Sport", Now Sport 5 (event only)
-http://tuyullxt@mag.x-iptv.live/play/live.php?mac=00:1A:79:23:25:61&stream=1032475&extension=ts&play_token=tuyullxt@.ts
-#EXTINF:-1 tvg-logo="https://www.nowtv.now.com/wp-content/uploads/2020/04/600-dbg-c.png" group-title="Sport", Now Sport 6 (event only)
-http://tuyullxt@mag.x-iptv.live/play/live.php?mac=00:1A:79:23:25:61&stream=1032474&extension=ts&play_token=tuyullxt@.ts
-#EXTINF:-1 tvg-logo="https://www.nowtv.now.com/wp-content/uploads/2020/04/600-dbg-c.png" group-title="Sport", Now Sport 7 (event only)
-http://tuyullxt@mag.x-iptv.live/play/live.php?mac=00:1A:79:23:25:61&stream=1032473&extension=ts&play_token=tuyullxt@.ts
-#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ss/star-sports-select-hd1-hk-in.png" group-title="Sport", Star Sport Select 1
-http://tuyullxt@mag.x-iptv.live/play/live.php?mac=00:1A:79:23:25:61&stream=1114583&extension=ts&play_token=tuyullxt@.ts
-#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ss/star-sports-select-hd2-hk-in.png" group-title="Sport", Star Sport Select 2
-http://tuyullxt@mag.x-iptv.live/play/live.php?mac=00:1A:79:23:25:61&stream=1114584&extension=ts&play_token=tuyullxt@.ts
-#EXTINF:-1 tvg-logo="https://www.thesportsdb.com/images/media/channel/tvlogo/qoerty1659622111.png" group-title="Sport", Hub Premier Sport 1
-http://tuyullxt@mag.x-iptv.live/play/live.php?mac=00:1A:79:23:25:61&stream=1032529&extension=ts&play_token=tuyullxt@.ts
-#EXTINF:-1 tvg-logo="https://www.thesportsdb.com/images/media/channel/tvlogo/sdvs4u1659622094.png" group-title="Sport", Hub Premier Sport 2
-http://tuyullxt@mag.x-iptv.live/play/live.php?mac=00:1A:79:23:25:61&stream=1032528&extension=ts&play_token=tuyullxt@.ts
-#EXTINF:-1 tvg-logo="https://www.thesportsdb.com/images/media/channel/tvlogo/znzwou1659622086.png" group-title="Sport", Hub Premier Sport 3
-http://tuyullxt@mag.x-iptv.live/play/live.php?mac=00:1A:79:23:25:61&stream=1032527&extension=ts&play_token=tuyullxt@.ts
