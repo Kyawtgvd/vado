@@ -117,6 +117,12 @@ http://tuyullxt@mag.x-iptv.live/play/live.php?mac=00:1A:79:23:25:61&stream=10325
 http://tuyullxt@mag.x-iptv.live/play/live.php?mac=00:1A:79:23:25:61&stream=1032528&extension=ts&play_token=tuyullxt@.ts
 #EXTINF:-1 tvg-logo="https://www.thesportsdb.com/images/media/channel/tvlogo/znzwou1659622086.png" group-title="Football", Hub Premier Sport 3
 http://tuyullxt@mag.x-iptv.live/play/live.php?mac=00:1A:79:23:25:61&stream=1032527&extension=ts&play_token=tuyullxt@.ts
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ss/star-sports-select-hd1-hk-in.png" group-title="Football", Star Sport Select 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36 
+https://raw.githubusercontent.com/fgyip/cicakanimehihiheha/main/starsportsselect1hdmac.m3u8 
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ss/star-sports-select-hd2-hk-in.png" group-title="Football", Star Sport Select 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36 
+https://raw.githubusercontent.com/fgyip/cicakanimehihiheha/main/starsportsselect2hdmac.m3u8 
 #EXTINF:-1 group-title="Football" tvg-logo="https://www.lyngsat.com/logo/tv/aa/arena-premium-1-rs.png", Arena Premium 1
 http://185.6.22.6:8000/play/a03n
 #EXTINF:-1 group-title="Football" tvg-logo="https://www.lyngsat.com/logo/tv/aa/arena-premium-2-rs.png", Arena Premium 2
@@ -209,6 +215,8 @@ http://tv.vnoo.net/direct_tv/vthanh/tv/tntsports2.m3u8?|referer=http-user-agent=
 http://103.120.172.74:1030
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ss/star-sports-select-hd2-hk-in.png" group-title="Football", Star Sport Select 2
 http://103.120.172.74:4700
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ss/sky-net-sports-hd-mm.png" group-title="Football", Sky Net Sports
+http://bananatv.org:25461/play/wVoZP52jvqdylF92agMAl_tmRInFc666DjNNMcN2r2A/ts
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/tt/telemundo_este.png" group-title="Football", Telemundo
 https://webudit.hlsjs.ru/lb/premium131/index.m3u8?|referer=weblivehdplay.ru/
 
