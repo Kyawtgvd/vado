@@ -248,3 +248,33 @@ https://247c.mrgamingstreams.com/mrgamingbtsport4.m3u8
 https://247c.mrgamingstreams.com/mrgamingmainevent.m3u8
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/cc/cbs-kr.png" group-title="Sport", CBS Sport
 https://247c.mrgamingstreams.com/mrgamingcbssn.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ss/star-sports-select-hd1-hk-in.png" group-title="Test", Star Sport Select 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36 
+https://raw.githubusercontent.com/fgyip/cicakanimehihiheha/main/starsportsselect1hdmac.m3u8 
+
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ss/star-sports-select-hd2-hk-in.png" group-title="Test", Star Sport Select 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36 
+https://raw.githubusercontent.com/fgyip/cicakanimehihiheha/main/starsportsselect2hdmac.m3u8
+
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"uY+6Zqbrmiy+m4UM4zm8Mg", "kid":"p2QVI6yHWOOx4N8ihxnhRQ"}],"type":"temporary"}
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ss/star-sports-select-hd1-hk-in.png" group-title="Test", Star Sport Select 1 (ott)
+https://bpprod5linear.akamaized.net/bpk-tv/irdeto_com_Channel_413/output/manifest.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"/dT42piFUYLoYZn9/AQa5g", "kid":"sR3SW2KRWYaLd9XLTN2BKQ"}],"type":"temporary"}
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ss/star-sports-select-hd2-hk-in.png" group-title="Test", Star Sport Select 2 (ott)
+https://bpprod7linear.akamaized.net/bpk-tv/irdeto_com_Channel_729/output/manifest.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=882c9f5613b43b47adc70aa968a308ce:de534ef8914bfe62ba3cdd6bdb9e1c04
+#EXTINF:-1 tvg-logo="https://cdn.technadu.com/wp-content/uploads/2021/05/USA-Network-Logotype.jpg" group-title="Test", USA Network
+https://fsly.stream.peacocktv.com/Content/CMAF_OL1-CTR-4s/Live/channel(usa-east)/master.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"VO1_xwiBVgxsFW1VLUSblg","kid":"FSPw24h3TYWKVGfggW4uzQ"},{"kty":"oct","k":"SY_JiB5rVYxSUVAMhtZvig","kid":"OeOfss-DRNCBW6uvmNoSSQ"},{"kty":"oct","k":"BGP3Qkv84e_XvG04p11_Sg","kid":"c9cIHr6ZQHC-mxxMzMzBvw"},{"kty":"oct","k":"o-Cyb0Ocy8EbaLyMPDFAzw","kid":"zxRISkhWRku_s4OErn8c8g"}],"type":"temporary"}
+#EXTINF:-1 tvg-logo="https://boutique.suisse.canalplus.com/wp-content/uploads/2021/04/05_canal_premier_league.png" group-title="Test", Canal+ Premier League
+https://hls-m006-live-aka-canalplus.akamaized.net/__token__exp%3D1701832695~acl%3D%2Flive%2Fdisk%2Fcanalpluspremierleague-hd%2F*~id%3D4c42f9e4-d743-4d3e-9e27-16afaade26e4~hmac%3Dff32a03a0bde61f0fd9ca786131fc271c01a15b468f4be026ce1375a8382a2cc/live/disk/canalpluspremierleague-hd/dash-fhddvr/canalpluspremierleague-hd.mpd
