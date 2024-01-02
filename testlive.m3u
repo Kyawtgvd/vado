@@ -180,7 +180,14 @@ https://nl.score911.cc/uk_ssepl/index.m3u8
 https://nl.score911.cc/uk_ssfb/index.m3u8
 
 
-
+#EXTINF:-1 tvg-logo="https://png.pngtree.com/png-vector/20221104/ourmid/pngtree-live-football-red-play-button-png-image_6413825.png" group-title="Sport", Prime 1 (event)
+http://mastertv.cloud:80/yasmin/123456/510728
+#EXTINF:-1 tvg-logo="https://png.pngtree.com/png-vector/20221104/ourmid/pngtree-live-football-red-play-button-png-image_6413825.png" group-title="Sport", Prime 2 (event)
+http://mastertv.cloud:80/yasmin/123456/510729
+#EXTINF:-1 tvg-logo="https://png.pngtree.com/png-vector/20221104/ourmid/pngtree-live-football-red-play-button-png-image_6413825.png" group-title="Sport", Star+ 1 (event)
+http://mastertv.cloud:80/yasmin/123456/439639
+#EXTINF:-1 tvg-logo="https://png.pngtree.com/png-vector/20221104/ourmid/pngtree-live-football-red-play-button-png-image_6413825.png" group-title="Sport", Star+ 2 (event)
+http://mastertv.cloud:80/yasmin/123456/439640
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/tt/true-premiere-football-hd-1-th.png" group-title="Sport", True EPL1
 https://ctrl.laotv.la/live/TSport1/index.m3u8
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/tt/true-premiere-football-hd-2-th.png" group-title="Sport", True EPL2
@@ -259,26 +266,3 @@ https://247c.mrgamingstreams.com/mrgamingbtsport4.m3u8
 https://247c.mrgamingstreams.com/mrgamingmainevent.m3u8
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/cc/cbs-kr.png" group-title="Sport", CBS Sport
 https://247c.mrgamingstreams.com/mrgamingcbssn.m3u8
-
-
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"uY+6Zqbrmiy+m4UM4zm8Mg", "kid":"p2QVI6yHWOOx4N8ihxnhRQ"}],"type":"temporary"}
-#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ss/star-sports-select-hd1-hk-in.png" group-title="Test", Star Sport Select 1 (ott)
-https://bpprod5linear.akamaized.net/bpk-tv/irdeto_com_Channel_413/output/manifest.mpd
-
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"/dT42piFUYLoYZn9/AQa5g", "kid":"sR3SW2KRWYaLd9XLTN2BKQ"}],"type":"temporary"}
-#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ss/star-sports-select-hd2-hk-in.png" group-title="Test", Star Sport Select 2 (ott)
-https://bpprod7linear.akamaized.net/bpk-tv/irdeto_com_Channel_729/output/manifest.mpd
-
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"VO1_xwiBVgxsFW1VLUSblg","kid":"FSPw24h3TYWKVGfggW4uzQ"},{"kty":"oct","k":"SY_JiB5rVYxSUVAMhtZvig","kid":"OeOfss-DRNCBW6uvmNoSSQ"},{"kty":"oct","k":"BGP3Qkv84e_XvG04p11_Sg","kid":"c9cIHr6ZQHC-mxxMzMzBvw"},{"kty":"oct","k":"o-Cyb0Ocy8EbaLyMPDFAzw","kid":"zxRISkhWRku_s4OErn8c8g"}],"type":"temporary"}
-#EXTINF:-1 tvg-logo="https://boutique.suisse.canalplus.com/wp-content/uploads/2021/04/05_canal_premier_league.png" group-title="Test", Canal+ Premier League (ott)
-https://hls-m006-live-aka-canalplus.akamaized.net/__token__exp%3D1701832695~acl%3D%2Flive%2Fdisk%2Fcanalpluspremierleague-hd%2F*~id%3D4c42f9e4-d743-4d3e-9e27-16afaade26e4~hmac%3Dff32a03a0bde61f0fd9ca786131fc271c01a15b468f4be026ce1375a8382a2cc/live/disk/canalpluspremierleague-hd/dash-fhddvr/canalpluspremierleague-hd.mpd
-
