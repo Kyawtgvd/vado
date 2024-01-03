@@ -98,12 +98,16 @@ https://nflarcadia.xyz/hls/s4.m3u8?|Referer=https://techclips.net/
 https://nflarcadia.xyz/hls/s5.m3u8?|Referer=https://techclips.net/
 
 
+#EXTINF:-1 tvg-logo="https://cdn.technadu.com/wp-content/uploads/2021/05/USA-Network-Logotype.jpg" group-title="EPL Special", USA Network
+http://tv.greatstar.me/play/live.php?mac=00:1a:79:a7:8d:94&stream=45466&extension=m3u8
 #EXTINF:-1 tvg-logo="https://www.nowtv.now.com/media/logo/600-wbg-e.png" group-title="EPL Special", Now Hk Premier Sport 1
 http://tuyullxt@mag.x-iptv.live/play/live.php?mac=00:1A:79:23:25:61&stream=1032487&extension=ts&play_token=tuyullxt@.ts
 #EXTINF:-1 tvg-logo="https://www.nowtv.now.com/media/logo/600-wbg-e.png" group-title="EPL Special", Now Hk Premier Sport 2
 http://tuyullxt@mag.x-iptv.live/play/live.php?mac=00:1A:79:23:25:61&stream=1032486&extension=ts&play_token=tuyullxt@.ts
 #EXTINF:-1 tvg-logo="https://www.nowtv.now.com/media/logo/600-wbg-e.png" group-title="EPL Special", Now Hk Premier Sport 3
 http://tuyullxt@mag.x-iptv.live/play/live.php?mac=00:1A:79:23:25:61&stream=1032485&extension=ts&play_token=tuyullxt@.ts
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/vv/v-sport-premier-league.svg" group-title="EPL Special", V Sport Premier League
+https://raw.githubusercontent.com/fgyip/cicakanimehihiheha/main/hubeplmac.m3u8
 #EXTINF:-1 tvg-logo="https://www.thesportsdb.com/images/media/channel/tvlogo/qoerty1659622111.png" group-title="EPL Special", Hub Premier Sport 1
 http://tuyullxt@mag.x-iptv.live/play/live.php?mac=00:1A:79:23:25:61&stream=1032529&extension=ts&play_token=tuyullxt@.ts
 #EXTINF:-1 tvg-logo="https://www.thesportsdb.com/images/media/channel/tvlogo/sdvs4u1659622094.png" group-title="EPL Special", Hub Premier Sport 2
