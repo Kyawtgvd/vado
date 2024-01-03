@@ -258,9 +258,3 @@ https://247c.mrgamingstreams.com/mrgamingbtsport3.m3u8
 https://247c.mrgamingstreams.com/mrgamingbtsport4.m3u8
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ss/sky-sports-main-event-uk.svg" group-title="Sport", Sky Sports Main Event (game)
 https://247c.mrgamingstreams.com/mrgamingmainevent.m3u8
-#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/cc/cbs-kr.png" group-title="Sport", CBS Sport (game)
-https://247c.mrgamingstreams.com/mrgamingcbssn.m3u8
-#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/pp/polsat-sport-premium-1-pl.png" group-title="Sport", Polsat Sport Premium
-https://raw.githubusercontent.com/fgyip/cicakanimehihiheha/main/polsatpremium1mac.m3u8
-#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/tt/tnt-sports-1-uk.png" group-title="Sport", TNT Sports 1
-http://tv.greatstar.me/play/live.php?mac=00:1a:79:a7:8d:94&stream=79486&extension=m3u8
