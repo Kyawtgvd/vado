@@ -98,7 +98,7 @@ https://nflarcadia.xyz/hls/s4.m3u8?|Referer=https://techclips.net/
 https://nflarcadia.xyz/hls/s5.m3u8?|Referer=https://techclips.net/
 
 
-#EXTINF:-1 tvg-logo="https://cdn.technadu.com/wp-content/uploads/2021/05/USA-Network-Logotype.jpg" group-title="EPL/UCL Special", USA Network (great)
+#EXTINF:-1 tvg-logo="https://logos-world.net/wp-content/uploads/2023/06/USA-Network-Logo.png" group-title="EPL/UCL Special", USA Network (great)
 http://tv.greatstar.me/play/live.php?mac=00:1a:79:a7:8d:94&stream=45466&extension=m3u8
 #EXTINF:-1 tvg-logo="https://www.nowtv.now.com/media/logo/600-wbg-e.png" group-title="EPL/UCL Special", Now Hk Premier Sport 1
 http://tuyullxt@mag.x-iptv.live/play/live.php?mac=00:1A:79:23:25:61&stream=1032487&extension=ts&play_token=tuyullxt@.ts
@@ -118,6 +118,10 @@ http://185.6.22.6:8000/play/a04l
 http://185.6.22.6:8000/play/a04m
 #EXTINF:-1 group-title="EPL/UCL Special" tvg-logo="https://i.ibb.co/JRvJdR6/eleven1.png", Eleven Sport 1 (waiq)
 http://wiaqmjix.rostelekom.xyz/iptv/5YS5CCM3AGT2T9/19158/index.m3u8
+#EXTINF:-1 tvg-logo="https://sender.epglogos.de/302x190_w/12181.png" group-title="Football", Sky Sports Main Event (great)
+http://tv.greatstar.me/play/live.php?mac=00:1a:79:a7:8d:94&stream=83450&extension=m3u8
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ss/supersport-premier-league-za.png" group-title="Football", Super Sports Premier League (great)
+http://tv.greatstar.me/play/live.php?mac=00:1a:79:a7:8d:94&stream=239078&extension=m3u8
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/tt/tnt-sports-1-uk.png" group-title="EPL/UCL Special", TNT Sports 1 (great)
 http://tv.greatstar.me/play/live.php?mac=00:1a:79:a7:8d:94&stream=79486&extension=m3u8
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/tt/tnt-sports-2-uk.png" group-title="EPL/UCL Special", TNT Sports 2 (great)
@@ -126,13 +130,13 @@ http://tv.greatstar.me/play/live.php?mac=00:1a:79:a7:8d:94&stream=79485&extensio
 http://tv.greatstar.me/play/live.php?mac=00:1a:79:a7:8d:94&stream=79484&extension=m3u8
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/tt/tnt-sports-4-uk.png" group-title="EPL/UCL Special", TNT Sports 4 (great)
 http://tv.greatstar.me/play/live.php?mac=00:1a:79:a7:8d:94&stream=1002857&extension=m3u8
-#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/vv/v-sport-premier-league.svg" group-title="EPL/UCL Special", V Sport Premier League (cam)
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS71EP6wKjOZ-IKwDboEIrWqaQ5a07hWwBpKQ&usqp=CAU" group-title="EPL/UCL Special", V Sport Premier League (cam)
 http://cam.access.ly/play/live.php?mac=00:1a:79:b4:af:19&stream=1001371&extension=m3u8
-#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/vv/v-sport-premier-league.svg" group-title="EPL/UCL Special", V Sport Premier 1 |Only Event|
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS71EP6wKjOZ-IKwDboEIrWqaQ5a07hWwBpKQ&usqp=CAU" group-title="EPL/UCL Special", V Sport Premier 1 |Only Event|
 http://cam.access.ly/play/live.php?mac=00:1a:79:b4:af:19&stream=1001370&extension=m3u8
-#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/vv/v-sport-premier-league.svg" group-title="EPL/UCL Special", V Sport Premier 2 |Only Event|
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS71EP6wKjOZ-IKwDboEIrWqaQ5a07hWwBpKQ&usqp=CAU" group-title="EPL/UCL Special", V Sport Premier 2 |Only Event|
 http://cam.access.ly/play/live.php?mac=00:1a:79:b4:af:19&stream=1001369&extension=m3u8
-#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/vv/v-sport-premier-league.svg" group-title="EPL/UCL Special", V Sport Premier 3 |Only Event|
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS71EP6wKjOZ-IKwDboEIrWqaQ5a07hWwBpKQ&usqp=CAU" group-title="EPL/UCL Special", V Sport Premier 3 |Only Event|
 http://cam.access.ly/play/live.php?mac=00:1a:79:b4:af:19&stream=1001368&extension=m3u8
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/pp/polsat-sport-premium-1-pl.png" group-title="EPL/UCL Special", Polsat Sport Premium 1 (cam)
 http://cam.access.ly/play/live.php?mac=00:1a:79:b4:af:19&stream=880467&extension=m3u8
@@ -197,9 +201,9 @@ https://webudit.webhd.ru/lb/premium152/index.m3u8?|referer=weblivehdplay.ru/
 https://webudit.hlsjs.ru/lb/premium343/index.m3u8?|referer=weblivehdplay.ru/
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/tt/telemundo_este.png" group-title="Football", Telemundo
 https://webudit.hlsjs.ru/lb/premium131/index.m3u8?|referer=weblivehdplay.ru/
-#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ss/sky-sports-premier-league-uk.svg" group-title="Football", Sky Sports Premier League 
+#EXTINF:-1 tvg-logo="https://sender.epglogos.de/302x190_w/12181.png" group-title="Football", Sky Sports Premier League 
 https://webudit.webhd.ru/lb/premium130/index.m3u8?|referer=weblivehdplay.ru/
-#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ss/sky-sports-main-event-uk.svg" group-title="Football", Sky Sports Main Event
+#EXTINF:-1 tvg-logo="https://sender.epglogos.de/302x190_w/12181.png" group-title="Football", Sky Sports Main Event
 https://webudit.webhd.ru/lb/premium38/index.m3u8?|referer=weblivehdplay.ru/
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ss/supersport-premier-league-za.png" group-title="Football", Super Sports Premier League
 https://webudit.hlsjs.ru/lb/premium414/index.m3u8?|referer=weblivehdplay.ru/
@@ -223,7 +227,7 @@ https://webudit.webhd.ru/lb/premium126/index.m3u8?|referer=weblivehdplay.ru/
 http://103.120.172.74:1030
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ss/star-sports-select-hd2-hk-in.png" group-title="Football", Star Sport Select 2 (103) sd
 http://103.120.172.74:4700
-#EXTINF:-1 group-title="Football" tvg-logo="https://www.lyngsat.com/logo/tv/ss/sky-sports-main-event-uk.svg", Sky Sports Main Event (vnoo)
+#EXTINF:-1 group-title="Football" tvg-logo="https://sender.epglogos.de/302x190_w/12181.png", Sky Sports Main Event (vnoo)
 http://tv.vnoo.net/direct_tv/vthanh/tv/skysportsmainevent.m3u8?|referer=http-user-agent=Dalvik/2.1.0
 #EXTINF:-1 group-title="Football" tvg-logo="https://www.lyngsat.com/logo/tv/tt/tnt-sports-uk-us-uk.png", TNT Sports 1 (vnoo)
 http://tv.vnoo.net/direct_tv/vthanh/tv/tntsports1.m3u8?|referer=http-user-agent=Dalvik/2.1.0
