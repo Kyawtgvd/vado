@@ -118,9 +118,9 @@ http://185.6.22.6:8000/play/a04l
 http://185.6.22.6:8000/play/a04m
 #EXTINF:-1 group-title="EPL/UCL Special" tvg-logo="https://i.ibb.co/JRvJdR6/eleven1.png", Eleven Sport 1 (waiq)
 http://wiaqmjix.rostelekom.xyz/iptv/5YS5CCM3AGT2T9/19158/index.m3u8
-#EXTINF:-1 tvg-logo="https://sender.epglogos.de/302x190_w/12181.png" group-title="Football", Sky Sports Main Event (great)
+#EXTINF:-1 tvg-logo="https://sender.epglogos.de/302x190_w/12181.png" group-title="EPL/UCL Special", Sky Sports Main Event (great)
 http://tv.greatstar.me/play/live.php?mac=00:1a:79:a7:8d:94&stream=83450&extension=m3u8
-#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ss/supersport-premier-league-za.png" group-title="Football", Super Sports Premier League (great)
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ss/supersport-premier-league-za.png" group-title="EPL/UCL Special", Super Sports Premier League (great)
 http://tv.greatstar.me/play/live.php?mac=00:1a:79:a7:8d:94&stream=239078&extension=m3u8
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/tt/tnt-sports-1-uk.png" group-title="EPL/UCL Special", TNT Sports 1 (great)
 http://tv.greatstar.me/play/live.php?mac=00:1a:79:a7:8d:94&stream=79486&extension=m3u8
