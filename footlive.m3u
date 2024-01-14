@@ -117,8 +117,6 @@ http://tuyullxt@mag.x-iptv.live/play/live.php?mac=00:1A:79:23:25:61&stream=10325
 http://tuyullxt@mag.x-iptv.live/play/live.php?mac=00:1A:79:23:25:61&stream=1032528&extension=ts&play_token=tuyullxt@.ts
 #EXTINF:-1 tvg-logo="https://www.thesportsdb.com/images/media/channel/tvlogo/znzwou1659622086.png" group-title="EPL/UCL Special (no vpn)", Hub Premier Sport 3 |Only Event|
 http://tuyullxt@mag.x-iptv.live/play/live.php?mac=00:1A:79:23:25:61&stream=1032527&extension=ts&play_token=tuyullxt@.ts
-#EXTINF:-1 group-title="EPL/UCL Special (no vpn)" tvg-logo="https://i.ibb.co/JRvJdR6/eleven1.png", Eleven Sport 1 DAZN (waiq)
-http://wiaqmjix.rostelekom.xyz/iptv/5YS5CCM3AGT2T9/19158/index.m3u8
 #EXTINF:-1 tvg-logo="https://sender.epglogos.de/302x190_w/12181.png" group-title="EPL/UCL Special (no vpn)", Sky Sports Main Event (great)
 http://tv.greatstar.me/play/live.php?mac=00:1a:79:a7:8d:94&stream=83450&extension=m3u8
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ss/supersport-premier-league-za.png" group-title="EPL/UCL Special (no vpn)", Super Sports Premier League (great)
@@ -222,12 +220,6 @@ https://d18dyiwu97wm6q.cloudfront.net/playlist.m3u8
 https://ctrl.laotv.la/live/Discovery/index.m3u8
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/dd/discovery-channel-east-us.png" group-title="International Channel", Discovery Asia (M-Sub)
 http://bananatv.org:25461/play/wVoZP52jvqdylF92agMAlz0FoUBz2wk3bMPyEl7JrYM/ts
-#EXTINF:-1 tvg-logo="https://cdn.hqth.me/logo/thumbs/185.png" group-title="International Channel", HBO
-http://vthanhtivi.pw:5000/hbo/index.m3u8
-#EXTINF:-1 tvg-logo="https://cdn.hqth.me/logo/thumbs/186.png" group-title="International Channel", Cinemax
-http://vthanhtivi.pw:5000/cinemax/index.m3u8
-#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ss/star_movies.png" group-title="International Channel", Star Movies
-http://ctrl.laotv.la/live/StarMovie/index.m3u8
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/aa/animax_asia.png" group-title="International Channel", Animax
 http://bananatv.org:25461/play/wVoZP52jvqdylF92agMAl0Xs6pnPcqI1nSbOp3leTTU/ts
 #EXTINF:-1 tvg-logo="https://d1i01wkzwiao45.cloudfront.net/wp-content/uploads/2018/08/Aniplus-Logo-News-Black_RE.jpg" group-title="International Channel", Aniplus
