@@ -142,10 +142,18 @@ http://shareext@tv.trexiptv.com/play/live.php?mac=00:1A:79:CB:82:FB&stream=10743
 http://shareext@tv.trexiptv.com/play/live.php?mac=00:1A:79:CB:82:FB&stream=107435&extension=ts
 #EXTINF:-1 tvg-logo="https://cdn.e-konomista.pt/uploads/2019/07/sport-tv-lanca-canal-gratuito-850x514.jpg" group-title="Sport", Sport TV 3 (sharee)
 http://shareext@tv.trexiptv.com/play/live.php?mac=00:1A:79:CB:82:FB&stream=107434&extension=ts
-#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/pp/polsat-sport-premium-1-pl.png" group-title="Sport", Polsat Sport Premium 1 (cam) hd
-http://cam.access.ly/play/live.php?mac=00:1a:79:b4:af:19&stream=882094&extension=m3u8
-#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/pp/polsat-sport-premium-2-pl.png" group-title="Sport", Polsat Sport Premium 2 (cam) hd
-http://cam.access.ly/play/live.php?mac=00:1a:79:b4:af:19&stream=882093&extension=m3u8
+#EXTINF:-1 tvg-logo="https://cdn.e-konomista.pt/uploads/2019/07/sport-tv-lanca-canal-gratuito-850x514.jpg" group-title="Sport", Sport TV 1 (webudit)
+https://01-24.webhd.ru/ddy4/premium49/tracks-v1a1/mono.m3u8?|referer=weblivehdplay.ru/
+#EXTINF:-1 tvg-logo="https://cdn.e-konomista.pt/uploads/2019/07/sport-tv-lanca-canal-gratuito-850x514.jpg" group-title="Sport", Sport TV 2 (webudit)
+https://01-24.webhd.ru/ddy5/cdn/premium74/tracks-v1a1/mono.m3u8?|referer=weblivehdplay.ru/
+#EXTINF:-1 tvg-logo="https://cdn.e-konomista.pt/uploads/2019/07/sport-tv-lanca-canal-gratuito-850x514.jpg" group-title="Sport", Sport TV 3 (webudit)
+https://01-24.webhd.ru/ddy5/cdn/premium454/tracks-v1a1/mono.m3u8?|referer=weblivehdplay.ru/
+#EXTINF:-1 tvg-logo="https://cdn.e-konomista.pt/uploads/2019/07/sport-tv-lanca-canal-gratuito-850x514.jpg" group-title="Sport", Sport TV 1 (kusna)
+https://kusnadipepenk.github.io/ntn/sprtv1.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.e-konomista.pt/uploads/2019/07/sport-tv-lanca-canal-gratuito-850x514.jpg" group-title="Sport", Sport TV 2 (kusna)
+https://kusnadipepenk.github.io/ntn/sprtv2.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.e-konomista.pt/uploads/2019/07/sport-tv-lanca-canal-gratuito-850x514.jpg" group-title="Sport", Sport TV 3 (kusna)
+https://kusnadipepenk.github.io/ntn/sprtv3.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.e-konomista.pt/uploads/2019/07/sport-tv-lanca-canal-gratuito-850x514.jpg" group-title="Sport", Sport TV 1 (cam)
 http://cam.access.ly/play/live.php?mac=00:1a:79:b4:af:19&stream=107436&extension=m3u8
 #EXTINF:-1 tvg-logo="https://cdn.e-konomista.pt/uploads/2019/07/sport-tv-lanca-canal-gratuito-850x514.jpg" group-title="Sport", Sport TV 2 (cam)
@@ -166,6 +174,10 @@ https://dai.google.com/linear/hls/event/r-eLp41YTHWTagvQSXFtAQ/master.m3u8
 https://ctrl.laotv.la/live/Bsport1/index.m3u8
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/bb/bein-sports-2-qa.png" group-title="Sport", BEIN SPORT 2 THAI
 https://ctrl.laotv.la/live/Bsport2/index.m3u8
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/pp/polsat-sport-premium-1-pl.png" group-title="Sport", Polsat Sport Premium 1 (cam) hd
+http://cam.access.ly/play/live.php?mac=00:1a:79:b4:af:19&stream=882094&extension=m3u8
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/pp/polsat-sport-premium-2-pl.png" group-title="Sport", Polsat Sport Premium 2 (cam) hd
+http://cam.access.ly/play/live.php?mac=00:1a:79:b4:af:19&stream=882093&extension=m3u8
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/cc/cctv-5-cn.png" group-title="Sport", CCTV5 SPORT
 https://node1.olelive.com:6443/live/CCTV5HD/hls.m3u8
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/cc/cctv-5-plus-cn.png" group-title="Sport", CCTV5+ SPORT
