@@ -138,25 +138,7 @@ https://247c.mrgamingstreams.com/mrgamingbtsport3.m3u8
 https://247c.mrgamingstreams.com/mrgamingbtsport4.m3u8
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/cc/cbs-kr.png" group-title="Sport", CBS Sport (game)
 https://247c.mrgamingstreams.com/mrgamingcbssn.m3u8
-#EXTINF:-1 tvg-logo="https://logos-world.net/wp-content/uploads/2023/06/USA-Network-Logo.png" group-title="Sport", USA Network (back)
-http://backup.xp1.tv/play/live.php?mac=00:1A:79:14:C5:5D&stream=18133_&extension=ts
-#EXTINF:-1 tvg-logo="https://seekvectorlogo.com/wp-content/uploads/2021/12/sky-sports-vector-logo-2021.png" group-title="Sport", Sky Sports Premier League (back)
-http://backup.xp1.tv/play/live.php?mac=00:1A:79:14:C5:5D&stream=213_&extension=ts
-#EXTINF:-1 tvg-logo="https://seekvectorlogo.com/wp-content/uploads/2021/12/sky-sports-vector-logo-2021.png" group-title="Sport", Sky Sports Premier League (sharee)
-http://shareext@tv.trexiptv.com/play/live.php?mac=00:1A:79:CB:82:FB&stream=79473&extension=ts
-#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/aa/astro-supersport-my.png" group-title="Sport", Astro Supersport 1 (sharee)
-http://shareext@tv.trexiptv.com/play/live.php?mac=00:1A:79:CB:82:FB&stream=918986&extension=ts
-#EXTINF:-1 tvg-logo="https://cdn.e-konomista.pt/uploads/2019/07/sport-tv-lanca-canal-gratuito-850x514.jpg" group-title="Sport", Sport TV 1
-http://stalker.ugoiptv.com:80/play/live.php?mac=00:1A:79:7A:FE:9B&stream=107436&extension=ts
-#EXTINF:-1 tvg-logo="https://cdn.e-konomista.pt/uploads/2019/07/sport-tv-lanca-canal-gratuito-850x514.jpg" group-title="Sport", Sport TV 2
-http://stalker.ugoiptv.com:80/play/live.php?mac=00:1A:79:7A:FE:9B&stream=107435&extension=ts
-#EXTINF:-1 tvg-logo="https://cdn.e-konomista.pt/uploads/2019/07/sport-tv-lanca-canal-gratuito-850x514.jpg" group-title="Sport", Sport TV 3
-http://stalker.ugoiptv.com:80/play/live.php?mac=00:1A:79:7A:FE:9B&stream=107434&extension=ts
 
-#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/cc/cbs-kr.png" group-title="Webudit", CBS Sport Network
-https://webudit.webhd.ru/lb/premium308/index.m3u8?|referer=weblivehdplay.ru/
-#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/cc/cbs-kr.png" group-title="Webudit", CBS Sport NY
-https://webudit.webhd.ru/lb/premium52/index.m3u8?|referer=weblivehdplay.ru/
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/aa/arena-premium-1-rs.png" group-title="Webudit", Arena Premium 1
 https://webudit.webhd.ru/lb/premium134/index.m3u8?|referer=weblivehdplay.ru/
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/aa/arena-premium-2-rs.png" group-title="Webudit", Arena Premium 2
@@ -219,3 +201,7 @@ https://webudit.webhd.ru/lb/premium34/index.m3u8?|referer=weblivehdplay.ru/
 https://webudit.webhd.ru/lb/premium39/index.m3u8?|referer=weblivehdplay.ru/
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ff/fox_sports_us_2.png" group-title="Webudit", Fox Sports 2
 https://webudit.webhd.ru/lb/premium758/index.m3u8?|referer=weblivehdplay.ru/
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/cc/cbs-kr.png" group-title="Webudit", CBS Sport Network
+https://webudit.webhd.ru/lb/premium308/index.m3u8?|referer=weblivehdplay.ru/
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/cc/cbs-kr.png" group-title="Webudit", CBS Sport NY
+https://webudit.webhd.ru/lb/premium52/index.m3u8?|referer=weblivehdplay.ru/
