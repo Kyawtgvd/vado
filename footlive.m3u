@@ -121,6 +121,8 @@ http://tuyullxt@mag.x-iptv.live/play/live.php?mac=00:1A:79:23:25:61&stream=10325
 http://tv.greatstar.me/play/live.php?mac=00:1a:79:a7:8d:94&stream=83450&extension=m3u8
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ss/supersport-premier-league-za.png" group-title="EPL/UCL Special (no vpn)", Super Sports Premier League (great)
 http://tv.greatstar.me/play/live.php?mac=00:1a:79:a7:8d:94&stream=239078&extension=m3u8
+#EXTINF:-1 tvg-logo="https://seekvectorlogo.com/wp-content/uploads/2021/12/sky-sports-vector-logo-2021.png" group-title="EPL/UCL Special (no vpn)", Sky Sports Premier League (sharee)
+http://shareext@tv.trexiptv.com/play/live.php?mac=00:1A:79:CB:82:FB&stream=79473&extension=ts
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/tt/tnt-sports-1-uk.png" group-title="EPL/UCL Special (no vpn)", TNT Sports 1 (great)
 http://tv.greatstar.me/play/live.php?mac=00:1a:79:a7:8d:94&stream=79486&extension=m3u8
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/tt/tnt-sports-2-uk.png" group-title="EPL/UCL Special (no vpn)", TNT Sports 2 (great)
@@ -134,6 +136,24 @@ http://cam.access.ly/play/live.php?mac=00:1a:79:b4:af:19&stream=880467&extension
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/pp/polsat-sport-premium-2-pl.png" group-title="EPL/UCL Special (no vpn)", Polsat Sport Premium 2 (cam)
 http://cam.access.ly/play/live.php?mac=00:1a:79:b4:af:19&stream=880466&extension=m3u8
 
+#EXTINF:-1 tvg-logo="https://cdn.e-konomista.pt/uploads/2019/07/sport-tv-lanca-canal-gratuito-850x514.jpg" group-title="Sport", Sport TV 1 (sharee)
+http://shareext@tv.trexiptv.com/play/live.php?mac=00:1A:79:CB:82:FB&stream=107436&extension=ts
+#EXTINF:-1 tvg-logo="https://cdn.e-konomista.pt/uploads/2019/07/sport-tv-lanca-canal-gratuito-850x514.jpg" group-title="Sport", Sport TV 2 (sharee)
+http://shareext@tv.trexiptv.com/play/live.php?mac=00:1A:79:CB:82:FB&stream=107435&extension=ts
+#EXTINF:-1 tvg-logo="https://cdn.e-konomista.pt/uploads/2019/07/sport-tv-lanca-canal-gratuito-850x514.jpg" group-title="Sport", Sport TV 3 (sharee)
+http://shareext@tv.trexiptv.com/play/live.php?mac=00:1A:79:CB:82:FB&stream=107434&extension=ts
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/cc/cbs-kr.png" group-title="Sport", CBS Sport Network
+https://webudit.webhd.ru/lb/premium308/index.m3u8?|referer=weblivehdplay.ru/
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/pp/polsat-sport-premium-1-pl.png" group-title="Sport", Polsat Sport Premium 1 (cam) hd
+http://cam.access.ly/play/live.php?mac=00:1a:79:b4:af:19&stream=882094&extension=m3u8
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/pp/polsat-sport-premium-2-pl.png" group-title="Sport", Polsat Sport Premium 2 (cam) hd
+http://cam.access.ly/play/live.php?mac=00:1a:79:b4:af:19&stream=882093&extension=m3u8
+#EXTINF:-1 tvg-logo="https://cdn.e-konomista.pt/uploads/2019/07/sport-tv-lanca-canal-gratuito-850x514.jpg" group-title="Sport", Sport TV 1 (cam)
+http://cam.access.ly/play/live.php?mac=00:1a:79:b4:af:19&stream=107436&extension=m3u8
+#EXTINF:-1 tvg-logo="https://cdn.e-konomista.pt/uploads/2019/07/sport-tv-lanca-canal-gratuito-850x514.jpg" group-title="Sport", Sport TV 2 (cam)
+http://cam.access.ly/play/live.php?mac=00:1a:79:b4:af:19&stream=107435&extension=m3u8
+#EXTINF:-1 tvg-logo="https://cdn.e-konomista.pt/uploads/2019/07/sport-tv-lanca-canal-gratuito-850x514.jpg" group-title="Sport", Sport TV 3 (cam)
+http://cam.access.ly/play/live.php?mac=00:1a:79:b4:af:19&stream=107434&extension=m3u8
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ss/sony-sports-ten-1-in.png" group-title="Sport", Sony Ten Sport 1
 https://dai.google.com/linear/hls/event/6WhVNGKTRXyu588zZv1Lkg/master.m3u8
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ss/sony-sports-ten-2-in.png" group-title="Sport", Sony Ten Sport 2
