@@ -142,8 +142,6 @@ http://shareext@tv.trexiptv.com/play/live.php?mac=00:1A:79:CB:82:FB&stream=10743
 http://shareext@tv.trexiptv.com/play/live.php?mac=00:1A:79:CB:82:FB&stream=107435&extension=ts
 #EXTINF:-1 tvg-logo="https://cdn.e-konomista.pt/uploads/2019/07/sport-tv-lanca-canal-gratuito-850x514.jpg" group-title="Sport", Sport TV 3 (sharee)
 http://shareext@tv.trexiptv.com/play/live.php?mac=00:1A:79:CB:82:FB&stream=107434&extension=ts
-#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/cc/cbs-kr.png" group-title="Sport", CBS Sport Network
-https://webudit.webhd.ru/lb/premium308/index.m3u8?|referer=weblivehdplay.ru/
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/pp/polsat-sport-premium-1-pl.png" group-title="Sport", Polsat Sport Premium 1 (cam) hd
 http://cam.access.ly/play/live.php?mac=00:1a:79:b4:af:19&stream=882094&extension=m3u8
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/pp/polsat-sport-premium-2-pl.png" group-title="Sport", Polsat Sport Premium 2 (cam) hd
