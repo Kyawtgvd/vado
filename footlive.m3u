@@ -160,11 +160,17 @@ https://kusnadipepenk.github.io/ntn/sprtv1.m3u8
 https://kusnadipepenk.github.io/ntn/sprtv2.m3u8
 #EXTINF:-1 tvg-logo="https://i.pinimg.com/736x/60/b7/93/60b793e877354a71e4d31aedbf507e0b.jpg" group-title="Sport", Sport TV 3 (kusna)
 https://kusnadipepenk.github.io/ntn/sprtv3.m3u8
-#EXTINF:-1 tvg-logo="https://cdn.e-konomista.pt/uploads/2019/07/sport-tv-lanca-canal-gratuito-850x514.jpg" group-title="Sport", Sport TV 1 (cam)
+#EXTINF:-1 tvg-logo="https://cdn.e-konomista.pt/uploads/2019/07/sport-tv-lanca-canal-gratuito-850x514.jpg" group-title="Sport", Sport TV 1 (tuy)
+http://tuyullxt@mag.x-iptv.live/play/live.php?mac=00:1A:79:23:25:61&stream=107436&extension=ts&play_token=tuyullxt@.ts
+#EXTINF:-1 tvg-logo="https://cdn.e-konomista.pt/uploads/2019/07/sport-tv-lanca-canal-gratuito-850x514.jpg" group-title="Sport", Sport TV 2 (tuy)
+http://tuyullxt@mag.x-iptv.live/play/live.php?mac=00:1A:79:23:25:61&stream=107435&extension=ts&play_token=tuyullxt@.ts
+#EXTINF:-1 tvg-logo="https://cdn.e-konomista.pt/uploads/2019/07/sport-tv-lanca-canal-gratuito-850x514.jpg" group-title="Sport", Sport TV 3 (tuy)
+http://tuyullxt@mag.x-iptv.live/play/live.php?mac=00:1A:79:23:25:61&stream=107434&extension=ts&play_token=tuyullxt@.ts
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/736x/60/b7/93/60b793e877354a71e4d31aedbf507e0b.jpg" group-title="Sport", Sport TV 1 (cam)
 http://cam.access.ly/play/live.php?mac=00:1a:79:b4:af:19&stream=107436&extension=m3u8
-#EXTINF:-1 tvg-logo="https://cdn.e-konomista.pt/uploads/2019/07/sport-tv-lanca-canal-gratuito-850x514.jpg" group-title="Sport", Sport TV 2 (cam)
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/736x/60/b7/93/60b793e877354a71e4d31aedbf507e0b.jpg" group-title="Sport", Sport TV 2 (cam)
 http://cam.access.ly/play/live.php?mac=00:1a:79:b4:af:19&stream=107435&extension=m3u8
-#EXTINF:-1 tvg-logo="https://cdn.e-konomista.pt/uploads/2019/07/sport-tv-lanca-canal-gratuito-850x514.jpg" group-title="Sport", Sport TV 3 (cam)
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/736x/60/b7/93/60b793e877354a71e4d31aedbf507e0b.jpg" group-title="Sport", Sport TV 3 (cam)
 http://cam.access.ly/play/live.php?mac=00:1a:79:b4:af:19&stream=107434&extension=m3u8
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ss/sony-sports-ten-1-in.png" group-title="Sport", Sony Ten Sport 1
 https://dai.google.com/linear/hls/event/6WhVNGKTRXyu588zZv1Lkg/master.m3u8
