@@ -258,3 +258,42 @@ http://m3u.4klion.xyz:80/play/live.php?mac=00:1A:79:78:59:F9&stream=975485&exten
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/pK7Y84R/Bein-7.png" group-title="Test", Sky News
 http://m3u.4klion.xyz:80/play/live.php?mac=00:1A:79:78:59:F9&stream=577228&extension=ts
+
+#EXTINF:-1 group-title="Test" tvg-logo="https://i.postimg.cc/tCSRmXdF/Starsportss1.jpg",Star Sports Select 1 HD
+http://103.132.181.118:82/play/a00u
+#EXTINF:-1 group-title="Test" tvg-logo="https://i.postimg.cc/tCSRmXdF/Starsportss1.jpg",Star Sports Select 1 HD
+http://103.132.181.118:82/play/a00l
+#EXTINF:-1 group-title="Test" tvg-logo="https://i.postimg.cc/Kj5HDXGJ/superafricablitz.jpg",SuperSport Blitz
+http://supersonictv.live:8080/419094/970686/86873
+#EXTINF:-1 group-title="Test" tvg-logo="https://i.postimg.cc/sD4M7Tpx/srtijz1643382350.png",SuperSport Cricket
+http://supersonictv.live:8080/419094/970686/86872
+#EXTINF:-1 group-title="Test" tvg-logo="https://i.postimg.cc/TYCxqd6D/7lxofw1656964140.png",SuperSport Football
+http://supersonictv.live:8080/419094/970686/86869
+#EXTINF:-1 group-title="Test" tvg-logo="https://i.postimg.cc/XqmX7PF7/aitip41642604897.png",SuperSport Grandstand
+http://supersonictv.live:8080/419094/970686/86864
+#EXTINF:-1 group-title="Test" tvg-logo="https://i.postimg.cc/KjMxQ8kx/laliga.png",SuperSport LaLiga
+http://supersonictv.live:8080/419094/970686/86861
+#EXTINF:-1 group-title="Test" tvg-logo="https://i.postimg.cc/NG3Htyx8/188vbk1659624662.png",SuperSport Máximo 1
+http://supersonictv.live:8080/419094/970686/86874
+#EXTINF:-1 group-title="Test" tvg-logo="https://i.postimg.cc/G20QHc06/x5ja5w1659624783.png",SuperSport Premier League
+http://supersonictv.live:8080/419094/970686/86880
+#EXTINF:-1 group-title="Test" tvg-logo="https://i.postimg.cc/G20QHc06/x5ja5w1659624783.png",SuperSport Premier League
+http://supersonictv.live:8080/419094/970686/86881
+#EXTINF:-1 group-title="Test" tvg-logo="https://i.postimg.cc/G20QHc06/x5ja5w1659624783.png",SuperSport Premier League
+http://supersonictv.live:8080/419094/970686/86882
+#EXTINF:-1 group-title="Test" tvg-logo="https://i.postimg.cc/G20QHc06/x5ja5w1659624783.png",SuperSport Premier League
+http://supersonictv.live:8080/419094/970686/86883
+#EXTINF:-1 group-title="Test" tvg-logo="https://i.postimg.cc/G20QHc06/x5ja5w1659624783.png",SuperSport Premier League
+http://supersonictv.live:8080/419094/970686/86863
+#EXTINF:-1 group-title="Test" tvg-logo="https://i.postimg.cc/4xmbPKsr/s6b35j1629404341.png",SuperSport PSL
+http://supersonictv.live:8080/419094/970686/86862
+#EXTINF:-1 group-title="Test" tvg-logo="https://i.postimg.cc/44hVMC9S/0lwdq31638048788.png",SuperSport Variety 1
+http://supersonictv.live:8080/419094/970686/86865
+#EXTINF:-1 group-title="Test" tvg-logo="https://i.postimg.cc/0NQJ0hvZ/9vnt801638048828.png",SuperSport Variety 2
+http://supersonictv.live:8080/419094/970686/86866
+#EXTINF:-1 group-title="Test" tvg-logo="https://i.postimg.cc/kgj2GwSS/mh03f41638048848.png",SuperSport Variety 3
+http://supersonictv.live:8080/419094/970686/86867
+#EXTINF:-1 group-title="Test" tvg-logo="https://i.postimg.cc/1XctQKPf/jz5jpt1638048871.png",SuperSport Variety 4
+http://supersonictv.live:8080/419094/970686/86868
+#EXTINF:-1 group-title="Test" tvg-logo="https://i.postimg.cc/fTcTFsf5/WWE-and-SS.jpg",SuperSport WWE
+http://supersonictv.live:8080/419094/970686/86878
