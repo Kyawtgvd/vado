@@ -158,41 +158,29 @@ http://cam.access.ly/play/live.php?mac=00:1a:79:b4:af:19&stream=880467&extension
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/pp/polsat-sport-premium-2-pl.png" group-title="EPL/UCL Special (no vpn)", Polsat Sport Premium 2 (cam)
 http://cam.access.ly/play/live.php?mac=00:1a:79:b4:af:19&stream=880466&extension=m3u8
 
-#EXTINF:-1 tvg-logo="https://cdn.e-konomista.pt/uploads/2019/07/sport-tv-lanca-canal-gratuito-850x514.jpg" group-title="Sport", Sport TV 1 (kusna)
-https://kusnadipepenk.github.io/ntn/sprtv1.m3u8
-#EXTINF:-1 tvg-logo="https://cdn.e-konomista.pt/uploads/2019/07/sport-tv-lanca-canal-gratuito-850x514.jpg" group-title="Sport", Sport TV 2 (kusna)
-https://kusnadipepenk.github.io/ntn/sprtv2.m3u8
-#EXTINF:-1 tvg-logo="https://cdn.e-konomista.pt/uploads/2019/07/sport-tv-lanca-canal-gratuito-850x514.jpg" group-title="Sport", Sport TV 3 (kusna)
-https://kusnadipepenk.github.io/ntn/sprtv3.m3u8
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRlAwdx48QPEiQHrHIz-7t8P35X9cJZrvsxjQ&usqp=CAU" group-title="Sport", Sport TV 1 (sharee)
-http://shareext@tv.trexiptv.com/play/live.php?mac=00:1A:79:CB:82:FB&stream=107436&extension=ts
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRlAwdx48QPEiQHrHIz-7t8P35X9cJZrvsxjQ&usqp=CAU" group-title="Sport", Sport TV 2 (sharee)
-http://shareext@tv.trexiptv.com/play/live.php?mac=00:1A:79:CB:82:FB&stream=107435&extension=ts
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRlAwdx48QPEiQHrHIz-7t8P35X9cJZrvsxjQ&usqp=CAU" group-title="Sport", Sport TV 3 (sharee)
-http://shareext@tv.trexiptv.com/play/live.php?mac=00:1A:79:CB:82:FB&stream=107434&extension=ts
-#EXTINF:-1 tvg-logo="https://cdn.e-konomista.pt/uploads/2019/07/sport-tv-lanca-canal-gratuito-850x514.jpg" group-title="Sport", Sport TV 1 (webudit 1)
-https://01-24.webhd.ru/ddy4/premium49/tracks-v1a1/mono.m3u8?|referer=weblivehdplay.ru/
-#EXTINF:-1 tvg-logo="https://cdn.e-konomista.pt/uploads/2019/07/sport-tv-lanca-canal-gratuito-850x514.jpg" group-title="Sport", Sport TV 2 (webudit 1)
-https://01-24.webhd.ru/ddy5/cdn/premium74/tracks-v1a1/mono.m3u8?|referer=weblivehdplay.ru/
-#EXTINF:-1 tvg-logo="https://cdn.e-konomista.pt/uploads/2019/07/sport-tv-lanca-canal-gratuito-850x514.jpg" group-title="Sport", Sport TV 3 (webudit 1)
-https://01-24.webhd.ru/ddy5/cdn/premium454/tracks-v1a1/mono.m3u8?|referer=weblivehdplay.ru/
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRlAwdx48QPEiQHrHIz-7t8P35X9cJZrvsxjQ&usqp=CAU" group-title="Sport", Sport TV 1 (livein)
-http://livein1.com:8080/play/live.php?mac=00:1a:79:b1:85:5e&stream=78797&extension=m3u8
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRlAwdx48QPEiQHrHIz-7t8P35X9cJZrvsxjQ&usqp=CAU" group-title="Sport", Sport TV 2 (livein)
-http://livein1.com:8080/play/live.php?mac=00:1a:79:b1:85:5e&stream=78796&extension=m3u8
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRlAwdx48QPEiQHrHIz-7t8P35X9cJZrvsxjQ&usqp=CAU" group-title="Sport", Sport TV 3 (livein)
-http://livein1.com:8080/play/live.php?mac=00:1a:79:b1:85:5e&stream=78795&extension=m3u8
 #EXTINF:-1 tvg-logo="https://cdn.e-konomista.pt/uploads/2019/07/sport-tv-lanca-canal-gratuito-850x514.jpg" group-title="Sport", Sport TV 1 (tuy)
 http://tuyullxt@mag.x-iptv.live/play/live.php?mac=00:1A:79:23:25:61&stream=107436&extension=ts&play_token=tuyullxt@.ts
 #EXTINF:-1 tvg-logo="https://cdn.e-konomista.pt/uploads/2019/07/sport-tv-lanca-canal-gratuito-850x514.jpg" group-title="Sport", Sport TV 2 (tuy)
 http://tuyullxt@mag.x-iptv.live/play/live.php?mac=00:1A:79:23:25:61&stream=107435&extension=ts&play_token=tuyullxt@.ts
 #EXTINF:-1 tvg-logo="https://cdn.e-konomista.pt/uploads/2019/07/sport-tv-lanca-canal-gratuito-850x514.jpg" group-title="Sport", Sport TV 3 (tuy)
 http://tuyullxt@mag.x-iptv.live/play/live.php?mac=00:1A:79:23:25:61&stream=107434&extension=ts&play_token=tuyullxt@.ts
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRlAwdx48QPEiQHrHIz-7t8P35X9cJZrvsxjQ&usqp=CAU" group-title="Sport", Sport TV 1 (webudit 2)
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRlAwdx48QPEiQHrHIz-7t8P35X9cJZrvsxjQ&usqp=CAU" group-title="Sport", Sport TV 1 (sharee)
+http://shareext@tv.trexiptv.com/play/live.php?mac=00:1A:79:CB:82:FB&stream=107436&extension=ts
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRlAwdx48QPEiQHrHIz-7t8P35X9cJZrvsxjQ&usqp=CAU" group-title="Sport", Sport TV 2 (sharee)
+http://shareext@tv.trexiptv.com/play/live.php?mac=00:1A:79:CB:82:FB&stream=107435&extension=ts
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRlAwdx48QPEiQHrHIz-7t8P35X9cJZrvsxjQ&usqp=CAU" group-title="Sport", Sport TV 3 (sharee)
+http://shareext@tv.trexiptv.com/play/live.php?mac=00:1A:79:CB:82:FB&stream=107434&extension=ts
+#EXTINF:-1 tvg-logo="https://cdn.e-konomista.pt/uploads/2019/07/sport-tv-lanca-canal-gratuito-850x514.jpg" group-title="Sport", Sport TV 1 (gofast)
+http://line.gofast-tv.me/play/live.php?mac=00:1a:79:b5:63:3c&stream=107436&extension=m3u8
+#EXTINF:-1 tvg-logo="https://cdn.e-konomista.pt/uploads/2019/07/sport-tv-lanca-canal-gratuito-850x514.jpg" group-title="Sport", Sport TV 2 (gofast)
+http://line.gofast-tv.me/play/live.php?mac=00:1a:79:b5:63:3c&stream=107435&extension=m3u8
+#EXTINF:-1 tvg-logo="https://cdn.e-konomista.pt/uploads/2019/07/sport-tv-lanca-canal-gratuito-850x514.jpg" group-title="Sport", Sport TV 3 (gofast)
+http://line.gofast-tv.me/play/live.php?mac=00:1a:79:b5:63:3c&stream=107434&extension=m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRlAwdx48QPEiQHrHIz-7t8P35X9cJZrvsxjQ&usqp=CAU" group-title="Sport", Sport TV 1 (webudit 1)
 https://webudit.webhd.ru/lb/premium49/index.m3u8?|referer=weblivehdplay.ru/
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRlAwdx48QPEiQHrHIz-7t8P35X9cJZrvsxjQ&usqp=CAU" group-title="Sport", Sport TV 2 (webudit 2)
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRlAwdx48QPEiQHrHIz-7t8P35X9cJZrvsxjQ&usqp=CAU" group-title="Sport", Sport TV 2 (webudit 1)
 https://webudit.webhd.ru/lb/premium74/index.m3u8?|referer=weblivehdplay.ru/
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRlAwdx48QPEiQHrHIz-7t8P35X9cJZrvsxjQ&usqp=CAU" group-title="Sport", Sport TV 3 (webudit 2)
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRlAwdx48QPEiQHrHIz-7t8P35X9cJZrvsxjQ&usqp=CAU" group-title="Sport", Sport TV 3 (webudit 1)
 https://webudit.webhd.ru/lb/premium454/index.m3u8?|referer=weblivehdplay.ru/
 #EXTINF:-1 tvg-logo="https://cdn.e-konomista.pt/uploads/2019/07/sport-tv-lanca-canal-gratuito-850x514.jpg" group-title="Sport", Sport TV 1 (cam)
 http://cam.access.ly/play/live.php?mac=00:1a:79:b4:af:19&stream=107436&extension=m3u8
@@ -200,6 +188,12 @@ http://cam.access.ly/play/live.php?mac=00:1a:79:b4:af:19&stream=107436&extension
 http://cam.access.ly/play/live.php?mac=00:1a:79:b4:af:19&stream=107435&extension=m3u8
 #EXTINF:-1 tvg-logo="https://cdn.e-konomista.pt/uploads/2019/07/sport-tv-lanca-canal-gratuito-850x514.jpg" group-title="Sport", Sport TV 3 (cam)
 http://cam.access.ly/play/live.php?mac=00:1a:79:b4:af:19&stream=107434&extension=m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRlAwdx48QPEiQHrHIz-7t8P35X9cJZrvsxjQ&usqp=CAU" group-title="Sport", Sport TV 1 (webudit 2)
+https://01-24.webhd.ru/ddy4/premium49/tracks-v1a1/mono.m3u8?|referer=weblivehdplay.ru/
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRlAwdx48QPEiQHrHIz-7t8P35X9cJZrvsxjQ&usqp=CAU" group-title="Sport", Sport TV 2 (webudit 2)
+https://01-24.webhd.ru/ddy5/cdn/premium74/tracks-v1a1/mono.m3u8?|referer=weblivehdplay.ru/
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRlAwdx48QPEiQHrHIz-7t8P35X9cJZrvsxjQ&usqp=CAU" group-title="Sport", Sport TV 3 (webudit 2)
+https://01-24.webhd.ru/ddy5/cdn/premium454/tracks-v1a1/mono.m3u8?|referer=weblivehdplay.ru/
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ss/sony-sports-ten-1-in.png" group-title="Sport", Sony Ten Sport 1
 https://dai.google.com/linear/hls/event/6WhVNGKTRXyu588zZv1Lkg/master.m3u8
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ss/sony-sports-ten-2-in.png" group-title="Sport", Sony Ten Sport 2
