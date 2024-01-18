@@ -84,6 +84,14 @@ http://carmeltv.live:80/EXCHANGEukmed/QHZ5pjF7UdKx/61170.m3u8?|referer=https://l
 http://carmeltv.live:80/EXCHANGEukmed/QHZ5pjF7UdKx/61171.m3u8?|referer=https://live-streamfootball.com/
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQHA2p2mJ2dkA_-7-w2JueKVgmI7PxzewuxZg&usqp=CAU" group-title="Sport", beIN Sports 5 |need vpn|
 http://carmeltv.live:80/EXCHANGEukmed/QHZ5pjF7UdKx/61172.m3u8?|referer=https://live-streamfootball.com/
+#EXTINF:-1 tvg-logo="https://cdn.e-konomista.pt/uploads/2019/07/sport-tv-lanca-canal-gratuito-850x514.jpg" group-title="Sport", Sport TV 1 |need vpn|
+http://carmeltv.live:80/EXCHANGEukmed/QHZ5pjF7UdKx/54538.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.e-konomista.pt/uploads/2019/07/sport-tv-lanca-canal-gratuito-850x514.jpg" group-title="Sport", Sport TV 2 |need vpn|
+http://carmeltv.live:80/EXCHANGEukmed/QHZ5pjF7UdKx/54540.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.e-konomista.pt/uploads/2019/07/sport-tv-lanca-canal-gratuito-850x514.jpg" group-title="Sport", Sport TV 3 |need vpn|
+http://carmeltv.live:80/EXCHANGEukmed/QHZ5pjF7UdKx/54542.m3u8
+#EXTINF:-1 tvg-logo="https://logos-world.net/wp-content/uploads/2023/06/USA-Network-Logo.png" group-title="Sport", USA Network |need vpn|
+http://carmeltv.live:80/EXCHANGEukmed/QHZ5pjF7UdKx/63127.m3u8
 #EXTINF:-1 tvg-logo="https://www.cabletv.com/app/uploads/fifa-plus-logo-small.png" group-title="Sport", FIFA Plus 1 |need vpn|
 https://i.mjh.nz/SamsungTVPlus/GBBD1100008YW.m3u8
 #EXTINF:-1 tvg-logo="https://www.cabletv.com/app/uploads/fifa-plus-logo-small.png" group-title="Sport", FIFA Plus 2 |need vpn|
