@@ -346,10 +346,31 @@ http://bananatv.org:25461/play/wVoZP52jvqdylF92agMAlz0FoUBz2wk3bMPyEl7JrYM/ts
 http://bananatv.org:25461/play/wVoZP52jvqdylF92agMAl0Xs6pnPcqI1nSbOp3leTTU/ts
 #EXTINF:-1 tvg-logo="https://d1i01wkzwiao45.cloudfront.net/wp-content/uploads/2018/08/Aniplus-Logo-News-Black_RE.jpg" group-title="International Channel", Aniplus
 https://code.vthanhtivi.pw/getlink/eazie/241430/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/xsgYdKT/wwenetwork.png" group-title="International Channel", WWE Network
-https://d2p372oxiwmcn1.cloudfront.net/hls/main.m3u8
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ5d3XcSIwzdnamgM-dCq1TNF3YcDn9FSb62g&usqp=CAU" group-title="International Channel", UFC Network
+
+#EXTINF:-1 tvg-logo="https://1000logos.net/wp-content/uploads/2017/06/Logo-UFC.png" group-title="UFC/One Championship/WWE", UFC TV (tuy)
+http://tuyullxt@mag.x-iptv.live/play/live.php?mac=00:1A:79:23:25:61&stream=91949&extension=ts&play_token=tuyullxt@.ts
+#EXTINF:-1 tvg-logo="https://1000logos.net/wp-content/uploads/2017/06/Logo-UFC.png" group-title="UFC/One Championship/WWE", UFC TV (sonic)
+http://supersonictv.live:8080/419094/970686/22177
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ5d3XcSIwzdnamgM-dCq1TNF3YcDn9FSb62g&usqp=CAU" group-title="UFC/One Championship/WWE", UFC Network (ads)
 https://stream.ads.ottera.tv/cl/29fmbD4wgol0FelXaMeAw/854x480_550000_3_f.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/xsgYdKT/wwenetwork.png" group-title="UFC/One Championship/WWE", WWE Network (d2p)
+https://d2p372oxiwmcn1.cloudfront.net/hls/main.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/xsgYdKT/wwenetwork.png" group-title="UFC/One Championship/WWE", WWE Network (tuy)
+http://tuyullxt@mag.x-iptv.live/play/live.php?mac=00:1A:79:23:25:61&stream=45462&extension=ts&play_token=tuyullxt@.ts
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT-SrpnFAxGEnPZwlJhCXQ5zYrrP6jeVsFGcg&usqp=CAU" group-title="UFC/One Championship/WWE", One Championship-Sport Tv+ (tuy)
+http://tuyullxt@mag.x-iptv.live/play/live.php?mac=00:1A:79:23:25:61&stream=107437&extension=ts&play_token=tuyullxt@.ts
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSVb6pi3mRDoNB4v3zvQs2udIfJhd7RgXr_Fg&usqp=CAU" group-title="UFC/One Championship/WWE", ESPN+ 0 PPV (great)
+http://tv.greatstar.me/play/live.php?mac=00:1a:79:a7:8d:94&stream=1431505&extension=m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSVb6pi3mRDoNB4v3zvQs2udIfJhd7RgXr_Fg&usqp=CAU" group-title="UFC/One Championship/WWE", ESPN+ 1 PPV (great)
+http://tv.greatstar.me/play/live.php?mac=00:1a:79:a7:8d:94&stream=1431506&extension=m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSVb6pi3mRDoNB4v3zvQs2udIfJhd7RgXr_Fg&usqp=CAU" group-title="UFC/One Championship/WWE", ESPN+ 1 (tuy)
+http://tuyullxt@mag.x-iptv.live/play/live.php?mac=00:1A:79:23:25:61&stream=926118&extension=ts&play_token=tuyullxt@.ts
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSVb6pi3mRDoNB4v3zvQs2udIfJhd7RgXr_Fg&usqp=CAU" group-title="UFC/One Championship/WWE", ESPN+ 2 tuy)
+http://tuyullxt@mag.x-iptv.live/play/live.php?mac=00:1A:79:23:25:61&stream=926119&extension=ts&play_token=tuyullxt@.ts
+#EXTINF:-1 tvg-logo="https://1000logos.net/wp-content/uploads/2017/06/Logo-UFC.png" group-title="UFC/One Championship/WWE", UFC TV (carmel) |need vpn|
+http://carmeltv.live:80/EXCHANGEukmed/QHZ5pjF7UdKx/63286.m3u8?|referer=https://live-streamfootball.com/
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQphdriWvva9QGx9USxtalK4EuPNIPHMqXaJQ&usqp=CAU" group-title="UFC/One Championship/WWE", UFC Fight Pass (carmel) |need vpn|
+http://carmeltv.live:80/EXCHANGEukmed/QHZ5pjF7UdKx/63285.m3u8?|referer=https://live-streamfootball.com/
 
 #EXTINF:-1 tvg-logo="http://zegomovie.com/Uploads/vod/2023-12-22/6585649a9db1d.jpg" group-title="MOVIES", Moscow Mission (2023)
 http://www.zegomovie.com/Videos/MoscowMission23/index.m3u8
