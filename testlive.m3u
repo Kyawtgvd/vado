@@ -48,32 +48,23 @@ https://dce-fs-live-dazn-cdn.dazn.com/dashdrm/dazn-linear-058/stream.mpd
 #EXTINF:-1 group-title="Football (only can play with ott player)" tvg-logo="https://i.ibb.co/M2tbfJV/eleven6.png", Eleven Sports 6
 https://dce-fs-live-dazn-cdn.dazn.com/dashdrm/dazn-linear-059/stream.mpd
 
+#EXTINF:-1 tvg-logo="https://i.ibb.co/hgVx5GL/Bein-1.png" group-title="Football (only can play with ott player)", BeIN Sports 1 AIS
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=3fd52d1e9ba4b180aec12c9295b62c0f:bb274e33da0c709e62c55d0cba911889
+https://ais-s.ais-vidnt.com/ais/play/origin/live/eds/S0001/DASH/S0001.mpd
+ 
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Lpk9gnv/Bein-2.png" group-title="Football (only can play with ott player)", BeIN Sports 2 AIS
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=30c11587a1686b72f115f34b0bf1c383:1e3a6af2408cdd78347b722728560c3b
+https://ais-s.ais-vidnt.com/ais/play/origin/live/eds/S0002/DASH/S0002.mpd
+ 
+#EXTINF:-1 tvg-logo="https://i.ibb.co/kQvKn0B/Bein-3.png" group-title="Football (only can play with ott player)", BeIN Sports 3 AIS
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=aa724943787320593f5563048c90032d:a039276254f53769b040199a4eca8c2c
+https://ais-s.ais-vidnt.com/ais/play/origin/live/eds/S0003/DASH/S0003.mpd
 
 
-#EXTINF:-1 tvg-logo="https://logos-world.net/wp-content/uploads/2023/06/USA-Network-Logo.png" group-title="Sport", USA Network (great)
-http://tv.greatstar.me/play/live.php?mac=00:1a:79:a7:8d:94&stream=45466&extension=m3u8
-#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/tt/true-premiere-football-hd-1-th.png" group-title="Sport", True EPL1 (ctrl)
-https://ctrl.laotv.la/live/TSport1/index.m3u8
-#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/tt/true-premiere-football-hd-2-th.png" group-title="Sport", True EPL2 (ctrl)
-https://ctrl.laotv.la/live/TSport2/index.m3u8
-#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ss/star-sports-select-hd1-hk-in.png" group-title="Sport", Star Sport Select 1 (103) sd
-http://103.120.172.74:1030
-#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ss/star-sports-select-hd2-hk-in.png" group-title="Sport", Star Sport Select 2 (103) sd
-http://103.120.172.74:4700
-#EXTINF:-1 group-title="Sport" tvg-logo="https://www.lyngsat.com/logo/tv/aa/arena-premium-1-rs.png", Arena Premium 1 (185)
-http://185.6.22.6:8000/play/a03n
-#EXTINF:-1 group-title="Sport" tvg-logo="https://www.lyngsat.com/logo/tv/aa/arena-premium-2-rs.png", Arena Premium 2 (185)
-http://185.6.22.6:8000/play/a04l
-#EXTINF:-1 group-title="Sport" tvg-logo="https://www.lyngsat.com/logo/tv/aa/arena-premium-3-rs.png", Arena Premium 3 (185)
-http://185.6.22.6:8000/play/a04m
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS71EP6wKjOZ-IKwDboEIrWqaQ5a07hWwBpKQ&usqp=CAU" group-title="Sport", V Sport Premier League (cam)
-http://cam.access.ly/play/live.php?mac=00:1a:79:b4:af:19&stream=1001371&extension=m3u8
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS71EP6wKjOZ-IKwDboEIrWqaQ5a07hWwBpKQ&usqp=CAU" group-title="Sport", V Sport Premier 1 |Only Event|
-http://cam.access.ly/play/live.php?mac=00:1a:79:b4:af:19&stream=1001370&extension=m3u8
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS71EP6wKjOZ-IKwDboEIrWqaQ5a07hWwBpKQ&usqp=CAU" group-title="Sport", V Sport Premier 2 |Only Event|
-http://cam.access.ly/play/live.php?mac=00:1a:79:b4:af:19&stream=1001369&extension=m3u8
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS71EP6wKjOZ-IKwDboEIrWqaQ5a07hWwBpKQ&usqp=CAU" group-title="Sport", V Sport Premier 3 |Only Event|
-http://cam.access.ly/play/live.php?mac=00:1a:79:b4:af:19&stream=1001368&extension=m3u8
+
 #EXTINF:-1 tvg-logo="https://www.thesportsdb.com/images/media/channel/tvlogo/5exn7j1631279352.png" group-title="Sport", beIN Sports 1 |need vpn|
 http://carmeltv.live:80/EXCHANGEukmed/QHZ5pjF7UdKx/61168.m3u8?|referer=https://live-streamfootball.com/
 #EXTINF:-1 tvg-logo="https://seeklogo.com/images/B/bein-sports-2-logo-56F85DDE25-seeklogo.com.png" group-title="Sport", beIN Sports 2 |need vpn|
@@ -215,85 +206,12 @@ https://webudit.webhd.ru/lb/premium308/index.m3u8?|referer=weblivehdplay.ru/
 https://webudit.webhd.ru/lb/premium52/index.m3u8?|referer=weblivehdplay.ru/
 
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/hgVx5GL/Bein-1.png" group-title="Football (only can play with ott player)", BeIN Sports 1 AIS
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=3fd52d1e9ba4b180aec12c9295b62c0f:bb274e33da0c709e62c55d0cba911889
-https://ais-s.ais-vidnt.com/ais/play/origin/live/eds/S0001/DASH/S0001.mpd
- 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/Lpk9gnv/Bein-2.png" group-title="Football (only can play with ott player)", BeIN Sports 2 AIS
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=30c11587a1686b72f115f34b0bf1c383:1e3a6af2408cdd78347b722728560c3b
-https://ais-s.ais-vidnt.com/ais/play/origin/live/eds/S0002/DASH/S0002.mpd
- 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/kQvKn0B/Bein-3.png" group-title="Football (only can play with ott player)", BeIN Sports 3 AIS
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=aa724943787320593f5563048c90032d:a039276254f53769b040199a4eca8c2c
-https://ais-s.ais-vidnt.com/ais/play/origin/live/eds/S0003/DASH/S0003.mpd
- 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/VSHfjjc/Bein-4.png" group-title="Football (only can play with ott player)", BeIN Sports 4 AIS
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://license.dstv.com/widevine/getLicense?CrmId=afl&AccountId=afl&ContentId=SH2&SessionId=D3C00F885C24B9C6&Ticket=C839A8D71AB94299
-https://ais-s.ais-vidnt.com/ais/play/origin/live/eds/S0004/DASH/S0004.mpd
- 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/8z92d2F/Bein-5.png" group-title="Football (only can play with ott player)", BeIN Sports 5 AIS
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://license.dstv.com/widevine/getLicense?CrmId=afl&AccountId=afl&ContentId=SH2&SessionId=D3C00F885C24B9C6&Ticket=C839A8D71AB94299
-https://ais-s.ais-vidnt.com/ais/play/origin/live/eds/S0005/DASH/S0005.mpd
- 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/hgVx5GL/Bein-1.png" group-title="Football (only can play with ott player)", BeIN Sports 6 AIS
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://license.dstv.com/widevine/getLicense?CrmId=afl&AccountId=afl&ContentId=SH2&SessionId=D3C00F885C24B9C6&Ticket=C839A8D71AB94299
-https://ais-s.ais-vidnt.com/ais/play/origin/live/eds/S0006/DASH/S0006.mpd
- 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/pK7Y84R/Bein-7.png" group-title="Football (only can play with ott player)", BeIN Sports 7 AIS
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://license.dstv.com/widevine/getLicense?CrmId=afl&AccountId=afl&ContentId=SH2&SessionId=D3C00F885C24B9C6&Ticket=C839A8D71AB94299
-https://ais-s.ais-vidnt.com/ais/play/origin/live/eds/S0007/DASH/S0007.mpd
-
-
 #EXTINF:-1 tvg-logo="https://i.ibb.co/pK7Y84R/Bein-7.png" group-title="Test", Peacock 1
 #EXTVLCOPT:cache=17238
 #EXTVLCOPT:http-user-agent=Lavf53.32.100
 http://m3u.4klion.xyz:80/play/live.php?mac=00:1A:79:78:59:F9&stream=975485&extension=ts
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/pK7Y84R/Bein-7.png" group-title="Test", Sky News
+#EXTVLCOPT:cache=17238
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
 http://m3u.4klion.xyz:80/play/live.php?mac=00:1A:79:78:59:F9&stream=577228&extension=ts
-
-#EXTINF:-1 group-title="Test" tvg-logo="https://i.postimg.cc/tCSRmXdF/Starsportss1.jpg",Star Sports Select 1 HD
-http://103.132.181.118:82/play/a00u
-#EXTINF:-1 group-title="Test" tvg-logo="https://i.postimg.cc/tCSRmXdF/Starsportss1.jpg",Star Sports Select 1 HD
-http://103.132.181.118:82/play/a00l
-#EXTINF:-1 group-title="Test" tvg-logo="https://i.postimg.cc/Kj5HDXGJ/superafricablitz.jpg",SuperSport Blitz
-http://supersonictv.live:8080/419094/970686/86873
-#EXTINF:-1 group-title="Test" tvg-logo="https://i.postimg.cc/sD4M7Tpx/srtijz1643382350.png",SuperSport Cricket
-http://supersonictv.live:8080/419094/970686/86872
-#EXTINF:-1 group-title="Test" tvg-logo="https://i.postimg.cc/TYCxqd6D/7lxofw1656964140.png",SuperSport Football
-http://supersonictv.live:8080/419094/970686/86869
-#EXTINF:-1 group-title="Test" tvg-logo="https://i.postimg.cc/XqmX7PF7/aitip41642604897.png",SuperSport Grandstand
-http://supersonictv.live:8080/419094/970686/86864
-#EXTINF:-1 group-title="Test" tvg-logo="https://i.postimg.cc/KjMxQ8kx/laliga.png",SuperSport LaLiga
-http://supersonictv.live:8080/419094/970686/86861
-#EXTINF:-1 group-title="Test" tvg-logo="https://i.postimg.cc/NG3Htyx8/188vbk1659624662.png",SuperSport Máximo 1
-http://supersonictv.live:8080/419094/970686/86874
-#EXTINF:-1 group-title="Test" tvg-logo="https://i.postimg.cc/G20QHc06/x5ja5w1659624783.png",SuperSport Premier League
-http://supersonictv.live:8080/419094/970686/86880
-#EXTINF:-1 group-title="Test" tvg-logo="https://i.postimg.cc/G20QHc06/x5ja5w1659624783.png",SuperSport Premier League
-http://supersonictv.live:8080/419094/970686/86881
-#EXTINF:-1 group-title="Test" tvg-logo="https://i.postimg.cc/G20QHc06/x5ja5w1659624783.png",SuperSport Premier League
-http://supersonictv.live:8080/419094/970686/86882
-#EXTINF:-1 group-title="Test" tvg-logo="https://i.postimg.cc/G20QHc06/x5ja5w1659624783.png",SuperSport Premier League
-http://supersonictv.live:8080/419094/970686/86883
-#EXTINF:-1 group-title="Test" tvg-logo="https://i.postimg.cc/G20QHc06/x5ja5w1659624783.png",SuperSport Premier League
-http://supersonictv.live:8080/419094/970686/86863
-#EXTINF:-1 group-title="Test" tvg-logo="https://i.postimg.cc/4xmbPKsr/s6b35j1629404341.png",SuperSport PSL
-http://supersonictv.live:8080/419094/970686/86862
-#EXTINF:-1 group-title="Test" tvg-logo="https://i.postimg.cc/44hVMC9S/0lwdq31638048788.png",SuperSport Variety 1
-http://supersonictv.live:8080/419094/970686/86865
-#EXTINF:-1 group-title="Test" tvg-logo="https://i.postimg.cc/0NQJ0hvZ/9vnt801638048828.png",SuperSport Variety 2
-http://supersonictv.live:8080/419094/970686/86866
-#EXTINF:-1 group-title="Test" tvg-logo="https://i.postimg.cc/kgj2GwSS/mh03f41638048848.png",SuperSport Variety 3
-http://supersonictv.live:8080/419094/970686/86867
-#EXTINF:-1 group-title="Test" tvg-logo="https://i.postimg.cc/1XctQKPf/jz5jpt1638048871.png",SuperSport Variety 4
-http://supersonictv.live:8080/419094/970686/86868
-#EXTINF:-1 group-title="Test" tvg-logo="https://i.postimg.cc/fTcTFsf5/WWE-and-SS.jpg",SuperSport WWE
-http://supersonictv.live:8080/419094/970686/86878
