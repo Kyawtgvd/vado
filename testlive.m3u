@@ -215,3 +215,19 @@ http://m3u.4klion.xyz:80/play/live.php?mac=00:1A:79:78:59:F9&stream=975485&exten
 #EXTVLCOPT:cache=17238
 #EXTVLCOPT:http-user-agent=Lavf53.32.100
 http://m3u.4klion.xyz:80/play/live.php?mac=00:1A:79:78:59:F9&stream=577228&extension=ts
+
+#EXTINF:-1 tvg-logo="https://cdn.e-konomista.pt/uploads/2019/07/sport-tv-lanca-canal-gratuito-850x514.jpg" group-title="Test", Sport TV 1 
+#EXTVLCOPT:cache=17238
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://m3u.4klion.xyz:80/play/live.php?mac=00:1A:79:78:59:F9&stream=250585&extension=ts
+
+#EXTINF:-1 tvg-logo="https://cdn.e-konomista.pt/uploads/2019/07/sport-tv-lanca-canal-gratuito-850x514.jpg" group-title="Test", Sport TV 2 
+#EXTVLCOPT:cache=17238
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://m3u.4klion.xyz:80/play/live.php?mac=00:1A:79:78:59:F9&stream=250584&extension=ts
+
+#EXTINF:-1 tvg-logo="https://cdn.e-konomista.pt/uploads/2019/07/sport-tv-lanca-canal-gratuito-850x514.jpg" group-title="Test", Sport TV 3 
+#EXTVLCOPT:cache=17238
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://m3u.4klion.xyz:80/play/live.php?mac=00:1A:79:78:59:F9&stream=250583&extension=ts
+
