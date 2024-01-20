@@ -137,6 +137,14 @@ http://tv.greatstar.me/play/live.php?mac=00:1a:79:a7:8d:94&stream=79485&extensio
 http://tv.greatstar.me/play/live.php?mac=00:1a:79:a7:8d:94&stream=79484&extension=m3u8
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/tt/tnt-sports-4-uk.png" group-title="EPL/UCL Special (no vpn)", TNT Sports 4 (great)
 http://tv.greatstar.me/play/live.php?mac=00:1a:79:a7:8d:94&stream=1002857&extension=m3u8
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/oo/orange-sport-ro.png" group-title="EPL/UCL Special (no vpn)", Orange Sport 1 (backup)
+http://backup.xp1.tv:80/play/live.php?mac=00:1A:79:C0:17:5D&stream=38422_&extension=ts
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/oo/orange-sport-ro.png" group-title="EPL/UCL Special (no vpn)", Orange Sport 2 (backup)
+http://backup.xp1.tv:80/play/live.php?mac=00:1A:79:C0:17:5D&stream=65476_&extension=ts
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/oo/orange-sport-ro.png" group-title="EPL/UCL Special (no vpn)", Orange Sport 3 (backup)
+http://backup.xp1.tv:80/play/live.php?mac=00:1A:79:C0:17:5D&stream=38424_&extension=ts
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/oo/orange-sport-ro.png" group-title="EPL/UCL Special (no vpn)", Orange Sport 4 (backup)
+http://backup.xp1.tv:80/play/live.php?mac=00:1A:79:C0:17:5D&stream=38425_&extension=ts
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/tt/tnt-sports-1-uk.png" group-title="EPL/UCL Special (no vpn)", TNT Sports 1 (kusna)
 https://kusnadipepenk.github.io/ntn/bt1.m3u8
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/tt/tnt-sports-2-uk.png" group-title="EPL/UCL Special (no vpn)", TNT Sports 2 (kusna)
