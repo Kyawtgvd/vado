@@ -48,6 +48,40 @@ https://dce-ak-livewwdazn.akamaized.net/dashdrm/dazn-linear-017/stream.mpd
 #EXTINF:-1 group-title="Football (only can play with ott player)" tvg-logo="https://www.lyngsat.com/logo/tv/dd/dazn-de.png", Dazn De 2
 https://dce-ak-livewwdazn.akamaized.net/dashdrm/dazn-linear-018/stream.mpd
 
+#EXTINF:-1 group-title="Football (only can play with ott player)" tvg-logo="https://i.ibb.co/j60Nb0p/DAZN-sports-modified.png", DAZN LA LIGA
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=82f8e2a17dac44c0a18f660479349c59:1b144f73e6fefe91cd05f850e2b589d0
+https://dce-fs-live-dazn-cdn.dazn.com/dashdrm/dazn-linear-043/stream.mpd
+
+#EXTINF:-1 group-title="Football (only can play with ott player)" tvg-logo="https://i.ibb.co/j60Nb0p/DAZN-sports-modified.png", DAZN Bein Sports 1
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=82f8e2a17dac44c0a18f660479349c59:1b144f73e6fefe91cd05f850e2b589d0
+https://dce-fs-live-dazn-cdn.dazn.com/dashdrm/dazn-linear-039/stream.mpd
+
+#EXTINF:-1 group-title="Football (only can play with ott player)" tvg-logo="https://i.ibb.co/j60Nb0p/DAZN-sports-modified.png", DAZN Bein Sports 2
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=82f8e2a17dac44c0a18f660479349c59:1b144f73e6fefe91cd05f850e2b589d0
+https://dce-fs-live-dazn-cdn.dazn.com/dashdrm/dazn-linear-040/stream.mpd
+
+#EXTINF:-1 group-title="Football (only can play with ott player)" tvg-logo="https://i.ibb.co/j60Nb0p/DAZN-sports-modified.png", DAZN Bein Sports 3
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=82f8e2a17dac44c0a18f660479349c59:1b144f73e6fefe91cd05f850e2b589d0
+https://dce-fs-live-dazn-cdn.dazn.com/dashdrm/dazn-linear-041/stream.mpd
+
+#EXTINF:-1 group-title="Football (only can play with ott player)" tvg-logo="https://i.ibb.co/j60Nb0p/DAZN-sports-modified.png", DAZN Bein Sports 4
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=82f8e2a17dac44c0a18f660479349c59:1b144f73e6fefe91cd05f850e2b589d0
+https://dce-fs-live-dazn-cdn.dazn.com/dashdrm/dazn-linear-042/stream.mpd
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/FKJSmmjF/vsportfootball.png" group-title="Football (only can play with ott player)", V SPORT FOOTBALL
+https://cd-stream-live.telenorcdn.net/cdgo/cdgo_viasat_fotboll_live/cdgo_viasat_fotboll_live.isml/playlist.mpd
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/nhXjYZSK/vsportpremium.png" group-title="Football (only can play with ott player)", V SPORT PREMIUM
+https://cd-stream-live.telenorcdn.net/cdgo/cdgo_viasat_sport_premium_live/cdgo_viasat_sport_premium_live.isml/playlist.mpd
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/x1N8N5qt/vsportextra.png" group-title="Football (only can play with ott player)", V SPORT EXTRA
+https://cd-stream-live.telenorcdn.net/cdgo/cd_tsat_viasat_sport_extra_se_hd_live/cd_tsat_viasat_sport_extra_se_hd_live.isml/playlist.mpd
+
 
 
 #EXTINF:-1 tvg-logo="https://www.thesportsdb.com/images/media/channel/tvlogo/5exn7j1631279352.png" group-title="Sport", beIN Sports 1 |need vpn|
