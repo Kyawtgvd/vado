@@ -210,6 +210,10 @@ https://kusnadipepenk.github.io/ntn/elesp1.m3u8
 https://kusnadipepenk.github.io/ntn/elesp2.m3u8
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ee/eleven-sports-network-uk.png" group-title="Football/Sport", Eleven Sports 3 (kusna)
 https://kusnadipepenk.github.io/ntn/elesp3.m3u8
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/tt/telemundo-mx.png" group-title="Football/Sport", TELEMUNDO (168)
+http://168.227.22.18:1935/live/mobile-040/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/nn/nbc-universo-este-us.svg" group-title="Football/Sport", UNIVERSO (168)
+http://168.227.22.18:1935/live/mobile-065/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/aa/astro-supersport-my.png" group-title="Football/Sport", Astro Supersport 1 (kusna)
 https://kusnadipepenk.github.io/ntn/asp1.m3u8
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/aa/astro-supersport-2-my.png" group-title="Football/Sport", Astro Supersport 2 (kusna)
@@ -218,6 +222,8 @@ https://kusnadipepenk.github.io/ntn/asp2.m3u8
 https://kusnadipepenk.github.io/ntn/asp3.m3u8
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/aa/astro-supersport-4-my.png" group-title="Football/Sport", Astro Supersport 4 (kusna)
 https://kusnadipepenk.github.io/ntn/asp4.m3u8
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/pp/pptv-hd-36-th.svg" group-title="Football/Sport", PPTV HD 36 (edge)
+https://edge2.laotv.la/live/PPTVHD/index.m3u8
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/tt/true-premiere-football-hd-1-th.png" group-title="Football/Sport", True EPL1 (ctrl)
 https://ctrl.laotv.la/live/TSport1/index.m3u8
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/tt/true-premiere-football-hd-2-th.png" group-title="Football/Sport", True EPL2 (ctrl)
