@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTINF:-1 group-title="Live Soccer Event⭐" tvg-logo="https://png.pngtree.com/png-vector/20221104/ourmid/pngtree-live-football-red-play-button-png-image_6413825.png", Live Match (head) 1
+#EXTINF:-1 group-title="Live Soccer Event⭐" tvg-logo="https://png.pngtree.com/png-vector/20221104/ourmid/pngtree-live-football-red-play-button-png-image_6413825.png", Live Match (head) 1 ⭐ (EPL/UCL big match)
 https://headlinessportsfoot.com/chunklist/hlsch1.m3u8
 #EXTINF:-1 group-title="Live Soccer Event⭐" tvg-logo="https://png.pngtree.com/png-vector/20221104/ourmid/pngtree-live-football-red-play-button-png-image_6413825.png", Live Match (head) 2
 https://headlinessportsfoot.com/chunklist/hlsch2.m3u8
@@ -44,7 +44,7 @@ https://nflarcadia.xyz/hls/s5.m3u8?|Referer=https://techclips.net/
 
 #EXTINF:-1 group-title="Live Soccer Event⭐" tvg-logo="https://png.pngtree.com/png-vector/20221104/ourmid/pngtree-live-football-red-play-button-png-image_6413825.png", Live Match (raino) 1 ⭐ (EPL/UCL big match)
 https://usa.raino.site/hls/stream1.m3u8?|Referer=https://bdnewszh.com/
-#EXTINF:-1 group-title="Live Soccer Event⭐" tvg-logo="https://png.pngtree.com/png-vector/20221104/ourmid/pngtree-live-football-red-play-button-png-image_6413825.png", Live Match (raino) 2
+#EXTINF:-1 group-title="Live Soccer Event⭐" tvg-logo="https://png.pngtree.com/png-vector/20221104/ourmid/pngtree-live-football-red-play-button-png-image_6413825.png", Live Match (raino) 2 ⭐ (EPL/UCL big match)
 https://usa.raino.site/hls/stream2.m3u8?|Referer=https://bdnewszh.com/
 #EXTINF:-1 group-title="Live Soccer Event⭐" tvg-logo="https://png.pngtree.com/png-vector/20221104/ourmid/pngtree-live-football-red-play-button-png-image_6413825.png", Live Match (raino) 3
 https://usa.raino.site/hls/stream3.m3u8?|Referer=https://bdnewszh.com/
@@ -103,8 +103,6 @@ https://edge1.laotv.la/live/TSport1/index.m3u8
 https://edge1.laotv.la/live/TSport2/index.m3u8
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ss/star-sports-select-hd1-hk-in.png" group-title="EPL/UCL Special (no vpn)", Star Sport Select 1 (tuy)
 http://tuyullxt@mag.x-iptv.live/play/live.php?mac=00:1A:79:23:25:61&stream=1114583&extension=ts&play_token=tuyullxt@.ts
-#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ss/star-sports-select-hd1-hk-in.png" group-title="EPL/UCL Special (no vpn)", Star Sport Select 1 (103)
-http://103.132.181.118:82/play/a00u
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ss/star-sports-select-hd2-hk-in.png" group-title="EPL/UCL Special (no vpn)", Star Sport Select 2 (tuy)
 http://tuyullxt@mag.x-iptv.live/play/live.php?mac=00:1A:79:23:25:61&stream=1114584&extension=ts&play_token=tuyullxt@.ts
 #EXTINF:-1 tvg-logo="https://www.nowtv.now.com/media/logo/600-wbg-e.png" group-title="EPL/UCL Special (no vpn)", Now Hk Premier Sport 1 (tuy)
@@ -151,14 +149,6 @@ https://kusnadipepenk.github.io/ntn/bt1.m3u8
 https://kusnadipepenk.github.io/ntn/bt2.m3u8
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/tt/tnt-sports-3-uk.png" group-title="EPL/UCL Special (no vpn)", TNT Sports 3 (kusna)
 https://kusnadipepenk.github.io/ntn/bt3.m3u8
-#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/aa/astro-supersport-my.png" group-title="EPL/UCL Special (no vpn)", Astro Supersport 1 (kusna)
-https://kusnadipepenk.github.io/ntn/asp1.m3u8
-#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/aa/astro-supersport-2-my.png" group-title="EPL/UCL Special (no vpn)", Astro Supersport 2 (kusna)
-https://kusnadipepenk.github.io/ntn/asp2.m3u8
-#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/aa/astro-supersport-3-my.png" group-title="EPL/UCL Special (no vpn)", Astro Supersport 3 (kusna)
-https://kusnadipepenk.github.io/ntn/asp3.m3u8
-#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/aa/astro-supersport-4-my.png" group-title="EPL/UCL Special (no vpn)", Astro Supersport 4 (kusna)
-https://kusnadipepenk.github.io/ntn/asp4.m3u8
 #EXTINF:-1 tvg-logo="https://www.thesportsdb.com/images/media/channel/tvlogo/5exn7j1631279352.png" group-title="EPL/UCL Special (no vpn)", beIN Sports 1 (kusna)
 https://kusnadipepenk.github.io/ntn/bs1.m3u8
 #EXTINF:-1 tvg-logo="https://seeklogo.com/images/B/bein-sports-2-logo-56F85DDE25-seeklogo.com.png" group-title="EPL/UCL Special (no vpn)", beIN Sports 2 (kusna)
@@ -198,12 +188,6 @@ https://kusnadipepenk.github.io/ntn/sprtv1.m3u8
 https://kusnadipepenk.github.io/ntn/sprtv2.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.e-konomista.pt/uploads/2019/07/sport-tv-lanca-canal-gratuito-850x514.jpg" group-title="Football/Sport", Sport TV 3 (kusna)
 https://kusnadipepenk.github.io/ntn/sprtv3.m3u8
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRlAwdx48QPEiQHrHIz-7t8P35X9cJZrvsxjQ&usqp=CAU" group-title="Football/Sport", Sport TV 1 (webudit)
-https://01-24.webhd.ru/ddy4/premium49/tracks-v1a1/mono.m3u8?|referer=weblivehdplay.ru/
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRlAwdx48QPEiQHrHIz-7t8P35X9cJZrvsxjQ&usqp=CAU" group-title="Football/Sport", Sport TV 2 (webudit)
-https://01-24.webhd.ru/ddy5/cdn/premium74/tracks-v1a1/mono.m3u8?|referer=weblivehdplay.ru/
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRlAwdx48QPEiQHrHIz-7t8P35X9cJZrvsxjQ&usqp=CAU" group-title="Football/Sport", Sport TV 3 (webudit)
-https://01-24.webhd.ru/ddy5/cdn/premium454/tracks-v1a1/mono.m3u8?|referer=weblivehdplay.ru/
 #EXTINF:-1 tvg-logo="https://cdn.e-konomista.pt/uploads/2019/07/sport-tv-lanca-canal-gratuito-850x514.jpg" group-title="Football/Sport", Sport TV 1 (cam)
 http://cam.access.ly/play/live.php?mac=00:1a:79:b4:af:19&stream=107436&extension=m3u8
 #EXTINF:-1 tvg-logo="https://cdn.e-konomista.pt/uploads/2019/07/sport-tv-lanca-canal-gratuito-850x514.jpg" group-title="Football/Sport", Sport TV 2 (cam)
@@ -226,6 +210,14 @@ https://kusnadipepenk.github.io/ntn/elesp1.m3u8
 https://kusnadipepenk.github.io/ntn/elesp2.m3u8
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ee/eleven-sports-network-uk.png" group-title="Football/Sport", Eleven Sports 3 (kusna)
 https://kusnadipepenk.github.io/ntn/elesp3.m3u8
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/aa/astro-supersport-my.png" group-title="Football/Sport", Astro Supersport 1 (kusna)
+https://kusnadipepenk.github.io/ntn/asp1.m3u8
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/aa/astro-supersport-2-my.png" group-title="Football/Sport", Astro Supersport 2 (kusna)
+https://kusnadipepenk.github.io/ntn/asp2.m3u8
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/aa/astro-supersport-3-my.png" group-title="Football/Sport", Astro Supersport 3 (kusna)
+https://kusnadipepenk.github.io/ntn/asp3.m3u8
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/aa/astro-supersport-4-my.png" group-title="Football/Sport", Astro Supersport 4 (kusna)
+https://kusnadipepenk.github.io/ntn/asp4.m3u8
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/tt/true-premiere-football-hd-1-th.png" group-title="Football/Sport", True EPL1 (ctrl)
 https://ctrl.laotv.la/live/TSport1/index.m3u8
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/tt/true-premiere-football-hd-2-th.png" group-title="Football/Sport", True EPL2 (ctrl)
@@ -288,8 +280,6 @@ http://supersonictv.live:8080/419094/970686/86866
 http://supersonictv.live:8080/419094/970686/86867
 #EXTINF:-1 group-title="Football/Sport" tvg-logo="https://i.postimg.cc/1XctQKPf/jz5jpt1638048871.png", SuperSport Variety 4 (sonic)
 http://supersonictv.live:8080/419094/970686/86868
-#EXTINF:-1 group-title="Football/Sport" tvg-logo="https://i.postimg.cc/fTcTFsf5/WWE-and-SS.jpg", SuperSport WWE (sonic)
-http://supersonictv.live:8080/419094/970686/86878
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/mm/mahar_bawdi_tv_mm.png" group-title="Myanmar Channel", Maharbawdi 
 https://ppradio.b-cdn.net/LiveApp/streams/rHEBIW7pjQLU1677679374164.m3u8
@@ -317,43 +307,6 @@ http://203.81.84.130/hls/mwd_document/index.m3u8
 http://203.81.84.130/hls/mwd_family/index.m3u8
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ss/sky_net_music.png" group-title="Myanmar Channel", Myanmar Music
 https://l1-xl1.myanmarnet.com/relay/music/ch1/stream_hi/index.m3u8
-#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ss/sky_net_international_drama.png" group-title="Myanmar Channel", Sky Net Series 
-http://bananatv.org:25461/play/wVoZP52jvqdylF92agMAl1iKdlWHTCKMTuf2MEY6mb4/ts
-#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/cc/canal-plus-susann-myanmar-fr-mm.png" group-title="Myanmar Channel", C+ SuSan
-http://bananatv.org:25461/play/wVoZP52jvqdylF92agMAlys5DTRyg6wmoWUu0jV0uRU/ts
-#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/cc/canal-plus-maemadi-myanmar-fr-mm.png" group-title="Myanmar Channel", C+ MalMadi
-http://bananatv.org:25461/play/wVoZP52jvqdylF92agMAl95YzKMRRRsAABP-w2ZbLVA/ts
-#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/cc/canal-plus-action-myanmar-fr-mm.png" group-title="Myanmar Channel", C+ Action
-http://bananatv.org:25461/play/wVoZP52jvqdylF92agMAl9jC-hV6VBsnSV8EGVu1C3M/ts
-#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/cc/canal-plus-zatlenn-myanmar-fr-mm.png" group-title="Myanmar Channel", C+ ZatLan
-http://bananatv.org:25461/play/wVoZP52jvqdylF92agMAl7ftiFcxDQJkA9BjfzPKNc0/ts
-
-#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/hh/hits_tv_sg.png" group-title="International Channel", Hits (M-sub)
-http://bananatv.org:25461/play/wVoZP52jvqdylF92agMAl0LwRzb0a57Zk19e8HtvDZg/ts
-#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/hh/hits-movies-sg.png" group-title="International Channel", Hits Movies (M-sub)
-http://bananatv.org:25461/play/wVoZP52jvqdylF92agMAlyNzciCVxOC9znorhDgImy4/ts
-#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/cc/celestial-classic-movies-hk.png" group-title="International Channel", Celestial Classic Movie (M-sub)
-http://bananatv.org:25461/play/wVoZP52jvqdylF92agMAl2E_WuNa1YtP3ULw8BlAxII/ts
-#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ss/sky_net_asian_movies.png" group-title="International Channel", Asian Movies (M-Sub)
-http://bananatv.org:25461/play/wVoZP52jvqdylF92agMAl2T8pJEukxqbsLpfs0WONrY/ts
-#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/kk/kix-hk.png" group-title="International Channel", Kix (M-sub)
-http://bananatv.org:25461/play/wVoZP52jvqdylF92agMAlzS4zClO-WI6KmJ3Eb6s374/ts
-#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/aa/animal-planet-us.svg" group-title="International Channel", Animal Planet (M-Sub)
-http://bananatv.org:25461/play/wVoZP52jvqdylF92agMAlzGKxHjw_r8Dr_20jP-cw5I/ts
-#EXTINF:-1 tvg-logo="https://cdn.hqth.me/logo/thumbs/203.png" group-title="International Channel", Animal Planet
-http://ctrl.laotv.la/live/AnimalPlanet/index.m3u8
-#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ll/love_nature_ca.png" group-title="International Channel", Love Nature (M-Sub)
-http://bananatv.org:25461/play/wVoZP52jvqdylF92agMAlyQ-QyxNMV1AWJBwD9mOyWM/ts
-#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ll/love_nature_ca.png" group-title="International Channel", Love Nature
-https://d18dyiwu97wm6q.cloudfront.net/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://cdn.hqth.me/logo/thumbs/204.png" group-title="International Channel", Discovery Channel (M-sub)
-https://ctrl.laotv.la/live/Discovery/index.m3u8
-#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/dd/discovery-channel-east-us.png" group-title="International Channel", Discovery Asia (M-Sub)
-http://bananatv.org:25461/play/wVoZP52jvqdylF92agMAlz0FoUBz2wk3bMPyEl7JrYM/ts
-#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/aa/animax_asia.png" group-title="International Channel", Animax
-http://bananatv.org:25461/play/wVoZP52jvqdylF92agMAl0Xs6pnPcqI1nSbOp3leTTU/ts
-#EXTINF:-1 tvg-logo="https://d1i01wkzwiao45.cloudfront.net/wp-content/uploads/2018/08/Aniplus-Logo-News-Black_RE.jpg" group-title="International Channel", Aniplus
-https://code.vthanhtivi.pw/getlink/eazie/241430/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://1000logos.net/wp-content/uploads/2017/06/Logo-UFC.png" group-title="UFC/One Championship/WWE", UFC TV (tuy)
 http://tuyullxt@mag.x-iptv.live/play/live.php?mac=00:1A:79:23:25:61&stream=91949&extension=ts&play_token=tuyullxt@.ts
@@ -379,6 +332,8 @@ http://tuyullxt@mag.x-iptv.live/play/live.php?mac=00:1A:79:23:25:61&stream=92611
 http://carmeltv.live:80/EXCHANGEukmed/QHZ5pjF7UdKx/63286.m3u8?|referer=https://live-streamfootball.com/
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQphdriWvva9QGx9USxtalK4EuPNIPHMqXaJQ&usqp=CAU" group-title="UFC/One Championship/WWE", UFC Fight Pass (carmel) |need vpn|
 http://carmeltv.live:80/EXCHANGEukmed/QHZ5pjF7UdKx/63285.m3u8?|referer=https://live-streamfootball.com/
+#EXTINF:-1 group-title="UFC/One Championship/WWE" tvg-logo="https://i.postimg.cc/fTcTFsf5/WWE-and-SS.jpg", SuperSport WWE (sonic)
+http://supersonictv.live:8080/419094/970686/86878
 
 
 
@@ -446,6 +401,31 @@ https://ais-s.ais-vidnt.com/ais/play/origin/live/eds/S0002/DASH/S0002.mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=aa724943787320593f5563048c90032d:a039276254f53769b040199a4eca8c2c
 https://ais-s.ais-vidnt.com/ais/play/origin/live/eds/S0003/DASH/S0003.mpd
+
+#EXTINF:-1 group-title="Football (only can play with ott player)⭐⭐" tvg-logo="https://i.ibb.co/j60Nb0p/DAZN-sports-modified.png", DAZN La Liga
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=82f8e2a17dac44c0a18f660479349c59:1b144f73e6fefe91cd05f850e2b589d0
+https://dce-fs-live-dazn-cdn.dazn.com/dashdrm/dazn-linear-043/stream.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=82f8e2a17dac44c0a18f660479349c59:1b144f73e6fefe91cd05f850e2b589d0
+#EXTINF:-1 group-title="Football (only can play with ott player)⭐⭐" tvg-logo="https://www.lyngsat.com/logo/tv/ee/eleven-on-dazn-pro-league-1-uk.png", DAZN Eleven
+https://dce-fs-live-dazn-cdn.dazn.com/dashdrm/dazn-linear-049/stream.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=82f8e2a17dac44c0a18f660479349c59:1b144f73e6fefe91cd05f850e2b589d0
+#EXTINF:-1 group-title="Football (only can play with ott player)⭐⭐" tvg-logo="https://d1sgwhnao7452x.cloudfront.net/dazn-og.jpg", DAZN UK
+https://dce-ak-livewwdazn.akamaized.net/dashdrm/dazn-linear-045/stream.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=82f8e2a17dac44c0a18f660479349c59:1b144f73e6fefe91cd05f850e2b589d0
+#EXTINF:-1 group-title="Football (only can play with ott player)⭐⭐" tvg-logo="https://www.lyngsat.com/logo/tv/dd/dazn-de.png", DAZN De 1
+https://dce-ak-livewwdazn.akamaized.net/dashdrm/dazn-linear-017/stream.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=82f8e2a17dac44c0a18f660479349c59:1b144f73e6fefe91cd05f850e2b589d0
+#EXTINF:-1 group-title="Football (only can play with ott player)⭐⭐" tvg-logo="https://www.lyngsat.com/logo/tv/dd/dazn-de.png", DAZN De 2
+https://dce-ak-livewwdazn.akamaized.net/dashdrm/dazn-linear-018/stream.mpd
 
 
 
