@@ -154,6 +154,10 @@ https://kusnadipepenk.github.io/ntn/bt1.m3u8
 https://kusnadipepenk.github.io/ntn/bt2.m3u8
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/tt/tnt-sports-3-uk.png" group-title="EPL/UCL Special (no vpn)", TNT Sports 3 (kusna)
 https://kusnadipepenk.github.io/ntn/bt3.m3u8
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/bb/bein-sports-1-qa-fr.png" group-title="EPL/UCL Special (no vpn)", BEIN SPORT 1 THAI (ctrl)
+https://ctrl.laotv.la/live/Bsport1/index.m3u8
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/bb/bein-sports-2-qa.png" group-title="EPL/UCL Special (no vpn)", BEIN SPORT 2 THAI (ctrl)
+https://ctrl.laotv.la/live/Bsport2/index.m3u8
 #EXTINF:-1 tvg-logo="https://www.thesportsdb.com/images/media/channel/tvlogo/5exn7j1631279352.png" group-title="EPL/UCL Special (no vpn)", beIN Sports 1 (kusna)
 https://kusnadipepenk.github.io/ntn/bs1.m3u8
 #EXTINF:-1 tvg-logo="https://seeklogo.com/images/B/bein-sports-2-logo-56F85DDE25-seeklogo.com.png" group-title="EPL/UCL Special (no vpn)", beIN Sports 2 (kusna)
@@ -166,6 +170,14 @@ http://tv.greatstar.me/play/live.php?mac=00:1a:79:a7:8d:94&stream=79485&extensio
 http://tv.greatstar.me/play/live.php?mac=00:1a:79:a7:8d:94&stream=79484&extension=m3u8
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/tt/tnt-sports-4-uk.png" group-title="EPL/UCL Special (no vpn)", TNT Sports 4 (great)
 http://tv.greatstar.me/play/live.php?mac=00:1a:79:a7:8d:94&stream=1002857&extension=m3u8
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/aa/astro-supersport-my.png" group-title="EPL/UCL Special (no vpn)", Astro Supersport 1 (kusna)
+https://kusnadipepenk.github.io/ntn/asp1.m3u8
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/aa/astro-supersport-2-my.png" group-title="EPL/UCL Special (no vpn)", Astro Supersport 2 (kusna)
+https://kusnadipepenk.github.io/ntn/asp2.m3u8
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/aa/astro-supersport-3-my.png" group-title="EPL/UCL Special (no vpn)", Astro Supersport 3 (kusna)
+https://kusnadipepenk.github.io/ntn/asp3.m3u8
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/aa/astro-supersport-4-my.png" group-title="EPL/UCL Special (no vpn)", Astro Supersport 4 (kusna)
+https://kusnadipepenk.github.io/ntn/asp4.m3u8
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/pp/polsat-sport-premium-1-pl.png" group-title="EPL/UCL Special (no vpn)", Polsat Sport Premium 1 (cam)
 http://cam.access.ly/play/live.php?mac=00:1a:79:b4:af:19&stream=880467&extension=m3u8
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/pp/polsat-sport-premium-2-pl.png" group-title="EPL/UCL Special (no vpn)", Polsat Sport Premium 2 (cam)
@@ -217,14 +229,6 @@ https://dai.google.com/linear/hls/event/BCOFZq1JQjq12fmaO6lAAA/master.m3u8
 https://dai.google.com/linear/hls/event/smYybI_JToWaHzwoxSE9qA/master.m3u8
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ss/sony-sports-ten-5-in.png" group-title="Football/Sport", Sony Ten Sport 5 (dai)
 https://dai.google.com/linear/hls/event/r-eLp41YTHWTagvQSXFtAQ/master.m3u8
-#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/aa/astro-supersport-my.png" group-title="Football/Sport", Astro Supersport 1 (kusna)
-https://kusnadipepenk.github.io/ntn/asp1.m3u8
-#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/aa/astro-supersport-2-my.png" group-title="Football/Sport", Astro Supersport 2 (kusna)
-https://kusnadipepenk.github.io/ntn/asp2.m3u8
-#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/aa/astro-supersport-3-my.png" group-title="Football/Sport", Astro Supersport 3 (kusna)
-https://kusnadipepenk.github.io/ntn/asp3.m3u8
-#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/aa/astro-supersport-4-my.png" group-title="Football/Sport", Astro Supersport 4 (kusna)
-https://kusnadipepenk.github.io/ntn/asp4.m3u8
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ee/eleven-sports-network-uk.png" group-title="Football/Sport", Eleven Sports 1 (kusna)
 https://kusnadipepenk.github.io/ntn/elesp1.m3u8
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ee/eleven-sports-network-uk.png" group-title="Football/Sport", Eleven Sports 2 (kusna)
@@ -241,10 +245,6 @@ http://185.6.22.6:8000/play/a04m
 https://ctrl.laotv.la/live/TSport1/index.m3u8
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/tt/true-premiere-football-hd-2-th.png" group-title="Football/Sport", True EPL2 (ctrl)
 https://ctrl.laotv.la/live/TSport2/index.m3u8
-#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/bb/bein-sports-1-qa-fr.png" group-title="Football/Sport", BEIN SPORT 1 THAI (ctrl)
-https://ctrl.laotv.la/live/Bsport1/index.m3u8
-#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/bb/bein-sports-2-qa.png" group-title="Football/Sport", BEIN SPORT 2 THAI (ctrl)
-https://ctrl.laotv.la/live/Bsport2/index.m3u8
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/pp/polsat-sport-premium-1-pl.png" group-title="Football/Sport", Polsat Sport Premium 1 (cam)
 http://cam.access.ly/play/live.php?mac=00:1a:79:b4:af:19&stream=882094&extension=m3u8
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/pp/polsat-sport-premium-2-pl.png" group-title="Football/Sport", Polsat Sport Premium 2 (cam)
