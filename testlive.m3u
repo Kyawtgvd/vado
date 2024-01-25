@@ -28,70 +28,63 @@ https://dcf-ac-live.cdn.indazn.com/dashdrm/dazn-linear-058/stream.mpd?p=web
 #EXTINF:-1 group-title="Football (only can play with ott player)" tvg-logo="https://tmbroadcast.com/wp-content/uploads/dazn-eleven-sports-logotypes.jpg", Eleven Sports 6
 https://dcf-ac-live.cdn.indazn.com/dashdrm/dazn-linear-059/stream.mpd?p=web
 
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"5Bw6b3UysuOoKNlYASTInQ", "kid":"wYtqpzm+TAt3RgX8+11raA" } ], "type":"temporary" }
-#EXTINF:-1 group-title="Football (only can play with ott player)" tvg-logo="https://iptvboss.xyz/logos/Bosnia/ArenaSport1.bh.png", Arena 1 Premium
-https://webtvstream.bhtelecom.ba/hls6/as_premium1.mpd
+#EXTINF:-1 tvg-logo="https://static.promediateknologi.id/crop/0x412:1080x1132/0x0/webp/photo/p2/130/2024/01/08/IMG_2242-201837175.jpeg" group-title="Football (only can play with ott player)", AFC QATAR 1 
+#KODIPROP:inputstream.adaptive.license_type=clearkey 
+#KODIPROP:inputstream.adaptive.license_key=67617db114014f4c85793b3a23224839:3029635a44a54dc78be8f740728a55f5 
+https://mwmpos03.akamaized.net/out/v1/0484a3feb7684efb9fc80ec56d66d005/manifest.mpd
 
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"5Bw6b3UysuOoKNlYASTInQ", "kid":"wYtqpzm+TAt3RgX8+11raA" } ], "type":"temporary" }
-#EXTINF:-1 group-title="Football (only can play with ott player)" tvg-logo="https://iptvboss.xyz/logos/Bosnia/ArenaSport1.bh.png", Arena 2 Premium
-https://webtvstream.bhtelecom.ba/hls6/as_premium2.mpd
+#EXTINF:-1 tvg-logo="https://static.promediateknologi.id/crop/0x412:1080x1132/0x0/webp/photo/p2/130/2024/01/08/IMG_2242-201837175.jpeg" group-title="Football (only can play with ott player)", AFC QATAR 2
+#KODIPROP:inputstream.adaptive.license_type=clearkey 
+#KODIPROP:inputstream.adaptive.license_key=67617db114014f4c85793b3a23224839:3029635a44a54dc78be8f740728a55f5 
+https://do2ibj89ih8kz.cloudfront.net/out/v1/0484a3feb7684efb9fc80ec56d66d005/manifest.mpd
 
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"5Bw6b3UysuOoKNlYASTInQ", "kid":"wYtqpzm+TAt3RgX8+11raA" } ], "type":"temporary" }
-#EXTINF:-1 group-title="Football (only can play with ott player)" tvg-logo="https://iptvboss.xyz/logos/Bosnia/ArenaSport1.bh.png", Arena 3 Premium
-https://webtvstream.bhtelecom.ba/hls6/as_premium3.mpd
+#EXTINF:-1 tvg-logo="https://static.promediateknologi.id/crop/0x412:1080x1132/0x0/webp/photo/p2/130/2024/01/08/IMG_2242-201837175.jpeg" group-title="Football (only can play with ott player)", AFC QATAR 3
+#KODIPROP:inputstream.adaptive.license_type=clearkey 
+#KODIPROP:inputstream.adaptive.license_key=d31e0ee60e034e228e7f219650c0d6e2:c50c247d5a34c1fbd565ad31886287cb 
+https://do2ibj89ih8kz.cloudfront.net/out/v1/64a59477c5d34afba754e763bb12ac81/manifest.mpd
 
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"5Bw6b3UysuOoKNlYASTInQ", "kid":"wYtqpzm+TAt3RgX8+11raA" } ], "type":"temporary" }
-#EXTINF:-1 group-title="Football (only can play with ott player)" tvg-logo="https://d18qjk21m0yx5q.cloudfront.net/wp-content/uploads/2022/09/EPL.png", Arena Sport Premier League
+#EXTINF:-1 tvg-logo="https://static.promediateknologi.id/crop/0x412:1080x1132/0x0/webp/photo/p2/130/2024/01/08/IMG_2242-201837175.jpeg" group-title="Football (only can play with ott player)", AFC QATAR 4
+#KODIPROP:inputstream.adaptive.license_type=clearkey 
+#KODIPROP:inputstream.adaptive.license_key=d84c325f36814f39bbe59080272b10c3:550727de4c96ef1ecff874905493580f 
+https://ssc1-ak.akamaized.net/out/v1/c696e4819b55414388a1a487e8a45ca1/index.mpd
+
+
+#EXTINF:-1 tvg-logo="https://static.promediateknologi.id/crop/0x412:1080x1132/0x0/webp/photo/p2/130/2024/01/08/IMG_2242-201837175.jpeg" group-title="Football (only can play with ott player)", AFC QATAR 5
+https://liveakgr.alkassdigital.net/hls/live/2097037/Alkass1xtgb/master.m3u8
+
+
+#EXTINF:0 tvg-logo="https://i.ibb.co/VggrTny/liga-inggris.png" group-title="Football (only can play with ott player)", PREMIER LEAGUE​ 1 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 
+#KODIPROP:inputstreamaddon=inputstream.adaptive 
+#KODIPROP:inputstream.adaptive.manifest_type=dash 
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha 
+#KODIPROP:inputstream.adaptive.license_key=https://srtv.my.id/vd/play.php?id=9182&type=drm 
+https://srtv.my.id/vd/play.mpd?id=9182&type=dash
+
+
+#EXTINF:0 tvg-logo="https://i.ibb.co/VggrTny/liga-inggris.png" group-title="Football (only can play with ott player)", PREMIER LEAGUE 2 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 
+#KODIPROP:inputstreamaddon=inputstream.adaptive 
+#KODIPROP:inputstream.adaptive.manifest_type=dash 
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha 
+#KODIPROP:inputstream.adaptive.license_key=https://srtv.my.id/vd/play.php?id=9183&type=drm 
+https://srtv.my.id/vd/play.mpd?id=9183&type=dash 
+
+#EXTINF:0 tvg-logo="https://i.ibb.co/VggrTny/liga-inggris.png" group-title="Football (only can play with ott player)"​, PREMIER LEAGUE 3 
+#KODIPROP:inputstream.adaptive.license_type=clearkey 
+#KODIPROP:inputstream.adaptive.license_key=c18b6aa739be4c0b774605fcfb5d6b68:e41c3a6f7532b2e3a828d9580124c89d 
 https://webtvstream.bhtelecom.ba/hls6/premier_league.mpd
 
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"5Bw6b3UysuOoKNlYASTInQ", "kid":"wYtqpzm+TAt3RgX8+11raA" } ], "type":"temporary" }
-#EXTINF:-1 group-title="Football (only can play with ott player)" tvg-logo="https://iptvboss.xyz/logos/Bosnia/ArenaSport1.bh.png", Arena Sport 1
-https://webtvstream.bhtelecom.ba/hls6/arena1.mpd
 
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"5Bw6b3UysuOoKNlYASTInQ", "kid":"wYtqpzm+TAt3RgX8+11raA" } ], "type":"temporary" }
-#EXTINF:-1 group-title="Football (only can play with ott player)" tvg-logo="https://iptvboss.xyz/logos/Bosnia/Arenasport1x2.bh.png", Arena Sport 1x2
-https://webtvstream.bhtelecom.ba/hls6/arena_1x2.mpd
+#EXTINF:-1 tvg-name="Name N/A" tvg-id="id N/A" group-title="Football (only can play with ott player)" tvg-logo="https://tv.qreatifku.my.id/images/sttv1.png", SPORT TV 1 
+http://backup.xp1.tv:80/play/live.php?mac=00:1A:79:C0:17:5D&stream=864_&extension=ts 
 
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"5Bw6b3UysuOoKNlYASTInQ", "kid":"wYtqpzm+TAt3RgX8+11raA" } ], "type":"temporary" }
-#EXTINF:-1 group-title="Football (only can play with ott player)" tvg-logo="https://iptvboss.xyz/logos/Bosnia/ArenaSport2.bh.png", Arena Sport 2
-https://webtvstream.bhtelecom.ba/hls6/arena2.mpd
+#EXTINF:-1 tvg-name="Name N/A" tvg-id="id N/A" group-title="Football (only can play with ott player)" tvg-logo="https://tv.qreatifku.my.id/images/sttv2.png", SPORT TV 2 
+http://backup.xp1.tv:80/play/live.php?mac=00:1A:79:C0:17:5D&stream=13184_&extension=ts 
 
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"5Bw6b3UysuOoKNlYASTInQ", "kid":"wYtqpzm+TAt3RgX8+11raA" } ], "type":"temporary" }
-#EXTINF:-1 group-title="Football (only can play with ott player)" tvg-logo="https://iptvboss.xyz/logos/Bosnia/ArenaSport3.bh.png", Arena Sport 3
-https://webtvstream.bhtelecom.ba/hls6/arena3.mpd
+#EXTINF:-1 tvg-name="Name N/A" tvg-id="id N/A" group-title="Football (only can play with ott player)" tvg-logo="https://tv.qreatifku.my.id/images/sttv3.png", SPORT TV 3 
+http://backup.xp1.tv:80/play/live.php?mac=00:1A:79:C0:17:5D&stream=862_&extension=ts 
 
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"5Bw6b3UysuOoKNlYASTInQ", "kid":"wYtqpzm+TAt3RgX8+11raA" } ], "type":"temporary" }
-#EXTINF:-1 group-title="Football (only can play with ott player)" tvg-logo="https://iptvboss.xyz/logos/Bosnia/ArenaSport4.bh.png", Arena Sport 4
-https://webtvstream.bhtelecom.ba/hls6/arena4.mpd
-
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"5Bw6b3UysuOoKNlYASTInQ", "kid":"wYtqpzm+TAt3RgX8+11raA" } ], "type":"temporary" }
-#EXTINF:-1 group-title="Football (only can play with ott player)" tvg-logo="https://iptvboss.xyz/logos/Bosnia/ArenaSport5.bh.png", Arena Sport 5
-https://webtvstream.bhtelecom.ba/hls6/arena5.mpd
-
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"5Bw6b3UysuOoKNlYASTInQ", "kid":"wYtqpzm+TAt3RgX8+11raA" } ], "type":"temporary" }
-#EXTINF:-1 group-title="Football (only can play with ott player)" tvg-logo="https://iptvboss.xyz/logos/Bosnia/ArenaSport6.bh.png", Arena Sport 6
-https://webtvstream.bhtelecom.ba/hls6/arena6.mpd
-
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://tataplay.live.ott.irdeto.com/Widevine/getlicense?CrmId=tatasky&AccountId=tatasky&ContentId=400000260&ls_session=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsImtpZCI6ImNvbnRyb2xfc2lnbmluZ19rZXlfcHJvZHVjdGlvbl8xNjkyMjk1MDk4NjMxIn0.eyJzdWIiOiIxMjk3Nzc1ODgyIiwiaXNlIjp0cnVlLCJqdGkiOiI0Y2ViYThmOS1kMjM0LTQ2MmMtYTVmZS05N2NhM2U1ZDlhN2MiLCJhaWQiOiJ0YXRhc2t5IiwiZXhwIjoxNzA2MTMwODExLCJuYW1lIjoidW5kZWZpbmVkIiwiaWF0IjoxNzA2MDQ0NDExLCJlbnQiOlt7ImVwaWQiOiJTdWJzY3JpcHRpb25fQnJvd3Nlcl9TdHJlYW1pbmciLCJiaWQiOiIxMDAwMDAxNTIzIn0seyJlcGlkIjoiU3Vic2NyaXB0aW9uX0Jyb3dzZXJfU3RyZWFtaW5nIiwiYmlkIjoiMTAwMDAwMTAzOCJ9LHsiZXBpZCI6IlN1YnNjcmlwdGlvbl9Ccm93c2VyX1N0cmVhbWluZyIsImJpZCI6IjEwMDAwMDAwMzMifSx7ImVwaWQiOiJTdWJzY3JpcHRpb25fQnJvd3Nlcl9TdHJlYW1pbmciLCJiaWQiOiIxMDAwMDAwMDAyIn0seyJlcGlkIjoiU3Vic2NyaXB0aW9uX0Jyb3dzZXJfU3RyZWFtaW5nIiwiYmlkIjoiMTAwMDAwMTAzNSJ9LHsiZXBpZCI6IlN1YnNjcmlwdGlvbl9Ccm93c2VyX1N0cmVhbWluZyIsImJpZCI6IjEwMDAwMDAwMDEifV0sImNzbW8iOnsibWFzIjoiNiIsImR0IjoidHBtYSIsIm1hc2QiOiIyIn0sImlzcyI6InRwbWFfd2ViIn0.khQ4RB32WfmFm1o5t9T2EvRPK2dcm76YAOKJg2Oc5bo
-#EXTINF:-1 tvg-id="ts246" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-7891-j75vq7k0-v1/imageContent-7891-j75vq7k0-m1.PNG" group-title="Football (only can play with ott player)", Star Sports Select 1 HD
-https://bpprod5linear.akamaized.net/bpk-tv/irdeto_com_Channel_413/output/manifest.mpd
-
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://tataplay.live.ott.irdeto.com/Widevine/getlicense?CrmId=tatasky&AccountId=tatasky&ContentId=400000486&ls_session=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsImtpZCI6ImNvbnRyb2xfc2lnbmluZ19rZXlfcHJvZHVjdGlvbl8xNjkyMjk1MDk4NjMxIn0.eyJzdWIiOiIxMjk3Nzc1ODgyIiwiaXNlIjp0cnVlLCJqdGkiOiI0Y2ViYThmOS1kMjM0LTQ2MmMtYTVmZS05N2NhM2U1ZDlhN2MiLCJhaWQiOiJ0YXRhc2t5IiwiZXhwIjoxNzA2MTMwODExLCJuYW1lIjoidW5kZWZpbmVkIiwiaWF0IjoxNzA2MDQ0NDExLCJlbnQiOlt7ImVwaWQiOiJTdWJzY3JpcHRpb25fQnJvd3Nlcl9TdHJlYW1pbmciLCJiaWQiOiIxMDAwMDAxNTIzIn0seyJlcGlkIjoiU3Vic2NyaXB0aW9uX0Jyb3dzZXJfU3RyZWFtaW5nIiwiYmlkIjoiMTAwMDAwMTAzOCJ9LHsiZXBpZCI6IlN1YnNjcmlwdGlvbl9Ccm93c2VyX1N0cmVhbWluZyIsImJpZCI6IjEwMDAwMDAwMzMifSx7ImVwaWQiOiJTdWJzY3JpcHRpb25fQnJvd3Nlcl9TdHJlYW1pbmciLCJiaWQiOiIxMDAwMDAwMDAyIn0seyJlcGlkIjoiU3Vic2NyaXB0aW9uX0Jyb3dzZXJfU3RyZWFtaW5nIiwiYmlkIjoiMTAwMDAwMTAzNSJ9LHsiZXBpZCI6IlN1YnNjcmlwdGlvbl9Ccm93c2VyX1N0cmVhbWluZyIsImJpZCI6IjEwMDAwMDAwMDEifV0sImNzbW8iOnsibWFzIjoiNiIsImR0IjoidHBtYSIsIm1hc2QiOiIyIn0sImlzcyI6InRwbWFfd2ViIn0.khQ4RB32WfmFm1o5t9T2EvRPK2dcm76YAOKJg2Oc5bo
-#EXTINF:-1 tvg-id="ts463" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11791-j9kyqpy8-v1/imageContent-11791-j9kyqpy8-m1.png" group-title="Football (only can play with ott player)", Star Sports Select 2 HD
-https://bpprod7linear.akamaized.net/bpk-tv/irdeto_com_Channel_729/output/manifest.mpd
 
 
 
