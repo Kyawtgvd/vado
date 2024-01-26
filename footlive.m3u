@@ -454,6 +454,12 @@ https://ppradio.b-cdn.net/LiveApp/streams/w3g3EYjBtqgJ1677679288037.m3u8
 https://ppradio.b-cdn.net/LiveApp/streams/GZ7f8XBrt4dI1677679357590.m3u8
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/cc/channel-k-mm.png" group-title="Myanmar/International", Channel K
 https://l1-xl1.myanmarnet.com/relay/channelk/ch1/stream_hi/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/7Y1VZ6sY/IMG-20231018-104401.png" group-title="Myanmar/International", Channel Me
+https://5a13fe32ef748.streamlock.net/mmplay/mrtv-entertainment/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/num/5-plus-mm.png" group-title="Myanmar/International", 5 Plus
+https://5a13fe32ef748.streamlock.net/mmplay/5plus/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/mm/myanmar-international-tv-mm.png" group-title="Myanmar/International", MITV
+https://5a13fe32ef748.streamlock.net/mmplay/mitv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/mm/mn_tv_mm.png" group-title="Myanmar/International", MNTV
 https://l1-xl1.myanmarnet.com/relay/mntv/ch1/stream.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/GpHqMr4y/IMG-20231018-134533.png" group-title="Myanmar/International", MCS
@@ -466,6 +472,8 @@ http://203.81.84.130/hls/mwd_serie/index.m3u8
 http://203.81.84.130/hls/mwd_document/index.m3u8
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/cc/channel-light-mm.png" group-title="Myanmar/International", CLIGHT
 http://203.81.84.130/hls/mwd_family/index.m3u8
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ss/sky_net_music.png" group-title="Myanmar/International", Myanmar Music
+https://l1-xl1.myanmarnet.com/relay/music/ch1/stream_hi/index.m3u8
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ll/love_nature_ca.png" group-title="Myanmar/International", Love Nature 4k FHD
 http://d18dyiwu97wm6q.cloudfront.net/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ll/love_nature_ca.png" group-title="Myanmar/International", Love Nature 4k UHD
