@@ -158,12 +158,6 @@ https://kusnadipepenk.github.io/ntn/asp4.m3u8
 http://cam.access.ly/play/live.php?mac=00:1a:79:b4:af:19&stream=880467&extension=m3u8
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/pp/polsat-sport-premium-2-pl.png" group-title="EPL/UCL Special (no vpn)", Polsat Sport Premium 2 (cam)
 http://cam.access.ly/play/live.php?mac=00:1a:79:b4:af:19&stream=880466&extension=m3u8
-#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/pp/polsat-sport-premium-1-pl.png" group-title="EPL/UCL Special (no vpn)", Polsat Sport Premium 1 (cdn) HD
-http://cdn-main.lolokoko.tv/polsatsportp1.stream/chunks.m3u8
-#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/pp/polsat-sport-premium-2-pl.png" group-title="EPL/UCL Special (no vpn)", Polsat Sport Premium 2 (cdn) HD
-http://cdn-main.lolokoko.tv/polsatsportp2.stream/chunks.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/Polsat_Sport_Extra_2021_gradient.svg/1200px-Polsat_Sport_Extra_2021_gradient.svg.png" group-title="EPL/UCL Special (no vpn)", Polsat Sport Extra (cdn) HD
-http://cdn-main.lolokoko.tv/polsatsportextra.stream/chunks.m3u8
 
 #EXTINF:-1 tvg-logo="https://cdn.e-konomista.pt/uploads/2019/07/sport-tv-lanca-canal-gratuito-850x514.jpg" group-title="Football/Sport", Sport TV 1 (kusna)
 https://kusnadipepenk.github.io/ntn/sprtv1.m3u8
@@ -203,10 +197,16 @@ http://185.6.22.6:8000/play/a04m
 https://ctrl.laotv.la/live/TSport1/index.m3u8
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/tt/true-premiere-football-hd-2-th.png" group-title="Football/Sport", True EPL2 (ctrl)
 https://ctrl.laotv.la/live/TSport2/index.m3u8
-#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/pp/polsat-sport-premium-1-pl.png" group-title="Football/Sport", Polsat Sport Premium 1 (cam) HD
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/pp/polsat-sport-premium-1-pl.png" group-title="Football/Sport", Polsat Sport Premium 1 (cam)
 http://cam.access.ly/play/live.php?mac=00:1a:79:b4:af:19&stream=882094&extension=m3u8
-#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/pp/polsat-sport-premium-2-pl.png" group-title="Football/Sport", Polsat Sport Premium 2 (cam) HD
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/pp/polsat-sport-premium-2-pl.png" group-title="Football/Sport", Polsat Sport Premium 2 (cam)
 http://cam.access.ly/play/live.php?mac=00:1a:79:b4:af:19&stream=882093&extension=m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/Polsat_Sport_Extra_2021_gradient.svg/1200px-Polsat_Sport_Extra_2021_gradient.svg.png" group-title="Football/Sport", Polsat Sport Extra (cdn)
+http://cdn-main.lolokoko.tv/polsatsportextra.stream/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/pp/polsat-sport-premium-1-pl.png" group-title="Football/Sport", Polsat Sport Premium 1 (cdn)
+http://cdn-main.lolokoko.tv/polsatsportp1.stream/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/pp/polsat-sport-premium-2-pl.png" group-title="Football/Sport", Polsat Sport Premium 2 (cdn)
+http://cdn-main.lolokoko.tv/polsatsportp2.stream/chunks.m3u8
 #EXTINF:-1 group-title="Football/Sport" tvg-logo="https://i.postimg.cc/Kj5HDXGJ/superafricablitz.jpg", SuperSport Blitz (sonic)
 http://supersonictv.live:8080/419094/970686/86873
 #EXTINF:-1 group-title="Football/Sport" tvg-logo="https://i.postimg.cc/sD4M7Tpx/srtijz1643382350.png", SuperSport Cricket (sonic)
@@ -402,7 +402,7 @@ https://srtv.my.id/vd/play.mpd?id=9182&type=dash
 #KODIPROP:inputstream.adaptive.license_key=https://srtv.my.id/vd/play.php?id=9183&type=drm 
 https://srtv.my.id/vd/play.mpd?id=9183&type=dash 
 
-#EXTINF:0 tvg-logo="https://i.ibb.co/VggrTny/liga-inggris.png" group-title="Football (only can play with ott player)⭐⭐"​, PREMIER LEAGUE 3 HD
+#EXTINF:0 tvg-logo="https://i.ibb.co/VggrTny/liga-inggris.png" group-title="Football (only can play with ott player)⭐⭐"​, PREMIER LEAGUE 3
 #KODIPROP:inputstream.adaptive.license_type=clearkey 
 #KODIPROP:inputstream.adaptive.license_key=c18b6aa739be4c0b774605fcfb5d6b68:e41c3a6f7532b2e3a828d9580124c89d 
 https://webtvstream.bhtelecom.ba/hls6/premier_league.mpd
