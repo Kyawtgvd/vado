@@ -331,12 +331,6 @@ http://moviesphere-samsung-samsungus.amagi.tv/playlist1080p.m3u8
 http://ctrl.laotv.la/live/StarMovie/index.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.hqth.me/logo/thumbs/204.png" group-title="Myanmar/International", Discovery Channel (M-sub)
 http://ctrl.laotv.la/live/Discovery/index.m3u8
-#EXTINF:-1 tvg-logo="https://cdn.hqth.me/logo/thumbs/203.png" group-title="Myanmar/International", Animal Planet
-http://ctrl.laotv.la/live/AnimalPlanet/index.m3u8
-
-
-
-
 
 
 
