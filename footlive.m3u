@@ -446,6 +446,12 @@ https://node1.olelive.com:6443/live/CCTV5PHD/hls.m3u8
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/mm/mutv-uk.svg" group-title="Football/Sport", MU TV (bco)
 https://bcovlive-a.akamaihd.net/r2d2c4ca5bf57456fb1d16255c1a535c8/eu-west-1/6058004203001/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/dd/dazn-de.png" group-title="UFC/One Championship/WWE", DAZN Web 1 (tuy)
+http://tuyullxt@mag.x-iptv.live/play/live.php?mac=00:1A:79:23:25:61&stream=920076&extension=ts&play_token=tuyullxt@.ts
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/dd/dazn-de.png" group-title="UFC/One Championship/WWE", DAZN Web 2 (tuy)
+http://tuyullxt@mag.x-iptv.live/play/live.php?mac=00:1A:79:23:25:61&stream=920073&extension=ts&play_token=tuyullxt@.ts
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/dd/dazn-de.png" group-title="UFC/One Championship/WWE", DAZN Web 3 (tuy)
+http://tuyullxt@mag.x-iptv.live/play/live.php?mac=00:1A:79:23:25:61&stream=920070&extension=ts&play_token=tuyullxt@.ts
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/tt/tnt-sports-1-uk.png" group-title="UFC/One Championship/WWE", UFC/One Fight-TNT Sports 1 (kusna)
 https://kusnadipepenk.github.io/ntn/bt1.m3u8
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/tt/tnt-sports-1-uk.png" group-title="UFC/One Championship/WWE", UFC/One Fight-TNT Sports 1 (tuy)
