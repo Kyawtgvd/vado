@@ -410,11 +410,11 @@ http://tv.greatstar.me/play/live.php?mac=00:1a:79:a7:8d:94&stream=1379047&extens
 http://tv.greatstar.me/play/live.php?mac=00:1a:79:a7:8d:94&stream=1032489&extension=m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQvd0gyFOYTDjDF0R7j84MrEHsE_tahjlmgTQ&usqp=CAU" group-title="4K/UHD", Now HK Sports 617 4K (great)
 http://tv.greatstar.me/play/live.php?mac=00:1a:79:a7:8d:94&stream=1032488&extension=m3u8
-#EXTINF:-1 tvg-logo="https://www.digiturk.com.tr/assets/img/dummy/ligtv_10.png" group-title="4K/UHD", Bein Sport 1 4K (4klion)
+#EXTINF:-1 tvg-logo="https://www.thesportsdb.com/images/media/channel/tvlogo/5exn7j1631279352.png" group-title="4K/UHD", Bein Sport 1 4K (4klion)
 http://m3u.4klion.xyz:80/play/live.php?mac=00:1A:79:78:59:F9&stream=958682&extension=ts
-#EXTINF:-1 tvg-logo="https://www.digiturk.com.tr/assets/img/dummy/ligtv_10.png" group-title="4K/UHD", Bein Sport 2 4K (4klion)
+#EXTINF:-1 tvg-logo="https://seeklogo.com/images/B/bein-sports-2-logo-56F85DDE25-seeklogo.com.png" group-title="4K/UHD", Bein Sport 2 4K (4klion)
 http://m3u.4klion.xyz:80/play/live.php?mac=00:1A:79:78:59:F9&stream=958683&extension=ts
-#EXTINF:-1 tvg-logo="https://www.digiturk.com.tr/assets/img/dummy/ligtv_10.png" group-title="4K/UHD", Bein Sport 3 4K (4klion)
+#EXTINF:-1 tvg-logo="https://seeklogo.com/images/B/bein-sports-3-logo-42227D7D66-seeklogo.com.png" group-title="4K/UHD", Bein Sport 3 4K (4klion)
 http://m3u.4klion.xyz:80/play/live.php?mac=00:1A:79:78:59:F9&stream=958684&extension=ts
 #EXTINF:-1 tvg-logo="https://www.thesportsdb.com/images/media/tvlogo/Sky_Sport_UHD.png" group-title="4K/UHD", Sky Sports Main Event UHD (4klion)
 http://m3u.4klion.xyz:80/play/live.php?mac=00:1A:79:78:59:F9&stream=577997&extension=ts
