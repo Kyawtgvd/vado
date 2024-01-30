@@ -627,6 +627,12 @@ http://ctrl.laotv.la/live/StarMovie/index.m3u8
 http://ctrl.laotv.la/live/Discovery/index.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.hqth.me/logo/thumbs/203.png" group-title="Myanmar/International", Animal Planet
 http://ctrl.laotv.la/live/AnimalPlanet/index.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTmWtneL0Mo_oIrwW5tB6jB8eQgf5Fy-8073g&usqp=CAU" group-title="Myanmar/International", K-Movies
+https://bd281c27a16f4a7fb4a88260378e8082.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung_NewMovies/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://image.pngaaa.com/558/2715558-middle.png" group-title="Myanmar/International", K-Drama
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=425
+#EXTINF:-1 tvg-logo="https://www.sonypicturesnetworks.com/images/logos/PIX%20SD.png" group-title="Myanmar/International", Sony PIX
+https://dai.google.com/linear/hls/event/x7rXWd2ERZ2tvyQWPmO1HA/master.m3u8
 
 #EXTINF:-1 tvg-logo="http://zegomovie.com/Uploads/vod/2023-12-22/6585649a9db1d.jpg" group-title="MOVIES", Moscow Mission (2023)
 http://www.zegomovie.com/Videos/MoscowMission23/index.m3u8
