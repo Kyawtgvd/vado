@@ -435,18 +435,18 @@ http://line.gofast-tv.me/play/live.php?mac=00:1a:79:b5:63:3c&stream=1283314&exte
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/7/70/Ziggo_Sport_Logo.jpg" group-title="4K/UHD", Ziggo Sport Voetbal UHD (sharee)
 http://shareext@tv.trexiptv.com/play/live.php?mac=00:1A:79:CB:82:FB&stream=1283314&extension=ts
 
-#EXTINF:-1 tvg-logo="https://cdn.e-konomista.pt/uploads/2019/07/sport-tv-lanca-canal-gratuito-850x514.jpg" group-title="Sport/Football", Sport TV 1 (kusna)
-https://kusnadipepenk.github.io/ntn/sprtv1.m3u8
-#EXTINF:-1 tvg-logo="https://cdn.e-konomista.pt/uploads/2019/07/sport-tv-lanca-canal-gratuito-850x514.jpg" group-title="Sport/Football", Sport TV 2 (kusna)
-https://kusnadipepenk.github.io/ntn/sprtv2.m3u8
-#EXTINF:-1 tvg-logo="https://cdn.e-konomista.pt/uploads/2019/07/sport-tv-lanca-canal-gratuito-850x514.jpg" group-title="Sport/Football", Sport TV 3 (kusna)
-https://kusnadipepenk.github.io/ntn/sprtv3.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRlAwdx48QPEiQHrHIz-7t8P35X9cJZrvsxjQ&usqp=CAU" group-title="Sport/Football", Sport TV 1 (tuy)
 http://tuyullxt@mag.x-iptv.live/play/live.php?mac=00:1A:79:23:25:61&stream=107436&extension=ts&play_token=tuyullxt@.ts
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRlAwdx48QPEiQHrHIz-7t8P35X9cJZrvsxjQ&usqp=CAU" group-title="Sport/Football", Sport TV 2 (tuy)
 http://tuyullxt@mag.x-iptv.live/play/live.php?mac=00:1A:79:23:25:61&stream=107435&extension=ts&play_token=tuyullxt@.ts
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRlAwdx48QPEiQHrHIz-7t8P35X9cJZrvsxjQ&usqp=CAU" group-title="Sport/Football", Sport TV 3 (tuy)
 http://tuyullxt@mag.x-iptv.live/play/live.php?mac=00:1A:79:23:25:61&stream=107434&extension=ts&play_token=tuyullxt@.ts
+#EXTINF:-1 tvg-logo="https://cdn.e-konomista.pt/uploads/2019/07/sport-tv-lanca-canal-gratuito-850x514.jpg" group-title="Sport/Football", Sport TV 1 (kusna)
+https://kusnadipepenk.github.io/ntn/sprtv1.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.e-konomista.pt/uploads/2019/07/sport-tv-lanca-canal-gratuito-850x514.jpg" group-title="Sport/Football", Sport TV 2 (kusna)
+https://kusnadipepenk.github.io/ntn/sprtv2.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.e-konomista.pt/uploads/2019/07/sport-tv-lanca-canal-gratuito-850x514.jpg" group-title="Sport/Football", Sport TV 3 (kusna)
+https://kusnadipepenk.github.io/ntn/sprtv3.m3u8
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ss/sony-sports-ten-1-in.png" group-title="Sport/Football", Sony Ten Sport 1 (dai)
 https://dai.google.com/linear/hls/event/6WhVNGKTRXyu588zZv1Lkg/master.m3u8
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ss/sony-sports-ten-2-in.png" group-title="Sport/Football", Sony Ten Sport 2 (dai)
@@ -473,16 +473,6 @@ http://185.6.22.6:8000/play/a04m
 https://ctrl.laotv.la/live/TSport1/index.m3u8
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/tt/true-premiere-football-hd-2-th.png" group-title="Sport/Football", True EPL2 (ctrl)
 https://ctrl.laotv.la/live/TSport2/index.m3u8
-#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/pp/polsat-sport-premium-1-pl.png" group-title="Sport/Football", Polsat Sport Premium 1 (cam)
-http://cam.access.ly/play/live.php?mac=00:1a:79:b4:af:19&stream=882094&extension=m3u8
-#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/pp/polsat-sport-premium-2-pl.png" group-title="Sport/Football", Polsat Sport Premium 2 (cam)
-http://cam.access.ly/play/live.php?mac=00:1a:79:b4:af:19&stream=882093&extension=m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/Polsat_Sport_Extra_2021_gradient.svg/1200px-Polsat_Sport_Extra_2021_gradient.svg.png" group-title="Sport/Football", Polsat Sport Extra (cdn)
-http://cdn-main.lolokoko.tv/polsatsportextra.stream/chunks.m3u8
-#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/pp/polsat-sport-premium-1-pl.png" group-title="Sport/Football", Polsat Sport Premium 1 (cdn)
-http://cdn-main.lolokoko.tv/polsatsportp1.stream/chunks.m3u8
-#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/pp/polsat-sport-premium-2-pl.png" group-title="Sport/Football", Polsat Sport Premium 2 (cdn)
-http://cdn-main.lolokoko.tv/polsatsportp2.stream/chunks.m3u8
 #EXTINF:-1 group-title="Sport/Football" tvg-logo="https://i.postimg.cc/Kj5HDXGJ/superafricablitz.jpg", SuperSport Blitz (sonic)
 http://supersonictv.live:8080/419094/970686/86873
 #EXTINF:-1 group-title="Sport/Football" tvg-logo="https://i.postimg.cc/sD4M7Tpx/srtijz1643382350.png", SuperSport Cricket (sonic)
@@ -511,20 +501,6 @@ http://supersonictv.live:8080/419094/970686/86868
 http://103.120.172.74:1030
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ss/star-sports-select-hd2-hk-in.png" group-title="Sport/Football", Star Sport Select 2 (103) SD
 http://103.120.172.74:4700
-#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/tt/telemundo-mx.png" group-title="Sport/Football", TELEMUNDO (168) SD
-http://168.227.22.18:1935/live/mobile-040/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://w7.pngwing.com/pngs/978/761/png-transparent-logo-of-nbc-universo-nbc-news-others-miscellaneous-television-text.png" group-title="Sport/Football", UNIVERSO (168) SD
-http://168.227.22.18:1935/live/mobile-065/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://1000logos.net/wp-content/uploads/2021/05/ESPN-logo.png" group-title="Sport/Football", ESPN 1 (168) SD
-http://168.227.22.18:1935/live/mobile-032/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://1000logos.net/wp-content/uploads/2021/05/ESPN-logo.png" group-title="Sport/Football", ESPN 2 (168) SD
-http://168.227.22.18:1935/live/mobile-033/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/FOX_Sports_logo.svg/1280px-FOX_Sports_logo.svg.png" group-title="Sport/Football", FOX SPORTS 1 (168) SD
-http://168.227.22.18:1935/live/mobile-010/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/FOX_Sports_logo.svg/1280px-FOX_Sports_logo.svg.png" group-title="Sport/Football", FOX SPORTS 2 (168) SD
-http://168.227.22.18:1935/live/mobile-031/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/FOX_Sports_logo.svg/1280px-FOX_Sports_logo.svg.png" group-title="Sport/Football", FOX SPORTS 3 (168) SD
-http://168.227.22.18:1935/live/mobile-108/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://mthai.com/app/uploads/2021/01/pptv36hd.png" group-title="Sport/Football", PPTV HD 36 (edge)
 https://edge2.laotv.la/live/PPTVHD/index.m3u8
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/cc/cctv-5-cn.png" group-title="Sport/Football", CCTV5 SPORT (node)
@@ -533,6 +509,14 @@ https://node1.olelive.com:6443/live/CCTV5HD/hls.m3u8
 https://node1.olelive.com:6443/live/CCTV5PHD/hls.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/b8/MUTV_logo.png" group-title="Sport/Football", MU TV (bco)
 https://bcovlive-a.akamaihd.net/r2d2c4ca5bf57456fb1d16255c1a535c8/eu-west-1/6058004203001/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://www.cabletv.com/app/uploads/fifa-plus-logo-small.png" group-title="Sport/Football", FIFA Plus 1 (sam)
+https://i.mjh.nz/SamsungTVPlus/GBBD1100008YW.m3u8
+#EXTINF:-1 tvg-logo="https://www.cabletv.com/app/uploads/fifa-plus-logo-small.png" group-title="Sport/Football", FIFA Plus 2 (sam)
+https://i.mjh.nz/SamsungTVPlus/ITBD1000002HF.m3u8
+#EXTINF:-1 tvg-logo="https://www.cabletv.com/app/uploads/fifa-plus-logo-small.png" group-title="Sport/Football", FIFA Plus 3 (sam)
+https://i.mjh.nz/SamsungTVPlus/ESBC2700009B4.m3u8
+#EXTINF:-1 tvg-logo="https://www.cabletv.com/app/uploads/fifa-plus-logo-small.png" group-title="Sport/Football", FIFA Plus 4 (sam)
+https://i.mjh.nz/SamsungTVPlus/ATBA3300007PT.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/j60Nb0p/DAZN-sports-modified.png" group-title="UFC/One Championship/WWE", DAZN Web 1 (tuy)
 http://tuyullxt@mag.x-iptv.live/play/live.php?mac=00:1A:79:23:25:61&stream=920076&extension=ts&play_token=tuyullxt@.ts
@@ -544,18 +528,12 @@ http://tuyullxt@mag.x-iptv.live/play/live.php?mac=00:1A:79:23:25:61&stream=92007
 https://kusnadipepenk.github.io/ntn/bt1.m3u8
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/tt/tnt-sports-1-uk.png" group-title="UFC/One Championship/WWE", UFC/One Fight-TNT Sports 1 (tuy)
 http://tuyullxt@mag.x-iptv.live/play/live.php?mac=00:1A:79:23:25:61&stream=1261564&extension=ts&play_token=tuyullxt@.ts
-#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/tt/tnt-sports-1-uk.png" group-title="UFC/One Championship/WWE", UFC/One Fight-TNT Sports 1 (backup)
-http://backup.xp1.tv:80/play/live.php?mac=00:1A:79:C0:17:5D&stream=11484_&extension=ts
 #EXTINF:-1 tvg-logo="https://1000logos.net/wp-content/uploads/2017/06/Logo-UFC.png" group-title="UFC/One Championship/WWE", UFC TV (tuy)
 http://tuyullxt@mag.x-iptv.live/play/live.php?mac=00:1A:79:23:25:61&stream=91949&extension=ts&play_token=tuyullxt@.ts
 #EXTINF:-1 tvg-logo="https://1000logos.net/wp-content/uploads/2017/06/Logo-UFC.png" group-title="UFC/One Championship/WWE", UFC TV (sonic)
 http://supersonictv.live:8080/419094/970686/22177
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ5d3XcSIwzdnamgM-dCq1TNF3YcDn9FSb62g&usqp=CAU" group-title="UFC/One Championship/WWE", UFC Network (ads)
-https://stream.ads.ottera.tv/cl/29fmbD4wgol0FelXaMeAw/854x480_550000_3_f.m3u8
 #EXTINF:-1 tvg-logo="https://logowik.com/content/uploads/images/fight-network8280.logowik.com.webp" group-title="UFC/One Championship/WWE", Fight Network (gofast)
 http://line.gofast-tv.me/play/live.php?mac=00:1a:79:b5:63:3c&stream=20581&extension=m3u8
-#EXTINF:-1 tvg-logo="https://logowik.com/content/uploads/images/fight-network8280.logowik.com.webp" group-title="UFC/One Championship/WWE", Fight Network (4klion)
-http://m3u.4klion.xyz:80/play/live.php?mac=00:1A:79:78:59:F9&stream=626847&extension=ts
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRWzjKr-tWWyIiulx7V72rXQf99R5UICu89Iw&usqp=CAU" group-title="UFC/One Championship/WWE", Fight Klub (gofast)
 http://line.gofast-tv.me/play/live.php?mac=00:1a:79:b5:63:3c&stream=880420&extension=m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/Polsat_Sport_Fight_2021_gradient.svg/1200px-Polsat_Sport_Fight_2021_gradient.svg.png" group-title="UFC/One Championship/WWE", Polsat Sport Fight (gofast)
