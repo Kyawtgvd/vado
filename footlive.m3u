@@ -328,6 +328,8 @@ http://tv.greatstar.me/play/live.php?mac=00:1a:79:a7:8d:94&stream=1424311&extens
 http://line.rs6ott.com:80/play/live.php?mac=00:1A:79:73:BF:36&stream=1001371&extension=ts
 #EXTINF:-1 tvg-logo="https://logos-world.net/wp-content/uploads/2023/06/USA-Network-Logo.png" group-title="EPL/UCL Special (no vpn)", USA Network (great)
 http://tv.greatstar.me/play/live.php?mac=00:1a:79:a7:8d:94&stream=45466&extension=m3u8
+#EXTINF:-1 tvg-logo="https://logos-world.net/wp-content/uploads/2023/06/USA-Network-Logo.png" group-title="EPL/UCL Special (no vpn)", USA Network (line)
+http://line.rs6ott.com:80/play/live.php?mac=00:1A:79:73:BF:36&stream=174998&extension=ts
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/tt/tnt-sports-1-uk.png" group-title="EPL/UCL Special (no vpn)", TNT Sports 1 (4klion)
 http://m3u.4klion.xyz:80/play/live.php?mac=00:1A:79:78:59:F9&stream=578001&extension=ts
 #EXTINF:-1 tvg-logo="https://sender.epglogos.de/302x190_w/12181.png" group-title="EPL/UCL Special (no vpn)", Sky Sports Main Event (great)
@@ -348,10 +350,6 @@ https://kusnadipepenk.github.io/ntn/bt1.m3u8
 https://kusnadipepenk.github.io/ntn/bt2.m3u8
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/tt/tnt-sports-3-uk.png" group-title="EPL/UCL Special (no vpn)", TNT Sports 3 (kusna)
 https://kusnadipepenk.github.io/ntn/bt3.m3u8
-#EXTINF:-1 tvg-logo="https://assets.bein.com/mena/sites/3/2015/06/beIN_SPORTS1_ENGLISH_Digital_Mono.png" group-title="EPL/UCL Special (no vpn)", Bein Sports 1 English UHD (iptn)
-http://iptv-tn.com:8080/Restrem@goodserver_telgshjhsrammm/nomorecable.xyz_excsjkskdjkshnage_exchp2.directtv1/62732
-#EXTINF:-1 tvg-logo="https://assets.bein.com/mena/sites/3/2015/06/beIN_SPORTS2_ENGLISH_Digital_Mono.png" group-title="EPL/UCL Special (no vpn)", Bein Sports 2 English UHD (iptn)
-http://iptv-tn.com:8080/Restrem@goodserver_telgshjhsrammm/nomorecable.xyz_excsjkskdjkshnage_exchp2.directtv1/71446
 #EXTINF:-1 tvg-logo="http://rrlogos.ptwo.ch/Picon/PT/elevensports1.png" group-title="EPL/UCL Special (no vpn)", ELEVEN SPORTS 1 (carmel)
 http://carmeltv.live:80/EXCHANGEukmed/QHZ5pjF7UdKx/54556
 #EXTINF:-1 tvg-logo="http://rrlogos.ptwo.ch/Picon/PT/elevensports2.png" group-title="EPL/UCL Special (no vpn)", ELEVEN SPORTS 2 (carmel)
