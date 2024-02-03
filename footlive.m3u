@@ -348,6 +348,10 @@ https://kusnadipepenk.github.io/ntn/bt1.m3u8
 https://kusnadipepenk.github.io/ntn/bt2.m3u8
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/tt/tnt-sports-3-uk.png" group-title="EPL/UCL Special (no vpn)", TNT Sports 3 (kusna)
 https://kusnadipepenk.github.io/ntn/bt3.m3u8
+#EXTINF:-1 tvg-logo="https://assets.bein.com/mena/sites/3/2015/06/beIN_SPORTS1_ENGLISH_Digital_Mono.png" group-title="EPL/UCL Special (no vpn)", Bein Sports 1 English UHD (iptn)
+http://iptv-tn.com:8080/Restrem@goodserver_telgshjhsrammm/nomorecable.xyz_excsjkskdjkshnage_exchp2.directtv1/62732
+#EXTINF:-1 tvg-logo="https://assets.bein.com/mena/sites/3/2015/06/beIN_SPORTS2_ENGLISH_Digital_Mono.png" group-title="EPL/UCL Special (no vpn)", Bein Sports 2 English UHD (iptn)
+http://iptv-tn.com:8080/Restrem@goodserver_telgshjhsrammm/nomorecable.xyz_excsjkskdjkshnage_exchp2.directtv1/71446
 #EXTINF:-1 tvg-logo="http://rrlogos.ptwo.ch/Picon/PT/elevensports1.png" group-title="EPL/UCL Special (no vpn)", ELEVEN SPORTS 1 (carmel)
 http://carmeltv.live:80/EXCHANGEukmed/QHZ5pjF7UdKx/54556
 #EXTINF:-1 tvg-logo="http://rrlogos.ptwo.ch/Picon/PT/elevensports2.png" group-title="EPL/UCL Special (no vpn)", ELEVEN SPORTS 2 (carmel)
