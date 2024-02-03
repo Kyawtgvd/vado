@@ -180,31 +180,6 @@ https://do2ibj89ih8kz.cloudfront.net/out/v1/64a59477c5d34afba754e763bb12ac81/man
 #KODIPROP:inputstream.adaptive.license_key=d84c325f36814f39bbe59080272b10c3:550727de4c96ef1ecff874905493580f 
 https://ssc1-ak.akamaized.net/out/v1/c696e4819b55414388a1a487e8a45ca1/index.mpd
 
-#EXTINF:-1 group-title="Live Soccer Event⭐" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQLEC2mZFaZxtAYHHCl2WF5qknWIEvgXHeL1Q&usqp=CAU", Live Match (sofree) 1 (EPL/UCL big match)
-https://soccer.freesportstime.com/live/stream_1.m3u8
-#EXTINF:-1 group-title="Live Soccer Event⭐" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQLEC2mZFaZxtAYHHCl2WF5qknWIEvgXHeL1Q&usqp=CAU", Live Match (sofree) 2
-https://soccer.freesportstime.com/live/stream_2.m3u8
-#EXTINF:-1 group-title="Live Soccer Event⭐" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQLEC2mZFaZxtAYHHCl2WF5qknWIEvgXHeL1Q&usqp=CAU", Live Match (sofree) 3
-https://soccer.freesportstime.com/live/stream_3.m3u8
-#EXTINF:-1 group-title="Live Soccer Event⭐" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQLEC2mZFaZxtAYHHCl2WF5qknWIEvgXHeL1Q&usqp=CAU", Live Match (sofree) 4
-https://soccer.freesportstime.com/live/stream_4.m3u8
-#EXTINF:-1 group-title="Live Soccer Event⭐" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQLEC2mZFaZxtAYHHCl2WF5qknWIEvgXHeL1Q&usqp=CAU", Live Match (sofree) 5
-https://soccer.freesportstime.com/live/stream_5.m3u8
-#EXTINF:-1 group-title="Live Soccer Event⭐" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQLEC2mZFaZxtAYHHCl2WF5qknWIEvgXHeL1Q&usqp=CAU", Live Match (sofree) 6
-https://soccer.freesportstime.com/live/stream_6.m3u8
-#EXTINF:-1 group-title="Live Soccer Event⭐" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQLEC2mZFaZxtAYHHCl2WF5qknWIEvgXHeL1Q&usqp=CAU", Live Match (sofree) 7
-https://soccer.freesportstime.com/live/stream_7.m3u8
-#EXTINF:-1 group-title="Live Soccer Event⭐" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQLEC2mZFaZxtAYHHCl2WF5qknWIEvgXHeL1Q&usqp=CAU", Live Match (sofree) 8
-https://soccer.freesportstime.com/live/stream_8.m3u8
-#EXTINF:-1 group-title="Live Soccer Event⭐" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQLEC2mZFaZxtAYHHCl2WF5qknWIEvgXHeL1Q&usqp=CAU", Live Match (sofree) 9
-https://soccer.freesportstime.com/live/stream_9.m3u8
-#EXTINF:-1 group-title="Live Soccer Event⭐" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQLEC2mZFaZxtAYHHCl2WF5qknWIEvgXHeL1Q&usqp=CAU", Live Match (sofree) 10
-https://soccer.freesportstime.com/live/stream_10.m3u8
-#EXTINF:-1 group-title="Live Soccer Event⭐" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQLEC2mZFaZxtAYHHCl2WF5qknWIEvgXHeL1Q&usqp=CAU", Live Match (sofree) 11
-https://soccer.freesportstime.com/live/stream_11.m3u8
-#EXTINF:-1 group-title="Live Soccer Event⭐" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQLEC2mZFaZxtAYHHCl2WF5qknWIEvgXHeL1Q&usqp=CAU", Live Match (sofree) 12
-https://soccer.freesportstime.com/live/stream_12.m3u8
-
 #EXTINF:-1 group-title="Live Soccer Event⭐" tvg-logo="https://png.pngtree.com/png-vector/20221104/ourmid/pngtree-live-football-red-play-button-png-image_6413825.png", Live Match (head) 1
 https://headlinessportsfoot.com/chunklist/hlsch1.m3u8
 #EXTINF:-1 group-title="Live Soccer Event⭐" tvg-logo="https://png.pngtree.com/png-vector/20221104/ourmid/pngtree-live-football-red-play-button-png-image_6413825.png", Live Match (head) 2
@@ -280,18 +255,30 @@ https://freehdgames.lol/chunklist/hlsch11.m3u8
 #EXTINF:-1 group-title="Live Soccer Event⭐" tvg-logo="https://png.pngtree.com/png-vector/20221104/ourmid/pngtree-live-football-red-play-button-png-image_6413825.png", Live Match (game) 12
 https://freehdgames.lol/chunklist/hlsch12.m3u8
 
-#EXTINF:-1 group-title="Live Soccer Event⭐" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQLEC2mZFaZxtAYHHCl2WF5qknWIEvgXHeL1Q&usqp=CAU", Live Match (reels) 1
-https://reels2watch.com/hls/s1.m3u8?|Referer=https://techclips.net/
-#EXTINF:-1 group-title="Live Soccer Event⭐" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQLEC2mZFaZxtAYHHCl2WF5qknWIEvgXHeL1Q&usqp=CAU", Live Match (reels) 2 (EPL/UCL big match)
-https://reels2watch.com/hls/s2.m3u8?|Referer=https://techclips.net/
-#EXTINF:-1 group-title="Live Soccer Event⭐" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQLEC2mZFaZxtAYHHCl2WF5qknWIEvgXHeL1Q&usqp=CAU", Live Match (reels) 3
-https://reels2watch.com/hls/s3.m3u8?|Referer=https://techclips.net/
-#EXTINF:-1 group-title="Live Soccer Event⭐" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQLEC2mZFaZxtAYHHCl2WF5qknWIEvgXHeL1Q&usqp=CAU", Live Match (reels) 4
-https://reels2watch.com/hls/s4.m3u8?|Referer=https://techclips.net/
-#EXTINF:-1 group-title="Live Soccer Event⭐" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQLEC2mZFaZxtAYHHCl2WF5qknWIEvgXHeL1Q&usqp=CAU", Live Match (reels) 5
-https://reels2watch.com/hls/s5.m3u8?|Referer=https://techclips.net/
-#EXTINF:-1 group-title="Live Soccer Event⭐" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQLEC2mZFaZxtAYHHCl2WF5qknWIEvgXHeL1Q&usqp=CAU", Live Match (reels) 6
-https://reels2watch.com/hls/s6.m3u8?|Referer=https://techclips.net/
+#EXTINF:-1 group-title="Live Soccer Event⭐" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQLEC2mZFaZxtAYHHCl2WF5qknWIEvgXHeL1Q&usqp=CAU", Live Match (sofree) 1 (EPL/UCL big match)
+https://soccer.freesportstime.com/live/stream_1.m3u8
+#EXTINF:-1 group-title="Live Soccer Event⭐" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQLEC2mZFaZxtAYHHCl2WF5qknWIEvgXHeL1Q&usqp=CAU", Live Match (sofree) 2
+https://soccer.freesportstime.com/live/stream_2.m3u8
+#EXTINF:-1 group-title="Live Soccer Event⭐" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQLEC2mZFaZxtAYHHCl2WF5qknWIEvgXHeL1Q&usqp=CAU", Live Match (sofree) 3
+https://soccer.freesportstime.com/live/stream_3.m3u8
+#EXTINF:-1 group-title="Live Soccer Event⭐" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQLEC2mZFaZxtAYHHCl2WF5qknWIEvgXHeL1Q&usqp=CAU", Live Match (sofree) 4
+https://soccer.freesportstime.com/live/stream_4.m3u8
+#EXTINF:-1 group-title="Live Soccer Event⭐" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQLEC2mZFaZxtAYHHCl2WF5qknWIEvgXHeL1Q&usqp=CAU", Live Match (sofree) 5
+https://soccer.freesportstime.com/live/stream_5.m3u8
+#EXTINF:-1 group-title="Live Soccer Event⭐" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQLEC2mZFaZxtAYHHCl2WF5qknWIEvgXHeL1Q&usqp=CAU", Live Match (sofree) 6
+https://soccer.freesportstime.com/live/stream_6.m3u8
+#EXTINF:-1 group-title="Live Soccer Event⭐" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQLEC2mZFaZxtAYHHCl2WF5qknWIEvgXHeL1Q&usqp=CAU", Live Match (sofree) 7
+https://soccer.freesportstime.com/live/stream_7.m3u8
+#EXTINF:-1 group-title="Live Soccer Event⭐" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQLEC2mZFaZxtAYHHCl2WF5qknWIEvgXHeL1Q&usqp=CAU", Live Match (sofree) 8
+https://soccer.freesportstime.com/live/stream_8.m3u8
+#EXTINF:-1 group-title="Live Soccer Event⭐" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQLEC2mZFaZxtAYHHCl2WF5qknWIEvgXHeL1Q&usqp=CAU", Live Match (sofree) 9
+https://soccer.freesportstime.com/live/stream_9.m3u8
+#EXTINF:-1 group-title="Live Soccer Event⭐" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQLEC2mZFaZxtAYHHCl2WF5qknWIEvgXHeL1Q&usqp=CAU", Live Match (sofree) 10
+https://soccer.freesportstime.com/live/stream_10.m3u8
+#EXTINF:-1 group-title="Live Soccer Event⭐" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQLEC2mZFaZxtAYHHCl2WF5qknWIEvgXHeL1Q&usqp=CAU", Live Match (sofree) 11
+https://soccer.freesportstime.com/live/stream_11.m3u8
+#EXTINF:-1 group-title="Live Soccer Event⭐" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQLEC2mZFaZxtAYHHCl2WF5qknWIEvgXHeL1Q&usqp=CAU", Live Match (sofree) 12
+https://soccer.freesportstime.com/live/stream_12.m3u8
 
 #EXTINF:-1 group-title="Live Soccer Event⭐" tvg-logo="https://png.pngtree.com/png-vector/20221104/ourmid/pngtree-live-football-red-play-button-png-image_6413825.png", Live Match (leading) 1 (EPL/UCL big match)
 https://sportsleading.online/live/stream_1.m3u8
@@ -305,6 +292,19 @@ https://sportsleading.online/live/stream_4.m3u8
 https://sportsleading.online/live/stream_5.m3u8
 #EXTINF:-1 group-title="Live Soccer Event⭐" tvg-logo="https://png.pngtree.com/png-vector/20221104/ourmid/pngtree-live-football-red-play-button-png-image_6413825.png", Live Match (leading) 6
 https://sportsleading.online/live/stream_6.m3u8
+
+#EXTINF:-1 group-title="Live Soccer Event⭐" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQLEC2mZFaZxtAYHHCl2WF5qknWIEvgXHeL1Q&usqp=CAU", Live Match (reels) 1
+https://reels2watch.com/hls/s1.m3u8?|Referer=https://techclips.net/
+#EXTINF:-1 group-title="Live Soccer Event⭐" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQLEC2mZFaZxtAYHHCl2WF5qknWIEvgXHeL1Q&usqp=CAU", Live Match (reels) 2 (EPL/UCL big match)
+https://reels2watch.com/hls/s2.m3u8?|Referer=https://techclips.net/
+#EXTINF:-1 group-title="Live Soccer Event⭐" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQLEC2mZFaZxtAYHHCl2WF5qknWIEvgXHeL1Q&usqp=CAU", Live Match (reels) 3
+https://reels2watch.com/hls/s3.m3u8?|Referer=https://techclips.net/
+#EXTINF:-1 group-title="Live Soccer Event⭐" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQLEC2mZFaZxtAYHHCl2WF5qknWIEvgXHeL1Q&usqp=CAU", Live Match (reels) 4
+https://reels2watch.com/hls/s4.m3u8?|Referer=https://techclips.net/
+#EXTINF:-1 group-title="Live Soccer Event⭐" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQLEC2mZFaZxtAYHHCl2WF5qknWIEvgXHeL1Q&usqp=CAU", Live Match (reels) 5
+https://reels2watch.com/hls/s5.m3u8?|Referer=https://techclips.net/
+#EXTINF:-1 group-title="Live Soccer Event⭐" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQLEC2mZFaZxtAYHHCl2WF5qknWIEvgXHeL1Q&usqp=CAU", Live Match (reels) 6
+https://reels2watch.com/hls/s6.m3u8?|Referer=https://techclips.net/
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/tt/true-premiere-football-hd-1-th.png" group-title="EPL/UCL Special (no vpn)", True Premier 1 (edge)
 https://edge1.laotv.la/live/TSport1/index.m3u8
