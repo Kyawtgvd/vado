@@ -178,3 +178,20 @@ http://bananatv.org:25461/play/wVoZP52jvqdylF92agMAl0Xs6pnPcqI1nSbOp3leTTU/ts
 http://vthanhtivi.pw:5000/hbo/index.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.hqth.me/logo/thumbs/186.png" group-title="International Channel", Cinemax
 http://vthanhtivi.pw:5000/cinemax/index.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/fr/e/e0/C+Premier_League.png" group-title="EPL/UCL Special (no vpn)", CANAL+ PREMIER LEAGUE UHD (tuy)
+http://tuyullxt@mag.x-iptv.live/play/live.php?mac=00:1A:79:23:25:61&stream=506556&extension=ts&play_token=tuyullxt@.ts
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/fr/e/e0/C+Premier_League.png" group-title="EPL/UCL Special (no vpn)", CANAL+ PREMIER LEAGUE UHD (gofast)
+http://line.gofast-tv.me/play/live.php?mac=00:1a:79:b5:63:3c&stream=508332&extension=m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Sky_Sport_Switzerland.svg/800px-Sky_Sport_Switzerland.svg.png" group-title="EPL/UCL Special (no vpn)", Sky Sports Premier League UHD (tuy)
+http://tuyullxt@mag.x-iptv.live/play/live.php?mac=00:1A:79:23:25:61&stream=79473&extension=ts&play_token=tuyullxt@.ts
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3c/Viaplay_logo.png" group-title="EPL/UCL Special (no vpn)", Viaplay Premier League UHD (gofast)
+http://line.gofast-tv.me/play/live.php?mac=00:1a:79:b5:63:3c&stream=1111763&extension=m3u8
+
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/pp/polsat-sport-premium-1-pl.png" group-title="EPL/UCL Special (no vpn)", Polsat Sport Premium 1 UHD (gofast)
+http://line.gofast-tv.me/play/live.php?mac=00:1a:79:b5:63:3c&stream=880467&extension=m3u8
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/pp/polsat-sport-premium-2-pl.png" group-title="EPL/UCL Special (no vpn)", Polsat Sport Premium 2 UHD (gofast)
+http://line.gofast-tv.me/play/live.php?mac=00:1a:79:b5:63:3c&stream=880466&extension=m3u8
+
+
