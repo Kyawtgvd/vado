@@ -334,6 +334,14 @@ http://tuyullxt@mag.x-iptv.live/play/live.php?mac=00:1A:79:23:25:61&stream=10325
 http://tv.greatstar.me/play/live.php?mac=00:1a:79:a7:8d:94&stream=1424311&extension=m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS71EP6wKjOZ-IKwDboEIrWqaQ5a07hWwBpKQ&usqp=CAU" group-title="EPL/UCL Special (no vpn)", V Sport Premier League UHD (line)
 http://line.rs6ott.com:80/play/live.php?mac=00:1A:79:73:BF:36&stream=1001371&extension=ts
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/fr/e/e0/C+Premier_League.png" group-title="EPL/UCL Special (no vpn)", CANAL+ PREMIER LEAGUE UHD (tuy)
+http://tuyullxt@mag.x-iptv.live/play/live.php?mac=00:1A:79:23:25:61&stream=506556&extension=ts&play_token=tuyullxt@.ts
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/fr/e/e0/C+Premier_League.png" group-title="EPL/UCL Special (no vpn)", CANAL+ PREMIER LEAGUE UHD (gofast)
+http://line.gofast-tv.me/play/live.php?mac=00:1a:79:b5:63:3c&stream=508332&extension=m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Sky_Sport_Switzerland.svg/800px-Sky_Sport_Switzerland.svg.png" group-title="EPL/UCL Special (no vpn)", Sky Sports Premier League UHD (tuy)
+http://tuyullxt@mag.x-iptv.live/play/live.php?mac=00:1A:79:23:25:61&stream=79473&extension=ts&play_token=tuyullxt@.ts
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3c/Viaplay_logo.png" group-title="EPL/UCL Special (no vpn)", Viaplay Premier League UHD (gofast)
+http://line.gofast-tv.me/play/live.php?mac=00:1a:79:b5:63:3c&stream=1111763&extension=m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/JRvJdR6/eleven1.png" group-title="EPL/UCL Special (no vpn)", Eleven Sports 1 (iptn)
 http://iptv-tn.com:8080/Restrem@goodserver_telgshjhsrammm/nomorecable.xyz_excsjkskdjkshnage_exchp2.directtv1/84930
 #EXTINF:-1 tvg-logo="https://i.ibb.co/JpGPnd6/eleven2.png" group-title="EPL/UCL Special (no vpn)", Eleven Sports 2 (iptn)
@@ -396,6 +404,10 @@ http://tv.greatstar.me/play/live.php?mac=00:1a:79:a7:8d:94&stream=1002857&extens
 https://ctrl.laotv.la/live/Bsport1/index.m3u8
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/bb/bein-sports-2-qa.png" group-title="EPL/UCL Special (no vpn)", BEIN SPORT 2 THAI (ctrl)
 https://ctrl.laotv.la/live/Bsport2/index.m3u8
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/pp/polsat-sport-premium-1-pl.png" group-title="EPL/UCL Special (no vpn)", Polsat Sport Premium 1 UHD (gofast)
+http://line.gofast-tv.me/play/live.php?mac=00:1a:79:b5:63:3c&stream=880467&extension=m3u8
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/pp/polsat-sport-premium-2-pl.png" group-title="EPL/UCL Special (no vpn)", Polsat Sport Premium 2 UHD (gofast)
+http://line.gofast-tv.me/play/live.php?mac=00:1a:79:b5:63:3c&stream=880466&extension=m3u8
 
 #EXTINF:-1 tvg-logo="https://www.thesportsdb.com/images/media/tvlogo/Sky_Sport_UHD.png" group-title="4K/UHD", Sky Sports Main Event 4K (livein)
 http://livein1.com:8080/play/live.php?mac=00:1a:79:b1:85:5e&stream=250753&extension=m3u8
