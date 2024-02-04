@@ -179,3 +179,31 @@ http://vthanhtivi.pw:5000/hbo/index.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.hqth.me/logo/thumbs/186.png" group-title="International Channel", Cinemax
 http://vthanhtivi.pw:5000/cinemax/index.m3u8
 
+
+#EXTINF:-1 tvg-logo="https://png.pngtree.com/png-clipart/20230921/original/pngtree-vector-football-stream-icon-for-online-broadcasting-online-video-ribbon-vector-png-image_12718626.png" group-title="Test", logo 1
+http://iptv-tn.com:8080/Restrem@goodserver_telgshjhsrammm/nomorecable.xyz_excsjkskdjkshnage_exchp2.directtv1/62732
+
+#EXTINF:-1 tvg-logo="https://www.pikpng.com/pngl/m/102-1025285_live-football-live-png-clipart.png" group-title="Test", logo 2
+http://iptv-tn.com:8080/Restrem@goodserver_telgshjhsrammm/nomorecable.xyz_excsjkskdjkshnage_exchp2.directtv1/71446
+
+#EXTINF:-1 tvg-logo="https://png.pngtree.com/png-vector/20221104/ourmid/pngtree-live-streaming-icon-football-clipart-png-image_6413829.png" group-title="Test", logo 3
+http://iptv-tn.com:8080/Restrem@goodserver_telgshjhsrammm/nomorecable.xyz_excsjkskdjkshnage_exchp2.directtv1/62732
+
+#EXTINF:-1 tvg-logo="https://png.pngtree.com/png-vector/20230228/ourmid/pngtree-live-football-red-play-button-free-transparent-vector-png-image_6622870.png" group-title="Test", logo 4
+http://iptv-tn.com:8080/Restrem@goodserver_telgshjhsrammm/nomorecable.xyz_excsjkskdjkshnage_exchp2.directtv1/71446
+
+#EXTINF:-1 tvg-logo="https://cdn3d.iconscout.com/3d/premium/thumb/live-football-9263429-7595158.png?f=webp" group-title="Test", logo 5
+http://iptv-tn.com:8080/Restrem@goodserver_telgshjhsrammm/nomorecable.xyz_excsjkskdjkshnage_exchp2.directtv1/71446
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRmOY9FhHv-nwUNC8UYe2oRXPTPAq8uwwhrng&usqp=CAU" group-title="Test", logo 6
+http://iptv-tn.com:8080/Restrem@goodserver_telgshjhsrammm/nomorecable.xyz_excsjkskdjkshnage_exchp2.directtv1/71446
+
+#EXTINF:-1 tvg-logo="https://cdn2.vectorstock.com/i/1000x1000/32/46/live-soccer-neon-sign-football-logo-vector-20823246.jpg" group-title="Test", logo 7
+http://iptv-tn.com:8080/Restrem@goodserver_telgshjhsrammm/nomorecable.xyz_excsjkskdjkshnage_exchp2.directtv1/71446
+
+#EXTINF:-1 tvg-logo="https://png.pngtree.com/png-clipart/20220604/original/pngtree-live-football-streaming-glitch-icon-png-image_7927001.png" group-title="Test", logo 8
+http://iptv-tn.com:8080/Restrem@goodserver_telgshjhsrammm/nomorecable.xyz_excsjkskdjkshnage_exchp2.directtv1/71446
+
+#EXTINF:-1 tvg-logo="https://png.pngtree.com/png-vector/20221104/ourmid/pngtree-live-football-icon-button-red-and-black-png-image_6413827.png" group-title="Test", logo 9
+http://iptv-tn.com:8080/Restrem@goodserver_telgshjhsrammm/nomorecable.xyz_excsjkskdjkshnage_exchp2.directtv1/71446
+
