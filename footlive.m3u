@@ -226,10 +226,17 @@ https://do2ibj89ih8kz.cloudfront.net/out/v1/64a59477c5d34afba754e763bb12ac81/man
 https://ssc1-ak.akamaized.net/out/v1/c696e4819b55414388a1a487e8a45ca1/index.mpd
 
 
-#EXTINF:-1 group-title="EPL SPORTS⭐" tvg-logo="https://cdn.technadu.com/wp-content/uploads/2021/05/USA-Network-Logotype.jpg", USA Network
+#EXTINF:-1 group-title="EPL SPORTS⭐" tvg-logo="https://logos-world.net/wp-content/uploads/2023/06/USA-Network-Logo.png", USA Network
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=882c9f5613b43b47adc70aa968a308ce:de534ef8914bfe62ba3cdd6bdb9e1c04
 https://fsly.stream.peacocktv.com/Content/CMAF_OL1-CTR-4s/Live/channel(usa-east)/master.mpd
+
+#EXTINF:-1 group-title="EPL SPORTS⭐" tvg-logo="https://www.europeanvodcoalition.com/content/images/2022/05/viaplay-logo.png", Viaplay - Vpn Sweden
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=d8d0506523d95fc082d6caef60e84979:69992fd2d7b9211d41ecc2243803e87c
+https://live-dash-cdn7-vp.cdn.viaplay.tv/vp/vssp/vssp.isml/index.mpd
 
 #EXTINF:0 group-title="EPL SPORTS⭐" tvg-logo="https://i.ibb.co/VggrTny/liga-inggris.png", PREMIER LEAGUE​ 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 
@@ -256,28 +263,28 @@ https://srtv.my.id/vd/play.mpd?id=9183&type=dash
 https://webtvstream.bhtelecom.ba/hls6/premier_league.mpd
 
 
-#EXTINF:-1 group-title="V SPORT⭐" tvg-logo="https://images.ctfassets.net/989y85n5kcxs/hSnE2EaQogchrhnjzN1ZD/d01682186249f64a7b1cc113f4dd6a99/VSport_Premium_new_Hori_RGB_pos.svg?fm=webp&w=450", V Sport Premium
+#EXTINF:-1 group-title="V SPORT - No Vpn⭐" tvg-logo="https://images.ctfassets.net/989y85n5kcxs/hSnE2EaQogchrhnjzN1ZD/d01682186249f64a7b1cc113f4dd6a99/VSport_Premium_new_Hori_RGB_pos.svg?fm=webp&w=450", V Sport Premium
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=eab13e69793756eda77d8d71fda90d5d:cd022e9bffa6a0d1523ee5d9fcda9ed4
 https://director.streaming.telia.com/tvm-packager-prod/group1/60896c3647a23d7f115cd57a/manifest.mpd|User-Agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0"
 
-#EXTINF:-1 group-title="V SPORT⭐" tvg-logo="https://images.ctfassets.net/989y85n5kcxs/76TOZ05am7R5oxYOsKUnst/cfd696699b7cf63b1a9c1063e5be2780/VSport_Football_new_Hori_CMYK_pos.svg?fm=webp&w=450", V Sport Football
+#EXTINF:-1 group-title="V SPORT - No Vpn⭐" tvg-logo="https://images.ctfassets.net/989y85n5kcxs/76TOZ05am7R5oxYOsKUnst/cfd696699b7cf63b1a9c1063e5be2780/VSport_Football_new_Hori_CMYK_pos.svg?fm=webp&w=450", V Sport Football
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=ce37e20374e55be6bb4d26837af27605:52cc532f748fcbf2b806dad4289bf84c
 https://director.streaming.telia.com/tvm-packager-prod/group1/60896dfd47a23d7c065cd68c/manifest.mpd
 
-#EXTINF:-1 group-title="V SPORT⭐" tvg-logo="https://images.ctfassets.net/989y85n5kcxs/QqWUMoMVRdPCaKrU3NlqT/0cca0957b0f512c861beb810f1ca47ad/V_Sport1_new_Hori_CMYK_pos.svg?fm=webp&w=450", V Sport 1
+#EXTINF:-1 group-title="V SPORT - No Vpn⭐" tvg-logo="https://images.ctfassets.net/989y85n5kcxs/QqWUMoMVRdPCaKrU3NlqT/0cca0957b0f512c861beb810f1ca47ad/V_Sport1_new_Hori_CMYK_pos.svg?fm=webp&w=450", V Sport 1
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"BMXq9izXXy2UerTWIfOSVg","k":"dpZ1mJYuenMUorJR6QcHJQ"}]}
 https://director.streaming.telia.com/tvm-packager-prod/group1/6089c17d47a23d76645ceaf4/manifest.mpd
 
-#EXTINF:-1 group-title="V SPORT⭐" tvg-logo="https://cd-static.telenorcdn.net/cdepg/img/ngp/logo/800/20092-4.png", V Sport Extra
+#EXTINF:-1 group-title="V SPORT - No Vpn⭐" tvg-logo="https://cd-static.telenorcdn.net/cdepg/img/ngp/logo/800/20092-4.png", V Sport Extra
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -289,100 +296,6 @@ https://director.streaming.telia.com/tvm-packager-prod/group3/60ae4f5e1522bd739f
 
 
 
-#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/tt/true-premiere-football-hd-1-th.png" group-title="EPL/UCL Special (no vpn)", True Premier 1 (edge)
-https://edge1.laotv.la/live/TSport1/index.m3u8
-#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/tt/true-premiere-football-hd-2-th.png" group-title="EPL/UCL Special (no vpn)", True Premier 2 (edge)
-https://edge1.laotv.la/live/TSport2/index.m3u8
-#EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/india/star-sports-select-1-in.png" group-title="EPL/UCL Special (no vpn)", Star Sport Select 1 (tuy)
-http://tuyullxt@mag.x-iptv.live/play/live.php?mac=00:1A:79:23:25:61&stream=1114583&extension=ts&play_token=tuyullxt@.ts
-#EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/india/star-sports-select-2-in.png" group-title="EPL/UCL Special (no vpn)", Star Sport Select 2 (tuy)
-http://tuyullxt@mag.x-iptv.live/play/live.php?mac=00:1A:79:23:25:61&stream=1114584&extension=ts&play_token=tuyullxt@.ts
-#EXTINF:-1 tvg-logo="https://www.nowtv.now.com/media/logo/600-wbg-e.png" group-title="EPL/UCL Special (no vpn)", Now Hk Premier Sport 1 UHD (tuy)
-http://tuyullxt@mag.x-iptv.live/play/live.php?mac=00:1A:79:23:25:61&stream=1032487&extension=ts&play_token=tuyullxt@.ts
-#EXTINF:-1 tvg-logo="https://www.nowtv.now.com/media/logo/600-wbg-e.png" group-title="EPL/UCL Special (no vpn)", Now Hk Premier Sport 2 UHD |Only Event|
-http://tuyullxt@mag.x-iptv.live/play/live.php?mac=00:1A:79:23:25:61&stream=1032486&extension=ts&play_token=tuyullxt@.ts
-#EXTINF:-1 tvg-logo="https://www.nowtv.now.com/media/logo/600-wbg-e.png" group-title="EPL/UCL Special (no vpn)", Now Hk Premier Sport 3 UHD |Only Event|
-http://tuyullxt@mag.x-iptv.live/play/live.php?mac=00:1A:79:23:25:61&stream=1032485&extension=ts&play_token=tuyullxt@.ts
-#EXTINF:-1 tvg-logo="https://www.thesportsdb.com/images/media/channel/tvlogo/qoerty1659622111.png" group-title="EPL/UCL Special (no vpn)", Hub Premier Sport 1 UHD (tuy)
-http://tuyullxt@mag.x-iptv.live/play/live.php?mac=00:1A:79:23:25:61&stream=1032529&extension=ts&play_token=tuyullxt@.ts
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/e2/SkySportLogo2019.png/revision/latest?cb=20210619015201" group-title="EPL/UCL Special (no vpn)", Sky Sports NZ PL UHD (great)
-http://tv.greatstar.me/play/live.php?mac=00:1a:79:a7:8d:94&stream=1424311&extension=m3u8
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS71EP6wKjOZ-IKwDboEIrWqaQ5a07hWwBpKQ&usqp=CAU" group-title="EPL/UCL Special (no vpn)", V Sport Premier League UHD (line)
-http://line.rs6ott.com:80/play/live.php?mac=00:1A:79:73:BF:36&stream=1001371&extension=ts
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/fr/e/e0/C+Premier_League.png" group-title="EPL/UCL Special (no vpn)", CANAL+ PREMIER LEAGUE UHD (tuy)
-http://tuyullxt@mag.x-iptv.live/play/live.php?mac=00:1A:79:23:25:61&stream=506556&extension=ts&play_token=tuyullxt@.ts
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/fr/e/e0/C+Premier_League.png" group-title="EPL/UCL Special (no vpn)", CANAL+ PREMIER LEAGUE UHD (gofast)
-http://line.gofast-tv.me/play/live.php?mac=00:1a:79:b5:63:3c&stream=508332&extension=m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Sky_Sport_Switzerland.svg/800px-Sky_Sport_Switzerland.svg.png" group-title="EPL/UCL Special (no vpn)", Sky Sports Premier League UHD (tuy)
-http://tuyullxt@mag.x-iptv.live/play/live.php?mac=00:1A:79:23:25:61&stream=79473&extension=ts&play_token=tuyullxt@.ts
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3c/Viaplay_logo.png" group-title="EPL/UCL Special (no vpn)", Viaplay Premier League UHD (gofast)
-http://line.gofast-tv.me/play/live.php?mac=00:1a:79:b5:63:3c&stream=1111763&extension=m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/JRvJdR6/eleven1.png" group-title="EPL/UCL Special (no vpn)", Eleven Sports 1 (iptn)
-http://iptv-tn.com:8080/Restrem@goodserver_telgshjhsrammm/nomorecable.xyz_excsjkskdjkshnage_exchp2.directtv1/84930
-#EXTINF:-1 tvg-logo="https://i.ibb.co/JpGPnd6/eleven2.png" group-title="EPL/UCL Special (no vpn)", Eleven Sports 2 (iptn)
-http://iptv-tn.com:8080/Restrem@goodserver_telgshjhsrammm/nomorecable.xyz_excsjkskdjkshnage_exchp2.directtv1/84931
-#EXTINF:-1 tvg-logo="https://i.ibb.co/TWhTFW8/eleven3.png" group-title="EPL/UCL Special (no vpn)", Eleven Sports 3 (iptn)
-http://iptv-tn.com:8080/Restrem@goodserver_telgshjhsrammm/nomorecable.xyz_excsjkskdjkshnage_exchp2.directtv1/84932
-#EXTINF:-1 tvg-logo="https://i.ibb.co/FW3fsK6/eleven4.png" group-title="EPL/UCL Special (no vpn)", Eleven Sports 4 (iptn)
-http://iptv-tn.com:8080/Restrem@goodserver_telgshjhsrammm/nomorecable.xyz_excsjkskdjkshnage_exchp2.directtv1/84933
-#EXTINF:-1 tvg-logo="https://i.ibb.co/8rq35Zg/eleven5.png" group-title="EPL/UCL Special (no vpn)", Eleven Sports 5 (iptn)
-http://iptv-tn.com:8080/Restrem@goodserver_telgshjhsrammm/nomorecable.xyz_excsjkskdjkshnage_exchp2.directtv1/84934
-#EXTINF:-1 tvg-logo="https://assets.bein.com/mena/sites/3/2015/06/beIN_SPORTS1_ENGLISH_Digital_Mono.png" group-title="EPL/UCL Special (no vpn)", Bein Sports 1 English UHD (iptn)
-http://iptv-tn.com:8080/Restrem@goodserver_telgshjhsrammm/nomorecable.xyz_excsjkskdjkshnage_exchp2.directtv1/62732
-#EXTINF:-1 tvg-logo="https://assets.bein.com/mena/sites/3/2015/06/beIN_SPORTS2_ENGLISH_Digital_Mono.png" group-title="EPL/UCL Special (no vpn)", Bein Sports 2 English UHD (iptn)
-http://iptv-tn.com:8080/Restrem@goodserver_telgshjhsrammm/nomorecable.xyz_excsjkskdjkshnage_exchp2.directtv1/71446
-#EXTINF:-1 tvg-logo="https://logos-world.net/wp-content/uploads/2023/06/USA-Network-Logo.png" group-title="EPL/UCL Special (no vpn)", USA Network (great)
-http://tv.greatstar.me/play/live.php?mac=00:1a:79:a7:8d:94&stream=45466&extension=m3u8
-#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/tt/tnt-sports-1-uk.png" group-title="EPL/UCL Special (no vpn)", TNT Sports 1 (4klion)
-http://m3u.4klion.xyz:80/play/live.php?mac=00:1A:79:78:59:F9&stream=578001&extension=ts
-#EXTINF:-1 tvg-logo="https://sender.epglogos.de/302x190_w/12181.png" group-title="EPL/UCL Special (no vpn)", Sky Sports Premier League (kusna)
-https://kusnadipepenk.github.io/ntn/skyprem.m3u8
-#EXTINF:-1 tvg-logo="https://sender.epglogos.de/302x190_w/12181.png" group-title="EPL/UCL Special (no vpn)", Sky Sports Main Event (great)
-http://tv.greatstar.me/play/live.php?mac=00:1a:79:a7:8d:94&stream=83450&extension=m3u8
-#EXTINF:-1 tvg-logo="https://sender.epglogos.de/302x190_w/12181.png" group-title="EPL/UCL Special (no vpn)", Sky Sports Main Event (4klion)
-http://m3u.4klion.xyz:80/play/live.php?mac=00:1A:79:78:59:F9&stream=577997&extension=ts
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSKZ-UKQmQ1Kw4wroZ4-7tVs4wGRgOyc99bZA&usqp=CAU" group-title="EPL/UCL Special (no vpn)", Super Sports PL (4klion)
-http://m3u.4klion.xyz:80/play/live.php?mac=00:1A:79:78:59:F9&stream=577930&extension=ts
-#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ss/supersport-premier-league-za.png" group-title="EPL/UCL Special (no vpn)", Super Sports Premier League (kusna)
-https://kusnadipepenk.github.io/ntn/superprem.m3u8
-#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ss/supersport-premier-league-za.png" group-title="EPL/UCL Special (no vpn)", Super Sports Premier League (great)
-http://tv.greatstar.me/play/live.php?mac=00:1a:79:a7:8d:94&stream=239078&extension=m3u8
-#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/tt/tnt-sports-1-uk.png" group-title="EPL/UCL Special (no vpn)", TNT Sports 1 (kusna)
-https://kusnadipepenk.github.io/ntn/bt1.m3u8
-#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/tt/tnt-sports-2-uk.png" group-title="EPL/UCL Special (no vpn)", TNT Sports 2 (kusna)
-https://kusnadipepenk.github.io/ntn/bt2.m3u8
-#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/tt/tnt-sports-3-uk.png" group-title="EPL/UCL Special (no vpn)", TNT Sports 3 (kusna)
-https://kusnadipepenk.github.io/ntn/bt3.m3u8
-#EXTINF:-1 tvg-logo="http://rrlogos.ptwo.ch/Picon/PT/elevensports1.png" group-title="EPL/UCL Special (no vpn)", ELEVEN SPORTS 1 (carmel)
-http://carmeltv.live:80/EXCHANGEukmed/QHZ5pjF7UdKx/54556
-#EXTINF:-1 tvg-logo="http://rrlogos.ptwo.ch/Picon/PT/elevensports2.png" group-title="EPL/UCL Special (no vpn)", ELEVEN SPORTS 2 (carmel)
-http://carmeltv.live:80/EXCHANGEukmed/QHZ5pjF7UdKx/54557
-#EXTINF:-1 tvg-logo="http://rrlogos.ptwo.ch/Picon/PT/elevensports3.png" group-title="EPL/UCL Special (no vpn)", ELEVEN SPORTS 3 (carmel)
-http://carmeltv.live:80/EXCHANGEukmed/QHZ5pjF7UdKx/54558
-#EXTINF:-1 tvg-logo="http://rrlogos.ptwo.ch/Picon/PT/elevensports4.png" group-title="EPL/UCL Special (no vpn)", ELEVEN SPORTS 4 (carmel)
-http://carmeltv.live:80/EXCHANGEukmed/QHZ5pjF7UdKx/54559
-#EXTINF:-1 tvg-logo="http://rrlogos.ptwo.ch/Picon/PT/elevensports5.png" group-title="EPL/UCL Special (no vpn)", ELEVEN SPORTS 5 (carmel)
-http://carmeltv.live:80/EXCHANGEukmed/QHZ5pjF7UdKx/54560
-#EXTINF:-1 tvg-logo="https://www.thesportsdb.com/images/media/channel/tvlogo/5exn7j1631279352.png" group-title="EPL/UCL Special (no vpn)", beIN Sports 1 (kusna)
-https://kusnadipepenk.github.io/ntn/bs1.m3u8
-#EXTINF:-1 tvg-logo="https://seeklogo.com/images/B/bein-sports-2-logo-56F85DDE25-seeklogo.com.png" group-title="EPL/UCL Special (no vpn)", beIN Sports 2 (kusna)
-https://kusnadipepenk.github.io/ntn/bs2.m3u8
-#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/tt/tnt-sports-1-uk.png" group-title="EPL/UCL Special (no vpn)", TNT Sports 1 (great)
-http://tv.greatstar.me/play/live.php?mac=00:1a:79:a7:8d:94&stream=79486&extension=m3u8
-#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/tt/tnt-sports-2-uk.png" group-title="EPL/UCL Special (no vpn)", TNT Sports 2 (great)
-http://tv.greatstar.me/play/live.php?mac=00:1a:79:a7:8d:94&stream=79485&extension=m3u8
-#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/tt/tnt-sports-3-uk.png" group-title="EPL/UCL Special (no vpn)", TNT Sports 3 (great)
-http://tv.greatstar.me/play/live.php?mac=00:1a:79:a7:8d:94&stream=79484&extension=m3u8
-#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/tt/tnt-sports-4-uk.png" group-title="EPL/UCL Special (no vpn)", TNT Sports 4 (great)
-http://tv.greatstar.me/play/live.php?mac=00:1a:79:a7:8d:94&stream=1002857&extension=m3u8
-#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/bb/bein-sports-1-qa-fr.png" group-title="EPL/UCL Special (no vpn)", BEIN SPORT 1 THAI (ctrl)
-https://ctrl.laotv.la/live/Bsport1/index.m3u8
-#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/bb/bein-sports-2-qa.png" group-title="EPL/UCL Special (no vpn)", BEIN SPORT 2 THAI (ctrl)
-https://ctrl.laotv.la/live/Bsport2/index.m3u8
-#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/pp/polsat-sport-premium-1-pl.png" group-title="EPL/UCL Special (no vpn)", Polsat Sport Premium 1 UHD (gofast)
-http://line.gofast-tv.me/play/live.php?mac=00:1a:79:b5:63:3c&stream=880467&extension=m3u8
-#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/pp/polsat-sport-premium-2-pl.png" group-title="EPL/UCL Special (no vpn)", Polsat Sport Premium 2 UHD (gofast)
-http://line.gofast-tv.me/play/live.php?mac=00:1a:79:b5:63:3c&stream=880466&extension=m3u8
 
 #EXTINF:-1 tvg-logo="https://www.thesportsdb.com/images/media/tvlogo/Sky_Sport_UHD.png" group-title="4K/UHD", Sky Sports Main Event 4K (livein)
 http://livein1.com:8080/play/live.php?mac=00:1a:79:b1:85:5e&stream=250753&extension=m3u8
