@@ -1,17 +1,38 @@
 #EXTINF:-1 group-title="Test" tvg-logo="https://upload.wikimedia.org/wikipedia/en/7/70/Ziggo_Sport_Logo.jpg", ZIGGO SPORT (no vpn)
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:http-user-agent="FireFox"
+#EXTVLCOPT--http-reconnect=true
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=90e32a4712f5480bab7abc8a4fef25da:2eeb49a8688f2365e1131cf4ae4d6f0a
 https://wp-obc4-live-nl-prod.prod.cdn.dmdsdp.com/dash/go-dash-hdready-avc/NL_000014_019661/manifest.mpd
 
 #EXTINF:-1 group-title="Test" tvg-logo="https://upload.wikimedia.org/wikipedia/en/7/70/Ziggo_Sport_Logo.jpg", ZIGGO SPORT SELECT
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:http-user-agent="FireFox"
+#EXTVLCOPT--http-reconnect=true
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=25586a5ca20847d684579cce0c2ecacc:9c92162b23709653688a471bec0cf19b
 https://wp-obc5-live-nl-prod.prod.cdn.dmdsdp.com/dash/NL_000094_019321/manifest.mpd
 
 #EXTINF:-1 group-title="Test"  tvg-logo="https://upload.wikimedia.org/wikipedia/en/7/70/Ziggo_Sport_Logo.jpg", ZIGGO SPORT VOETBAL
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:http-user-agent="FireFox"
+#EXTVLCOPT--http-reconnect=true
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=25586a5ca20847d684579cce0c2ecacc:9c92162b23709653688a471bec0cf19b
 https://da-d436234a20010b8800010302000000000000000c.id.cdn.upcbroadband.com/wp/wp-obc1-live-nl-prod.prod.cdn.dmdsdp.com/dash/NL_000095_019371/manifest.mpd
+
+
+#EXTINF:-1 group-title="Test" tvg-logo="http://linear-poster.astro.com.my/prod/logo/PremierSports.png", Premier Sports 1
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=00059cff7b261aa9b2fcbd57ad1ca332:1872a5a3afb4f369ab339024a09fda25
+http://linear037-ie-dash1-prd-ak.cdn.skycdp.com/016a/Content/DASH_003_hd/Live/channel(premier1sports50)/manifest_hd.mpd
 
 #EXTINF:-1 group-title="Test" tvg-logo="https://www.europeanvodcoalition.com/content/images/2022/05/viaplay-logo.png", Viaplay Extra 1 (Sweden Vpn)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -22,11 +43,6 @@ https://live-dash-cdn7-vp.cdn.viaplay.tv/vp/xtra1/xtra1.isml/index.mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=0005f5067d785a42dc5167ba06126ca8:8f9987d3153d003a23f34994501141d9
 https://linear036-ie-dash1-prd-ak.cdn.skycdp.com/016a/Content/DASH_003_hd/Live/channel(tnt1sport50)/manifest_hd.mpd
-
-#EXTINF:-1 group-title="Test" tvg-logo="http://linear-poster.astro.com.my/prod/logo/PremierSports.png", Premier Sports 1
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=00059cff7b261aa9b2fcbd57ad1ca332:1872a5a3afb4f369ab339024a09fda25
-http://linear037-ie-dash1-prd-ak.cdn.skycdp.com/016a/Content/DASH_003_hd/Live/channel(premier1sports50)/manifest_hd.mpd
 
 #EXTINF:-1 group-title="Test" tvg-logo="https://i.postimg.cc/3w9j213r/Media-Handler-1-removebg-preview.png", Siminn Sport 1
 #KODIPROP:inputstreamaddon=inputstream.adaptive
@@ -60,31 +76,6 @@ https://director.tv.c.is/__cl/cg:default/__c/Siminn_Sport_4_HD_HTTP/__op/dash-de
 
 
 
-#EXTINF:-1 tvg-logo="https://sport1.maariv.co.il/app/uploads/2020/04/logo.png",Sport 1 HD IL
-#EXTGRP:Sport Israel HD
-http://28b304f4.edemist.com/iptv/NMCWA9PDLXUCX4/2353/index.m3u8
-#EXTINF:-1 tvg-logo="https://sport1.maariv.co.il/app/uploads/2020/04/logo.png",SPORT 1 HD IL
-#EXTGRP:Sport Israel HD
-http://28b304f4.edemist.com/iptv/NMCWA9PDLXUCX4/12249/index.m3u8
-#EXTINF:-1 tvg-logo="https://www.thesportsdb.com/images/media/channel/tvlogo/27uvm51627494269.png",SPORT 2 HD IL
-#EXTGRP:Sport Israel HD
-http://28b304f4.edemist.com/iptv/NMCWA9PDLXUCX4/2352/index.m3u8
-#EXTINF:-1 tvg-logo="https://www.thesportsdb.com/images/media/channel/tvlogo/27uvm51627494269.png",SPORT 2 HD IL
-#EXTGRP:Sport Israel HD
-http://28b304f4.edemist.com/iptv/NMCWA9PDLXUCX4/12250/index.m3u8
-#EXTINF:-1 tvg-logo="https://www.thesportsdb.com/images/media/channel/tvlogo/irxvmy1627494303.png",Sport 3 HD IL
-#EXTGRP:Sport Israel HD
-http://28b304f4.edemist.com/iptv/NMCWA9PDLXUCX4/2388/index.m3u8
-#EXTINF:-1 tvg-logo="https://www.thesportsdb.com/images/media/channel/tvlogo/irxvmy1627494303.png",SPORT 3 HD IL
-#EXTGRP:Sport Israel HD
-http://28b304f4.edemist.com/iptv/NMCWA9PDLXUCX4/12251/index.m3u8
-#EXTINF:-1 tvg-logo="https://www.thesportsdb.com/images/media/channel/tvlogo/km8o4f1627494329.png",Sport 4 HD IL
-#EXTGRP:Sport Israel HD
-http://28b304f4.edemist.com/iptv/NMCWA9PDLXUCX4/2389/index.m3u8
-#EXTINF:-1 tvg-logo="https://www.thesportsdb.com/images/media/channel/tvlogo/km8o4f1627494329.png",SPORT 4 HD IL
-#EXTGRP:Sport Israel HD
-http://28b304f4.edemist.com/iptv/NMCWA9PDLXUCX4/12252/index.m3u8
-
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ss/sony-sports-ten-1-in.png" group-title="Sport", Sony TEN 1 HD 
 https://dai.google.com/linear/hls/event/wG75n5U8RrOKiFzaWObXbA/master.m3u8 
@@ -96,18 +87,6 @@ https://dai.google.com/linear/hls/event/ltsCG7TBSCSDmyq0rQtvSA/master.m3u8
 https://pubads.g.doubleclick.net/ssai/event/tNzcW2ZhTVaViggo5ocI-A/master.m3u8 
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ss/sony-sports-ten-5-in.png" group-title="Sport", Sony TEN 5 HD 
 https://dai.google.com/linear/hls/event/Sle_TR8rQIuZHWzshEXYjQ/master.m3u8
-#EXTINF:-1 tvg-logo="https://logos-world.net/wp-content/uploads/2023/06/USA-Network-Logo.png" group-title="Sport", USA Network (carmel)
-http://carmeltv.live:80/EXCHANGEukmed/QHZ5pjF7UdKx/63127.m3u8
-#EXTINF:-1 tvg-logo="https://www.thesportsdb.com/images/media/channel/tvlogo/5exn7j1631279352.png" group-title="Sport", beIN Sports 1 (carmel)
-http://carmeltv.live:80/EXCHANGEukmed/QHZ5pjF7UdKx/61168.m3u8
-#EXTINF:-1 tvg-logo="https://seeklogo.com/images/B/bein-sports-2-logo-56F85DDE25-seeklogo.com.png" group-title="Sport", beIN Sports 2 (carmel)
-http://carmeltv.live:80/EXCHANGEukmed/QHZ5pjF7UdKx/61169.m3u8
-#EXTINF:-1 tvg-logo="https://seeklogo.com/images/B/bein-sports-3-logo-42227D7D66-seeklogo.com.png" group-title="Sport", beIN Sports 3 (carmel)
-http://carmeltv.live:80/EXCHANGEukmed/QHZ5pjF7UdKx/61170.m3u8
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQjPd4bwB7TW5HZZBGAmcV6Mz2uVc4DUyTqjg&usqp=CAU" group-title="Sport", beIN Sports 4 (carmel)
-http://carmeltv.live:80/EXCHANGEukmed/QHZ5pjF7UdKx/61171.m3u8
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQHA2p2mJ2dkA_-7-w2JueKVgmI7PxzewuxZg&usqp=CAU" group-title="Sport", beIN Sports 5 (carmel)
-http://carmeltv.live:80/EXCHANGEukmed/QHZ5pjF7UdKx/61172.m3u8
 #EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/india/star-sports-select-1-in.png" group-title="Sport", Star Sports Select 1 (source)
 http://source.strictv.com:80/play/live.php?mac=00:1a:79:11:22:31&stream=1114583&extension=ts
 #EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/india/star-sports-select-2-in.png" group-title="Sport", Star Sports Select 2 (source)
@@ -134,4 +113,3 @@ http://168.227.22.18:1935/live/mobile-010/playlist.m3u8
 http://168.227.22.18:1935/live/mobile-031/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/FOX_Sports_logo.svg/1280px-FOX_Sports_logo.svg.png" group-title="Sport", FOX SPORTS 3 (168) SD
 http://168.227.22.18:1935/live/mobile-108/playlist.m3u8
-
