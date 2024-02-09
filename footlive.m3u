@@ -142,7 +142,7 @@ https://webtvstream.bhtelecom.ba/hls6/premier_league.mpd
 #KODIPROP:inputstream.adaptive.license_key=00034d0b4c47a219e93d880b4610d197:a5dcfa9627379c6928567092b6e5ce40
 https://linear011-gb-dash1-prd-cf.cdn.skycdp.com/016a/Content/DASH_003_hd/Live/channel(sportsmainevent50)/manifest_hd.mpd
 
-#EXTINF:-1 group-title="SKY SPORTS⭐" tvg-logo="https://pbs.twimg.com/profile_images/1605131756310614017/05qwHae-_400x400.jpg", Sky Sports Premier League
+#EXTINF:-1 group-title="SKY SPORTS⭐" tvg-logo="https://logodownload.org/wp-content/uploads/2020/06/sky-sports-logo-0-1.png", Sky Sports Premier League
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -171,7 +171,7 @@ https://linear301-it-dash1-prd.selector.skycdn.it/016a/31023/FHD/skysportuno/mas
 https://linear302-it-dash1-prd-ll.cdn13.skycdp.com/016a/31209/FHD/skysportseriea/master.mpd
 
 
-#EXTINF:-1 group-title="V SPORT - No Vpn⭐" tvg-logo="https://www.lyngsat.com/logo/tv/vv/v-sport-ultra-hd-se.png", V Sport UHD/4K
+#EXTINF:-1 group-title="V SPORT - No Vpn⭐" tvg-logo="https://www.lyngsat.com/logo/tv/vv/v-sport-ultra-hd-se.png", V Sport UHD/4K |Only Event|
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
@@ -208,7 +208,7 @@ https://director.streaming.telia.com/tvm-packager-prod/group1/6089c17d47a23d7664
 https://director.streaming.telia.com/tvm-packager-prod/group3/60ae4f5e1522bd739f6959a1/manifest.mpd
 
 
-#EXTINF:-1 group-title="ASTRO SPORTS - Vpn Malaysia⭐" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/ac/Astro_SuperSport_UHD.png/revision/latest/scale-to-width-down/1000?cb=20220415221642", ASTRO SUPERSPORT UHD (EVENT ONLY)
+#EXTINF:-1 group-title="ASTRO SPORTS - Vpn Malaysia⭐" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/ac/Astro_SuperSport_UHD.png/revision/latest/scale-to-width-down/1000?cb=20220415221642", ASTRO SUPERSPORT UHD/4K |Only Event|
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=22fbef1c1cd725e9397ec16455f08210:7aea43cd93c24aa9834ecb4984f7fd5a
 https://staging-linearjitp-playback.astro.com.my/dash-wv/linear/1601/default_primary.mpd
@@ -658,6 +658,32 @@ https://edge1.laotv.la/live/TSport1/index.m3u8
 https://edge1.laotv.la/live/TSport2/index.m3u8
 #EXTINF:-1 tvg-logo="https://logos-world.net/wp-content/uploads/2023/06/USA-Network-Logo.png" group-title="Sport / Football", USA Network (38)
 http://38.96.178.201:80/live/USA/index.m3u8
+#EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/india/star-sports-select-1-in.png" group-title="Sport / Football", Star Sport Select 1 (tuy)
+http://tuyullxt@mag.x-iptv.live/play/live.php?mac=00:1A:79:23:25:61&stream=155972&extension=ts&play_token=tuyullxt@.ts
+#EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/india/star-sports-select-2-in.png" group-title="Sport / Football", Star Sport Select 2 (tuy)
+http://tuyullxt@mag.x-iptv.live/play/live.php?mac=00:1A:79:23:25:61&stream=155973&extension=ts&play_token=tuyullxt@.ts
+#EXTINF:-1 tvg-logo="https://sender.epglogos.de/302x190_w/12181.png" group-title="Sport / Football", Sky Sports Main Event (tuy)
+http://tuyullxt@mag.x-iptv.live/play/live.php?mac=00:1A:79:23:25:61&stream=30496&extension=ts&play_token=tuyullxt@.ts
+#EXTINF:-1 tvg-logo="https://sender.epglogos.de/302x190_w/12181.png" group-title="Sport / Football", Sky Sports Premier League (tuy)
+http://tuyullxt@mag.x-iptv.live/play/live.php?mac=00:1A:79:23:25:61&stream=30493&extension=ts&play_token=tuyullxt@.ts
+#EXTINF:-1 tvg-logo="https://www.europeanvodcoalition.com/content/images/2022/05/viaplay-logo.png" group-title="Sport / Football", Viaplay Sport 1 (tuy)
+http://tuyullxt@mag.x-iptv.live/play/live.php?mac=00:1A:79:23:25:61&stream=163607&extension=ts&play_token=tuyullxt@.ts
+#EXTINF:-1 tvg-logo="https://www.europeanvodcoalition.com/content/images/2022/05/viaplay-logo.png" group-title="Sport / Football", Viaplay Sport 2 (tuy)
+http://tuyullxt@mag.x-iptv.live/play/live.php?mac=00:1A:79:23:25:61&stream=45251&extension=ts&play_token=tuyullxt@.ts
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/tt/tnt-sports-1-uk.png" group-title="Sport / Football", TNT Sports 1 (tuy)
+http://tuyullxt@mag.x-iptv.live/play/live.php?mac=00:1A:79:23:25:61&stream=30567&extension=ts&play_token=tuyullxt@.ts
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/tt/tnt-sports-2-uk.png" group-title="Sport / Football", TNT Sports 2 (tuy)
+http://tuyullxt@mag.x-iptv.live/play/live.php?mac=00:1A:79:23:25:61&stream=30566&extension=ts&play_token=tuyullxt@.ts
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/tt/tnt-sports-3-uk.png" group-title="Sport / Football", TNT Sports 3 (tuy)
+http://tuyullxt@mag.x-iptv.live/play/live.php?mac=00:1A:79:23:25:61&stream=30565&extension=ts&play_token=tuyullxt@.ts
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/tt/tnt-sports-4-uk.png" group-title="Sport / Football", TNT Sports 4 (tuy)
+http://tuyullxt@mag.x-iptv.live/play/live.php?mac=00:1A:79:23:25:61&stream=1019935&extension=ts&play_token=tuyullxt@.ts
+#EXTINF:-1 tvg-logo="https://img2.sport-tv-guide.live/images/tv-station-now-sports-4k-1978.png" group-title="Sport / Football", 616 Now Hk Premier Sport 4K (tuy) |Only Event|
+http://tuyullxt@mag.x-iptv.live/play/live.php?mac=00:1A:79:23:25:61&stream=1032489&extension=ts&play_token=tuyullxt@.ts
+#EXTINF:-1 tvg-logo="https://img2.sport-tv-guide.live/images/tv-station-now-sports-4k-1978.png" group-title="Sport / Football", 617 Now Hk Premier Sport 4K (tuy) |Only Event|
+http://tuyullxt@mag.x-iptv.live/play/live.php?mac=00:1A:79:23:25:61&stream=1032488&extension=ts&play_token=tuyullxt@.ts
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e9/Logo_Canal+_4K_UHD.png" group-title="Sport / Football", Canal+ Premier League 4K (tuy) |Only Event|
+http://tuyullxt@mag.x-iptv.live/play/live.php?mac=00:1A:79:23:25:61&stream=526129&extension=ts&play_token=tuyullxt@.ts
 #EXTINF:-1 tvg-logo="https://i.ibb.co/JRvJdR6/eleven1.png" group-title="Sport / Football", Eleven Sports 1 (iptn)
 http://iptv-tn.com:8080/Restrem@goodserver_telgshjhsrammm/nomorecable.xyz_excsjkskdjkshnage_exchp2.directtv1/84930
 #EXTINF:-1 tvg-logo="https://i.ibb.co/JpGPnd6/eleven2.png" group-title="Sport / Football", Eleven Sports 2 (iptn)
