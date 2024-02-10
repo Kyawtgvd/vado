@@ -628,14 +628,6 @@ http://watchindia.net:8880/live/72695/24354/2292.ts
 http://watchindia.net:8880/live/72695/24354/1070.ts
 #EXTINF:-1 tvg-logo="https://watchindia.net/images/channels/sports/Sports_18.png" group-title="Sport / Football", Sports 18 (watch)
 http://watchindia.net:8880/live/72695/24354/2423.ts
-#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/tt/tnt-sports-1-uk.png" group-title="Sport / Football", BT SPORT 1 FHD (allm)
-http://allm4f1x.russtv.net/iptv/XVGY7MPHN39K6P/6566/index.m3u8
-#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/tt/tnt-sports-2-uk.png" group-title="Sport / Football", BT SPORT 2 FHD (allm)
-http://allm4f1x.russtv.net/iptv/XVGY7MPHN39K6P/6565/index.m3u8
-#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/tt/tnt-sports-3-uk.png" group-title="Sport / Football", BT SPORT 3 FHD (allm)
-http://allm4f1x.russtv.net/iptv/XVGY7MPHN39K6P/6564/index.m3u8
-#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/tt/tnt-sports-4-uk.png" group-title="Sport / Football", BT SPORT ESPN FHD (allm)
-http://allm4f1x.russtv.net/iptv/XVGY7MPHN39K6P/6563/index.m3u8
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ff/fox_sports_us_1.png" group-title="Sport / Football", FOX SPORTS 1 (allm)
 http://allm4f1x.russtv.net/iptv/XVGY7MPHN39K6P/7322/index.m3u8
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ff/fox_sports_us_2.png" group-title="Sport / Football", FOX SPORTS 2 (allm)
