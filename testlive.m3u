@@ -36,6 +36,142 @@ https://dce-fs-live-dazn-cdn.dazn.com/dashdrm/dazn-linear-049/stream.mpd
 
 
 
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/tt/tnt-sports-1-uk.png" group-title="Sport / Football", BT SPORT 1 FHD (allm)
+http://allm4f1x.russtv.net/iptv/XVGY7MPHN39K6P/6566/index.m3u8
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/tt/tnt-sports-2-uk.png" group-title="Sport / Football", BT SPORT 2 FHD (allm)
+http://allm4f1x.russtv.net/iptv/XVGY7MPHN39K6P/6565/index.m3u8
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/tt/tnt-sports-3-uk.png" group-title="Sport / Football", BT SPORT 3 FHD (allm)
+http://allm4f1x.russtv.net/iptv/XVGY7MPHN39K6P/6564/index.m3u8
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/tt/tnt-sports-4-uk.png" group-title="Sport / Football", BT SPORT ESPN FHD (allm)
+http://allm4f1x.russtv.net/iptv/XVGY7MPHN39K6P/6563/index.m3u8
+#EXTINF:-1 group-title="Sport" tvg-logo="", EPL 1
+http://bananatv.org:25461/play/qjTtd6c1Izx4JkSoVRirdHh_Kff4-kzcuh6nNJ_LLJ8/ts
+#EXTINF:-1 group-title="Sport" tvg-logo="", EPL 2
+http://bananatv.org:25461/play/qjTtd6c1Izx4JkSoVRirdC8ttQfzFCmEeV7vhxqIaN4/ts
+#EXTINF:-1 group-title="Sport" tvg-logo="", EPL 3
+http://bananatv.org:25461/play/qjTtd6c1Izx4JkSoVRirdDJ2F63ZpL79Bnr5OdgfzNQ/ts
+#EXTINF:-1 group-title="Sport" tvg-logo="", EPL 4
+http://bananatv.org:25461/play/qjTtd6c1Izx4JkSoVRirdNnlQnFFSvZmEhAn2e47uTI/ts
+#EXTINF:-1 group-title="Sport" tvg-logo="", EPL 5 SD For Slow Network
+http://bananatv.org:25461/play/qjTtd6c1Izx4JkSoVRirdOhS7fBmSIoPEiVOZUqIUqA/ts
+#EXTINF:-1 group-title="Sport" tvg-logo="", EPL 5 (Live)
+http://bananatv.org:25461/play/qjTtd6c1Izx4JkSoVRirdKDS4lop_u7872gbzz6Fv5w/ts
+#EXTINF:-1 group-title="Sport" tvg-logo="", EPL 5 (Live HD)
+http://bananatv.org:25461/play/qjTtd6c1Izx4JkSoVRirdBEn4MEEw8vOaDvYxPZiK9Y/ts
+#EXTINF:-1 group-title="Sport" tvg-logo="", EPL 6 Highlight
+http://bananatv.org:25461/play/qjTtd6c1Izx4JkSoVRirdAqw5kgOxovYJ63oa8omaNM/ts
+#EXTINF:-1 group-title="Sport" tvg-logo="", EPL 7
+http://bananatv.org:25461/play/qjTtd6c1Izx4JkSoVRirdFTOtHbtYhsSFSp9DgEF-BU/ts
+#EXTINF:-1 group-title="Sport" tvg-logo="", Laliga 1 HD
+http://bananatv.org:25461/play/qjTtd6c1Izx4JkSoVRirdNvRqvE2BrfNdHxgfN24GBI/ts
+#EXTINF:-1 group-title="Sport" tvg-logo="", Laliga 2 HD
+http://bananatv.org:25461/play/qjTtd6c1Izx4JkSoVRirdOT-Z2isAvVvEOrtsuSUjvw/ts
+#EXTINF:-1 group-title="Sport" tvg-logo="", Play sports 1
+http://bananatv.org:25461/play/qjTtd6c1Izx4JkSoVRirdOOVkPXYLEez93vSl15czg4/ts
+#EXTINF:-1 group-title="Sport" tvg-logo="", Play Sports 2
+http://bananatv.org:25461/play/qjTtd6c1Izx4JkSoVRirdCN-4hTelXuygvOV9k4v5OA/ts
+#EXTINF:-1 group-title="Sport" tvg-logo="", Play Sports 3
+http://bananatv.org:25461/play/qjTtd6c1Izx4JkSoVRirdHW2t8HW97oWJuI55m_jeoE/ts
+#EXTINF:-1 group-title="Sport" tvg-logo="", Eleven Sport 1
+http://bananatv.org:25461/play/qjTtd6c1Izx4JkSoVRirdJdnQrorJ66R4yDRvS5sWsI/ts
+#EXTINF:-1 group-title="Sport" tvg-logo="", Eleven Sport 2
+http://bananatv.org:25461/play/qjTtd6c1Izx4JkSoVRirdM3gOlBxyB9rrWglIyAc7zs/ts
+#EXTINF:-1 group-title="Sport" tvg-logo="", Eleven Sport 3
+http://bananatv.org:25461/play/qjTtd6c1Izx4JkSoVRirdC-8fPO61truzRR63H_dBkY/ts
+#EXTINF:-1 group-title="Sport" tvg-logo="", Eleven Sport 4
+http://bananatv.org:25461/play/qjTtd6c1Izx4JkSoVRirdIuALGM4k96-6c8-8lFacGU/ts
+#EXTINF:-1 group-title="Sport" tvg-logo="", Eleven Sport 5
+http://bananatv.org:25461/play/qjTtd6c1Izx4JkSoVRirdFgDMNfHnouYoG5fpQyNBhI/ts
+#EXTINF:-1 group-title="Sport" tvg-logo="", Eleven Sport 6
+http://bananatv.org:25461/play/qjTtd6c1Izx4JkSoVRirdLkrnQYO_OBVcwbHhKQpXPM/ts
+#EXTINF:-1 group-title="Sport" tvg-logo="", TEN 1 (SONY LIV)
+http://bananatv.org:25461/play/qjTtd6c1Izx4JkSoVRirdHuuv59E1KVbf7igXqf3pdU/ts
+#EXTINF:-1 group-title="Sport" tvg-logo="", TEN 2 (SONY LIV)
+http://bananatv.org:25461/play/qjTtd6c1Izx4JkSoVRirdJnGJQRG65ByPiRj7pNCwj4/ts
+#EXTINF:-1 group-title="Sport" tvg-logo="", TEN 3 (SONY LIV)
+http://bananatv.org:25461/play/qjTtd6c1Izx4JkSoVRirdFu5qZPWHhBAnH6scmG0HDg/ts
+#EXTINF:-1 group-title="Sport" tvg-logo="", TEN 4 (SONY LIV)
+http://bananatv.org:25461/play/qjTtd6c1Izx4JkSoVRirdGAqWmtfS7YkmzqPBGr_J_4/ts
+#EXTINF:-1 group-title="Sport" tvg-logo="", TEN 5 (SONY LIV)
+http://bananatv.org:25461/play/qjTtd6c1Izx4JkSoVRirdN5sfOYMuIzX3XpEYH9x6g8/ts
+#EXTINF:-1 group-title="Sport" tvg-logo="", TNT Sport 1
+http://bananatv.org:25461/play/qjTtd6c1Izx4JkSoVRirdBehglCA5FY6k7IlZU6DQ1U/ts
+#EXTINF:-1 group-title="Sport" tvg-logo="", TNT Sport 2
+http://bananatv.org:25461/play/qjTtd6c1Izx4JkSoVRirdEufUqFsm6b3TV9w1KSvy9M/ts
+#EXTINF:-1 group-title="Sport" tvg-logo="", TNT Sport 3
+http://bananatv.org:25461/play/qjTtd6c1Izx4JkSoVRirdGutEKiKq6qzsjGRObk2qUM/ts
+#EXTINF:-1 group-title="Sport" tvg-logo="", TNT Sport 4
+http://bananatv.org:25461/play/qjTtd6c1Izx4JkSoVRirdMGlgfcaUg_JsEB05kqpMt0/ts
+#EXTINF:-1 group-title="Sport" tvg-logo="", Match Futbol 1
+http://bananatv.org:25461/play/qjTtd6c1Izx4JkSoVRirdBiKXq0vLUjIrVzWFnrDd-I/ts
+#EXTINF:-1 group-title="Sport" tvg-logo="", Match Futbol 2
+http://bananatv.org:25461/play/qjTtd6c1Izx4JkSoVRirdDv5rhnOJ3LORsfsNqpWpd4/ts
+#EXTINF:-1 group-title="Sport" tvg-logo="", Match Futbol 3
+http://bananatv.org:25461/play/qjTtd6c1Izx4JkSoVRirdIynhCaQGUj70mk-KLhQKgk/ts
+#EXTINF:-1 group-title="Sport" tvg-logo="", Arenasport 1 Premium
+http://bananatv.org:25461/play/qjTtd6c1Izx4JkSoVRirdEwuJg1i28P9a_iIrAcRVcE/ts
+#EXTINF:-1 group-title="Sport" tvg-logo="", Arena Sport 2 Premium
+http://bananatv.org:25461/play/qjTtd6c1Izx4JkSoVRirdI1O7pw7mvJ96pQ_poMDQGM/ts
+#EXTINF:-1 group-title="Sport" tvg-logo="", Arenasport 3 Premium
+http://bananatv.org:25461/play/qjTtd6c1Izx4JkSoVRirdKCUwcs_tqv74rcQKG30Go4/ts
+#EXTINF:-1 group-title="Sport" tvg-logo="", Arena Sport 1
+http://bananatv.org:25461/play/qjTtd6c1Izx4JkSoVRirdOBXze6MvfgdOfKkHZQH1_I/ts
+#EXTINF:-1 group-title="Sport" tvg-logo="", Arena Sport 2
+http://bananatv.org:25461/play/qjTtd6c1Izx4JkSoVRirdMxBGERfPf_9cv0zR5KWka8/ts
+#EXTINF:-1 group-title="Sport" tvg-logo="", Arena Sport 3
+http://bananatv.org:25461/play/qjTtd6c1Izx4JkSoVRirdG85RnzMJsIqrEOjABfK38w/ts
+#EXTINF:-1 group-title="Sport" tvg-logo="", Arenasport 4
+http://bananatv.org:25461/play/qjTtd6c1Izx4JkSoVRirdAqizLDj_2hM4FiBQTbI0Vc/ts
+#EXTINF:-1 group-title="Sport" tvg-logo="", Arena Sport 5
+http://bananatv.org:25461/play/qjTtd6c1Izx4JkSoVRirdOqTKjirmDDfSvt5_5mFndY/ts
+#EXTINF:-1 group-title="Sport" tvg-logo="", Arena Sport 6
+http://bananatv.org:25461/play/qjTtd6c1Izx4JkSoVRirdKpvHXACpAttEvQVVeUylOo/ts
+#EXTINF:-1 group-title="Sport" tvg-logo="", Arena sport 1x2
+http://bananatv.org:25461/play/qjTtd6c1Izx4JkSoVRirdIlYNRYiWf5yyWODm_FKWgg/ts
+#EXTINF:-1 group-title="Sport" tvg-logo="", Supersport Football HD
+http://bananatv.org:25461/play/qjTtd6c1Izx4JkSoVRirdLxfAQg8FmN-GL5PxF1ki40/ts
+#EXTINF:-1 group-title="Sport" tvg-logo="", Astro Super Sport Plus
+http://bananatv.org:25461/play/qjTtd6c1Izx4JkSoVRirdNt7d7_QfHZRS-ho_J3vsn8/ts
+#EXTINF:-1 group-title="Sport" tvg-logo="", Nat Geo WIld
+http://bananatv.org:25461/play/qjTtd6c1Izx4JkSoVRirdGBhiuVHdHVTFHJky5gmy0Y/ts
+#EXTINF:-1 group-title="Sport" tvg-logo="", Nat Geo
+http://bananatv.org:25461/play/qjTtd6c1Izx4JkSoVRirdIL8xzX5dRtptmmodzWMUfA/ts
+#EXTINF:-1 group-title="Sport" tvg-logo="", Astro premier Sports
+http://bananatv.org:25461/play/qjTtd6c1Izx4JkSoVRirdBqVznW61o6YCUZhEoCrBLo/ts
+#EXTINF:-1 group-title="Sport" tvg-logo="", Astro Premier
+http://bananatv.org:25461/play/qjTtd6c1Izx4JkSoVRirdEiNwGQ7miKdY9PjY1ATKf0/ts
+#EXTINF:-1 group-title="Sport" tvg-logo="", Beinsport 1 Astro
+http://bananatv.org:25461/play/qjTtd6c1Izx4JkSoVRirdD563hl48kjltWoG-VBF23s/ts
+#EXTINF:-1 group-title="Sport" tvg-logo="", Beinsport 2 Astro
+http://bananatv.org:25461/play/qjTtd6c1Izx4JkSoVRirdEjDRf6FZ-NYOklUNpUY7fE/ts
+#EXTINF:-1 group-title="Sport" tvg-logo="", Beinsport 3 Astro
+http://bananatv.org:25461/play/qjTtd6c1Izx4JkSoVRirdPbOygSIRxXl89AMkJEBygc/ts
+#EXTINF:-1 group-title="Sport" tvg-logo="", SPOTV 1 Astro
+http://bananatv.org:25461/play/qjTtd6c1Izx4JkSoVRirdEHdnIkgitJ51-pJ9pGGFmk/ts
+#EXTINF:-1 group-title="Sport" tvg-logo="", SPOTV 2 Astro
+http://bananatv.org:25461/play/qjTtd6c1Izx4JkSoVRirdJC-kHogZufVhdG7D9kd-ok/ts
+#EXTINF:-1 group-title="Sport" tvg-logo="", V Sport 1
+http://bananatv.org:25461/play/qjTtd6c1Izx4JkSoVRirdMjPzpJdSNWdZEAXGQYs5qw/ts
+#EXTINF:-1 group-title="Sport" tvg-logo="", V Sport 2
+http://bananatv.org:25461/play/qjTtd6c1Izx4JkSoVRirdD5zPlkp7GKq6zk2nx9mU1A/ts
+#EXTINF:-1 group-title="Sport" tvg-logo="", V Sport 3
+http://bananatv.org:25461/play/qjTtd6c1Izx4JkSoVRirdOCI8brUfqiwlT0ghrhUGKk/ts
+#EXTINF:-1 group-title="Sport" tvg-logo="", Prima Sports
+http://bananatv.org:25461/play/qjTtd6c1Izx4JkSoVRirdBvNPxY5X9-j5z1iG0ZohPI/ts
+#EXTINF:-1 group-title="Sport" tvg-logo="", UEFA Live 1
+http://bananatv.org:25461/play/qjTtd6c1Izx4JkSoVRirdKjBrK8_VFF6HM-W60_hvF0/ts
+#EXTINF:-1 group-title="Sport" tvg-logo="", UEFA Live 2
+http://bananatv.org:25461/play/qjTtd6c1Izx4JkSoVRirdHZrs7yJWckPUNesrriC7-4/ts
+#EXTINF:-1 group-title="Sport" tvg-logo="", UEFA Live 3
+http://bananatv.org:25461/play/qjTtd6c1Izx4JkSoVRirdGaVmGGYI82Orpy4vLDGR2A/ts
+#EXTINF:-1 group-title="Sport" tvg-logo="", Orange Sport 1
+http://bananatv.org:25461/play/qjTtd6c1Izx4JkSoVRirdDg1pRLdgCZJ0vx5unRY2Hk/ts
+#EXTINF:-1 group-title="Sport" tvg-logo="", Orange Sport 2
+http://bananatv.org:25461/play/qjTtd6c1Izx4JkSoVRirdG05mMCFw31bviOZRRyry_s/ts
+#EXTINF:-1 group-title="Sport" tvg-logo="", Orange Sport 3
+http://bananatv.org:25461/play/qjTtd6c1Izx4JkSoVRirdEHRhuJbESeKeB_UuBDByZo/ts
+#EXTINF:-1 group-title="Sport" tvg-logo="", Orange Sport 4
+http://bananatv.org:25461/play/qjTtd6c1Izx4JkSoVRirdLrl2DRWCQbpbMpxsF869MY/ts
 #EXTINF:-1 group-title="Sport" tvg-logo="", ESPN*
 http://38.96.178.201:80/live/ESPNews/index.m3u8
 #EXTINF:-1 group-title="Sport" tvg-logo="", CBS*
