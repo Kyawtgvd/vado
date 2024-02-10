@@ -622,6 +622,36 @@ https://edge1.laotv.la/live/TSport1/index.m3u8
 https://edge1.laotv.la/live/TSport2/index.m3u8
 #EXTINF:-1 tvg-logo="https://logos-world.net/wp-content/uploads/2023/06/USA-Network-Logo.png" group-title="Sport / Football", USA Network (38)
 http://38.96.178.201:80/live/USA/index.m3u8
+#EXTINF:-1 tvg-logo="https://watchindia.net/images/channels/sports/Star_Sports_Select_1_HD.png" group-title="Sport / Football", Star Sports Select 1 (watch)
+http://watchindia.net:8880/live/72695/24354/2292.ts
+#EXTINF:-1 tvg-logo="https://watchindia.net/images/channels/sports/Star_Sports_Select_2_HD.png" group-title="Sport / Football", Star Sports Select 2 (watch)
+http://watchindia.net:8880/live/72695/24354/1070.ts
+#EXTINF:-1 tvg-logo="https://watchindia.net/images/channels/sports/Sports_18.png" group-title="Sport / Football", Sports 18 (watch)
+http://watchindia.net:8880/live/72695/24354/2423.ts
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/tt/tnt-sports-1-uk.png" group-title="Sport / Football", BT SPORT 1 FHD (allm)
+http://allm4f1x.russtv.net/iptv/XVGY7MPHN39K6P/6566/index.m3u8
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/tt/tnt-sports-2-uk.png" group-title="Sport / Football", BT SPORT 2 FHD (allm)
+http://allm4f1x.russtv.net/iptv/XVGY7MPHN39K6P/6565/index.m3u8
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/tt/tnt-sports-3-uk.png" group-title="Sport / Football", BT SPORT 3 FHD (allm)
+http://allm4f1x.russtv.net/iptv/XVGY7MPHN39K6P/6564/index.m3u8
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/tt/tnt-sports-4-uk.png" group-title="Sport / Football", BT SPORT ESPN FHD (allm)
+http://allm4f1x.russtv.net/iptv/XVGY7MPHN39K6P/6563/index.m3u8
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ff/fox_sports_us_1.png" group-title="Sport / Football", FOX SPORTS 1 (allm)
+http://allm4f1x.russtv.net/iptv/XVGY7MPHN39K6P/7322/index.m3u8
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ff/fox_sports_us_2.png" group-title="Sport / Football", FOX SPORTS 2 (allm)
+http://allm4f1x.russtv.net/iptv/XVGY7MPHN39K6P/7323/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/60/ESPN_logos.png" group-title="Sport / Football", ESPN 1 (allm)
+http://allm4f1x.russtv.net/iptv/XVGY7MPHN39K6P/19156/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/60/ESPN_logos.png" group-title="Sport / Football", ESPN 2 (allm)
+http://allm4f1x.russtv.net/iptv/XVGY7MPHN39K6P/19155/index.m3u8
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/vv/v-sport-suomi-fi.png" group-title="Sport / Football", V SPORT (allm)
+http://allm4f1x.russtv.net/iptv/XVGY7MPHN39K6P/12075/index.m3u8
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/vv/v-sport-suomi-fi.png" group-title="Sport / Football", V SPORT PREMIUM (allm)
+http://allm4f1x.russtv.net/iptv/XVGY7MPHN39K6P/12079/index.m3u8
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/vv/v-sport-suomi-fi.png" group-title="Sport / Football", V SPORT FOOTBAL (allm)
+http://allm4f1x.russtv.net/iptv/XVGY7MPHN39K6P/12076/index.m3u8
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/vv/v-sport-suomi-fi.png" group-title="Sport / Football", V SPORT EXTRA (allm)
+http://allm4f1x.russtv.net/iptv/XVGY7MPHN39K6P/12074/index.m3u8
 #EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/india/star-sports-select-1-in.png" group-title="Sport / Football", Star Sport Select 1 (tuy)
 http://tuyullxt@mag.x-iptv.live/play/live.php?mac=00:1A:79:23:25:61&stream=155972&extension=ts&play_token=tuyullxt@.ts
 #EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/india/star-sports-select-2-in.png" group-title="Sport / Football", Star Sport Select 2 (tuy)
@@ -743,6 +773,42 @@ https://l1-xl1.myanmarnet.com/relay/channelk/ch1/stream_hi/index.m3u8
 https://5a13fe32ef748.streamlock.net/mmplay/mrtv-entertainment/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/num/5-plus-mm.png" group-title="Myanmar / International", 5 Plus
 https://5a13fe32ef748.streamlock.net/mmplay/5plus/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/cc/channel_9_mm.png" group-title="Myanmar / International", Channel 9
+http://bananatv.org:25461/play/qjTtd6c1Izx4JkSoVRirdCBboz3mu5IvzO6xTHOFpt0/ts
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/yy/ytv-mm.png" group-title="Myanmar / International", YTV
+http://bananatv.org:25461/play/qjTtd6c1Izx4JkSoVRirdLkoDayDUtY-rBFCyJUXvq4/ts
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ff/fortune-tv-mm.png" group-title="Myanmar / International", Fortune Tv
+http://bananatv.org:25461/play/qjTtd6c1Izx4JkSoVRirdFXr0FXBNP_JZby0a9H55N0/ts
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ss/sky_net_myanmar_movies.png" group-title="Myanmar / International", Thukhuma 1
+http://bananatv.org:25461/play/qjTtd6c1Izx4JkSoVRirdADnS9t1VZTHyg9SFGMBHaA/ts
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ss/sky_net_myanmar_movies.png" group-title="Myanmar / International", Thukhuma 2
+http://bananatv.org:25461/play/qjTtd6c1Izx4JkSoVRirdFxWh4QRbD1P8Sj_tc22JCQ/ts
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/mm/mttv-mm.png" group-title="Myanmar / International", C act
+http://bananatv.org:25461/play/qjTtd6c1Izx4JkSoVRirdAXmq4vGTPl-LtPeQ-v_yPY/ts
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/mm/mttv-mm.png" group-title="Myanmar / International", C zat
+http://bananatv.org:25461/play/qjTtd6c1Izx4JkSoVRirdFuCsZrAxpNrJhJnnF4QJxY/ts
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/mm/mttv-mm.png" group-title="Myanmar / International", C mae
+http://bananatv.org:25461/play/qjTtd6c1Izx4JkSoVRirdIc-C_JiRtKxkzvHnX9okdo/ts
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/mm/mttv-mm.png" group-title="Myanmar / International", C pu
+http://bananatv.org:25461/play/qjTtd6c1Izx4JkSoVRirdC1jMLD6Wgveb96QC5lR_J4/ts
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/mm/mttv-mm.png" group-title="Myanmar / International", C cha
+http://bananatv.org:25461/play/qjTtd6c1Izx4JkSoVRirdDu8k2KybEUMvlqyVc5rPtg/ts
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ss/sky_net_international_drama.png" group-title="Myanmar / International", S drama 
+http://bananatv.org:25461/play/qjTtd6c1Izx4JkSoVRirdNpAlvDYL9-n_tyz-8e7n0w/ts
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ss/sky_net_world_movies.png" group-title="Myanmar / International", World Movies (M-Sub)
+http://bananatv.org:25461/play/qjTtd6c1Izx4JkSoVRirdKohGY6XBKesLwunXKtf2HE/ts
+#EXTINF:-1  tvg-logo="https://www.lyngsat.com/logo/tv/ss/sky-net-action-movies-mm.png" group-title="Myanmar / International", Action Movies (M-Sub)
+http://bananatv.org:25461/play/qjTtd6c1Izx4JkSoVRirdNlWhT4ZTZPFSxR4iRYrPSA/ts
+#EXTINF:-1  tvg-logo="https://www.lyngsat.com/logo/tv/ss/sky-net-action-movies-mm.png" group-title="Myanmar / International", Rock Action (M-Sub)
+http://bananatv.org:25461/play/qjTtd6c1Izx4JkSoVRirdEIjy7gUY62hBcuRkobkklk/ts
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ss/sky_net_world_movies.png" group-title="Myanmar / International", HBO
+http://bananatv.org:25461/play/qjTtd6c1Izx4JkSoVRirdCf318CJntFxDu_0RLmKzMY/ts
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ss/sky_net_world_movies.png" group-title="Myanmar / International", HBO Family
+http://bananatv.org:25461/play/qjTtd6c1Izx4JkSoVRirdIVfOCWwnGHtyiHq--oe3XI/ts
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ss/sky_net_world_movies.png" group-title="Myanmar / International", HBO HIts
+http://bananatv.org:25461/play/qjTtd6c1Izx4JkSoVRirdC9gk_W8ayRHOT52yEZDJTg/ts
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ss/sky_net_world_movies.png" group-title="Myanmar / International", Cinemax
+http://bananatv.org:25461/play/qjTtd6c1Izx4JkSoVRirdE53W4ckdCYG7mGfrPCt9R0/ts
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/mm/myanmar-international-tv-mm.png" group-title="Myanmar / International", MITV
 https://5a13fe32ef748.streamlock.net/mmplay/mitv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/mm/mn_tv_mm.png" group-title="Myanmar / International", MNTV
