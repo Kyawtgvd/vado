@@ -622,12 +622,6 @@ https://edge1.laotv.la/live/TSport1/index.m3u8
 https://edge1.laotv.la/live/TSport2/index.m3u8
 #EXTINF:-1 tvg-logo="https://logos-world.net/wp-content/uploads/2023/06/USA-Network-Logo.png" group-title="Sport / Football", USA Network (38)
 http://38.96.178.201:80/live/USA/index.m3u8
-#EXTINF:-1 tvg-logo="https://watchindia.net/images/channels/sports/Star_Sports_Select_1_HD.png" group-title="Sport / Football", Star Sports Select 1 (watch)
-http://watchindia.net:8880/live/72695/24354/2292.ts
-#EXTINF:-1 tvg-logo="https://watchindia.net/images/channels/sports/Star_Sports_Select_2_HD.png" group-title="Sport / Football", Star Sports Select 2 (watch)
-http://watchindia.net:8880/live/72695/24354/1070.ts
-#EXTINF:-1 tvg-logo="https://watchindia.net/images/channels/sports/Sports_18.png" group-title="Sport / Football", Sports 18 (watch)
-http://watchindia.net:8880/live/72695/24354/2423.ts
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ff/fox_sports_us_1.png" group-title="Sport / Football", FOX SPORTS 1 (allm)
 http://allm4f1x.russtv.net/iptv/XVGY7MPHN39K6P/7322/index.m3u8
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ff/fox_sports_us_2.png" group-title="Sport / Football", FOX SPORTS 2 (allm)
@@ -704,20 +698,6 @@ http://28b304f4.edemist.com/iptv/NMCWA9PDLXUCX4/12250/index.m3u8
 http://28b304f4.edemist.com/iptv/NMCWA9PDLXUCX4/12251/index.m3u8
 #EXTINF:-1 tvg-logo="https://www.thesportsdb.com/images/media/channel/tvlogo/km8o4f1627494329.png" group-title="Sport / Football", Sport Israel 4 EPL (edemist)
 http://28b304f4.edemist.com/iptv/NMCWA9PDLXUCX4/12252/index.m3u8
-#EXTINF:-1 tvg-logo="https://www.thesportsdb.com/images/media/channel/tvlogo/5exn7j1631279352.png" group-title="Sport / Football", beIN Sports 1 (carmel)
-http://carmeltv.live:80/EXCHANGEukmed/QHZ5pjF7UdKx/61155
-#EXTINF:-1 tvg-logo="https://seeklogo.com/images/B/bein-sports-2-logo-56F85DDE25-seeklogo.com.png" group-title="Sport / Football", beIN Sports 2 (carmel)
-http://carmeltv.live:80/EXCHANGEukmed/QHZ5pjF7UdKx/61156
-#EXTINF:-1 tvg-logo="http://rrlogos.ptwo.ch/Picon/PT/elevensports1.png" group-title="Sport / Football", ELEVEN SPORTS 1 (carmel)
-http://carmeltv.live:80/EXCHANGEukmed/QHZ5pjF7UdKx/54556
-#EXTINF:-1 tvg-logo="http://rrlogos.ptwo.ch/Picon/PT/elevensports2.png" group-title="Sport / Football", ELEVEN SPORTS 2 (carmel)
-http://carmeltv.live:80/EXCHANGEukmed/QHZ5pjF7UdKx/54557
-#EXTINF:-1 tvg-logo="http://rrlogos.ptwo.ch/Picon/PT/elevensports3.png" group-title="Sport / Football", ELEVEN SPORTS 3 (carmel)
-http://carmeltv.live:80/EXCHANGEukmed/QHZ5pjF7UdKx/54558
-#EXTINF:-1 tvg-logo="http://rrlogos.ptwo.ch/Picon/PT/elevensports4.png" group-title="Sport / Football", ELEVEN SPORTS 4 (carmel)
-http://carmeltv.live:80/EXCHANGEukmed/QHZ5pjF7UdKx/54559
-#EXTINF:-1 tvg-logo="http://rrlogos.ptwo.ch/Picon/PT/elevensports5.png" group-title="Sport / Football", ELEVEN SPORTS 5 (carmel)
-http://carmeltv.live:80/EXCHANGEukmed/QHZ5pjF7UdKx/54560
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ss/sony-sports-ten-1-in.png" group-title="Sport / Football", Sony Ten Sport 1 (dai)
 https://dai.google.com/linear/hls/event/6WhVNGKTRXyu588zZv1Lkg/master.m3u8
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ss/sony-sports-ten-2-in.png" group-title="Sport / Football", Sony Ten Sport 2 (dai)
