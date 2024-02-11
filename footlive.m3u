@@ -632,6 +632,17 @@ https://i.mjh.nz/SamsungTVPlus/ESBC2700009B4.m3u8
 #EXTINF:-1 tvg-logo="https://www.cabletv.com/app/uploads/fifa-plus-logo-small.png" group-title="Sport / Football", FIFA Plus 4 (sam)
 https://i.mjh.nz/SamsungTVPlus/ATBA3300007PT.m3u8
 
+#EXTINF:-1 tvg-logo="https://www.thesportsdb.com/images/media/channel/tvlogo/sdvs4u1659622094.png" group-title="4K / UHD", Hub Sport PL 4K @Co Moe (Vpn-Germany)
+http://apk.zentv4k.me:80/play/live.php?mac=00:1A:79:bf:37:f3&stream=484466&extension=ts
+#EXTINF:-1 tvg-logo="https://i.goalzz.com/?i=o/h/1/643/v-sport-ultra-1.png" group-title="4K / UHD", V Sport Ultra 4K @Co Moe (Vpn-Germany)
+http://apk.zentv4k.me:80/play/live.php?mac=00:1A:79:bf:37:f3&stream=483974&extension=ts
+#EXTINF:-1 tvg-logo="https://cne-eg.com/uploads/logos/2021114237606.png" group-title="4K / UHD", Bein Sports 4K @Co Moe (Vpn-Germany)
+http://apk.zentv4k.me:80/play/live.php?mac=00:1A:79:bf:37:f3&stream=706541&extension=ts
+#EXTINF:-1 tvg-logo="https://www.thesportsdb.com/images/media/channel/tvlogo/sdvs4u1659622094.png" group-title="4K / UHD", EPL 1 4K @Co Moe (Vpn-UK London)
+http://apk.zentv4k.me:80/play/live.php?mac=00:1a:79:00:00:0a&stream=661427&extension=ts
+#EXTINF:-1 tvg-logo="https://www.thesportsdb.com/images/media/tvlogo/Sky_Sport_UHD.png" group-title="4K / UHD", Sky Sports Main Event UHD @Co Moe (Vpn-UK London)
+http://apk.zentv4k.me:80/play/live.php?mac=00:1a:79:00:00:0a&stream=494229&extension=ts
+
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/mm/mahar_bawdi_tv_mm.png" group-title="Myanmar / International", Maharbawdi 
 https://ppradio.b-cdn.net/LiveApp/streams/rHEBIW7pjQLU1677679374164.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ZWo91Vr.jpg" group-title="Myanmar / International", VOA 
@@ -668,6 +679,10 @@ http://bananatv.org:25461/play/qjTtd6c1Izx4JkSoVRirdIc-C_JiRtKxkzvHnX9okdo/ts
 http://bananatv.org:25461/play/qjTtd6c1Izx4JkSoVRirdC1jMLD6Wgveb96QC5lR_J4/ts
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/mm/mttv-mm.png" group-title="Myanmar / International", C cha
 http://bananatv.org:25461/play/qjTtd6c1Izx4JkSoVRirdDu8k2KybEUMvlqyVc5rPtg/ts
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/mm/mttv-mm.png" group-title="Myanmar / International", C sport 1
+http://bananatv.org:25461/play/qjTtd6c1Izx4JkSoVRirdNvRqvE2BrfNdHxgfN24GBI/ts
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/mm/mttv-mm.png" group-title="Myanmar / International", C sport 2
+http://bananatv.org:25461/play/qjTtd6c1Izx4JkSoVRirdOT-Z2isAvVvEOrtsuSUjvw/ts
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ss/sky_net_international_drama.png" group-title="Myanmar / International", S drama 
 http://bananatv.org:25461/play/qjTtd6c1Izx4JkSoVRirdNpAlvDYL9-n_tyz-8e7n0w/ts
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ss/sky_net_world_movies.png" group-title="Myanmar / International", World Movies (M-Sub)
