@@ -56,6 +56,74 @@ http://supersonictv.live:8080/419094/970686/86867
 http://supersonictv.live:8080/419094/970686/86868
 
 
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/aa/arena-premium-1-rs.png" group-title="Webudit", Arena Premium 1
+https://webudit.webhd.ru/lb/premium134/index.m3u8?|referer=weblivehdplay.ru/
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/aa/arena-premium-2-rs.png" group-title="Webudit", Arena Premium 2
+https://webudit.webhd.ru/lb/premium135/index.m3u8?|referer=weblivehdplay.ru/
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/aa/arena-premium-3-rs.png" group-title="Webudit", Arena Premium 3
+https://webudit.webhd.ru/lb/premium139/index.m3u8?|referer=weblivehdplay.ru/
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/aa/arena-sport-1-rs.png" group-title="Webudit", Arena Sport 1
+https://webudit.webhd.ru/lb/premium432/index.m3u8?|referer=weblivehdplay.ru/
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/aa/arena-sport-2-rs.png" group-title="Webudit", Arena Sport 2
+https://webudit.webhd.ru/lb/premium430/index.m3u8?|referer=weblivehdplay.ru/
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/aa/arena-sport-3-rs.png" group-title="Webudit", Arena Sport 3
+https://webudit.webhd.ru/lb/premium431/index.m3u8?|referer=weblivehdplay.ru/
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/aa/arena-sport-4-rs.png" group-title="Webudit", Arena Sport 4
+https://webudit.webhd.ru/lb/premium581/index.m3u8?|referer=weblivehdplay.ru/
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/aa/arena-sport-5-rs.png" group-title="Webudit", Arena Sport 5
+https://webudit.webhd.ru/lb/premium152/index.m3u8?|referer=weblivehdplay.ru/
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ss/supersport-premier-league-za.png" group-title="Webudit", Super Sports Premier League
+https://webudit.hlsjs.ru/lb/premium414/index.m3u8?|referer=weblivehdplay.ru/
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/oo/orange-sport-ro.png" group-title="Webudit", Orange Sport 1
+https://webudit.webhd.ru/lb/premium439/index.m3u8?|referer=weblivehdplay.ru/
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/oo/orange-sport-ro.png" group-title="Webudit", Orange Sport 2
+https://webudit.webhd.ru/lb/premium440/index.m3u8?|referer=weblivehdplay.ru/
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/oo/orange-sport-ro.png" group-title="Webudit", Orange Sport 3
+https://webudit.webhd.ru/lb/premium441/index.m3u8?|referer=weblivehdplay.ru/
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ee/eleven-sports-network-uk.png" group-title="Webudit", Eleven Sports 1
+https://webudit.hlsjs.ru/lb/premium455/index.m3u8?|referer=weblivehdplay.ru/
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ee/eleven-sports-network-uk.png" group-title="Webudit", Eleven Sports 2
+https://webudit.hlsjs.ru/lb/premium456/index.m3u8?|referer=weblivehdplay.ru/
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ee/eleven-sports-network-uk.png" group-title="Webudit", Eleven Sports 3
+https://webudit.hlsjs.ru/lb/premium457/index.m3u8?|referer=weblivehdplay.ru/
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ee/eleven-sports-network-uk.png" group-title="Webudit", Eleven Sports 4
+https://webudit.hlsjs.ru/lb/premium458/index.m3u8?|referer=weblivehdplay.ru/
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ee/eleven-sports-network-uk.png" group-title="Webudit", Eleven Sports 5
+https://webudit.hlsjs.ru/lb/premium459/index.m3u8?|referer=weblivehdplay.ru/
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/dd/digi_sport1_ro.png" group-title="Webudit", Digi Sport 1 
+https://webudit.webhd.ru/lb/premium400/index.m3u8?|referer=weblivehdplay.ru/
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/dd/digi_sport2_ro.png" group-title="Webudit", Digi Sport 2
+https://webudit.webhd.ru/lb/premium401/index.m3u8?|referer=weblivehdplay.ru/
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/dd/digi_sport3_ro.png" group-title="Webudit", Digi Sport 3
+https://webudit.webhd.ru/lb/premium402/index.m3u8?|referer=weblivehdplay.ru/
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/dd/digi_sport4_ro.png" group-title="Webudit", Digi Sport 4
+https://webudit.webhd.ru/lb/premium403/index.m3u8?|referer=weblivehdplay.ru/
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/aa/astro-supersport-my.png" group-title="Webudit", Astro Supersport 1
+https://webudit.webhd.ru/lb/premium123/index.m3u8?|referer=weblivehdplay.ru/
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/aa/astro-supersport-2-my.png" group-title="Webudit", Astro Supersport 2
+https://webudit.webhd.ru/lb/premium124/index.m3u8?|referer=weblivehdplay.ru/
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/aa/astro-supersport-3-my.png" group-title="Webudit", Astro Supersport 3
+https://webudit.webhd.ru/lb/premium125/index.m3u8?|referer=weblivehdplay.ru/
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/aa/astro-supersport-4-my.png" group-title="Webudit", Astro Supersport 4
+https://webudit.webhd.ru/lb/premium126/index.m3u8?|referer=weblivehdplay.ru/
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/tt/tnt-sports-uk-us-uk.png" group-title="Webudit", TNT Sports 1 
+https://webudit.webhd.ru/lb/premium31/index.m3u8?|referer=weblivehdplay.ru/
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/tt/tnt-sports-uk-us-uk.png" group-title="Webudit", TNT Sports 2
+https://webudit.webhd.ru/lb/premium32/index.m3u8?|referer=weblivehdplay.ru/
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/tt/tnt-sports-uk-us-uk.png" group-title="Webudit", TNT Sports 3
+https://webudit.webhd.ru/lb/premium33/index.m3u8?|referer=weblivehdplay.ru/
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/tt/tnt-sports-uk-us-uk.png" group-title="Webudit", TNT Sports 4
+https://webudit.webhd.ru/lb/premium34/index.m3u8?|referer=weblivehdplay.ru/
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ff/fox_sports_us_1.png" group-title="Webudit", Fox Sports 1
+https://webudit.webhd.ru/lb/premium39/index.m3u8?|referer=weblivehdplay.ru/
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ff/fox_sports_us_2.png" group-title="Webudit", Fox Sports 2
+https://webudit.webhd.ru/lb/premium758/index.m3u8?|referer=weblivehdplay.ru/
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/cc/cbs-kr.png" group-title="Webudit", CBS Sport Network
+https://webudit.webhd.ru/lb/premium308/index.m3u8?|referer=weblivehdplay.ru/
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/cc/cbs-kr.png" group-title="Webudit", CBS Sport NY
+https://webudit.webhd.ru/lb/premium52/index.m3u8?|referer=weblivehdplay.ru/
+
+
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/tt/tnt-sports-1-uk.png" group-title="EPL/UCL Special (no vpn)", TNT Sports 1 (tuy)
 http://tuyullxt@mag.x-iptv.live/play/live.php?mac=00:1A:79:23:25:61&stream=30567&extension=ts&play_token=tuyullxt@.ts
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/tt/tnt-sports-2-uk.png" group-title="EPL/UCL Special (no vpn)", TNT Sports 2 (tuy)
