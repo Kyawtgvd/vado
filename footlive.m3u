@@ -486,16 +486,36 @@ https://newedge.eu-central-1.edge.mycdn.live/live/vintequatrohrs5/playlist.m3u8?
 https://newedge.eu-central-1.edge.mycdn.live/live/esportes8/playlist.m3u8?|referer=https://futebolplayhd.com/
 #EXTINF:-1 tvg-logo="https://e7.pngegg.com/pngimages/873/769/png-clipart-espn-com-logo-espn-radio-others-text-label-thumbnail.png" group-title="Sport / Football", ESPN 3 (newedge)
 http://45.179.140.242:8000/play/a0je
+#EXTINF:-1 tvg-logo="https://e7.pngegg.com/pngimages/873/769/png-clipart-espn-com-logo-espn-radio-others-text-label-thumbnail.png" group-title="Sport / Football", ESPN DEPORTES (215)
+http://215602c2.kazaktelekom.com/iptv/D72CVTDTWM4NGY/19166/index.m3u8
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/cc/cbs-kr.png" group-title="Sport / Football", CBS Sports (38)
+http://38.96.178.201/live/CBSSports/index.m3u8
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ff/fox_sports_us_1.png" group-title="Sport / Football", Fox Sport 1 (38)
+http://38.96.178.201/live/FS1/index.m3u8
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ff/fox_sports_us_2.png" group-title="Sport / Football", Fox Sport 2 (38)
+http://38.96.178.201/live/FOXSPORTS2/index.m3u8
+#EXTINF:-1 tvg-logo="https://github.com/inspirationlinks/m3u/raw/live/Logos/arenapremium1.png" group-title="Sport / Football", Arena 1 Premium (94)
+http://94.250.2.6:10600/play/gtIDEfibBy
+#EXTINF:-1 tvg-logo="https://github.com/inspirationlinks/m3u/raw/live/Logos/arenapremium2.png" group-title="Sport / Football", Arena 2 Premium (94)
+http://94.250.2.6:10600/play/LjzYChqCJD
+#EXTINF:-1 tvg-logo="https://github.com/inspirationlinks/m3u/raw/live/Logos/arenapremium3.png" group-title="Sport / Football", Arena 3 Premium (94)
+http://94.250.2.6:10600/play/0QhXJ9nCVj
+#EXTINF:-1 tvg-logo="https://github.com/inspirationlinks/m3u/raw/live/Logos/arena1.png" group-title="Sport / Football", Arena Sport 1 (94)
+http://94.250.2.6:10600/play/sfwZs8fQbA
+#EXTINF:-1 tvg-logo="https://github.com/inspirationlinks/m3u/raw/live/Logos/arena2.png" group-title="Sport / Football", Arena Sport 2 (94)
+http://94.250.2.6:10600/play/uOcKOWbtpc
+#EXTINF:-1 tvg-logo="https://github.com/inspirationlinks/m3u/raw/live/Logos/arena3.png" group-title="Sport / Football", Arena Sport 3 (94)
+http://94.250.2.6:10600/play/Fj6334HwK3
+#EXTINF:-1 tvg-logo="https://img.sport-tv-guide.live/images/tv-station-tu-bein-sports-1-640.png" group-title="Sport / Football", beIN Sports 1 Turkey (rasta)
+http://rastawxo.biz:80/play/fMSzXMWg6CWjKBdjdustNErq0Xo-NUQh-AvVQC1PmLmHCw9cpCwcBCuGDqALdUcT/ts
+#EXTINF:-1 tvg-logo="https://img.sport-tv-guide.live/images/tv-station-tu-bein-sports-2-641.png" group-title="Sport / Football", beIN Sports 2 Turkey (rasta)
+http://rastawxo.biz:80/play/fMSzXMWg6CWjKBdjdustNAP_2ajFHVzgQjqpvgP4jCtQDRhJq72HqFvJ3YjXSGjV/ts
+#EXTINF:-1 tvg-logo="https://img.sport-tv-guide.live/images/tv-station-tu-bein-sports-3-642.png" group-title="Sport / Football", beIN Sports 3 Turkey EPL (rasta)
+http://rastawxo.biz:80/play/fMSzXMWg6CWjKBdjdustNIcGxNh58e0hDb_KqYtdCNE/ts
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/26/SporTV_2021.png" group-title="Sport / Football", Sportv 1 (newedge)
 https://newedge.eu-central-1.edge.mycdn.live/live/vintequatrohrs2/playlist.m3u8?|referer=https://futebolplayhd.com/
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/26/SporTV_2021.png" group-title="Sport / Football", Sportv 2 (newedge)
 https://newedge.eu-central-1.edge.mycdn.live/live/sportv224ha/playlist.m3u8?|referer=https://futebolplayhd.com/
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/60/ESPN_logos.png" group-title="Sport / Football", ESPN (143)
-http://143.244.60.30/ESPN/index.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/60/ESPN_logos.png" group-title="Sport / Football", ESPN DEPORTES (215)
-http://215602c2.kazaktelekom.com/iptv/D72CVTDTWM4NGY/19166/index.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/de/9/92/Fightbox_Logo.png" group-title="Sport / Football", FIGHT BOX (pro)
-http://iptv.prosto.tv:7000/ch118/video.m3u8
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ss/sony-sports-ten-1-in.png" group-title="Sport / Football", Sony Ten Sport 1 (dai)
 https://dai.google.com/linear/hls/event/6WhVNGKTRXyu588zZv1Lkg/master.m3u8
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ss/sony-sports-ten-2-in.png" group-title="Sport / Football", Sony Ten Sport 2 (dai)
@@ -518,6 +538,8 @@ https://node1.olelive.com:6443/live/CCTV5HD/hls.m3u8
 https://node1.olelive.com:6443/live/CCTV5PHD/hls.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/b8/MUTV_logo.png" group-title="Sport / Football", MU TV (bco)
 https://bcovlive-a.akamaihd.net/r2d2c4ca5bf57456fb1d16255c1a535c8/eu-west-1/6058004203001/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/de/9/92/Fightbox_Logo.png" group-title="Sport / Football", FIGHT BOX (pro)
+http://iptv.prosto.tv:7000/ch118/video.m3u8
 #EXTINF:-1 tvg-logo="https://www.cabletv.com/app/uploads/fifa-plus-logo-small.png" group-title="Sport / Football", FIFA Plus 1 (sam)
 https://i.mjh.nz/SamsungTVPlus/GBBD1100008YW.m3u8
 #EXTINF:-1 tvg-logo="https://www.cabletv.com/app/uploads/fifa-plus-logo-small.png" group-title="Sport / Football", FIFA Plus 2 (sam)
@@ -628,7 +650,7 @@ http://ctrl.laotv.la/live/Discovery/index.m3u8
 http://ctrl.laotv.la/live/AnimalPlanet/index.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTmWtneL0Mo_oIrwW5tB6jB8eQgf5Fy-8073g&usqp=CAU" group-title="Myanmar / International", K-Movies
 https://bd281c27a16f4a7fb4a88260378e8082.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung_NewMovies/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://image.pngaaa.com/558/2715558-middle.png" group-title="Myanmar / International", K-Drama
+#EXTINF:-1 tvg-logo="https://image.pngaaa.com/558/2715558-middle.png" group-title="Myanmar / International", K-Drama (with Televizo player)
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=425
 #EXTINF:-1 tvg-logo="https://www.sonypicturesnetworks.com/images/logos/PIX%20SD.png" group-title="Myanmar / International", Sony PIX
 https://dai.google.com/linear/hls/event/x7rXWd2ERZ2tvyQWPmO1HA/master.m3u8
