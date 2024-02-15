@@ -1,3 +1,18 @@
+#EXTINF:-1 group-title="Test" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/2/2c/C%2B_Sport_%282023%29.png", canal+ sport 🇵🇱
+http://89.187.179.242:1626/canal+sport
+#EXTINF:-1 group-title="Test" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/2/2c/C%2B_Sport_%282023%29.png", canal+ sport 2 🇵🇱
+http://89.187.179.242:12183/canal+sport2
+
+#EXTINF:-1 group-title="Test" tvg-logo="https://github.com/inspirationlinks/m3u/raw/live/Logos/beinSports.png", bein Sport 1ᴴᴰ 🇫🇷
+torrent://INFOHASH=58e454d067b9e25e40f3c62b3430b55ef6fead09
+#EXTINF:-1 group-title="Test" tvg-logo="https://github.com/inspirationlinks/m3u/raw/live/Logos/beinSports.png", bein Sport 2ᴴᴰ 🇫🇷
+torrent://INFOHASH=fa0a5dd9ecc3febbda8b6e1805c539a93fe515ac
+#EXTINF:-1 group-title="Test" tvg-logo="https://github.com/inspirationlinks/m3u/raw/live/Logos/PremierSport1.png", PremierSports 1 🇬🇧
+torrent://INFOHASH=13ddaf59c0f2d760fd3775acc254e13825206eac
+#EXTINF:-1 group-title="Test" tvg-logo="https://github.com/inspirationlinks/m3u/raw/live/Logos/PremierSports2.png", PremierSports 2 🇬🇧
+torrent://INFOHASH=086e4c7ccc0b80e2960a553d04dac1024c7787b9
+
+
 #EXTINF:-1 tvg-logo="https://images.supersport.com/media/yvuloxza/premier-league-1.png" group-title="Test", Sky Sports PremierLeague_NZ
 https://7pal.short.gy/skyspt8nz
 #EXTINF:-1 tvg-logo="https://img.sport-tv-guide.live/images/tv-station-bt-sport-1-97.png" group-title="Test", UK: BTSport 1 HD_🇬🇧
