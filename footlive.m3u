@@ -480,6 +480,22 @@ http://server.sibfungold.info:8080/naasiptv/z8l13b5CFOC20o0r1jz8/255
 http://cdn-main.lolokoko.tv/polsatsportp1.stream/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/pp/polsat-sport-premium-2-pl.png" group-title="Sport / Football", Polsat Sport Premium 2 (cdn)
 http://cdn-main.lolokoko.tv/polsatsportp2.stream/chunks.m3u8
+#EXTINF:-1 group-title="Sport / Football" tvg-logo="https://www.nowtv.now.com/media/logo/621-wbg-e.png", Now HK Premier Sports 1 EPL (7pal)
+https://7pal.short.gy/nowhkp1
+#EXTINF:-1 group-title="Sport / Football" tvg-logo="https://www.nowtv.now.com/media/logo/622-wbg-e.png", Now HK Premier Sports 2 EPL (7pal)
+https://7pal.short.gy/nowhkp2
+#EXTINF:-1 group-title="Sport / Football" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/e2/SkySportLogo2019.png/revision/latest?cb=20210619015201", Sky Sports NZ EPL (7pal)
+https://7pal.short.gy/skyspt8nz
+#EXTINF:-1 group-title="Sport / Football" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-bt-sport-1-97.png", TNT Sports 1 (7pal)
+https://7pal.short.gy/tntspts1
+#EXTINF:-1 group-title="Sport / Football" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-bt-sport-2-100.png", TNT Sports 2 (7pal)
+https://7pal.short.gy/tntspts2
+#EXTINF:-1 group-title="Sport / Football" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-bt-sport-3-108.png", TNT Sports 3 (7pal)
+https://7pal.short.gy/tntspts3
+#EXTINF:-1 group-title="Sport / Football" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/2/2c/C%2B_Sport_%282023%29.png", Canal+ Sport 1 Fr (89)
+http://89.187.179.242:1626/canal+sport
+#EXTINF:-1 group-title="Sport / Football" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/2/2c/C%2B_Sport_%282023%29.png", Canal+ Sport 2 Fr (89)
+http://89.187.179.242:12183/canal+sport2
 #EXTINF:-1 tvg-logo="https://e7.pngegg.com/pngimages/873/769/png-clipart-espn-com-logo-espn-radio-others-text-label-thumbnail.png" group-title="Sport / Football", ESPN 1 (newedge)
 https://newedge.eu-central-1.edge.mycdn.live/live/vintequatrohrs5/playlist.m3u8?|referer=https://futebolplayhd.com/
 #EXTINF:-1 tvg-logo="https://e7.pngegg.com/pngimages/873/769/png-clipart-espn-com-logo-espn-radio-others-text-label-thumbnail.png" group-title="Sport / Football", ESPN 2 (newedge)
@@ -549,6 +565,10 @@ https://i.mjh.nz/SamsungTVPlus/ESBC2700009B4.m3u8
 #EXTINF:-1 tvg-logo="https://www.cabletv.com/app/uploads/fifa-plus-logo-small.png" group-title="Sport / Football", FIFA Plus 4 (sam)
 https://i.mjh.nz/SamsungTVPlus/ATBA3300007PT.m3u8
 
+#EXTINF:-1 group-title="4K / UHD" tvg-logo="https://i.imgur.com/ETzQJdt.png", Sky Sports Main Event 4K (7pal)
+https://7pal.short.gy/SSMEuhd
+#EXTINF:-1 group-title="4K / UHD" tvg-logo="https://media.info/i/lf/0/1689874022/5824.png", TNT Sport Ultimate 4K (7pal)
+https://7pal.short.gy/TNTUltimate
 #EXTINF:-1 tvg-logo="https://www.thesportsdb.com/images/media/channel/tvlogo/sdvs4u1659622094.png" group-title="4K / UHD", Hub Sport PL 4K @Co Moe (Vpn-Germany)
 http://apk.zentv4k.me:80/play/live.php?mac=00:1A:79:bf:37:f3&stream=484466&extension=ts
 #EXTINF:-1 tvg-logo="https://i.goalzz.com/?i=o/h/1/643/v-sport-ultra-1.png" group-title="4K / UHD", V Sport Ultra 4K @Co Moe (Vpn-Germany)
