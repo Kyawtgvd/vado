@@ -504,16 +504,16 @@ https://edge1.laotv.la/live/TSport1/index.m3u8
 https://edge1.laotv.la/live/TSport2/index.m3u8
 #EXTINF:-1 tvg-logo="https://logos-world.net/wp-content/uploads/2023/06/USA-Network-Logo.png" group-title="Sport / Football", USA Network (38)
 http://38.96.178.201:80/live/USA/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/JRvJdR6/eleven1.png" group-title="Sport / Football", Eleven Sports 1 (iptn)
-http://iptv-tn.com:8080/Restrem@goodserver_telgshjhsrammm/nomorecable.xyz_excsjkskdjkshnage_exchp2.directtv1/84930
-#EXTINF:-1 tvg-logo="https://i.ibb.co/JpGPnd6/eleven2.png" group-title="Sport / Football", Eleven Sports 2 (iptn)
-http://iptv-tn.com:8080/Restrem@goodserver_telgshjhsrammm/nomorecable.xyz_excsjkskdjkshnage_exchp2.directtv1/84931
-#EXTINF:-1 tvg-logo="https://i.ibb.co/TWhTFW8/eleven3.png" group-title="Sport / Football", Eleven Sports 3 (iptn)
-http://iptv-tn.com:8080/Restrem@goodserver_telgshjhsrammm/nomorecable.xyz_excsjkskdjkshnage_exchp2.directtv1/84932
-#EXTINF:-1 tvg-logo="https://i.ibb.co/FW3fsK6/eleven4.png" group-title="Sport / Football", Eleven Sports 4 (iptn)
-http://iptv-tn.com:8080/Restrem@goodserver_telgshjhsrammm/nomorecable.xyz_excsjkskdjkshnage_exchp2.directtv1/84933
-#EXTINF:-1 tvg-logo="https://i.ibb.co/8rq35Zg/eleven5.png" group-title="Sport / Football", Eleven Sports 5 (iptn)
-http://iptv-tn.com:8080/Restrem@goodserver_telgshjhsrammm/nomorecable.xyz_excsjkskdjkshnage_exchp2.directtv1/84934
+#EXTINF:-1 tvg-logo="https://e7.pngegg.com/pngimages/873/769/png-clipart-espn-com-logo-espn-radio-others-text-label-thumbnail.png" group-title="Sport / Football", ESPN 1 EPL (newedge)
+https://newedge.eu-central-1.edge.mycdn.live/live/vintequatrohrs5/playlist.m3u8?|referer=https://futebolplayhd.com/
+#EXTINF:-1 tvg-logo="https://e7.pngegg.com/pngimages/873/769/png-clipart-espn-com-logo-espn-radio-others-text-label-thumbnail.png" group-title="Sport / Football", ESPN 2 (newedge)
+https://newedge.eu-central-1.edge.mycdn.live/live/esportes8/playlist.m3u8?|referer=https://futebolplayhd.com/
+#EXTINF:-1 tvg-logo="https://e7.pngegg.com/pngimages/873/769/png-clipart-espn-com-logo-espn-radio-others-text-label-thumbnail.png" group-title="Sport / Football", ESPN 3 (newedge)
+http://45.179.140.242:8000/play/a0je
+#EXTINF:-1 tvg-logo="https://e7.pngegg.com/pngimages/873/769/png-clipart-espn-com-logo-espn-radio-others-text-label-thumbnail.png" group-title="Sport / Football", ESPN DEPORTES (215)
+http://215602c2.kazaktelekom.com/iptv/D72CVTDTWM4NGY/19166/index.m3u8
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/tt/telemundo-mx.png" group-title="Sport / Football", TELEMUNDO (168)
+http://168.227.22.18:1935/live/mobile-040/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.nowtv.now.com/media/logo/621-wbg-e.png" group-title="Sport / Football", Now HK Premier Sports 1 EPL (7pal)
 https://7pal.short.gy/nowhkp1
 #EXTINF:-1 tvg-logo="https://www.nowtv.now.com/media/logo/622-wbg-e.png" group-title="Sport / Football", Now HK Premier Sports 2 EPL (7pal)
@@ -534,14 +534,6 @@ https://7pal.short.gy/tntspts3
 http://server.sibfungold.info:8080/naasiptv/z8l13b5CFOC20o0r1jz8/3602
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/tt/tnt-sports-4-uk.png" group-title="Sport / Football", TNT Sports 4 (server)
 http://server.sibfungold.info:8080/naasiptv/z8l13b5CFOC20o0r1jz8/255
-#EXTINF:-1 tvg-logo="https://e7.pngegg.com/pngimages/873/769/png-clipart-espn-com-logo-espn-radio-others-text-label-thumbnail.png" group-title="Sport / Football", ESPN 1 EPL (newedge)
-https://newedge.eu-central-1.edge.mycdn.live/live/vintequatrohrs5/playlist.m3u8?|referer=https://futebolplayhd.com/
-#EXTINF:-1 tvg-logo="https://e7.pngegg.com/pngimages/873/769/png-clipart-espn-com-logo-espn-radio-others-text-label-thumbnail.png" group-title="Sport / Football", ESPN 2 (newedge)
-https://newedge.eu-central-1.edge.mycdn.live/live/esportes8/playlist.m3u8?|referer=https://futebolplayhd.com/
-#EXTINF:-1 tvg-logo="https://e7.pngegg.com/pngimages/873/769/png-clipart-espn-com-logo-espn-radio-others-text-label-thumbnail.png" group-title="Sport / Football", ESPN 3 (newedge)
-http://45.179.140.242:8000/play/a0je
-#EXTINF:-1 tvg-logo="https://e7.pngegg.com/pngimages/873/769/png-clipart-espn-com-logo-espn-radio-others-text-label-thumbnail.png" group-title="Sport / Football", ESPN DEPORTES (215)
-http://215602c2.kazaktelekom.com/iptv/D72CVTDTWM4NGY/19166/index.m3u8
 #EXTINF:-1 tvg-logo="https://github.com/inspirationlinks/m3u/raw/live/Logos/arenapremium1.png" group-title="Sport / Football", Arena 1 Premium (94)
 http://94.250.2.6:10600/play/gtIDEfibBy
 #EXTINF:-1 tvg-logo="https://github.com/inspirationlinks/m3u/raw/live/Logos/arenapremium2.png" group-title="Sport / Football", Arena 2 Premium (94)
@@ -602,6 +594,8 @@ https://node1.olelive.com:6443/live/CCTV5PHD/hls.m3u8
 https://bcovlive-a.akamaihd.net/r2d2c4ca5bf57456fb1d16255c1a535c8/eu-west-1/6058004203001/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/de/9/92/Fightbox_Logo.png" group-title="Sport / Football", FIGHT BOX (pro)
 http://iptv.prosto.tv:7000/ch118/video.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/xsgYdKT/wwenetwork.png" group-title="Sport / Football", WWE Network (d2p)
+https://d2p372oxiwmcn1.cloudfront.net/hls/main.m3u8
 #EXTINF:-1 tvg-logo="https://www.cabletv.com/app/uploads/fifa-plus-logo-small.png" group-title="Sport / Football", FIFA Plus 1 (sam)
 https://i.mjh.nz/SamsungTVPlus/GBBD1100008YW.m3u8
 #EXTINF:-1 tvg-logo="https://www.cabletv.com/app/uploads/fifa-plus-logo-small.png" group-title="Sport / Football", FIFA Plus 2 (sam)
