@@ -358,8 +358,6 @@ https://kusnadipepenk.github.io/ntn/asp2.m3u8
 https://kusnadipepenk.github.io/ntn/asp3.m3u8
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/aa/astro-supersport-4-my.png" group-title="Sport", Astro Supersport 4 (kusna)
 https://kusnadipepenk.github.io/ntn/asp4.m3u8
-#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/tt/telemundo-mx.png" group-title="Sport", TELEMUNDO (168) SD
-http://168.227.22.18:1935/live/mobile-040/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://w7.pngwing.com/pngs/978/761/png-transparent-logo-of-nbc-universo-nbc-news-others-miscellaneous-television-text.png" group-title="Sport", UNIVERSO (168) SD
 http://168.227.22.18:1935/live/mobile-065/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://1000logos.net/wp-content/uploads/2021/05/ESPN-logo.png" group-title="Sport", ESPN 1 (168) SD
@@ -422,8 +420,6 @@ http://line.gofast-tv.me/play/live.php?mac=00:1a:79:b5:63:3c&stream=20581&extens
 http://line.gofast-tv.me/play/live.php?mac=00:1a:79:b5:63:3c&stream=880420&extension=m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/Polsat_Sport_Fight_2021_gradient.svg/1200px-Polsat_Sport_Fight_2021_gradient.svg.png" group-title="UFC/One Championship/WWE", Polsat Sport Fight (gofast)
 http://line.gofast-tv.me/play/live.php?mac=00:1a:79:b5:63:3c&stream=880469&extension=m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/xsgYdKT/wwenetwork.png" group-title="UFC/One Championship/WWE", WWE Network (d2p)
-https://d2p372oxiwmcn1.cloudfront.net/hls/main.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/xsgYdKT/wwenetwork.png" group-title="UFC/One Championship/WWE", WWE Network (tuy)
 http://tuyullxt@mag.x-iptv.live/play/live.php?mac=00:1A:79:23:25:61&stream=45462&extension=ts&play_token=tuyullxt@.ts
 #EXTINF:-1 group-title="UFC/One Championship/WWE" tvg-logo="https://i.postimg.cc/fTcTFsf5/WWE-and-SS.jpg", SuperSport WWE (sonic)
