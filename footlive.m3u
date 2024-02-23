@@ -32,19 +32,19 @@ https://dcf-ac-live.cdn.indazn.com/dashdrm/dazn-linear-059/stream.mpd?p=web
 
 
 
-#EXTINF:-1 group-title="PLAY SPORTS⭐" tvg-logo="https://i.ibb.co/ryjz8NB/playsports1.png", Play Sports 1
+#EXTINF:-1 group-title="PLAY SPORTS⭐" tvg-logo="https://i.ibb.co/ryjz8NB/playsports1.png", Play Sports 1 (EPL)
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"gvjioX2sRMChj2YEeTScWQ","k":"GxRPc+b+/pHNBfhQ4rWJ0A"}]}
 https://dce-ac-live.cdn.indazn.com/dash/dazn-linear-051/stream.mpd
 
-#EXTINF:-1 group-title="PLAY SPORTS⭐" tvg-logo="https://i.ibb.co/MB271LX/playsports2.png", Play Sports 2
+#EXTINF:-1 group-title="PLAY SPORTS⭐" tvg-logo="https://i.ibb.co/MB271LX/playsports2.png", Play Sports 2 (EPL)
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"gvjioX2sRMChj2YEeTScWQ","k":"GxRPc+b+/pHNBfhQ4rWJ0A"}]}
 https://dce-ac-live.cdn.indazn.com/dash/dazn-linear-052/stream.mpd
 
-#EXTINF:-1 group-title="PLAY SPORTS⭐" tvg-logo="https://i.ibb.co/ZGwTw4Q/playsports3.png", Play Sports 3
+#EXTINF:-1 group-title="PLAY SPORTS⭐" tvg-logo="https://i.ibb.co/ZGwTw4Q/playsports3.png", Play Sports 3 (EPL)
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"gvjioX2sRMChj2YEeTScWQ","k":"GxRPc+b+/pHNBfhQ4rWJ0A"}]}
@@ -94,37 +94,21 @@ https://etslive-2-vidio-com.akamaized.net/drm/dash/9353_stream.mpd
 #KODIPROP:inputstream.adaptive.license_key=002046c9a49b9ab1cdb6616bec5d26c3:d2f92f6b7edc9a1a05d393ba0c20ef9e
 https://fsly.stream.peacocktv.com/Content/CMAF_CTR-4s/Live/channel(vc1021n07j)/master.mpd
 
-
-
-#EXTINF:-1 group-title="TNT(BT)SPORTS⭐" tvg-logo="https://dnl.tntsports.co.uk/sd/img/structured-data/tntsports.jpg", TNT Sports 1
+#EXTINF:-1 group-title="EPL SPORTS⭐" tvg-logo="https://cdn.technadu.com/wp-content/uploads/2021/05/USA-Network-Logotype.jpg", CBS Sport
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=00079dbbb526c7cb40aec345e2b007d5:91e2e12e61a535528d3bc19371c26ea4
-https://linear114-ie-dash1-prd-ak.cdn.skycdp.com/016a/Content/DASH_003_sd/Live/channel(gcptntsport1)/manifest_sd.mpd
+#KODIPROP:inputstream.adaptive.license_key=c311b264f25748039736aa0dc64008d6:86055797afa5cb24feb2bc764b7a1813
+https://cors-proxy.elfsight.com/https://cip4-2048b75120.linear-novi.stvacdn.spectrum.com/LIVE/1105/dash/cenc/CBSSNHD_00500/manifest.mpd
 
-#EXTINF:-1 group-title="TNT(BT)SPORTS⭐" tvg-logo="https://dnl.tntsports.co.uk/sd/img/structured-data/tntsports.jpg", TNT Sports 2
+
+
+#EXTINF:-1 group-title="SKY SPORTS⭐" tvg-logo="https://pbs.twimg.com/profile_images/1605131756310614017/05qwHae-_400x400.jpg", Sky Sports Premier League (UK)
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=00097e84e48516bddc69ac1b75e23190:99e880e73769540def6d05e3b48bb838
-https://linear114-ie-dash1-prd-ak.cdn.skycdp.com/016a/Content/DASH_003_sd/Live/channel(gcptntsport2)/manifest_sd.mpd
-
-#EXTINF:-1 group-title="TNT(BT)SPORTS⭐" tvg-logo="https://dnl.tntsports.co.uk/sd/img/structured-data/tntsports.jpg", TNT Sports 3
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=0007de04e20a711de10e375df407d417:a28d98170c2f9b50f90b2f590933f685
-https://linear114-ie-dash1-prd-ak.cdn.skycdp.com/016a/Content/DASH_003_sd/Live/channel(gcptntsport3)/manifest_sd.mpd
-
-#EXTINF:-1 group-title="TNT(BT)SPORTS⭐" tvg-logo="https://dnl.tntsports.co.uk/sd/img/structured-data/tntsports.jpg", TNT Sports 4
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=0009df430980c91904926a291cf321fb:1564522f5b2d62bb5099ffb144f81e1e
-https://linear114-ie-dash1-prd-ak.cdn.skycdp.com/016a/Content/DASH_003_sd/Live/channel(gcptntsport4)/manifest_sd.mpd
-
-
+#KODIPROP:inputstream.adaptive.license_key=0005f05c21a77f9475e05b177e70111a:ca009f546f9348a3659d877e3f67ee19
+https://linear015-gb-dash1-prd-ll.cdn.skycdp.com/016a/Content/DASH_003_720_30/Live/channel(skysportspremierleague)/manifest_720.mpd
 
 #EXTINF:-1 group-title="SKY SPORTS⭐" tvg-logo="https://logodownload.org/wp-content/uploads/2020/06/sky-sports-logo-0-1.png", Sky Sports Uno (Italy)
 #KODIPROP:inputstreamaddon=inputstream.adaptive
@@ -341,12 +325,12 @@ https://api-proxad.dc2.oqee.net/playlist/v1/live/971/1/live.mpd
 
 
 
-#EXTINF:-1 group-title="DAZN SPORTS⭐" tvg-logo="https://img2.sport-tv-guide.live/images/tv-station-dazn-1-es-2510.png", DAZN 1 España
+#EXTINF:-1 group-title="DAZN SPORTS⭐" tvg-logo="https://img2.sport-tv-guide.live/images/tv-station-dazn-1-es-2510.png", DAZN 1 España (EPL)
 #KODIPROP:inputstream.adaptive.license_type=clearkey 
 #KODIPROP:inputstream.adaptive.license_key=82f8e2a17dac44c0a18f660479349c59:1b144f73e6fefe91cd05f850e2b589d0 
 https://dce-ac-live.cdn.indazn.com:443/dash/dazn-linear-037/stream.mpd?p=web 
 
-#EXTINF:-1 group-title="DAZN SPORTS⭐" tvg-logo="https://img.sport-tv-guide.live/images/stations/a2511.png", DAZN 2 España
+#EXTINF:-1 group-title="DAZN SPORTS⭐" tvg-logo="https://img.sport-tv-guide.live/images/stations/a2511.png", DAZN 2 España (EPL)
 #KODIPROP:inputstream.adaptive.license_type=clearkey 
 #KODIPROP:inputstream.adaptive.license_key=82f8e2a17dac44c0a18f660479349c59:1b144f73e6fefe91cd05f850e2b589d0 
 https://dce-ac-live.cdn.indazn.com:443/dash/dazn-linear-038/stream.mpd?p=web 
@@ -360,6 +344,11 @@ https://dce-ac-live.cdn.indazn.com:443/dash/dazn-linear-017/stream.mpd?p=web
 #KODIPROP:inputstream.adaptive.license_type=clearkey 
 #KODIPROP:inputstream.adaptive.license_key=82f8e2a17dac44c0a18f660479349c59:1b144f73e6fefe91cd05f850e2b589d0  
 https://dce-ac-live.cdn.indazn.com:443/dash/dazn-linear-018/stream.mpd?p=web 
+
+#EXTINF:-1 group-title="DAZN SPORTS⭐" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQCHAV2Wc5gz_bTziF1wEInmbibm5R4Ac4Jzw&usqp=CAU", DAZN LaLiga
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=43d1c3b25207ff38b22ccfe17d302367:7b1f85f6e81059473b114c16a25c829a
+https://live.ll.ww.aiv-cdn.net/OTTB/dub-nitro/live/clients/dash/enc/wjgklbtvhh/out/v1/659736a1e24c40e4865a80ffd75e7de7/cenc.mpd
 
 #EXTINF:-1 group-title="DAZN SPORTS⭐" tvg-logo="https://image.discovery.indazn.com/ca/v2/ca/image?id=909285445140_image-header_pIt_1661948686000&quality=70", DAZN Zona
 #KODIPROP:inputstream.adaptive.license_type=clearkey 
