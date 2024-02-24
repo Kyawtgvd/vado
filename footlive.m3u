@@ -1,34 +1,34 @@
 #EXTM3U
 
-#EXTINF:-1 group-title="ELEVEN SPORTS⭐" tvg-logo="https://i.ibb.co/tQx6Zzk/daznxeleven.png", Eleven Sports 1
+#EXTINF:-1 group-title="ELEVEN SPORTS⭐" tvg-logo="https://i.ibb.co/JRvJdR6/eleven1.png", Eleven Sports 1
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=82f8e2a17dac44c0a18f660479349c59&key=1b144f73e6fefe91cd05f850e2b589d0
-https://dcf-ac-live.cdn.indazn.com/dashdrm/dazn-linear-054/stream.mpd?p=web
+#KODIPROP:inputstream.adaptive.license_key=82f8e2a17dac44c0a18f660479349c59:1b144f73e6fefe91cd05f850e2b589d0
+https://dcf-ak-livedazn.akamaized.net/dashdrm/dazn-linear-054/stream.mpd
 
-#EXTINF:-1 group-title="ELEVEN SPORTS⭐" tvg-logo="https://i.ibb.co/tQx6Zzk/daznxeleven.png", Eleven Sports 2
+#EXTINF:-1 group-title="ELEVEN SPORTS⭐" tvg-logo="https://i.ibb.co/JpGPnd6/eleven2.png", Eleven Sports 2
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=82f8e2a17dac44c0a18f660479349c59&key=1b144f73e6fefe91cd05f850e2b589d0
-https://dcf-ac-live.cdn.indazn.com/dashdrm/dazn-linear-055/stream.mpd?p=web
+#KODIPROP:inputstream.adaptive.license_key=82f8e2a17dac44c0a18f660479349c59:1b144f73e6fefe91cd05f850e2b589d0
+https://dcf-ak-livedazn.akamaized.net/dashdrm/dazn-linear-055/stream.mpd
 
-#EXTINF:-1 group-title="ELEVEN SPORTS⭐" tvg-logo="https://i.ibb.co/tQx6Zzk/daznxeleven.png", Eleven Sports 3
+#EXTINF:-1 group-title="ELEVEN SPORTS⭐" tvg-logo="https://i.ibb.co/TWhTFW8/eleven3.png", Eleven Sports 3
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=82f8e2a17dac44c0a18f660479349c59&key=1b144f73e6fefe91cd05f850e2b589d0
-https://dcf-ac-live.cdn.indazn.com/dashdrm/dazn-linear-056/stream.mpd?p=web
+#KODIPROP:inputstream.adaptive.license_key=82f8e2a17dac44c0a18f660479349c59:1b144f73e6fefe91cd05f850e2b589d0
+https://dcf-ak-livedazn.akamaized.net/dashdrm/dazn-linear-056/stream.mpd
 
-#EXTINF:-1 group-title="ELEVEN SPORTS⭐" tvg-logo="https://i.ibb.co/tQx6Zzk/daznxeleven.png", Eleven Sports 4
+#EXTINF:-1 group-title="ELEVEN SPORTS⭐" tvg-logo="https://i.ibb.co/FW3fsK6/eleven4.png", Eleven Sports 4
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=82f8e2a17dac44c0a18f660479349c59&key=1b144f73e6fefe91cd05f850e2b589d0
-https://dcf-ac-live.cdn.indazn.com/dashdrm/dazn-linear-057/stream.mpd?p=web
+#KODIPROP:inputstream.adaptive.license_key=82f8e2a17dac44c0a18f660479349c59:1b144f73e6fefe91cd05f850e2b589d0
+https://dcf-ak-livedazn.akamaized.net/dashdrm/dazn-linear-057/stream.mpd
 
-#EXTINF:-1 group-title="ELEVEN SPORTS⭐" tvg-logo="https://i.ibb.co/tQx6Zzk/daznxeleven.png", Eleven Sports 5
+#EXTINF:-1 group-title="ELEVEN SPORTS⭐" tvg-logo="https://i.ibb.co/8rq35Zg/eleven5.png", Eleven Sports 5
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=82f8e2a17dac44c0a18f660479349c59&key=1b144f73e6fefe91cd05f850e2b589d0
-https://dcf-ac-live.cdn.indazn.com/dashdrm/dazn-linear-058/stream.mpd?p=web
+#KODIPROP:inputstream.adaptive.license_key=82f8e2a17dac44c0a18f660479349c59:1b144f73e6fefe91cd05f850e2b589d0
+https://dcf-ak-livedazn.akamaized.net/dashdrm/dazn-linear-058/stream.mpd
 
-#EXTINF:-1 group-title="ELEVEN SPORTS⭐" tvg-logo="https://i.ibb.co/tQx6Zzk/daznxeleven.png", Eleven Sports 6
+#EXTINF:-1 group-title="ELEVEN SPORTS⭐" tvg-logo="https://i.ibb.co/M2tbfJV/eleven6.png", Eleven Sports 6
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=82f8e2a17dac44c0a18f660479349c59&key=1b144f73e6fefe91cd05f850e2b589d0
-https://dcf-ac-live.cdn.indazn.com/dashdrm/dazn-linear-059/stream.mpd?p=web
+#KODIPROP:inputstream.adaptive.license_key=82f8e2a17dac44c0a18f660479349c59:1b144f73e6fefe91cd05f850e2b589d0
+https://dcf-ak-livedazn.akamaized.net/dashdrm/dazn-linear-059/stream.mpd
 
 
 
@@ -52,7 +52,7 @@ https://dce-ac-live.cdn.indazn.com/dash/dazn-linear-053/stream.mpd
 
 
 
-#EXTINF:-1 group-title="EPL SPORTS⭐" tvg-logo="https://logos-world.net/wp-content/uploads/2023/06/USA-Network-Logo.png", USA Network (East)
+#EXTINF:-1 group-title="EPL SPORTS⭐" tvg-logo="https://i.imgur.com/PD1qeRO.jpg", USA Network (East)
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=882c9f5613b43b47adc70aa968a308ce:de534ef8914bfe62ba3cdd6bdb9e1c04
 https://fsly.stream.peacocktv.com/Content/CMAF_OL1-CTR-4s/Live/channel(usa-east)/master.mpd
@@ -64,7 +64,7 @@ https://fsly.stream.peacocktv.com/Content/CMAF_OL1-CTR-4s/Live/channel(usa-east)
 #KODIPROP:inputstream.adaptive.license_key=252a671825ba31ec8433f978c32ccf6d:ee560759ecc8d2274df2e63fcef56915
 https://fsly.stream.peacocktv.com/Content/CMAF_OL1-CTR-4s/Live/channel(usa-west)/master.mpd
 
-#EXTINF:0 group-title="EPL SPORTS⭐" tvg-logo="https://i.ibb.co/VggrTny/liga-inggris.png", PREMIER LEAGUE​ 1 (Champion 5)
+#EXTINF:-1 group-title="EPL SPORTS⭐" tvg-logo="https://i.ibb.co/VggrTny/liga-inggris.png", PREMIER LEAGUE​ 1 (Champion 5)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 
 #KODIPROP:inputstreamaddon=inputstream.adaptive 
 #KODIPROP:inputstream.adaptive.manifest_type=dash 
@@ -72,7 +72,7 @@ https://fsly.stream.peacocktv.com/Content/CMAF_OL1-CTR-4s/Live/channel(usa-west)
 #KODIPROP:inputstream.adaptive.license_key=https://srtv.my.id/vd/play.php?id=9182&type=drm 
 https://srtv.my.id/vd/play.mpd?id=9182&type=dash
 
-#EXTINF:0 group-title="EPL SPORTS⭐" tvg-logo="https://i.ibb.co/VggrTny/liga-inggris.png", PREMIER LEAGUE 2 (Champion 6)
+#EXTINF:-1 group-title="EPL SPORTS⭐" tvg-logo="https://i.ibb.co/VggrTny/liga-inggris.png", PREMIER LEAGUE 2 (Champion 6)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 
 #KODIPROP:inputstreamaddon=inputstream.adaptive 
 #KODIPROP:inputstream.adaptive.manifest_type=dash 
@@ -94,7 +94,7 @@ https://etslive-2-vidio-com.akamaized.net/drm/dash/9353_stream.mpd
 #KODIPROP:inputstream.adaptive.license_key=002046c9a49b9ab1cdb6616bec5d26c3:d2f92f6b7edc9a1a05d393ba0c20ef9e
 https://fsly.stream.peacocktv.com/Content/CMAF_CTR-4s/Live/channel(vc1021n07j)/master.mpd
 
-#EXTINF:-1 group-title="EPL SPORTS⭐" tvg-logo="https://cdn.technadu.com/wp-content/uploads/2021/05/USA-Network-Logotype.jpg", CBS Sport (UCL)
+#EXTINF:-1 group-title="EPL SPORTS⭐" tvg-logo="https://www.lyngsat.com/logo/tv/cc/cbs-kr.png", CBS Sport (UCL)
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -477,6 +477,14 @@ https://newedge.eu-central-1.edge.mycdn.live/live/esportes8/playlist.m3u8?|refer
 http://45.179.140.242:8000/play/a0je
 #EXTINF:-1 tvg-logo="https://e7.pngegg.com/pngimages/873/769/png-clipart-espn-com-logo-espn-radio-others-text-label-thumbnail.png" group-title="Sport / Football", ESPN DEPORTES (215)
 http://215602c2.kazaktelekom.com/iptv/D72CVTDTWM4NGY/19166/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/PD1qeRO.jpg" group-title="Sport / Football", USA Network (7pal)
+https://7pal.short.gy/usanetwork
+#EXTINF:-1 tvg-logo="https://poster.starhubgo.com/Linear_Channels2/221_1920x1080_HTV.png" group-title="Sport / Football", Hub Premier 1 (7pal)
+https://7pal.short.gy/HPremier1
+#EXTINF:-1 tvg-logo="https://poster.starhubgo.com/Linear_Channels2/222_1920x1080_HTV.png" group-title="Sport / Football", Hub Premier 2 (7pal)
+https://7pal.short.gy/HPremier2
+#EXTINF:-1 tvg-logo="https://poster.starhubgo.com/Linear_Channels2/223_1920x1080_HTV.png" group-title="Sport / Football", Hub Premier 3 (7pal)
+https://7pal.short.gy/HPremier3
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/tt/telemundo-mx.png" group-title="Sport / Football", TELEMUNDO (168)
 http://168.227.22.18:1935/live/mobile-040/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.nowtv.now.com/media/logo/621-wbg-e.png" group-title="Sport / Football", Now HK Premier Sports 1 EPL (7pal)
@@ -576,6 +584,8 @@ https://i.mjh.nz/SamsungTVPlus/ATBA3300007PT.m3u8
 https://7pal.short.gy/SSMEuhd
 #EXTINF:-1 tvg-logo="https://media.info/i/lf/0/1689874022/5824.png" group-title="4K / UHD", TNT Sports Ultimate 4K (7pal)
 https://7pal.short.gy/TNTUltimate
+#EXTINF:-1 tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/MLIGUH.png" group-title="4K / UHD", M+ LaLiga 4K (7pal)
+https://7pal.short.gy/mplusuhd
 #EXTINF:-1 tvg-logo="https://i.goalzz.com/?i=o/h/1/643/v-sport-ultra-1.png" group-title="4K / UHD", V Sport Ultra 4K @Co Moe (Vpn-Germany)
 http://apk.zentv4k.me:80/play/live.php?mac=00:1A:79:bf:37:f3&stream=483974&extension=ts
 #EXTINF:-1 tvg-logo="https://cne-eg.com/uploads/logos/2021114237606.png" group-title="4K / UHD", Bein Sports 4K @Co Moe (Vpn-Germany)
