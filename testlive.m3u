@@ -27,6 +27,7 @@ https://dcf-ak-livedazn.akamaized.net/dashdrm/dazn-linear-046/stream.mpd
 
 
 #EXTINF:0 group-title="EPL SPORTS" tvg-logo="https://i.ibb.co/VggrTny/liga-inggris.png", PREMIER LEAGUE​ 1 (Champion 5)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 #KODIPROP:inputstreamaddon=inputstream.adaptive 
 #KODIPROP:inputstream.adaptive.manifest_type=dash 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha 
@@ -34,6 +35,7 @@ https://dcf-ak-livedazn.akamaized.net/dashdrm/dazn-linear-046/stream.mpd
 https://srtv.my.id/vd/play.mpd?id=9182&type=dash
 
 #EXTINF:0 group-title="EPL SPORTS" tvg-logo="https://i.ibb.co/VggrTny/liga-inggris.png", PREMIER LEAGUE 2 (Champion 6)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 #KODIPROP:inputstreamaddon=inputstream.adaptive 
 #KODIPROP:inputstream.adaptive.manifest_type=dash 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha 
