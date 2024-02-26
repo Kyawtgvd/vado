@@ -52,12 +52,12 @@ https://dce-ac-live.cdn.indazn.com/dash/dazn-linear-053/stream.mpd
 
 
 
-#EXTINF:-1 group-title="EPL SPORTS⭐" tvg-logo="https://i.imgur.com/PD1qeRO.jpg", USA Network (East)
+#EXTINF:-1 group-title="EPL SPORTS⭐" tvg-logo="https://seeklogo.com/images/U/usa-network-logo-9CFE26C322-seeklogo.com.png", USA Network (East)
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=882c9f5613b43b47adc70aa968a308ce:de534ef8914bfe62ba3cdd6bdb9e1c04
 https://fsly.stream.peacocktv.com/Content/CMAF_OL1-CTR-4s/Live/channel(usa-east)/master.mpd
 
-#EXTINF:-1 group-title="EPL SPORTS⭐" tvg-logo="https://cdn.technadu.com/wp-content/uploads/2021/05/USA-Network-Logotype.jpg", USA Network (West)
+#EXTINF:-1 group-title="EPL SPORTS⭐" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/USA-Network-Logo.svg/2560px-USA-Network-Logo.svg.png", USA Network (West)
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -110,7 +110,7 @@ https://cors-proxy.elfsight.com/https://cip4-2048b75120.linear-novi.stvacdn.spec
 #KODIPROP:inputstream.adaptive.license_key=0005fad32eb7fe7f488093e851d71c5f:6342118978914afbc5fec26e93168b64
 http://linear011-gb-dash1-prd-ll.cdn.skycdp.com/Content/DASH_003_720_30/Live/channel(skysportsmainevent)/manifest_720.mpd
 
-#EXTINF:-1 group-title="SKY SPORTS⭐" tvg-logo="https://pbs.twimg.com/profile_images/1605131756310614017/05qwHae-_400x400.jpg", Sky Sports Premier League (UK)
+#EXTINF:-1 group-title="SKY SPORTS⭐" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQl83Y0pmNlmyaQBVohiH02cI2OmWI0qeYxKQ&usqp=CAU", Sky Sports Premier League (UK)
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -177,36 +177,35 @@ https://linear311-it-dash1-prd-ll.cdn13.skycdp.com/016a/31775/FHD/skysport257/ma
 
 
 
-#EXTINF:-1 group-title="TNT SPORTS⭐" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT7_nzGStv6nX6FuEt6h62fcVuKQnsMXNDidA&usqp=CAU", TNT Sports 1
+#EXTINF:-1 group-title="TNT SPORTS⭐" tvg-logo="https://media.info/l/f/5/5414.1689778005.png", TNT Sports 1
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=ae26845bd33038a9c0774a0981007294:63ac662dde310cfb4cc6f9b43b34196d
 https://ottb.live.cf.ww.aiv-cdn.net/lhr-nitro/live/clients/dash/enc/wf8usag51e/out/v1/bd3b0c314fff4bb1ab4693358f3cd2d3/cenc.mpd
 
-#EXTINF:-1 group-title="TNT SPORTS⭐" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT7_nzGStv6nX6FuEt6h62fcVuKQnsMXNDidA&usqp=CAU", TNT Sports 2
+#EXTINF:-1 group-title="TNT SPORTS⭐" tvg-logo="https://media.info/l/f/5/5414.1689778005.png", TNT Sports 2
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=6d1708b185c6c4d7b37600520c7cc93c:1aace05f58d8edef9697fd52cb09f441
 https://ottb.live.cf.ww.aiv-cdn.net/lhr-nitro/live/clients/dash/enc/f0qvkrra8j/out/v1/f8fa17f087564f51aa4d5c700be43ec4/cenc.mpd
 
-#EXTINF:-1 group-title="TNT SPORTS⭐" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT7_nzGStv6nX6FuEt6h62fcVuKQnsMXNDidA&usqp=CAU", TNT Sports 3
+#EXTINF:-1 group-title="TNT SPORTS⭐" tvg-logo="https://media.info/l/f/5/5414.1689778005.png", TNT Sports 3
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=4e993aa8c1f295f8b94e8e9e6f6d0bfe:86a1ed6e96caab8eb1009fe530d2cf4f
 https://ottb.live.cf.ww.aiv-cdn.net/lhr-nitro/live/clients/dash/enc/lsdasbvglv/out/v1/bb548a3626cd4708afbb94a58d71dce9/cenc.mpd
 
-
-#EXTINF:-1 group-title="TNT SPORTS⭐" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT7_nzGStv6nX6FuEt6h62fcVuKQnsMXNDidA&usqp=CAU", TNT Sports 4
+#EXTINF:-1 group-title="TNT SPORTS⭐" tvg-logo="https://media.info/l/f/5/5414.1689778005.png", TNT Sports 4
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=e31a5a81caff5d07ea2411a571fc2e59:96c5ef69479732ae734f962748c19729
 https://ottb.live.cf.ww.aiv-cdn.net/lhr-nitro/live/clients/dash/enc/i2pcjr4pe5/out/v1/912e9db56d75403b8a9ac0a719110f36/cenc.mpd
 
-#EXTINF:-1 group-title="TNT SPORTS⭐" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT7_nzGStv6nX6FuEt6h62fcVuKQnsMXNDidA&usqp=CAU", TNT Sports 5
+#EXTINF:-1 group-title="TNT SPORTS⭐" tvg-logo="https://media.info/l/f/5/5414.1689778005.png", TNT Sports 5
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
