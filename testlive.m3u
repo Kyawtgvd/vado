@@ -74,6 +74,46 @@ https://dcf-ak-livedazn.akamaized.net/dashdrm/dazn-linear-043/stream.mpd
 
 
 
+#EXTINF:-1 tvg-logo="https://www.dropbox.com/scl/fi/tdt2rbd076s1ypsuibw8s/20231123_175636_0000.jpg?rlkey=ybpk6gh6jl8qqu8kzs3r8a612&dl=1" group-title="3-MM MOVIE",MM Movies 1
+http://bananatv.org:25461/play/qjTtd6c1Izx4JkSoVRirdADnS9t1VZTHyg9SFGMBHaA/ts
+#EXTINF:-1 tvg-logo="https://www.dropbox.com/scl/fi/579ap0tweln7y9czwh5d7/20231123_175753_0000.jpg?rlkey=wk2e3uowock05685tw0ev971n&dl=1" group-title="3-MM MOVIE",MM Movies 2
+http://bananatv.org:25461/play/qjTtd6c1Izx4JkSoVRirdFxWh4QRbD1P8Sj_tc22JCQ/ts
+#EXTINF:-1 tvg-logo="https://www.dropbox.com/scl/fi/1sjn4a78z8f5j1owpbhn1/20231209_163817_0000.png?rlkey=q54c3vaofqzjpf6ttw5185zxy&dl=1" group-title="3-MM MOVIE",MM Movies 3
+http://bananatv.org:25461/play/qjTtd6c1Izx4JkSoVRirdFkzXKxtTsz_zIzblIf_kP0/ts
+#EXTINF:-1 tvg-logo="https://www.dropbox.com/scl/fi/zn8pqmcuwrv8n18dpu5j5/20231209_174517_0000.jpg?rlkey=1x6vnx1chs9xm1fye7mcio0z1&dl=1" group-title="3-MM MOVIE",MM Movies 4
+http://bananatv.org:25461/play/qjTtd6c1Izx4JkSoVRirdCH3RGoJkklNBTnHIFgSXKw/ts
+#EXTINF:-1 tvg-logo="https://www.dropbox.com/scl/fi/r7exz8gumy4rza6g06wgp/Untitled-design_20231030_215448_0000.jpg?rlkey=fpesovoui5z793pxj6ed0xj9o&dl=1" group-title="3-MM MOVIE",Movies 1
+http://bananatv.org:25461/play/qjTtd6c1Izx4JkSoVRirdKohGY6XBKesLwunXKtf2HE/ts
+#EXTINF:-1 tvg-logo="https://www.dropbox.com/scl/fi/h0r5uenkcnecmd8cb4fl4/Untitled-design_20231030_215727_0000.jpg?rlkey=v7njzdew0h8uf7y6im22nw9r2&dl=1" group-title="3-MM MOVIE",Movies 2
+http://bananatv.org:25461/play/qjTtd6c1Izx4JkSoVRirdNlWhT4ZTZPFSxR4iRYrPSA/ts
+#EXTINF:-1 tvg-logo="https://www.dropbox.com/scl/fi/a2bbww3pwqbfnda88elyl/Untitled-design_20231030_220129_0000.jpg?rlkey=3x2yhojyyvv0kbh40tuxp9u5k&dl=1" group-title="3-MM MOVIE",Movies 3
+http://bananatv.org:25461/play/qjTtd6c1Izx4JkSoVRirdBHneg4oFwOctzvsOVGYER8/ts
+#EXTINF:-1 tvg-logo="https://www.dropbox.com/scl/fi/n3e4zgleearpgqzszo1yo/Untitled-design_20231030_220402_0000.jpg?rlkey=vreji05r7qv2o7k78jyzoao8i&dl=1" group-title="3-MM MOVIE",Movies 4
+http://bananatv.org:25461/play/qjTtd6c1Izx4JkSoVRirdAXmq4vGTPl-LtPeQ-v_yPY/ts
+#EXTINF:-1 tvg-logo="https://www.dropbox.com/scl/fi/ban1bijkxu8nn2ltnudu7/Untitled-design_20231030_222202_0000.jpg?rlkey=iopinte0j0046jcw34ugtpwjd&dl=1" group-title="3-MM MOVIE",Movies 5
+http://bananatv.org:25461/play/qjTtd6c1Izx4JkSoVRirdFuCsZrAxpNrJhJnnF4QJxY/ts
+#EXTINF:-1 tvg-logo="https://www.dropbox.com/scl/fi/bberkamn10s62qq6pqwzd/Untitled-design_20231214_191846_0000.jpg?rlkey=mkpye86kd2wru4zp1ieachoh8&dl=1" group-title="3-MM MOVIE",Movies 6
+http://bananatv.org:25461/play/qjTtd6c1Izx4JkSoVRirdEIjy7gUY62hBcuRkobkklk/ts
+#EXTINF:-1 tvg-logo="https://www.dropbox.com/scl/fi/p0eugnuehqi4hxjfe3y1w/Untitled-design_20231224_155129_0000.jpg?rlkey=pbv26pc9zen612mfa9ptn3upl&dl=1" group-title="3-MM MOVIE",Movies 7
+http://bananatv.org:25461/play/qjTtd6c1Izx4JkSoVRirdIIBF1S5sNqxeqJmpvvz_N0/ts
+#EXTINF:-1 tvg-logo="https://www.dropbox.com/scl/fi/inxz3lkyyt3ccz4419kd4/20231030_231950_0000.jpg?rlkey=7q6ca1ne4jbli8ih71akutbzb&dl=1" group-title="3-MM MOVIE",Series 1
+http://bananatv.org:25461/play/qjTtd6c1Izx4JkSoVRirdNpAlvDYL9-n_tyz-8e7n0w/ts
+#EXTINF:-1 tvg-logo="https://www.dropbox.com/scl/fi/n2zfo0dncp41nnhgs6jmq/20231030_232158_0000.jpg?rlkey=i1brkpkxn0cpf71ya9ocre1nh&dl=1" group-title="3-MM MOVIE",Series 2
+http://bananatv.org:25461/play/qjTtd6c1Izx4JkSoVRirdIc-C_JiRtKxkzvHnX9okdo/ts
+#EXTINF:-1 tvg-logo="https://www.dropbox.com/scl/fi/d9vxa9thtbu5k4v7ckxzy/20231030_233655_0000.jpg?rlkey=virdouw0h0j1r48wawc2n8e15&dl=1" group-title="3-MM MOVIE",Cartoon 1
+http://bananatv.org:25461/play/qjTtd6c1Izx4JkSoVRirdC1jMLD6Wgveb96QC5lR_J4/ts
+#EXTINF:-1 tvg-logo="https://www.dropbox.com/scl/fi/7iy1dvngqut6yi48b5t7y/20231030_233844_0000.jpg?rlkey=ethbadk0dm6syedv8hcj29f0r&dl=1" group-title="3-MM MOVIE",Cartoon 2
+http://bananatv.org:25461/play/qjTtd6c1Izx4JkSoVRirdDu8k2KybEUMvlqyVc5rPtg/ts
+#EXTINF:-1 tvg-logo="https://watchindia.net/images/channels/sports/Star_Sports_Select_1_HD.png" group-title="3-MM MOVIE",Star Sports Select 1 HD 
+http://watchindia.net:8880/live/72695/24354/2292.ts
+#EXTINF:-1 tvg-logo="https://watchindia.net/images/channels/sports/Star_Sports_Select_2_HD.png" group-title="3-MM MOVIE",Star Sports Select 2 HD
+http://watchindia.net:8880/live/72695/24354/1070.ts
+#EXTINF:-1 tvg-logo="https://watchindia.net/images/channels/sports/Sports_18.png" group-title="3-MM MOVIE",Sports 18 HD
+http://watchindia.net:8880/live/72695/24354/2423.ts
+
+
+
+
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRlAwdx48QPEiQHrHIz-7t8P35X9cJZrvsxjQ&usqp=CAU" group-title="Sport/Football", Sport TV 1 (tuy)
 http://tuyullxt@mag.x-iptv.live/play/live.php?mac=00:1A:79:23:25:61&stream=107436&extension=ts&play_token=tuyullxt@.ts
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRlAwdx48QPEiQHrHIz-7t8P35X9cJZrvsxjQ&usqp=CAU" group-title="Sport/Football", Sport TV 2 (tuy)
