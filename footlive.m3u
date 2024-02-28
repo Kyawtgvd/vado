@@ -656,18 +656,28 @@ https://tv.mahar.live/mahar/website.stream/mahar/website1/chunks.m3u8
 https://ppradio.b-cdn.net/LiveApp/streams/w3g3EYjBtqgJ1677679288037.m3u8
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/cc/channel7_mm.png" group-title="Myanmar / International", Channel 7
 https://ppradio.b-cdn.net/LiveApp/streams/CLcBFN71NkF61709008601656.m3u8
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/cc/channel_9_mm.png" group-title="Myanmar / International", Channel 9
+http://bananatv.org:25461/play/qjTtd6c1Izx4JkSoVRirdFXr0FXBNP_JZby0a9H55N0/ts
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/cc/channel-k-mm.png" group-title="Myanmar / International", Channel K
 https://l1-xl1.myanmarnet.com/relay/channelk/ch1/stream_hi/index.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTX9VrbQDxmEc6eOs4SoFD8BfDqRWEHSiSIxA&usqp=CAU" group-title="Myanmar / International", Channel Me
 http://bananatv.org:25461/play/qjTtd6c1Izx4JkSoVRirdPRDyMv4aiUl7pvgUNFAzws/ts
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/num/5-plus-mm.png" group-title="Myanmar / International", 5 Plus
 http://bananatv.org:25461/play/qjTtd6c1Izx4JkSoVRirdLqS4wA5WLEU7Ga3rTXqq2g/ts
-#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/cc/channel_9_mm.png" group-title="Myanmar / International", Channel 9
-http://bananatv.org:25461/play/qjTtd6c1Izx4JkSoVRirdFXr0FXBNP_JZby0a9H55N0/ts
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/yy/ytv-mm.png" group-title="Myanmar / International", YTV
 http://bananatv.org:25461/play/qjTtd6c1Izx4JkSoVRirdLkoDayDUtY-rBFCyJUXvq4/ts
-#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ff/fortune-tv-mm.png" group-title="Myanmar / International", Fortune Tv
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ff/fortune-tv-mm.png" group-title="Myanmar / International", Fortune TV
 http://bananatv.org:25461/play/qjTtd6c1Izx4JkSoVRirdCBboz3mu5IvzO6xTHOFpt0/ts
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/mm/mn_tv_mm.png" group-title="Myanmar / International", MNTV
+https://l1-xl1.myanmarnet.com/relay/mntv/ch1/stream.m3u8
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/mm/myanmar-international-tv-mm.png" group-title="Myanmar / International", MITV
+https://5a13fe32ef748.streamlock.net/mmplay/mitv/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/GpHqMr4y/IMG-20231018-134533.png" group-title="Myanmar / International", MCS
+https://l1-xl1.myanmarnet.com/relay2/mcs/ch1/stream_standard/index.m3u8
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/mm/mvm-th-mm.png" group-title="Myanmar / International", MVM
+https://edge6a.v2h-cdn.com/mvm/mvm.stream/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ss/sky_net_music.png" group-title="Myanmar / International", Myanmar Music
+https://l1-xl1.myanmarnet.com/relay/music/ch1/stream_hi/index.m3u8
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ss/sky_net_myanmar_movies.png" group-title="Myanmar / International", Thukhuma 1
 http://bananatv.org:25461/play/qjTtd6c1Izx4JkSoVRirdADnS9t1VZTHyg9SFGMBHaA/ts
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ss/sky_net_myanmar_movies.png" group-title="Myanmar / International", Thukhuma 2
@@ -688,8 +698,12 @@ http://bananatv.org:25461/play/qjTtd6c1Izx4JkSoVRirdNvRqvE2BrfNdHxgfN24GBI/ts
 http://bananatv.org:25461/play/qjTtd6c1Izx4JkSoVRirdOT-Z2isAvVvEOrtsuSUjvw/ts
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/mm/mttv-mm.png" group-title="Myanmar / International", S sport
 http://bananatv.org:25461/play/qjTtd6c1Izx4JkSoVRirdKDS4lop_u7872gbzz6Fv5w/ts
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ss/sky_net_international_drama.png" group-title="Myanmar / International", S movie
+http://bananatv.org:25461/play/qjTtd6c1Izx4JkSoVRirdFkzXKxtTsz_zIzblIf_kP0/ts
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ss/sky_net_international_drama.png" group-title="Myanmar / International", S drama 
 http://bananatv.org:25461/play/qjTtd6c1Izx4JkSoVRirdNpAlvDYL9-n_tyz-8e7n0w/ts
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/af/Zee_Cinema_logo.png" group-title="Myanmar / International", Zee Cinema (M-Sub)
+http://bananatv.org:25461/play/qjTtd6c1Izx4JkSoVRirdIIBF1S5sNqxeqJmpvvz_N0/ts
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ss/sky_net_world_movies.png" group-title="Myanmar / International", World Movies (M-Sub)
 http://bananatv.org:25461/play/qjTtd6c1Izx4JkSoVRirdKohGY6XBKesLwunXKtf2HE/ts
 #EXTINF:-1  tvg-logo="https://www.lyngsat.com/logo/tv/ss/sky-net-action-movies-mm.png" group-title="Myanmar / International", Action Movies (M-Sub)
@@ -704,35 +718,25 @@ http://bananatv.org:25461/play/qjTtd6c1Izx4JkSoVRirdIVfOCWwnGHtyiHq--oe3XI/ts
 http://bananatv.org:25461/play/qjTtd6c1Izx4JkSoVRirdC9gk_W8ayRHOT52yEZDJTg/ts
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ss/sky_net_world_movies.png" group-title="Myanmar / International", Cinemax
 http://bananatv.org:25461/play/qjTtd6c1Izx4JkSoVRirdE53W4ckdCYG7mGfrPCt9R0/ts
-#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/mm/myanmar-international-tv-mm.png" group-title="Myanmar / International", MITV
-https://5a13fe32ef748.streamlock.net/mmplay/mitv/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/mm/mn_tv_mm.png" group-title="Myanmar / International", MNTV
-https://l1-xl1.myanmarnet.com/relay/mntv/ch1/stream.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/GpHqMr4y/IMG-20231018-134533.png" group-title="Myanmar / International", MCS
-https://l1-xl1.myanmarnet.com/relay2/mcs/ch1/stream_standard/index.m3u8
-#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/mm/mvm-th-mm.png" group-title="Myanmar / International", MVM
-https://edge6a.v2h-cdn.com/mvm/mvm.stream/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ss/sky_net_music.png" group-title="Myanmar / International", Myanmar Music
-https://l1-xl1.myanmarnet.com/relay/music/ch1/stream_hi/index.m3u8
-#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ll/love_nature_ca.png" group-title="Myanmar / International", Love Nature 4k FHD
-http://d18dyiwu97wm6q.cloudfront.net/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ll/love_nature_ca.png" group-title="Myanmar / International", Love Nature 4k UHD
-http://d18dyiwu97wm6q.cloudfront.net/playlist2160p.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRsPKCPolkGfQruaOFRdwk56Tcs4hyPftnB_Q&usqp=CAU" group-title="Myanmar / International", Movies Sphere UK
 http://moviesphereuk-samsunguk.amagi.tv/playlist1080p.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRsPKCPolkGfQruaOFRdwk56Tcs4hyPftnB_Q&usqp=CAU" group-title="Myanmar / International", Movies Sphere US
 http://moviesphere-samsung-samsungus.amagi.tv/playlist1080p.m3u8
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ss/star_movies.png" group-title="Myanmar / International", Star Movies
 http://ctrl.laotv.la/live/StarMovie/index.m3u8
-#EXTINF:-1 tvg-logo="https://cdn.hqth.me/logo/thumbs/204.png" group-title="Myanmar / International", Discovery Channel (M-sub)
-http://ctrl.laotv.la/live/Discovery/index.m3u8
-#EXTINF:-1 tvg-logo="https://cdn.hqth.me/logo/thumbs/203.png" group-title="Myanmar / International", Animal Planet
-http://ctrl.laotv.la/live/AnimalPlanet/index.m3u8
-#EXTINF:-1 tvg-logo="https://w7.pngwing.com/pngs/364/342/png-transparent-logo-nat-geo-wild-national-geographic-television-channel-high-definition-television-others.png" group-title="Myanmar / International", Net Geo Wild
-https://nat-geo-wild.mssarena71.workers.dev/stream/NatGeoWild/master.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTmWtneL0Mo_oIrwW5tB6jB8eQgf5Fy-8073g&usqp=CAU" group-title="Myanmar / International", K-Movies
 https://bd281c27a16f4a7fb4a88260378e8082.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung_NewMovies/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://image.pngaaa.com/558/2715558-middle.png" group-title="Myanmar / International", K-Drama (with Televizo player)
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=425
 #EXTINF:-1 tvg-logo="https://www.sonypicturesnetworks.com/images/logos/PIX%20SD.png" group-title="Myanmar / International", Sony PIX
 https://dai.google.com/linear/hls/event/x7rXWd2ERZ2tvyQWPmO1HA/master.m3u8
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ll/love_nature_ca.png" group-title="Myanmar / International", Love Nature 4k FHD
+http://d18dyiwu97wm6q.cloudfront.net/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ll/love_nature_ca.png" group-title="Myanmar / International", Love Nature 4k UHD
+http://d18dyiwu97wm6q.cloudfront.net/playlist2160p.m3u8
+#EXTINF:-1 tvg-logo="https://w7.pngwing.com/pngs/364/342/png-transparent-logo-nat-geo-wild-national-geographic-television-channel-high-definition-television-others.png" group-title="Myanmar / International", Net Geo Wild
+https://nat-geo-wild.mssarena71.workers.dev/stream/NatGeoWild/master.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.hqth.me/logo/thumbs/203.png" group-title="Myanmar / International", Animal Planet
+http://ctrl.laotv.la/live/AnimalPlanet/index.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.hqth.me/logo/thumbs/204.png" group-title="Myanmar / International", Discovery Channel (M-sub)
+http://ctrl.laotv.la/live/Discovery/index.m3u8
