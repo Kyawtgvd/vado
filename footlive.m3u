@@ -594,6 +594,10 @@ https://dai.google.com/linear/hls/event/BCOFZq1JQjq12fmaO6lAAA/master.m3u8
 https://dai.google.com/linear/hls/event/smYybI_JToWaHzwoxSE9qA/master.m3u8
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ss/sony-sports-ten-5-in.png" group-title="Sport / Football", Sony Ten Sport 5 (dai)
 https://dai.google.com/linear/hls/event/r-eLp41YTHWTagvQSXFtAQ/master.m3u8
+#EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/india/star-sports-select-1-in.png" group-title="Sport / Football", Star Sports Select 1 (watch)
+http://watchindia.net:8880/live/72695/24354/1070.ts
+#EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/india/star-sports-select-2-in.png" group-title="Sport / Football", Star Sports Select 2 (watch)
+http://watchindia.net:8880/live/72695/24354/1071.ts
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/fr/2/2c/C%2B_Sport_%282023%29.png" group-title="Sport / Football", Canal+ Sport 1 Fra (89)
 http://89.187.179.242:1626/canal+sport
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/fr/2/2c/C%2B_Sport_%282023%29.png" group-title="Sport / Football", Canal+ Sport 2 Fra (89)
