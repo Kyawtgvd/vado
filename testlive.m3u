@@ -148,9 +148,6 @@ https://director.streaming.telia.com/tvm-packager-prod/group1/60896d5647a23d1949
 
 
 
-
-
-
 #EXTINF:-1 group-title="ELEVEN SPORTS" tvg-logo="https://i.ibb.co/tQx6Zzk/daznxeleven.png", Eleven Sports 1
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=82f8e2a17dac44c0a18f660479349c59&key=1b144f73e6fefe91cd05f850e2b589d0
