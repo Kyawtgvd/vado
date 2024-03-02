@@ -249,6 +249,46 @@ https://director.streaming.telia.com/tvm-packager-prod/group1/6089c17d47a23d7664
 #KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"vJcjgvBMUxmDt6q2v2Qq2A","k":"3f0hJoDriRt1VhDqxb7PhQ"}]}
 https://director.streaming.telia.com/tvm-packager-prod/group3/60ae4f5e1522bd739f6959a1/manifest.mpd
 
+#EXTINF:-1 group-title="V SPORT - No Vpn⭐" tvg-logo="https://i.ibb.co/D8xFZ3G/tv4fotboll.png", TV4 FOTBOLL
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=c1c657aa160c5b328f1e76747534b913:785e0773e9d534a00f4619315674ef7f
+https://director.streaming.telia.com/tvm-packager-prod/group3/60ae452e1522bdf301694494/manifest.mpd
+
+#EXTINF:-1 group-title="V SPORT - No Vpn⭐" tvg-logo="https://i.ibb.co/MkXKSDd/tv4sportl1.png", TV4 SPORT LIVE 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=d094d1401faa5cd29cfb361274629aad:793d3bf7e16e9300c0298fb2b3ba6f68
+https://director.streaming.telia.com/tvm-packager-prod/group1/60896cc147a23d68775cd5c3/manifest.mpd
+
+#EXTINF:-1 group-title="V SPORT - No Vpn⭐" tvg-logo="https://i.ibb.co/8Bs44xG/tv4sportl2.png", TV4 SPORT LIVE 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=d7a1fb185df6505fbc8b63df59c31f55:368257ec8b55026bc42e2de5b60aa737
+https://director.streaming.telia.com/tvm-packager-prod/group1/60896d1247a23dae065cd5f4/manifest.mpd
+
+#EXTINF:-1 group-title="V SPORT - No Vpn⭐" tvg-logo="https://i.ibb.co/xfx6Zsm/tv4sportl3.png", TV4 SPORT LIVE 3
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=90397fef042351ec88035875ada6d1dd:6edb6ccecf50362a74d647e6ea285365
+https://director.streaming.telia.com/tvm-packager-prod/group1/60896d3547a23d6bbd5cd609/manifest.mpd
+
+#EXTINF:-1 group-title="V SPORT - No Vpn⭐" tvg-logo="https://i.ibb.co/j6YkgRr/tv4sportl4.png", TV4 SPORT LIVE 4
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=99c9c1d2eff15da09b1b64ed16a17a84:6f7174c7e2d5e07fff7ba012e2e94956
+https://director.streaming.telia.com/tvm-packager-prod/group1/60896d5647a23d19495cd627/manifest.mpd
+
 
 
 #EXTINF:-1 group-title="ASTRO SPORTS - Any Vpn⭐" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2f/Astro_ASSP1.png", ASTRO SUPERSPORT 1
@@ -516,8 +556,6 @@ https://usa.raino.site/hls/stream10.m3u8?|Referer=https://bdnewszh.com/
 https://edge1.laotv.la/live/TSport1/index.m3u8
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/tt/true-premiere-football-hd-2-th.png" group-title="Sport / Football", True Premier 2 (edge)
 https://edge1.laotv.la/live/TSport2/index.m3u8
-#EXTINF:-1 tvg-logo="https://logos-world.net/wp-content/uploads/2023/06/USA-Network-Logo.png" group-title="Sport / Football", USA Network (38)
-http://38.96.178.201:80/live/USA/index.m3u8
 #EXTINF:-1 tvg-logo="https://e7.pngegg.com/pngimages/873/769/png-clipart-espn-com-logo-espn-radio-others-text-label-thumbnail.png" group-title="Sport / Football", ESPN 1 EPL (newedge)
 https://newedge.eu-central-1.edge.mycdn.live/live/vintequatrohrs5/playlist.m3u8?|referer=https://futebolplayhd.com/
 #EXTINF:-1 tvg-logo="https://e7.pngegg.com/pngimages/873/769/png-clipart-espn-com-logo-espn-radio-others-text-label-thumbnail.png" group-title="Sport / Football", ESPN 2 (newedge)
@@ -526,22 +564,8 @@ https://newedge.eu-central-1.edge.mycdn.live/live/esportes8/playlist.m3u8?|refer
 http://45.179.140.242:8000/play/a0je
 #EXTINF:-1 tvg-logo="https://e7.pngegg.com/pngimages/873/769/png-clipart-espn-com-logo-espn-radio-others-text-label-thumbnail.png" group-title="Sport / Football", ESPN DEPORTES (215)
 http://215602c2.kazaktelekom.com/iptv/D72CVTDTWM4NGY/19166/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/PD1qeRO.jpg" group-title="Sport / Football", USA Network (7pal)
-https://7pal.short.gy/usanetwork
-#EXTINF:-1 tvg-logo="https://poster.starhubgo.com/Linear_Channels2/221_1920x1080_HTV.png" group-title="Sport / Football", Hub Premier 1 (7pal)
-https://7pal.short.gy/HPremier1
-#EXTINF:-1 tvg-logo="https://poster.starhubgo.com/Linear_Channels2/222_1920x1080_HTV.png" group-title="Sport / Football", Hub Premier 2 (7pal)
-https://7pal.short.gy/HPremier2
-#EXTINF:-1 tvg-logo="https://poster.starhubgo.com/Linear_Channels2/223_1920x1080_HTV.png" group-title="Sport / Football", Hub Premier 3 (7pal)
-https://7pal.short.gy/HPremier3
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/tt/telemundo-mx.png" group-title="Sport / Football", TELEMUNDO (168)
 http://168.227.22.18:1935/live/mobile-040/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://www.nowtv.now.com/media/logo/621-wbg-e.png" group-title="Sport / Football", Now HK Premier Sports 1 EPL (7pal)
-https://7pal.short.gy/nowhkp1
-#EXTINF:-1 tvg-logo="https://www.nowtv.now.com/media/logo/622-wbg-e.png" group-title="Sport / Football", Now HK Premier Sports 2 EPL (7pal)
-https://7pal.short.gy/nowhkp2
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/e2/SkySportLogo2019.png/revision/latest?cb=20210619015201" group-title="Sport / Football", Sky Sports NZ EPL (7pal)
-https://7pal.short.gy/skyspt8nz
 #EXTINF:-1 tvg-logo="https://img.sport-tv-guide.live/images/tv-station-bt-sport-1-97.png" group-title="Sport / Football", TNT Sports 1 (7pal)
 https://7pal.short.gy/tntspts1
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/tt/tnt-sports-1-uk.png" group-title="Sport / Football", TNT Sports 1 (server)
@@ -554,8 +578,6 @@ http://server.sibfungold.info:8080/naasiptv/z8l13b5CFOC20o0r1jz8/3601
 https://7pal.short.gy/tntspts3
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/tt/tnt-sports-3-uk.png" group-title="Sport / Football", TNT Sports 3 (server)
 http://server.sibfungold.info:8080/naasiptv/z8l13b5CFOC20o0r1jz8/3602
-#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/tt/tnt-sports-4-uk.png" group-title="Sport / Football", TNT Sports 4 (server)
-http://server.sibfungold.info:8080/naasiptv/z8l13b5CFOC20o0r1jz8/255
 #EXTINF:-1 tvg-logo="https://github.com/inspirationlinks/m3u/raw/live/Logos/arenapremium1.png" group-title="Sport / Football", Arena 1 Premium (94)
 http://94.250.2.6:10600/play/gtIDEfibBy
 #EXTINF:-1 tvg-logo="https://github.com/inspirationlinks/m3u/raw/live/Logos/arenapremium2.png" group-title="Sport / Football", Arena 2 Premium (94)
@@ -574,16 +596,6 @@ http://rastawxo.biz:80/play/fMSzXMWg6CWjKBdjdustNErq0Xo-NUQh-AvVQC1PmLmHCw9cpCwc
 http://rastawxo.biz:80/play/fMSzXMWg6CWjKBdjdustNAP_2ajFHVzgQjqpvgP4jCtQDRhJq72HqFvJ3YjXSGjV/ts
 #EXTINF:-1 tvg-logo="https://img.sport-tv-guide.live/images/tv-station-tu-bein-sports-3-642.png" group-title="Sport / Football", beIN Sports 3 Turkey EPL (rasta)
 http://rastawxo.biz:80/play/fMSzXMWg6CWjKBdjdustNIcGxNh58e0hDb_KqYtdCNE/ts
-#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/pp/polsat-sport-premium-1-pl.png" group-title="Sport / Football", Polsat Sport Premium 1 (cdn)
-http://cdn-main.lolokoko.tv/polsatsportp1.stream/chunks.m3u8
-#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/pp/polsat-sport-premium-2-pl.png" group-title="Sport / Football", Polsat Sport Premium 2 (cdn)
-http://cdn-main.lolokoko.tv/polsatsportp2.stream/chunks.m3u8
-#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/cc/cbs-kr.png" group-title="Sport / Football", CBS Sport (38)
-http://38.96.178.201/live/CBSSports/index.m3u8
-#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ff/fox_sports_us_1.png" group-title="Sport / Football", Fox Sport 1 (38)
-http://38.96.178.201/live/FS1/index.m3u8
-#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ff/fox_sports_us_2.png" group-title="Sport / Football", Fox Sport 2 (38)
-http://38.96.178.201/live/FOXSPORTS2/index.m3u8
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ss/sony-sports-ten-1-in.png" group-title="Sport / Football", Sony Ten Sport 1 (dai)
 https://dai.google.com/linear/hls/event/6WhVNGKTRXyu588zZv1Lkg/master.m3u8
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ss/sony-sports-ten-2-in.png" group-title="Sport / Football", Sony Ten Sport 2 (dai)
