@@ -170,10 +170,20 @@ https://linear312-it-dash1-prd-ll.cdn13.skycdp.com/016a/31234/FHD/skysport254/ma
 #KODIPROP:inputstream.adaptive.license_key=0036b781a22ebb0c20c16ac27d5d1448:f309b94acfda720bf1ed5741489f8967
 https://linear311-it-dash1-prd-ll.cdn13.skycdp.com/016a/32910/FHD/skysport255/master.mpd
 
+#EXTINF:-1 group-title="SKY SPORTS⭐" tvg-logo="https://logodownload.org/wp-content/uploads/2020/06/sky-sports-logo-0-1.png", Sky Sport 256 (Italy)
+#KODIPROP:inputstream.adaptive.license_type=clearkey 
+#KODIPROP:inputstream.adaptive.license_key=00366f263859fc1cc82d2c4da6a66ef6:754ae922d113c54349002cd9a88694a4
+https://linear312-it-dash1-prd-akg0.cdn13.skycdp.com/016a/31912/FHD/skysport256/master.mpd
+
 #EXTINF:-1 group-title="SKY SPORTS⭐" tvg-logo="https://logodownload.org/wp-content/uploads/2020/06/sky-sports-logo-0-1.png", Sky Sport 257 (Italy)
 #KODIPROP:inputstream.adaptive.license_type=clearkey 
 #KODIPROP:inputstream.adaptive.license_key=0036faeace9872d3ceeb8b1b63f0baa3:dbd41ee944243307d39b7b27f16615a8
 https://linear311-it-dash1-prd-ll.cdn13.skycdp.com/016a/31775/FHD/skysport257/master.mpd
+
+#EXTINF:-1 group-title="SKY SPORTS⭐" tvg-logo="https://logodownload.org/wp-content/uploads/2020/06/sky-sports-logo-0-1.png", Sky Sport 258 (Italy)
+#KODIPROP:inputstream.adaptive.license_type=clearkey 
+#KODIPROP:inputstream.adaptive.license_key=0036fd8ccfddba47c8b40aeff63a797c:dfd5c9d0f4ac6f3a1bd89803399e7026
+https://linear312-it-dash1-prd-ll.cdn13.skycdp.com/016a/32772/skysport258/master.mpd
 
 
 
@@ -446,67 +456,30 @@ https://dce-ac-live.cdn.indazn.com:443/dash/dazn-linear-024/stream.mpd?p=web
 
 
 
-#EXTINF:-1 group-title="ARENA SPORT - Any Vpn⭐" tvg-logo="https://www.thesportsdb.com/images/media/channel/tvlogo/wmvrmi1643205486.png", ARENA 1 PREMIUM (720p)
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=c18b6aa739be4c0b774605fcfb5d6b68:e41c3a6f7532b2e3a828d9580124c89d
-https://webtvstream.bhtelecom.ba/hls6/as_premium1.mpd
-
-#EXTINF:-1 group-title="ARENA SPORT - Any Vpn⭐" tvg-logo="https://www.thesportsdb.com/images/media/channel/tvlogo/l4y8gt1643205498.png", ARENA 2 PREMIUM (720p)
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=c18b6aa739be4c0b774605fcfb5d6b68:e41c3a6f7532b2e3a828d9580124c89d
-https://webtvstream.bhtelecom.ba/hls6/as_premium2.mpd
-
-#EXTINF:-1 group-title="ARENA SPORT - Any Vpn⭐" tvg-logo="https://www.thesportsdb.com/images/media/channel/tvlogo/gtlulj1643205508.png", ARENA 3 PREMIUM (720p)
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=c18b6aa739be4c0b774605fcfb5d6b68:e41c3a6f7532b2e3a828d9580124c89d
-https://webtvstream.bhtelecom.ba/hls6/as_premium3.mpd
-
-#EXTINF:-1 group-title="ARENA SPORT - Any Vpn⭐" tvg-logo="https://i.postimg.cc/QtJtqpZp/20231118-221613.png", Arena Sport Premier League (720p)
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=c18b6aa739be4c0b774605fcfb5d6b68:e41c3a6f7532b2e3a828d9580124c89d
-https://webtvstream.bhtelecom.ba/hls6/premier_league.mpd
-
-#EXTINF:-1 group-title="ARENA SPORT - Any Vpn⭐" tvg-logo="https://i.postimg.cc/52XQDnv1/Arena-Sport-1-RS-logo.png", Arena Sport 1 (720p)
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=c18b6aa739be4c0b774605fcfb5d6b68:e41c3a6f7532b2e3a828d9580124c89d
-https://webtvstream.bhtelecom.ba/hls6/arena1.mpd
-
-#EXTINF:-1 group-title="ARENA SPORT - Any Vpn⭐" tvg-logo="https://i.postimg.cc/2yH3KZSV/Arena-Sport-2-RS-logo.png", Arena Sport 2 (720p)
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=c18b6aa739be4c0b774605fcfb5d6b68:e41c3a6f7532b2e3a828d9580124c89d
-https://webtvstream.bhtelecom.ba/hls6/arena2.mpd
-
-#EXTINF:-1 group-title="ARENA SPORT - Any Vpn⭐" tvg-logo="https://i.postimg.cc/MGyH84Gk/Arena-Sport-3-RS-logo.png", Arena Sport 3 (720p)
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=c18b6aa739be4c0b774605fcfb5d6b68:e41c3a6f7532b2e3a828d9580124c89d
-https://webtvstream.bhtelecom.ba/hls6/arena3.mpd
-
-#EXTINF:-1 group-title="ARENA SPORT - Any Vpn⭐" tvg-logo="https://i.postimg.cc/T2HRBGcL/Arena-Sport-4-RS-logo.png", Arena Sport 4 (720p)
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=c18b6aa739be4c0b774605fcfb5d6b68:e41c3a6f7532b2e3a828d9580124c89d
-https://webtvstream.bhtelecom.ba/hls6/arena4.mpd
-
-#EXTINF:-1 group-title="ARENA SPORT - Any Vpn⭐" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRXTwSm7jZwiQNk2yRW-UtLClBnGuhnbf43HQ&usqp=CAU", Arena Sport 5 (720p)
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=c18b6aa739be4c0b774605fcfb5d6b68:e41c3a6f7532b2e3a828d9580124c89d
-https://webtvstream.bhtelecom.ba/hls6/arena5.mpd
-
-#EXTINF:-1 group-title="ARENA SPORT - Any Vpn⭐" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcThRFkHdFchk_UxdqI8spa0L7vRpjiSyu9MDA&usqp=CAU", Arena Sport 6 (720p)
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=c18b6aa739be4c0b774605fcfb5d6b68:e41c3a6f7532b2e3a828d9580124c89d
-https://webtvstream.bhtelecom.ba/hls6/arena6.mpd
-
-#EXTINF:-1 group-title="ARENA SPORT - Any Vpn⭐" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSjbGPGnju04D5f3KvNxX6fzBIWeKtmqT4Jtg&usqp=CAU", Arena Sport 1x2 (720p)
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=c18b6aa739be4c0b774605fcfb5d6b68:e41c3a6f7532b2e3a828d9580124c89d
-https://webtvstream.bhtelecom.ba/hls6/arena_1x2.mpd
-
-#EXTINF:-1 group-title="ARENA SPORT - Any Vpn⭐" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRmsGHWT0loEMvf2TlhrZuUU9n_Rtv7IMLtAQ&usqp=CAU", Arena Sport Fight (720p)
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=c18b6aa739be4c0b774605fcfb5d6b68:e41c3a6f7532b2e3a828d9580124c89d
-https://webtvstream.bhtelecom.ba/hls6/arena_fight.mpd
-
-
+#EXTINF:-1 group-title="Live Soccer Event⚽" tvg-logo="https://cdn3d.iconscout.com/3d/premium/thumb/live-football-9263429-7595158.png?f=webp", Live Match (leading) 1
+https://sportsleading.online/live/stream_1.m3u8
+#EXTINF:-1 group-title="Live Soccer Event⚽" tvg-logo="https://cdn3d.iconscout.com/3d/premium/thumb/live-football-9263429-7595158.png?f=webp", Live Match (leading) 2
+https://sportsleading.online/live/stream_2.m3u8
+#EXTINF:-1 group-title="Live Soccer Event⚽" tvg-logo="https://cdn3d.iconscout.com/3d/premium/thumb/live-football-9263429-7595158.png?f=webp", Live Match (leading) 3
+https://sportsleading.online/live/stream_3.m3u8
+#EXTINF:-1 group-title="Live Soccer Event⚽" tvg-logo="https://cdn3d.iconscout.com/3d/premium/thumb/live-football-9263429-7595158.png?f=webp", Live Match (leading) 4
+https://sportsleading.online/live/stream_4.m3u8
+#EXTINF:-1 group-title="Live Soccer Event⚽" tvg-logo="https://cdn3d.iconscout.com/3d/premium/thumb/live-football-9263429-7595158.png?f=webp", Live Match (leading) 5
+https://sportsleading.online/live/stream_5.m3u8
+#EXTINF:-1 group-title="Live Soccer Event⚽" tvg-logo="https://cdn3d.iconscout.com/3d/premium/thumb/live-football-9263429-7595158.png?f=webp", Live Match (leading) 6
+https://sportsleading.online/live/stream_6.m3u8
+#EXTINF:-1 group-title="Live Soccer Event⚽" tvg-logo="https://cdn3d.iconscout.com/3d/premium/thumb/live-football-9263429-7595158.png?f=webp", Live Match (leading) 7
+https://sportsleading.online/live/stream_7.m3u8
+#EXTINF:-1 group-title="Live Soccer Event⚽" tvg-logo="https://cdn3d.iconscout.com/3d/premium/thumb/live-football-9263429-7595158.png?f=webp", Live Match (leading) 8
+https://sportsleading.online/live/stream_8.m3u8
+#EXTINF:-1 group-title="Live Soccer Event⚽" tvg-logo="https://cdn3d.iconscout.com/3d/premium/thumb/live-football-9263429-7595158.png?f=webp", Live Match (leading) 9
+https://sportsleading.online/live/stream_9.m3u8
+#EXTINF:-1 group-title="Live Soccer Event⚽" tvg-logo="https://cdn3d.iconscout.com/3d/premium/thumb/live-football-9263429-7595158.png?f=webp", Live Match (leading) 10
+https://sportsleading.online/live/stream_10.m3u8
+#EXTINF:-1 group-title="Live Soccer Event⚽" tvg-logo="https://cdn3d.iconscout.com/3d/premium/thumb/live-football-9263429-7595158.png?f=webp", Live Match (leading) 11
+https://sportsleading.online/live/stream_11.m3u8
+#EXTINF:-1 group-title="Live Soccer Event⚽" tvg-logo="https://cdn3d.iconscout.com/3d/premium/thumb/live-football-9263429-7595158.png?f=webp", Live Match (leading) 12
+https://sportsleading.online/live/stream_12.m3u8
 
 #EXTINF:-1 group-title="Live Soccer Event⚽" tvg-logo="https://png.pngtree.com/png-vector/20221104/ourmid/pngtree-live-streaming-icon-football-clipart-png-image_6413829.png", Live Match (reels) 1
 https://reels2watch.com/hls/s1.m3u8?|Referer=https://techclips.net/
@@ -528,27 +501,10 @@ https://reels2watch.com/hls/s8.m3u8?|Referer=https://techclips.net/
 https://reels2watch.com/hls/s9.m3u8?|Referer=https://techclips.net/
 #EXTINF:-1 group-title="Live Soccer Event⚽" tvg-logo="https://png.pngtree.com/png-vector/20221104/ourmid/pngtree-live-streaming-icon-football-clipart-png-image_6413829.png", Live Match (reels) 10
 https://reels2watch.com/hls/s10.m3u8?|Referer=https://techclips.net/
-
-#EXTINF:-1 group-title="Live Soccer Event⚽" tvg-logo="https://cdn3d.iconscout.com/3d/premium/thumb/live-football-9263429-7595158.png?f=webp", Live Match (raino) 1
-https://usa.raino.site/hls/stream1.m3u8?|Referer=https://bdnewszh.com/
-#EXTINF:-1 group-title="Live Soccer Event⚽" tvg-logo="https://cdn3d.iconscout.com/3d/premium/thumb/live-football-9263429-7595158.png?f=webp", Live Match (raino) 2
-https://usa.raino.site/hls/stream2.m3u8?|Referer=https://bdnewszh.com/
-#EXTINF:-1 group-title="Live Soccer Event⚽" tvg-logo="https://cdn3d.iconscout.com/3d/premium/thumb/live-football-9263429-7595158.png?f=webp", Live Match (raino) 3
-https://usa.raino.site/hls/stream3.m3u8?|Referer=https://bdnewszh.com/
-#EXTINF:-1 group-title="Live Soccer Event⚽" tvg-logo="https://cdn3d.iconscout.com/3d/premium/thumb/live-football-9263429-7595158.png?f=webp", Live Match (raino) 4
-https://usa.raino.site/hls/stream4.m3u8?|Referer=https://bdnewszh.com/
-#EXTINF:-1 group-title="Live Soccer Event⚽" tvg-logo="https://cdn3d.iconscout.com/3d/premium/thumb/live-football-9263429-7595158.png?f=webp", Live Match (raino) 5
-https://usa.raino.site/hls/stream5.m3u8?|Referer=https://bdnewszh.com/
-#EXTINF:-1 group-title="Live Soccer Event⚽" tvg-logo="https://cdn3d.iconscout.com/3d/premium/thumb/live-football-9263429-7595158.png?f=webp", Live Match (raino) 6
-https://usa.raino.site/hls/stream6.m3u8?|Referer=https://bdnewszh.com/
-#EXTINF:-1 group-title="Live Soccer Event⚽" tvg-logo="https://cdn3d.iconscout.com/3d/premium/thumb/live-football-9263429-7595158.png?f=webp", Live Match (raino) 7
-https://usa.raino.site/hls/stream7.m3u8?|Referer=https://bdnewszh.com/
-#EXTINF:-1 group-title="Live Soccer Event⚽" tvg-logo="https://cdn3d.iconscout.com/3d/premium/thumb/live-football-9263429-7595158.png?f=webp", Live Match (raino) 8
-https://usa.raino.site/hls/stream8.m3u8?|Referer=https://bdnewszh.com/
-#EXTINF:-1 group-title="Live Soccer Event⚽" tvg-logo="https://cdn3d.iconscout.com/3d/premium/thumb/live-football-9263429-7595158.png?f=webp", Live Match (raino) 9
-https://usa.raino.site/hls/stream9.m3u8?|Referer=https://bdnewszh.com/
-#EXTINF:-1 group-title="Live Soccer Event⚽" tvg-logo="https://cdn3d.iconscout.com/3d/premium/thumb/live-football-9263429-7595158.png?f=webp", Live Match (raino) 10
-https://usa.raino.site/hls/stream10.m3u8?|Referer=https://bdnewszh.com/
+#EXTINF:-1 group-title="Live Soccer Event⚽" tvg-logo="https://png.pngtree.com/png-vector/20221104/ourmid/pngtree-live-streaming-icon-football-clipart-png-image_6413829.png", Live Match (reels) 11
+https://reels2watch.com/hls/s11.m3u8?|Referer=https://techclips.net/
+#EXTINF:-1 group-title="Live Soccer Event⚽" tvg-logo="https://png.pngtree.com/png-vector/20221104/ourmid/pngtree-live-streaming-icon-football-clipart-png-image_6413829.png", Live Match (reels) 12
+https://reels2watch.com/hls/s12.m3u8?|Referer=https://techclips.net/
 
 
 
@@ -556,6 +512,14 @@ https://usa.raino.site/hls/stream10.m3u8?|Referer=https://bdnewszh.com/
 https://edge1.laotv.la/live/TSport1/index.m3u8
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/tt/true-premiere-football-hd-2-th.png" group-title="Sport / Football", True Premier 2 (edge)
 https://edge1.laotv.la/live/TSport2/index.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.hqth.me/logo/thumbs/87.png" group-title="Sport / Football", K+ SPORT 1 (vcis)
+http://vcis.nekocdn.xyz/ksport1/index.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.hqth.me/logo/thumbs/88.png" group-title="Sport / Football", K+ SPORT 2 (vcis)
+http://vcis.nekocdn.xyz/ksport2/index.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.hqth.me/logo/thumbs/87.png" group-title="Sport / Football", K+ SPORT 1 (hcm)
+http://hcm.nekocdn.xyz/KSPORT1/index.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.hqth.me/logo/thumbs/88.png" group-title="Sport / Football", K+ SPORT 2 (hcm)
+http://hcm.nekocdn.xyz/KSPORT2/index.m3u8
 #EXTINF:-1 tvg-logo="https://e7.pngegg.com/pngimages/873/769/png-clipart-espn-com-logo-espn-radio-others-text-label-thumbnail.png" group-title="Sport / Football", ESPN 1 EPL (newedge)
 https://newedge.eu-central-1.edge.mycdn.live/live/vintequatrohrs5/playlist.m3u8?|referer=https://futebolplayhd.com/
 #EXTINF:-1 tvg-logo="https://e7.pngegg.com/pngimages/873/769/png-clipart-espn-com-logo-espn-radio-others-text-label-thumbnail.png" group-title="Sport / Football", ESPN 2 (newedge)
