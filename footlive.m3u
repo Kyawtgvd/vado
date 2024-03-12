@@ -633,10 +633,6 @@ https://reels2watch.com/hls/s12.m3u8?|Referer=https://techclips.net/
 https://edge1.laotv.la/live/TSport1/index.m3u8
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/tt/true-premiere-football-hd-2-th.png" group-title="Sport / Football", True Premier 2 (edge)
 https://edge1.laotv.la/live/TSport2/index.m3u8
-#EXTINF:-1 tvg-logo="https://cdn.hqth.me/logo/thumbs/87.png" group-title="Sport / Football", K+ SPORT 1 (vcis)
-http://vcis.nekocdn.xyz/ksport1/index.m3u8
-#EXTINF:-1 tvg-logo="https://cdn.hqth.me/logo/thumbs/88.png" group-title="Sport / Football", K+ SPORT 2 (vcis)
-http://vcis.nekocdn.xyz/ksport2/index.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.hqth.me/logo/thumbs/87.png" group-title="Sport / Football", K+ SPORT 1 (hcm)
 http://hcm.nekocdn.xyz/KSPORT1/index.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.hqth.me/logo/thumbs/88.png" group-title="Sport / Football", K+ SPORT 2 (hcm)
@@ -651,18 +647,22 @@ http://45.179.140.242:8000/play/a0je
 http://215602c2.kazaktelekom.com/iptv/D72CVTDTWM4NGY/19166/index.m3u8
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/tt/telemundo-mx.png" group-title="Sport / Football", TELEMUNDO (168)
 http://168.227.22.18:1935/live/mobile-040/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://www.nowtv.now.com/media/logo/621-wbg-e.png" group-title="Sport / Football", Now HK Premier Sports 1 EPL (7pal)
+https://7pal.short.gy/nowhkp1
+#EXTINF:-1 tvg-logo="https://www.nowtv.now.com/media/logo/622-wbg-e.png" group-title="Sport / Football", Now HK Premier Sports 2 EPL (7pal)
+https://7pal.short.gy/nowhkp2
 #EXTINF:-1 tvg-logo="https://img.sport-tv-guide.live/images/tv-station-bt-sport-1-97.png" group-title="Sport / Football", TNT Sports 1 (7pal)
 https://7pal.short.gy/tntspts1
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/tt/tnt-sports-1-uk.png" group-title="Sport / Football", TNT Sports 1 (server)
-http://server.sibfungold.info:8080/naasiptv/z8l13b5CFOC20o0r1jz8/3600
+http://server.sibfungold.info:8080/arbcamd/fN7BfhxmjlIFGMMmTNQs/52241
 #EXTINF:-1 tvg-logo="https://img.sport-tv-guide.live/images/tv-station-bt-sport-2-100.png" group-title="Sport / Football", TNT Sports 2 (7pal)
 https://7pal.short.gy/tntspts2
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/tt/tnt-sports-2-uk.png" group-title="Sport / Football", TNT Sports 2 (server)
-http://server.sibfungold.info:8080/naasiptv/z8l13b5CFOC20o0r1jz8/3601
+http://server.sibfungold.info:8080/arbcamd/fN7BfhxmjlIFGMMmTNQs/52240
 #EXTINF:-1 tvg-logo="https://img.sport-tv-guide.live/images/tv-station-bt-sport-3-108.png" group-title="Sport / Football", TNT Sports 3 (7pal)
 https://7pal.short.gy/tntspts3
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/tt/tnt-sports-3-uk.png" group-title="Sport / Football", TNT Sports 3 (server)
-http://server.sibfungold.info:8080/naasiptv/z8l13b5CFOC20o0r1jz8/3602
+http://server.sibfungold.info:8080/arbcamd/fN7BfhxmjlIFGMMmTNQs/52239
 #EXTINF:-1 tvg-logo="https://github.com/inspirationlinks/m3u/raw/live/Logos/arenapremium1.png" group-title="Sport / Football", Arena 1 Premium (94)
 http://94.250.2.6:10600/play/gtIDEfibBy
 #EXTINF:-1 tvg-logo="https://github.com/inspirationlinks/m3u/raw/live/Logos/arenapremium2.png" group-title="Sport / Football", Arena 2 Premium (94)
@@ -691,10 +691,10 @@ https://dai.google.com/linear/hls/event/BCOFZq1JQjq12fmaO6lAAA/master.m3u8
 https://dai.google.com/linear/hls/event/smYybI_JToWaHzwoxSE9qA/master.m3u8
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ss/sony-sports-ten-5-in.png" group-title="Sport / Football", Sony Ten Sport 5 (dai)
 https://dai.google.com/linear/hls/event/r-eLp41YTHWTagvQSXFtAQ/master.m3u8
-#EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/india/star-sports-select-1-in.png" group-title="Sport / Football", Star Sports Select 1 (watch)
-http://watchindia.net:8880/live/72695/24354/1070.ts
-#EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/india/star-sports-select-2-in.png" group-title="Sport / Football", Star Sports Select 2 (watch)
-http://watchindia.net:8880/live/72695/24354/1071.ts
+#EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/india/star-sports-select-1-in.png" group-title="Sport / Football", Star Sports Select 1 (server)
+http://server.sibfungold.info:8080/arbcamd/fN7BfhxmjlIFGMMmTNQs/448
+#EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/india/star-sports-select-2-in.png" group-title="Sport / Football", Star Sports Select 2 (server)
+http://server.sibfungold.info:8080/arbcamd/fN7BfhxmjlIFGMMmTNQs/447
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/fr/2/2c/C%2B_Sport_%282023%29.png" group-title="Sport / Football", Canal+ Sport 1 Fra (89)
 http://89.187.179.242:1626/canal+sport
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/fr/2/2c/C%2B_Sport_%282023%29.png" group-title="Sport / Football", Canal+ Sport 2 Fra (89)
@@ -715,10 +715,6 @@ https://node1.olelive.com:6443/live/CCTV5HD/hls.m3u8
 https://node1.olelive.com:6443/live/CCTV5PHD/hls.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/b8/MUTV_logo.png" group-title="Sport / Football", MU TV (bco)
 https://bcovlive-a.akamaihd.net/r2d2c4ca5bf57456fb1d16255c1a535c8/eu-west-1/6058004203001/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/de/9/92/Fightbox_Logo.png" group-title="Sport / Football", FIGHT BOX (pro)
-http://iptv.prosto.tv:7000/ch118/video.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/xsgYdKT/wwenetwork.png" group-title="Sport / Football", WWE Network (d2p)
-https://d2p372oxiwmcn1.cloudfront.net/hls/main.m3u8
 #EXTINF:-1 tvg-logo="https://www.cabletv.com/app/uploads/fifa-plus-logo-small.png" group-title="Sport / Football", FIFA Plus 1 (sam)
 https://i.mjh.nz/SamsungTVPlus/GBBD1100008YW.m3u8
 #EXTINF:-1 tvg-logo="https://www.cabletv.com/app/uploads/fifa-plus-logo-small.png" group-title="Sport / Football", FIFA Plus 2 (sam)
@@ -734,8 +730,6 @@ https://i.mjh.nz/SamsungTVPlus/ATBA3300007PT.m3u8
 https://7pal.short.gy/SSMEuhd
 #EXTINF:-1 tvg-logo="https://media.info/i/lf/0/1689874022/5824.png" group-title="4K / UHD", TNT Sports Ultimate 4K (7pal)
 https://7pal.short.gy/TNTUltimate
-#EXTINF:-1 tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/MLIGUH.png" group-title="4K / UHD", M+ LaLiga 4K (7pal)
-https://7pal.short.gy/mplusuhd
 #EXTINF:-1 tvg-logo="https://i.goalzz.com/?i=o/h/1/643/v-sport-ultra-1.png" group-title="4K / UHD", V Sport Ultra 4K @Co Moe (Vpn-Germany)
 http://apk.zentv4k.me:80/play/live.php?mac=00:1A:79:bf:37:f3&stream=483974&extension=ts
 #EXTINF:-1 tvg-logo="https://cne-eg.com/uploads/logos/2021114237606.png" group-title="4K / UHD", Bein Sports 4K @Co Moe (Vpn-Germany)
@@ -744,6 +738,29 @@ http://apk.zentv4k.me:80/play/live.php?mac=00:1A:79:bf:37:f3&stream=706541&exten
 http://apk.zentv4k.me:80/play/live.php?mac=00:1a:79:00:00:0a&stream=661427&extension=ts
 #EXTINF:-1 tvg-logo="https://www.thesportsdb.com/images/media/tvlogo/Sky_Sport_UHD.png" group-title="4K / UHD", Sky Sports Main Event UHD @Co Moe (Vpn-UK London)
 http://apk.zentv4k.me:80/play/live.php?mac=00:1a:79:00:00:0a&stream=494229&extension=ts
+
+
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/de/9/92/Fightbox_Logo.png" group-title="Fight", FIGHT BOX
+http://iptv.prosto.tv:7000/ch118/video.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Fight_network_logo.svg/200px-Fight_network_logo.svg.png" group-title="Fight", Fight Network
+http://livex.pop-app.live/s4n/poplive/ch534/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1305918437496164354/UbULc0Jx_400x400.jpg" group-title="Fight", XFC MMA
+https://b81ea6a237a99f732a8a56c17e6e1733.7wzuvg.channel-assembly.mediatailor.us-east-1.amazonaws.com/v1/channel/XFC_TV/index-xfctv.m3u8
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/6334a574605f140007e233c4/colorLogoPNG.png" group-title="Fight", PFL MMA
+https://r.mjh.nz/PlutoTV/64f6180130ab3300083d896b-alt.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/xsgYdKT/wwenetwork.png" group-title="Fight", WWE Network
+https://d2p372oxiwmcn1.cloudfront.net/hls/main.m3u8
+#EXTINF:-1 tvg-logo="https://provider-static.plex.tv/epg/cms/production/a12045b8-c4b0-46f1-a480-97b5fceb9db9/FITE24-7_Channel_Logo_for_PLEX_1800x1200.png" group-title="Fight", Fite 24/7
+https://bit.ly/4aYnRZC?profile=inspirationlivetv.m3u8
+#EXTINF:-1 tvg-logo="https://github.com/inspirationlinks/m3u/raw/live/Logos/SwerveCombat.webp" group-title="Fight", Swerve Combat
+https://bit.ly/47jr7N2?profile=inspirationlivetv.m3u8
+#EXTINF:-1 tvg-logo="https://github.com/inspirationlinks/m3u/raw/live/Logos/fightnetwork.webp" group-title="Fight", MFight Network
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=778
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/90/HK_Logo_Wiki.png" group-title="Fight", Hard Knock Fighting
+https://d3uyzhwvmemdyf.cloudfront.net/scheduler/scheduleMaster/109/variant/22099396/8d216b41-1,96b-49d2-afb2-46cb9916f903.m3u8
+#EXTINF:-1 tvg-logo="https://github.com/inspirationlinks/m3u/raw/live/Logos/ImpactWrestling.webp" group-title="Fight", Impact! Wrestling
+https://d2p372oxiwmcn1.cloudfront.net/hls/1080p/playlist.m3u8
 
 
 
