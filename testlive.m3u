@@ -1,3 +1,56 @@
+#EXTINF:-1 group-title="EPL SPORTS" tvg-logo="https://i.ibb.co/VggrTny/liga-inggris.png", PREMIER LEAGUE​ 1 (Champion 5)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 
+#KODIPROP:inputstreamaddon=inputstream.adaptive 
+#KODIPROP:inputstream.adaptive.manifest_type=dash 
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha 
+#KODIPROP:inputstream.adaptive.license_key=https://srtv.my.id/vd/play.php?id=9182&type=drm 
+https://srtv.my.id/vd/play.mpd?id=9182&type=dash
+
+#EXTINF:-1 group-title="EPL SPORTS" tvg-logo="https://i.ibb.co/VggrTny/liga-inggris.png", PREMIER LEAGUE 2 (Champion 6)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 
+#KODIPROP:inputstreamaddon=inputstream.adaptive 
+#KODIPROP:inputstream.adaptive.manifest_type=dash 
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha 
+#KODIPROP:inputstream.adaptive.license_key=https://srtv.my.id/vd/play.php?id=9183&type=drm 
+https://srtv.my.id/vd/play.mpd?id=9183&type=dash 
+
+#EXTINF:-1 group-title="Live Soccer Event" tvg-logo="https://berita.99.co/wp-content/uploads/2021/03/cara-berlangganan-mola-tv.jpg", Event MolaTV 1
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=3e17c3798a294c49b93c1b2ddbcd8f29:0917fa8c9cf68c206efc24946d0c22cc
+https://live.mocdn.tv/out/v1/678ab9a54d9844568af751dcaf418d97/manifest_L1.mpd
+
+#EXTINF:-1 group-title="Live Soccer Event" tvg-logo="https://berita.99.co/wp-content/uploads/2021/03/cara-berlangganan-mola-tv.jpg", Event MolaTV 2
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=3e17c3798a294c49b93c1b2ddbcd8f29:0917fa8c9cf68c206efc24946d0c22cc
+https://live.mocdn.tv/out/v1/664dce1a02dd4cd7a748d6eb9b719425/manifest_L1.mpd
+
+#EXTINF:-1 group-title="Live Soccer Event" tvg-logo="https://berita.99.co/wp-content/uploads/2021/03/cara-berlangganan-mola-tv.jpg", Event MolaTV 3
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=3e17c3798a294c49b93c1b2ddbcd8f29:0917fa8c9cf68c206efc24946d0c22cc
+https://live.mocdn.tv/out/v1/2e1d1b597e5345b59edc803895bad88b/manifest_L1.mpd
+
+#EXTINF:-1 group-title="Live Soccer Event" tvg-logo="https://berita.99.co/wp-content/uploads/2021/03/cara-berlangganan-mola-tv.jpg", Event MolaTV 4
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=3e17c3798a294c49b93c1b2ddbcd8f29:0917fa8c9cf68c206efc24946d0c22cc
+https://live.mocdn.tv/out/v1/664dce1a02dd4cd7a748d6eb9b719425/manifest_L1.mpd
+
+#EXTINF:-1 group-title="Live Soccer Event" tvg-logo="https://berita.99.co/wp-content/uploads/2021/03/cara-berlangganan-mola-tv.jpg", Event MolaTV 5
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=3e17c3798a294c49b93c1b2ddbcd8f29:0917fa8c9cf68c206efc24946d0c22cc
+https://live.mocdn.tv/out/v1/728c541035c34cc598cef262c95f7b43/manifest_L1.mpd
+
+#EXTINF:-1 group-title="Live Soccer Event" tvg-logo="https://berita.99.co/wp-content/uploads/2021/03/cara-berlangganan-mola-tv.jpg", Event MolaTV 6
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=3e17c3798a294c49b93c1b2ddbcd8f29:0917fa8c9cf68c206efc24946d0c22cc
+https://live.mocdn.tv/out/v1/f652f46af7114b4a9be234af2050b095/manifest_L1.mpd
+
+#EXTINF:-1 group-title="Live Soccer Event" tvg-logo="https://berita.99.co/wp-content/uploads/2021/03/cara-berlangganan-mola-tv.jpg", Event MolaTV 7
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=3e17c3798a294c49b93c1b2ddbcd8f29:0917fa8c9cf68c206efc24946d0c22cc
+https://live.mocdn.tv/out/v1/d89b099c972e4f47bf736e8a9b602f16/manifest_L1.mpd
+
+
+
 #EXTINF:-1 group-title="Sport" tvg-logo="", EPL 1
 http://bananatv.org:25461/play/qjTtd6c1Izx4JkSoVRirdHh_Kff4-kzcuh6nNJ_LLJ8/ts
 #EXTINF:-1 group-title="Sport" tvg-logo="", EPL 2
