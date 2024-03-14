@@ -648,6 +648,57 @@ https://nyanv-live-cdn.mncnow.id/live/eds/NHKWorldTV/sa_dash_vmx/NHKWorldTV.mpd
 #EXTVLCOPT:http-referrer=https://visionplus.id
 https://nyanv-live-cdn.mncnow.id/live/eds/NHKWorldPremium/sa_dash_vmx/NHKWorldPremium.mpd
 
+#EXTINF:-1 group-title="NEWS⭐" tvg-logo=" https://www.useetv.com/assets/images/channel/logo_newsasia_big.png?v=2.0.0.13", CNA
+https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index.m3u8
+
+#EXTINF:-1 group-title="NEWS⭐" tvg-logo="https://www.useetv.com/assets/images/channel/logo_abcaustralia_big.png", ABC Australia
+https://abc-iview-mediapackagestreams-2.akamaized.net/out/v1/6e1cc6d25ec0480ea099a5399d73bc4b/index.m3u8
+
+#EXTINF:-1 group-title="NEWS⭐" tvg-logo=" https://www.useetv.com/assets/images/channel/logo_aljazeera_big1.png?v=2.0.0.13", Aljazeera
+https://live-hls-web-aje.getaj.net/AJE/master.m3u8
+
+#EXTINF:-1 group-title="NEWS⭐" tvg-logo="https://www.useetv.com/assets/images/channel/logo_dwtv_big.png?v=2.0.0.13", DW News
+http://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/index.m3u8
+
+#EXTINF:-1 group-title="NEWS⭐" tvg-logo=" https://i.postimg.cc/SQL2LrT4/PRESS-TV.png", Press TV
+https://cdnlive.presstv.ir/cdnlive/smil:cdnlive.smil/chunklist.m3u8
+
+#EXTINF:-1 group-title="NEWS⭐" tvg-logo=" https://www.useetv.com/assets/images/channel/logo_trtworld_small.png", TRT World
+https://tv-trtworld.live.trt.com.tr/master.m3u8
+
+#EXTINF:-1 group-title="NEWS⭐" tvg-logo="https://www.useetv.com/assets/images/channel/logo_cnninternational_big.png", CNN
+https://cnn-cnninternational-1-eu.rakuten.wurl.tv/playlist.m3u8
+
+#EXTINF:-1 group-title="NEWS⭐" tvg-logo=" https://i.postimg.cc/dtNTxrg8/GB-NEWS.png", GB News
+https://live-gbnews.simplestreamcdn.com/s3/gbnews_ssai/index.m3u8
+
+#EXTINF:-1 group-title="NEWS⭐"tvg-logo=" https://i.postimg.cc/gkfpYK4v/BBC-WORLD-NEWS.png ", BBC World News
+https://unifi-live05.secureswiftcontent.com/UnifiHD/live28-1080FHD.m3u8
+
+#EXTINF:-1 group-title="NEWS⭐"tvg-logo="https://i.postimg.cc/cCDq3y0h/Global-News.png", Global News
+https://live.corusdigitaldev.com/groupd/live/49a91e7f-1023-430f-8d66-561055f3d0f7/live.isml/live-audio_1=96000-video=2499968.m3u8
+
+#EXTINF:-1 group-title="NEWS⭐"tvg-logo="https://i.postimg.cc/nzHWWSxL/CityNews.png", CityNews
+https://citynewsregional.akamaized.net/hls/live/1024053/Regional_Live_8/master.m3u8
+
+#EXTINF:-1 group-title="NEWS⭐"tvg-logo="https://i.postimg.cc/g0y5NFf5/City-News-Toronto.png", CityNews Toronto
+https://citynewsregional.akamaized.net/hls/live/1024052/Regional_Live_7/master.m3u8
+
+#EXTINF:-1 group-title="NEWS⭐"tvg-logo=" https://i.postimg.cc/Gm4CpGQm/News-NOW-from-FOX.png", FOX News Now
+http://fox-foxnewsnow-samsungus.amagi.tv/playlist.m3u8
+
+#EXTINF:-1group-title="NEWS⭐" tvg-logo=" https://i.postimg.cc/XvXRXTSd/ABC-NEWS.png", ABC News
+https://content.uplynk.com/channel/3324f2467c414329b3b0cc5cd987b6be.m3u8
+
+#EXTINF:-1 group-title="NEWS⭐"tvg-logo="https://i.postimg.cc/zDsZ9ZdR/One-America-News.png", One America News
+http://oneamericanews-roku-us.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 group-title="NEWS⭐"tvg-logo="https://i.postimg.cc/jq3sJ0tQ/KBS-World.png", KBS World
+https://kbsworld-ott.akamaized.net/hls/live/2002341/kbsworld/01.m3u8
+
+#EXTINF:-1group-title="NEWS⭐" tvg-logo="https://i.postimg.cc/4xmDyXwQ/SBS.png", SBS
+https://newidco-sbs-1-eu.xiaomi.wurl.tv/playlist.m3u8
+
 
 
 #EXTINF:-1 group-title="Live Soccer Event⚽" tvg-logo="https://berita.99.co/wp-content/uploads/2021/03/cara-berlangganan-mola-tv.jpg", Event MolaTV 1 ⭐
@@ -871,8 +922,10 @@ http://apk.zentv4k.me:80/play/live.php?mac=00:1a:79:00:00:0a&stream=494229&exten
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/de/9/92/Fightbox_Logo.png" group-title="Fight", FIGHT BOX
 http://iptv.prosto.tv:7000/ch118/video.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Fight_network_logo.svg/200px-Fight_network_logo.svg.png" group-title="Fight", Fight Network
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Fight_network_logo.svg/200px-Fight_network_logo.svg.png" group-title="Fight", Fight Network (pop)
 http://livex.pop-app.live/s4n/poplive/ch534/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/zvJfDPrT/Fight-Network.png" group-title="Fight ", Fight Network (cloud)
+https://d12a2vxqkkh1bo.cloudfront.net/hls/main.m3u8
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1305918437496164354/UbULc0Jx_400x400.jpg" group-title="Fight", XFC MMA
 https://b81ea6a237a99f732a8a56c17e6e1733.7wzuvg.channel-assembly.mediatailor.us-east-1.amazonaws.com/v1/channel/XFC_TV/index-xfctv.m3u8
 #EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/6334a574605f140007e233c4/colorLogoPNG.png" group-title="Fight", PFL MMA
