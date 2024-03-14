@@ -687,7 +687,7 @@ https://citynewsregional.akamaized.net/hls/live/1024052/Regional_Live_7/master.m
 #EXTINF:-1 group-title="NEWS⭐"tvg-logo=" https://i.postimg.cc/Gm4CpGQm/News-NOW-from-FOX.png", FOX News Now
 http://fox-foxnewsnow-samsungus.amagi.tv/playlist.m3u8
 
-#EXTINF:-1group-title="NEWS⭐" tvg-logo=" https://i.postimg.cc/XvXRXTSd/ABC-NEWS.png", ABC News
+#EXTINF:-1 group-title="NEWS⭐" tvg-logo=" https://i.postimg.cc/XvXRXTSd/ABC-NEWS.png", ABC News
 https://content.uplynk.com/channel/3324f2467c414329b3b0cc5cd987b6be.m3u8
 
 #EXTINF:-1 group-title="NEWS⭐"tvg-logo="https://i.postimg.cc/zDsZ9ZdR/One-America-News.png", One America News
@@ -696,7 +696,7 @@ http://oneamericanews-roku-us.amagi.tv/playlist.m3u8
 #EXTINF:-1 group-title="NEWS⭐"tvg-logo="https://i.postimg.cc/jq3sJ0tQ/KBS-World.png", KBS World
 https://kbsworld-ott.akamaized.net/hls/live/2002341/kbsworld/01.m3u8
 
-#EXTINF:-1group-title="NEWS⭐" tvg-logo="https://i.postimg.cc/4xmDyXwQ/SBS.png", SBS
+#EXTINF:-1 group-title="NEWS⭐" tvg-logo="https://i.postimg.cc/4xmDyXwQ/SBS.png", SBS
 https://newidco-sbs-1-eu.xiaomi.wurl.tv/playlist.m3u8
 
 
