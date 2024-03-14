@@ -404,25 +404,25 @@ https://pop5clustera00de07172379a62d6189.hypp.tv/PLTV/88888888/224/3221227892/32
 #KODIPROP:inputstream.adaptive.license_key=94663e64ef81e90a9deeb0f1993ce11c:9d6f78876677b543cd4e18c846aa2481
 https://pop5clustera00de07172379a62d6189.hypp.tv/PLTV/88888888/224/3221227937/3221227937.mpd?rrsip=web.hypp.tv:443&zoneoffset=0&servicetype=1&icpid=&accounttype=1&limitflux=-1&limitdur=-1&accountinfo=U0v281lovZMLWzqtXjPtYuOXwQCoIQRk449J%2BBUCcawRjfkMvdAX9TZ5I%2BbsmfrU7%2B8kYXzOcpo3wc%2BwgB1By0rcymHBIhx5oJP4jv2fPK0%3D%3A20230206102855%3AUTC%2C1003663983%2C115.164.187.20%2C20230206102855%2Curn:Huawei:liveTV:XTV57682031%2C1003663983%2C-1%2C0%2C1%2C%2C%2C2%2C593%2C%2C%2C2%2C1343117%2C0%2C248412%2C47562943%2C%2C%2C2%2C1%2CEND&GuardEncType=2&it=H4sIAAAAAAAAADWOwY6CMBRF_6bLpn10wC660piYTHASGbfmUR6VWKi2QDJ_P6K4vfeemzNGtHTYGRKbPMu0shsAVdu2FlDkYNtMo4RaS5boUQYDzKL33eDK0CzY-bS9SMEFB5BcAquWu71Hty7Lqa8pmuyDnSjOnSXTpJbPmDg6F8nh2IWB_3j8-41-nTCqVjWZF1-5FqoApTQbl7TCdHs27IppG_o7Rmq-g3sBpkWfiN3R3tBRiT2ZYfL-zR1j87T5B0NkEFD0AAAA&tenantId=6001
 
-#EXTINF:-1 group-title="BeIN & ASTRO SPORTS⭐" tvg-logo="https://dj7fdt04hl8tv.cloudfront.net/acm/media/contenthub/shop/astro-go-256.png", ASTRO Go Live Event 1 ⭐
+#EXTINF:-1 group-title="BeIN & ASTRO SPORTS⭐" tvg-logo="https://dj7fdt04hl8tv.cloudfront.net/acm/media/contenthub/shop/astro-go-256.png", ASTRO Go Live Event 1
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.license_key=de761cd285aa2b1c1620d16ddbade010:f12de5f0de92c52f841705d9d6449d3a
 https://linearjitp02-playback.astro.com.my/dash-wv/linear/9989/default_primary.mpd
 
-#EXTINF:-1 group-title="BeIN & ASTRO SPORTS⭐" tvg-logo="https://dj7fdt04hl8tv.cloudfront.net/acm/media/contenthub/shop/astro-go-256.png", ASTRO Go Live Event 2 ⭐
+#EXTINF:-1 group-title="BeIN & ASTRO SPORTS⭐" tvg-logo="https://dj7fdt04hl8tv.cloudfront.net/acm/media/contenthub/shop/astro-go-256.png", ASTRO Go Live Event 2
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.license_key=8ab014de03c31a84a835583c348a5e10:5ed727c3f28bac59aa3e5914f5ad455c
 https://linearjitp02-playback.astro.com.my/dash-wv/linear/9988/default_primary.mpd
 
-#EXTINF:-1 group-title="BeIN & ASTRO SPORTS⭐" tvg-logo="https://dj7fdt04hl8tv.cloudfront.net/acm/media/contenthub/shop/astro-go-256.png", ASTRO Go Live Event 3 ⭐
+#EXTINF:-1 group-title="BeIN & ASTRO SPORTS⭐" tvg-logo="https://dj7fdt04hl8tv.cloudfront.net/acm/media/contenthub/shop/astro-go-256.png", ASTRO Go Live Event 3
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.license_key=8d580c263ffde691b4249dfcac43fd10:f3148d1e737dece3554b889868831659
 https://linearjitp02-playback.astro.com.my/dash-wv/linear/9987/default_primary.mpd
 
-#EXTINF:-1 group-title="BeIN & ASTRO SPORTS⭐" tvg-logo="https://dj7fdt04hl8tv.cloudfront.net/acm/media/contenthub/shop/astro-go-256.png", ASTRO Go Live Event 4 ⭐
+#EXTINF:-1 group-title="BeIN & ASTRO SPORTS⭐" tvg-logo="https://dj7fdt04hl8tv.cloudfront.net/acm/media/contenthub/shop/astro-go-256.png", ASTRO Go Live Event 4
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.license_key=cb18945925e65d411fbb986d72531010:15ff74ae1064c5f2fb00d2995fa88955
