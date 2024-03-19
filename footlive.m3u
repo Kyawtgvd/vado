@@ -1085,17 +1085,17 @@ https://node1.olelive.com:6443/live/CCTV5HD/hls.m3u8
 https://node1.olelive.com:6443/live/CCTV5PHD/hls.m3u8
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/tt/telemundo-mx.png" group-title="Sport / Football", TELEMUNDO (168)
 http://168.227.22.18:1935/live/mobile-040/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://w7.pngwing.com/pngs/978/761/png-transparent-logo-of-nbc-universo-nbc-news-others-miscellaneous-television-text.png" group-title="Sport", UNIVERSO (168) SD
+#EXTINF:-1 tvg-logo="https://w7.pngwing.com/pngs/978/761/png-transparent-logo-of-nbc-universo-nbc-news-others-miscellaneous-television-text.png" group-title="Sport / Football", UNIVERSO (168) SD
 http://168.227.22.18:1935/live/mobile-065/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://1000logos.net/wp-content/uploads/2021/05/ESPN-logo.png" group-title="Sport", ESPN 1 (168) SD
+#EXTINF:-1 tvg-logo="https://1000logos.net/wp-content/uploads/2021/05/ESPN-logo.png" group-title="Sport / Football", ESPN 1 (168) SD
 http://168.227.22.18:1935/live/mobile-032/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://1000logos.net/wp-content/uploads/2021/05/ESPN-logo.png" group-title="Sport", ESPN 2 (168) SD
+#EXTINF:-1 tvg-logo="https://1000logos.net/wp-content/uploads/2021/05/ESPN-logo.png" group-title="Sport / Football", ESPN 2 (168) SD
 http://168.227.22.18:1935/live/mobile-033/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/FOX_Sports_logo.svg/1280px-FOX_Sports_logo.svg.png" group-title="Sport", FOX SPORTS 1 (168) SD
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/FOX_Sports_logo.svg/1280px-FOX_Sports_logo.svg.png" group-title="Sport / Football", FOX SPORTS 1 (168) SD
 http://168.227.22.18:1935/live/mobile-010/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/FOX_Sports_logo.svg/1280px-FOX_Sports_logo.svg.png" group-title="Sport", FOX SPORTS 2 (168) SD
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/FOX_Sports_logo.svg/1280px-FOX_Sports_logo.svg.png" group-title="Sport / Football", FOX SPORTS 2 (168) SD
 http://168.227.22.18:1935/live/mobile-031/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/FOX_Sports_logo.svg/1280px-FOX_Sports_logo.svg.png" group-title="Sport", FOX SPORTS 3 (168) SD
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/FOX_Sports_logo.svg/1280px-FOX_Sports_logo.svg.png" group-title="Sport / Football", FOX SPORTS 3 (168) SD
 http://168.227.22.18:1935/live/mobile-108/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/b8/MUTV_logo.png" group-title="Sport / Football", MU TV (bco)
 https://bcovlive-a.akamaihd.net/r2d2c4ca5bf57456fb1d16255c1a535c8/eu-west-1/6058004203001/playlist.m3u8
