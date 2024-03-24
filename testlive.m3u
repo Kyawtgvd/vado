@@ -1,44 +1,76 @@
-#EXTINF:-1 group-title="Test Sport" tvg-logo="https://guruhitech.com/wp-content/uploads/2023/01/daddylive-icon.webp", Astro SuperSport 1
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://claplivehdplay.ru/
-#EXTVLCOPT:http-origin=https://claplivehdplay.ru
-https://ott3.khanggtivi.xyz/source/?play_token=cjI5WEorMGlOSnJ0Q216L29WRWxUeW5SVnVLaStMVElMa3Urb0N0MUpPUWFxaGJ1ZzRneXhjeWV5Lzg0YXBNc2NNRVM1bHY5dzViT0lqcUlVdUYwcDlPMWpnNVdIb0k4UG9BRlQ1cGJnTWM9&playID=254-214-52-1&dataID=/123/index.m3u8
-#EXTINF:-1 group-title="Test Sport" tvg-logo="https://guruhitech.com/wp-content/uploads/2023/01/daddylive-icon.webp", Astro SuperSport 2
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://claplivehdplay.ru/
-#EXTVLCOPT:http-origin=https://claplivehdplay.ru
-https://ott3.khanggtivi.xyz/source/?play_token=cjI5WEorMGlOSnJ0Q216L29WRWxUeW5SVnVLaStMVElMa3Urb0N0MUpPUWFxaGJ1ZzRneXhjeWV5Lzg0YXBNc2NNRVM1bHY5dzViT0lqcUlVdUYwcDlPMWpnNVdIb0k4UG9BRlQ1cGJnTWM9&playID=254-214-52-1&dataID=/124/index.m3u8
-#EXTINF:-1 group-title="Test Sport" tvg-logo="https://guruhitech.com/wp-content/uploads/2023/01/daddylive-icon.webp", Astro SuperSport 3
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://claplivehdplay.ru/
-#EXTVLCOPT:http-origin=https://claplivehdplay.ru
-https://ott3.khanggtivi.xyz/source/?play_token=cjI5WEorMGlOSnJ0Q216L29WRWxUeW5SVnVLaStMVElMa3Urb0N0MUpPUWFxaGJ1ZzRneXhjeWV5Lzg0YXBNc2NNRVM1bHY5dzViT0lqcUlVdUYwcDlPMWpnNVdIb0k4UG9BRlQ1cGJnTWM9&playID=254-214-52-1&dataID=/125/index.m3u8
-#EXTINF:-1 group-title="Test Sport" tvg-logo="https://guruhitech.com/wp-content/uploads/2023/01/daddylive-icon.webp", Astro SuperSport 4
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://claplivehdplay.ru/
-#EXTVLCOPT:http-origin=https://claplivehdplay.ru
-https://ott3.khanggtivi.xyz/source/?play_token=cjI5WEorMGlOSnJ0Q216L29WRWxUeW5SVnVLaStMVElMa3Urb0N0MUpPUWFxaGJ1ZzRneXhjeWV5Lzg0YXBNc2NNRVM1bHY5dzViT0lqcUlVdUYwcDlPMWpnNVdIb0k4UG9BRlQ1cGJnTWM9&playID=254-214-52-1&dataID=/126/index.m3u8
+#EXTINF:-1 tvg-logo="https://ais-s.demo-vidnt.com/ais/play/origin/LIVE/channelicon/beIN_SPORTS_1.png" group-title="Test Sport", beIN Sports 1
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://license.ais-vidnt.com/ri/licenseManager.do?pallycon-customdata-v2=eyJkcm1fdHlwZSI6IldpZGV2aW5lIiwic2l0ZV9pZCI6IktPUVIiLCJ1c2VyX2lkIjoidHJfZnNvS0gwMnVWMkFqQkFzSFpuM2kiLCJjaWQiOiJTMDAwMSIsInRva2VuIjoiNmpXYnRCWG9Mdm81alhTcGZuNHNXVDByVDRGR2pxK21ZYy9lb09lQ0pKZ0hOWU1uLzFxa0gzdXFXU3ovNU1uZzVFWHVaNTJucytOWlFuTXpJdU1mS01xRmk2ZHhmKzVINUZOdGc4UzFsSnVrU05GanhvMmxVSE02eGxmN0FVQjEiLCJ0aW1lc3RhbXAiOiIyMDIzLTEwLTE5VDA2OjQzOjExWiIsImhhc2giOiIyUUdCMlhLeG1LMUt3ZGI0RUtXOGFsOUgxSG9BRmp5dUxUN2lmZHFaYXlZPSJ9
+https://49-231-37-37-rewriter.ais-vidnt.com/ais/play/origin/live/eds/S0001/DASH/S0001.mpd
+
+#EXTINF:-1 tvg-logo="https://ais-s.demo-vidnt.com/ais/play/origin/LIVE/channelicon/beIN_SPORTS_2.png" group-title="Test Sport", beIN Sports 2
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://license.ais-vidnt.com/ri/licenseManager.do?pallycon-customdata-v2=eyJkcm1fdHlwZSI6IldpZGV2aW5lIiwic2l0ZV9pZCI6IktPUVIiLCJ1c2VyX2lkIjoidHJfaVRTVDFPVVBma2RjQkNmUVkyWXQiLCJjaWQiOiJTMDAwMiIsInRva2VuIjoiNmpXYnRCWG9Mdm81alhTcGZuNHNXVDByVDRGR2pxK21ZYy9lb09lQ0pKZ0hOWU1uLzFxa0gzdXFXU3ovNU1uZzVFWHVaNTJucytOWlFuTXpJdU1mS01xRmk2ZHhmKzVINUZOdGc4UzFsSnUrczlSSkt2SDRUQUJOUTNJUVJ3MDgiLCJ0aW1lc3RhbXAiOiIyMDIzLTEwLTE5VDA2OjQ0OjQ4WiIsImhhc2giOiIyNmZtNnRUWkt0cWxzN3ZRbjQ2R09kaGRtbVZFVGtnWmM2NGRtZzlTUFVBPSJ9
+https://49-231-37-37-rewriter.ais-vidnt.com/ais/play/origin/live/eds/S0002/DASH/S0002.mpd
+
+#EXTINF:-1 tvg-logo="https://ais-s.demo-vidnt.com/ais/play/origin/LIVE/channelicon/beIN_SPORTS_3.png" group-title="Test Sport", beIN Sports 3
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://license.ais-vidnt.com/ri/licenseManager.do?pallycon-customdata-v2=eyJkcm1fdHlwZSI6IldpZGV2aW5lIiwic2l0ZV9pZCI6IktPUVIiLCJ1c2VyX2lkIjoidHJfS0dhcUNHaEpjakdITUIwYThYWmMiLCJjaWQiOiJTMDAwMyIsInRva2VuIjoiNmpXYnRCWG9Mdm81alhTcGZuNHNXVDByVDRGR2pxK21ZYy9lb09lQ0pKZ0hOWU1uLzFxa0gzdXFXU3ovNU1uZzVFWHVaNTJucytOWlFuTXpJdU1mS01xRmk2ZHhmKzVINUZOdGc4UzFsSnN0bFNEclBTMFVCV2xyTU0wMXlNSHYiLCJ0aW1lc3RhbXAiOiIyMDIzLTEwLTE5VDA2OjQ2OjI5WiIsImhhc2giOiJ6aGVpZW8ycXc5UERzNWt5bFJmWTAyZnhRVllWelpRNnNyVFVMYUFWTVhJPSJ9
+https://49-231-37-37-rewriter.ais-vidnt.com/ais/play/origin/live/eds/S0003/DASH/S0003.mpd
+
+#EXTINF:-1 tvg-logo="https://ais-s.demo-vidnt.com/ais/play/origin/LIVE/channelicon/beIN_SPORTS_4.png" group-title="Test Sport", beIN Sports 4
+#EXTVLCOPT:http-referrer=https://ais-vidnt.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+https://49-231-37-37-rewriter.ais-vidnt.com/ais/play/origin/live/eds/S0004/DASH/S0004.mpd?|Referer=https://redirector.ais-vidnt.com
+
+#EXTINF:-1 tvg-logo="https://ais-s.demo-vidnt.com/ais/play/origin/LIVE/channelicon/beIN_SPORTS_5.png" group-title="Test Sport", beIN Sports 5
+#EXTVLCOPT:http-referrer=https://ais-vidnt.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+https://49-231-37-37-rewriter.ais-vidnt.com/ais/play/origin/live/eds/S0005/DASH/S0005.mpd?|Referer=https://redirector.ais-vidnt.com
+
+#EXTINF:-1 tvg-logo="https://ais-s.demo-vidnt.com/ais/play/origin/LIVE/channelicon/beIN_SPORTS_6.png" group-title="Test Sport", beIN Sports 6
+#EXTVLCOPT:http-referrer=https://ais-vidnt.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+https://49-231-37-37-rewriter.ais-vidnt.com/ais/play/origin/live/eds/S0007/DASH/S0007.mpd?|Referer=https://redirector.ais-vidnt.com
+
+#EXTINF:-1 tvg-logo="https://ais-s.demo-vidnt.com/ais/play/origin/LIVE/channelicon/beIN_SPORTS_7.png" group-title="Test Sport", beIN Sports 7
+#EXTVLCOPT:http-referrer=https://ais-vidnt.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+https://49-231-37-37-rewriter.ais-vidnt.com/ais/play/origin/live/eds/S0007/DASH/S0007.mpd?|Referer=https://redirector.ais-vidnt.com
 
 
-#EXTINF:-1 group-title="Test Sport" tvg-logo="http://www.thedesignpartnership.co.uk/logos/sport/truepremier1.png", True Premier 1
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 
-https://m1.ballnaja.com/live/True_Premier_Football_1/playlist.m3u8
+#EXTINF:-1 group-title="Test Sport" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE//channelicon///AISPLAY_SPORTS1.png", AISPLAY SPORTS 1 FHD
+https://2nud.short.gy/ballthai1.mpd
+#EXTVLCOPT:http-referrer=https://ais-vidnt.com/
+https://49-231-36-188-rewriter.ais-vidnt.com/ais/play/anevia/live/eds/TL001/DASH/TL001-avc1_5000000=6-mp4a_64000_tha=2.mpd
 
-#EXTINF:-1 group-title="Test Sport" tvg-logo="http://www.thedesignpartnership.co.uk/logos/sport/truepremier2.png", True Premier 2
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 
-https://m1.ballnaja.com/live/True_Premier_Football_2/playlist.m3u8
+#EXTINF:-1 group-title="Test Sport" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE//channelicon///AISPLAY_SPORTS1.png", AISPLAY SPORTS 1
+#EXTVLCOPT:http-referrer=https://ais-vidnt.com/
+https://49-231-37-37-rewriter.ais-vidnt.com/ais/play/origin/live/eds/TL001/DASH/TL001.mpd?|Referer=https://redirector.ais-vidnt.com
 
-#EXTINF:-1 group-title="Test Sport" tvg-logo="http://www.thedesignpartnership.co.uk/logos/sport/truepremier3.png", True Premier 3
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 
-https://m1.ballnaja.com/live/True_Premier_Football_3/playlist.m3u8
+#EXTINF:-1 group-title="Test Sport" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE//channelicon///AISPLAY_SPORTS2.png", AISPLAY SPORTS 2 FHD
+#EXTVLCOPT:http-referrer=https://ais-vidnt.com/
+https://49-231-36-188-rewriter.ais-vidnt.com/ais/play/anevia/live/eds/TL002/DASH/TL002-avc1_5000000=6-mp4a_64000_tha=2.mpd
 
-#EXTINF:-1 group-title="Test Sport" tvg-logo="http://www.thedesignpartnership.co.uk/logos/sport/truepremier4.png", True Premier 4
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 
-https://m1.ballnaja.com/live/True_Premier_Football_4/playlist.m3u8
+#EXTINF:-1 group-title="Test Sport" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE//channelicon///AISPLAY_SPORTS2.png", AISPLAY SPORTS 2
+#EXTVLCOPT:http-referrer=https://ais-vidnt.com/
+https://49-231-37-37-rewriter.ais-vidnt.com/ais/play/origin/live/eds/TL002/DASH/TL002.mpd?|Referer=https://redirector.ais-vidnt.com
 
-#EXTINF:-1 group-title="Test Sport" tvg-logo="http://www.thedesignpartnership.co.uk/logos/sport/truepremier5.png", True Premier 5
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 
-https://m1.ballnaja.com/live/True_Premier_Football_5/playlist.m3u8
+#EXTINF:-1 group-title="Test Sport" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE//channelicon///AISPLAY_SPORTS3.png", AISPLAY SPORTS 3 FHD
+#EXTVLCOPT:http-referrer=https://ais-vidnt.com/
+https://49-231-36-188-rewriter.ais-vidnt.com/ais/play/anevia/live/eds/TL013/DASH/TL013-avc1_5000000=6-mp4a_64000_tha=2.mpd
+
+#EXTINF:-1 group-title="Test Sport" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE//channelicon///AISPLAY_SPORTS3.png", AISPLAY SPORTS 3
+#EXTVLCOPT:http-referrer=https://ais-vidnt.com/
+https://49-231-37-37-rewriter.ais-vidnt.com/ais/play/origin/live/eds/TL013/DASH/TL013.mpd?|Referer=https://redirector.ais-vidnt.com
+
+#EXTINF:-1 group-title="Test Sport" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE//channelicon///AISPLAY_SPORTS4.png", AISPLAY SPORTS 4 FHD
+#EXTVLCOPT:http-referrer=https://ais-vidnt.com/
+https://49-231-36-188-rewriter.ais-vidnt.com/ais/play/anevia/live/eds/TL014/DASH/TL014-avc1_5000000=6-mp4a_64000_tha=2.mpd
+
+#EXTINF:-1 group-title="Test Sport" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE//channelicon///AISPLAY_SPORTS3.png", AISPLAY SPORTS 4
+#EXTVLCOPT:http-referrer=https://ais-vidnt.com/
+https://49-231-37-37-rewriter.ais-vidnt.com/ais/play/origin/live/eds/TL013/DASH/TL014.mpd?|Referer=https://redirector.ais-vidnt.com
+
+
+#EXTINF:-1 group-title="Test Sport" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE///channelicon//GolfReality.png", Golf Reality
+#EXTVLCOPT:http-referrer=https://ais-vidnt.com/
+https://49-231-37-37-rewriter.ais-vidnt.com/ais/play/origin/live/eds/V1002/DASH/V1002.mpd?|Referer=https://redirector.ais-vidnt.com
 
 
 
