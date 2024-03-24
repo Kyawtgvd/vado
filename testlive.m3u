@@ -1,76 +1,51 @@
-#EXTINF:-1 tvg-logo="https://ais-s.demo-vidnt.com/ais/play/origin/LIVE/channelicon/beIN_SPORTS_1.png" group-title="Test Sport", beIN Sports 1
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://license.ais-vidnt.com/ri/licenseManager.do?pallycon-customdata-v2=eyJkcm1fdHlwZSI6IldpZGV2aW5lIiwic2l0ZV9pZCI6IktPUVIiLCJ1c2VyX2lkIjoidHJfZnNvS0gwMnVWMkFqQkFzSFpuM2kiLCJjaWQiOiJTMDAwMSIsInRva2VuIjoiNmpXYnRCWG9Mdm81alhTcGZuNHNXVDByVDRGR2pxK21ZYy9lb09lQ0pKZ0hOWU1uLzFxa0gzdXFXU3ovNU1uZzVFWHVaNTJucytOWlFuTXpJdU1mS01xRmk2ZHhmKzVINUZOdGc4UzFsSnVrU05GanhvMmxVSE02eGxmN0FVQjEiLCJ0aW1lc3RhbXAiOiIyMDIzLTEwLTE5VDA2OjQzOjExWiIsImhhc2giOiIyUUdCMlhLeG1LMUt3ZGI0RUtXOGFsOUgxSG9BRmp5dUxUN2lmZHFaYXlZPSJ9
-https://49-231-37-37-rewriter.ais-vidnt.com/ais/play/origin/live/eds/S0001/DASH/S0001.mpd
+#EXTINF:-1 group-title="Test Sport" tvg-logo="https://cms.dmpcdn.com/livetv/2023/07/18/7cb4aae0-2515-11ee-9407-9367a664b338_webp_original.webp", Golf Channel
+https://streaming.livescorethai.net/iptv/hd-golf.stream/playlist.m3u8|referer=https://streaming.livescorethai.net
 
-#EXTINF:-1 tvg-logo="https://ais-s.demo-vidnt.com/ais/play/origin/LIVE/channelicon/beIN_SPORTS_2.png" group-title="Test Sport", beIN Sports 2
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://license.ais-vidnt.com/ri/licenseManager.do?pallycon-customdata-v2=eyJkcm1fdHlwZSI6IldpZGV2aW5lIiwic2l0ZV9pZCI6IktPUVIiLCJ1c2VyX2lkIjoidHJfaVRTVDFPVVBma2RjQkNmUVkyWXQiLCJjaWQiOiJTMDAwMiIsInRva2VuIjoiNmpXYnRCWG9Mdm81alhTcGZuNHNXVDByVDRGR2pxK21ZYy9lb09lQ0pKZ0hOWU1uLzFxa0gzdXFXU3ovNU1uZzVFWHVaNTJucytOWlFuTXpJdU1mS01xRmk2ZHhmKzVINUZOdGc4UzFsSnUrczlSSkt2SDRUQUJOUTNJUVJ3MDgiLCJ0aW1lc3RhbXAiOiIyMDIzLTEwLTE5VDA2OjQ0OjQ4WiIsImhhc2giOiIyNmZtNnRUWkt0cWxzN3ZRbjQ2R09kaGRtbVZFVGtnWmM2NGRtZzlTUFVBPSJ9
-https://49-231-37-37-rewriter.ais-vidnt.com/ais/play/origin/live/eds/S0002/DASH/S0002.mpd
+#EXTINF:-1 group-title="Test Sport" tvg-logo="https://cms.dmpcdn.com/livetv/2023/07/24/6057ad50-29cc-11ee-846b-a1c4e5181c87_webp_original.webp", Golf Channel Thailand
+https://ais-s.ais-vidnt.com/ais/play/origin/live/eds/V0130/DASH/V0130.mpd
 
-#EXTINF:-1 tvg-logo="https://ais-s.demo-vidnt.com/ais/play/origin/LIVE/channelicon/beIN_SPORTS_3.png" group-title="Test Sport", beIN Sports 3
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://license.ais-vidnt.com/ri/licenseManager.do?pallycon-customdata-v2=eyJkcm1fdHlwZSI6IldpZGV2aW5lIiwic2l0ZV9pZCI6IktPUVIiLCJ1c2VyX2lkIjoidHJfS0dhcUNHaEpjakdITUIwYThYWmMiLCJjaWQiOiJTMDAwMyIsInRva2VuIjoiNmpXYnRCWG9Mdm81alhTcGZuNHNXVDByVDRGR2pxK21ZYy9lb09lQ0pKZ0hOWU1uLzFxa0gzdXFXU3ovNU1uZzVFWHVaNTJucytOWlFuTXpJdU1mS01xRmk2ZHhmKzVINUZOdGc4UzFsSnN0bFNEclBTMFVCV2xyTU0wMXlNSHYiLCJ0aW1lc3RhbXAiOiIyMDIzLTEwLTE5VDA2OjQ2OjI5WiIsImhhc2giOiJ6aGVpZW8ycXc5UERzNWt5bFJmWTAyZnhRVllWelpRNnNyVFVMYUFWTVhJPSJ9
-https://49-231-37-37-rewriter.ais-vidnt.com/ais/play/origin/live/eds/S0003/DASH/S0003.mpd
+#EXTINF:-1 group-title="Test Sport" tvg-logo="https://cms.dmpcdn.com/livetv/2023/07/24/60cba4d0-29cc-11ee-b2f4-e9de482d866e_webp_original.webp", SPOTV 1 TRUE
+https://rr3-ic3d-ndjcs.huaweicdncloud.com/dooball2you/spotv1/playlist.m3u8?|Referer=https://dooball2you.com/
 
-#EXTINF:-1 tvg-logo="https://ais-s.demo-vidnt.com/ais/play/origin/LIVE/channelicon/beIN_SPORTS_4.png" group-title="Test Sport", beIN Sports 4
-#EXTVLCOPT:http-referrer=https://ais-vidnt.com/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
-https://49-231-37-37-rewriter.ais-vidnt.com/ais/play/origin/live/eds/S0004/DASH/S0004.mpd?|Referer=https://redirector.ais-vidnt.com
-
-#EXTINF:-1 tvg-logo="https://ais-s.demo-vidnt.com/ais/play/origin/LIVE/channelicon/beIN_SPORTS_5.png" group-title="Test Sport", beIN Sports 5
-#EXTVLCOPT:http-referrer=https://ais-vidnt.com/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
-https://49-231-37-37-rewriter.ais-vidnt.com/ais/play/origin/live/eds/S0005/DASH/S0005.mpd?|Referer=https://redirector.ais-vidnt.com
-
-#EXTINF:-1 tvg-logo="https://ais-s.demo-vidnt.com/ais/play/origin/LIVE/channelicon/beIN_SPORTS_6.png" group-title="Test Sport", beIN Sports 6
-#EXTVLCOPT:http-referrer=https://ais-vidnt.com/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
-https://49-231-37-37-rewriter.ais-vidnt.com/ais/play/origin/live/eds/S0007/DASH/S0007.mpd?|Referer=https://redirector.ais-vidnt.com
-
-#EXTINF:-1 tvg-logo="https://ais-s.demo-vidnt.com/ais/play/origin/LIVE/channelicon/beIN_SPORTS_7.png" group-title="Test Sport", beIN Sports 7
-#EXTVLCOPT:http-referrer=https://ais-vidnt.com/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
-https://49-231-37-37-rewriter.ais-vidnt.com/ais/play/origin/live/eds/S0007/DASH/S0007.mpd?|Referer=https://redirector.ais-vidnt.com
+#EXTINF:-1 group-title="Test Sport" tvg-logo="https://freetvdd.com/wp-content/uploads/2019/12/fight-sports.png", Fight Sports
+http://210.210.155.35/session/ed4cf284-0efc-11ec-a75d-c81f66f89318/dr9445/h/h05/01.m3u8|referer=https://streaming.livescorethai.net
 
 
-#EXTINF:-1 group-title="Test Sport" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE//channelicon///AISPLAY_SPORTS1.png", AISPLAY SPORTS 1 FHD
-https://2nud.short.gy/ballthai1.mpd
-#EXTVLCOPT:http-referrer=https://ais-vidnt.com/
-https://49-231-36-188-rewriter.ais-vidnt.com/ais/play/anevia/live/eds/TL001/DASH/TL001-avc1_5000000=6-mp4a_64000_tha=2.mpd
+#EXTINF:-1 group-title="Test Sport" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/7d/Astro_SuperSport_1.png/revision/latest?cb=20200922172456", Astro SuperSport 1
+#EXTVLCOPT:http-referrer=https://livehdplay.ru/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML,like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://webudit.hlsjs.ru/lb/premium123/index.m3u8
 
-#EXTINF:-1 group-title="Test Sport" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE//channelicon///AISPLAY_SPORTS1.png", AISPLAY SPORTS 1
-#EXTVLCOPT:http-referrer=https://ais-vidnt.com/
-https://49-231-37-37-rewriter.ais-vidnt.com/ais/play/origin/live/eds/TL001/DASH/TL001.mpd?|Referer=https://redirector.ais-vidnt.com
+#EXTINF:-1 group-title="Test Sport" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/6b/Astro_SuperSport_2.png/revision/latest?cb=20200924173634", Astro SuperSport 2
+#EXTVLCOPT:http-referrer=https://livehdplay.ru/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML,like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://webudit.hlsjs.ru/lb/premium124/index.m3u8
 
-#EXTINF:-1 group-title="Test Sport" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE//channelicon///AISPLAY_SPORTS2.png", AISPLAY SPORTS 2 FHD
-#EXTVLCOPT:http-referrer=https://ais-vidnt.com/
-https://49-231-36-188-rewriter.ais-vidnt.com/ais/play/anevia/live/eds/TL002/DASH/TL002-avc1_5000000=6-mp4a_64000_tha=2.mpd
+#EXTINF:-1 group-title="Test Sport" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/e7/Astro_SuperSport_3.png/revision/latest?cb=20200924173711", Astro SuperSport 3
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML,like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://webudit.hlsjs.ru/lb/premium125/index.m3u8
 
-#EXTINF:-1 group-title="Test Sport" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE//channelicon///AISPLAY_SPORTS2.png", AISPLAY SPORTS 2
-#EXTVLCOPT:http-referrer=https://ais-vidnt.com/
-https://49-231-37-37-rewriter.ais-vidnt.com/ais/play/origin/live/eds/TL002/DASH/TL002.mpd?|Referer=https://redirector.ais-vidnt.com
+#EXTINF:-1 group-title="Test Sport" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/d4/Astro_SuperSport_4.png/revision/latest?cb=20200924173748", Astro SuperSport 4
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML,like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://webudit.hlsjs.ru/lb/premium126/index.m3u8
 
-#EXTINF:-1 group-title="Test Sport" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE//channelicon///AISPLAY_SPORTS3.png", AISPLAY SPORTS 3 FHD
-#EXTVLCOPT:http-referrer=https://ais-vidnt.com/
-https://49-231-36-188-rewriter.ais-vidnt.com/ais/play/anevia/live/eds/TL013/DASH/TL013-avc1_5000000=6-mp4a_64000_tha=2.mpd
+#EXTINF:-1 group-title="Test Sport" tvg-logo="https://rentapi.blackboxsys.net/images/png/pt-sporttv1.png", Sports TV1
+https://live-streaming-3.vip-streaming.com/cloudstreaming/SPORT%20TV%201%20Portugal/playlist.m3u8|Referer=https://api-soccer.iamtheme.com
 
-#EXTINF:-1 group-title="Test Sport" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE//channelicon///AISPLAY_SPORTS3.png", AISPLAY SPORTS 3
-#EXTVLCOPT:http-referrer=https://ais-vidnt.com/
-https://49-231-37-37-rewriter.ais-vidnt.com/ais/play/origin/live/eds/TL013/DASH/TL013.mpd?|Referer=https://redirector.ais-vidnt.com
+#EXTINF:-1 group-title="Test Sport" tvg-logo="https://rentapi.blackboxsys.net/images/png/pt-sporttv2.png", Sports TV2
+https://live-streaming-3.vip-streaming.com/cloudstreaming/SPORT%20TV%202%20Portugal/playlist.m3u8?|Referer=https://api-soccer.iamtheme.com
 
-#EXTINF:-1 group-title="Test Sport" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE//channelicon///AISPLAY_SPORTS4.png", AISPLAY SPORTS 4 FHD
-#EXTVLCOPT:http-referrer=https://ais-vidnt.com/
-https://49-231-36-188-rewriter.ais-vidnt.com/ais/play/anevia/live/eds/TL014/DASH/TL014-avc1_5000000=6-mp4a_64000_tha=2.mpd
+#EXTINF:-1 group-title="Test Sport" tvg-logo="https://rentapi.blackboxsys.net/images/png/pt-sporttv3.png", Sports TV3
+https://rr3-ic3d-ndjcs.huaweicdncloud.com/dooball2you/sporttv3/playlist.m3u8?|Referer=https://www.dooballfree24hr.com/
 
-#EXTINF:-1 group-title="Test Sport" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE//channelicon///AISPLAY_SPORTS3.png", AISPLAY SPORTS 4
-#EXTVLCOPT:http-referrer=https://ais-vidnt.com/
-https://49-231-37-37-rewriter.ais-vidnt.com/ais/play/origin/live/eds/TL013/DASH/TL014.mpd?|Referer=https://redirector.ais-vidnt.com
+#EXTINF:-1 group-title="Test Sport" tvg-logo="https://rentapi.blackboxsys.net/images/png/pt-sporttv4.png", Sports TV4
+https://rr3-ic3d-ndjcs.huaweicdncloud.com/dooball2you/sporttv4/playlist.m3u8?|Referer=https://www.dooballfree24hr.com/
 
-
-#EXTINF:-1 group-title="Test Sport" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE///channelicon//GolfReality.png", Golf Reality
-#EXTVLCOPT:http-referrer=https://ais-vidnt.com/
-https://49-231-37-37-rewriter.ais-vidnt.com/ais/play/origin/live/eds/V1002/DASH/V1002.mpd?|Referer=https://redirector.ais-vidnt.com
+#EXTINF:-1 group-title="Test Sport" tvg-logo="https://rentapi.blackboxsys.net/images/png/pt-sporttv5.png", Sports TV5
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0
+https://live-streaming-3.vip-streaming.com/cloudstreaming/SPORT%20TV%205%20Portugal/playlist.m3u8|Referer=https://api-soccer.iamtheme.com
 
 
 
